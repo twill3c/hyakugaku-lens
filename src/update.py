@@ -96,12 +96,17 @@ def run(people, sources, fetch=http_get, now="", gate=None):
     by_name: dict[str, list[dict]] = {}
     status, ok_count = [], 0
     sources = [s for s in sources if not s.get("skip")]
+    # 多著者の論説媒体(Project Syndicate など)は複数人が同じ URL を指す。
+    # 1 回の実行で同じフィードを何度も取りに行かない
+    cache: dict[str, bytes] = {}
     for src in sources:
         rec = {"n": src["n"], "s": src["s"], "feed": src["feed"], "ok": False, "count": 0}
         try:
             if gate is not None:
                 gate.check(src["feed"])
-            items = feed_items(fetch(src["feed"]), src["s"], src["feed"], src.get("author"))
+            if src["feed"] not in cache:
+                cache[src["feed"]] = fetch(src["feed"])
+            items = feed_items(cache[src["feed"]], src["s"], src["feed"], src.get("author"))
         except Exception as e:                              # noqa: BLE001 — 失敗は劣化継続
             rec["error"] = f"{type(e).__name__}: {e}"[:200]
             items = []
@@ -109,6 +114,9 @@ def run(people, sources, fetch=http_get, now="", gate=None):
             rec.update(ok=True, count=len(items))
             ok_count += 1
             by_name.setdefault(src["n"], []).append({"s": src["s"], "items": items})
+        elif not rec.get("error") and src.get("evidence") == "standing-author":
+            # 多著者の媒体に本人の記事が今は無いだけ。故障と読み違えないよう印を残す
+            rec["note"] = "常設の取得元・この時点で本人の記事が載っていない"
         status.append(rec)
 
     out_people = []

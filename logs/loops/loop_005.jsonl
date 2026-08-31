@@ -9,3 +9,6 @@
 {"v": "1.2", "ts": "2026-08-31T22:04:31+09:00", "project": "hyakugaku-lens", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-31T22:04:31+09:00", "project": "hyakugaku-lens", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-31T22:06:15+09:00", "project": "hyakugaku-lens", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-31T22:06:31+09:00", "project": "hyakugaku-lens", "loop_id": "loop_005", "event": "commit", "data": {"kind": "feat", "sha": "200f9ea", "message": "取得の前に robots.txt を確かめる関門を置く(N-05 / HC-108)", "harness_ref": "HC-108"}}
+{"v": "1.2", "ts": "2026-08-31T22:06:31+09:00", "project": "hyakugaku-lens", "loop_id": "loop_005", "event": "stage_end", "data": {"stage": 7, "stage_name": "完了", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-31T22:06:31+09:00", "project": "hyakugaku-lens", "loop_id": "loop_005", "event": "loop_end", "data": {"outcome": "success", "failure_count": 1, "summary": "robots の関門を新設し収集器に配線。過去に遡って当て、禁止経路 3 件(researchmap 検索・NYT の /svc・Rotman)を取り下げた。HC-108 起票"}}

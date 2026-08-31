@@ -142,7 +142,11 @@ def test_sources_reference_real_people(sources):
 
 
 AUTO_EVIDENCE = {"own-domain", "feed-title", "item-author"}
+# 人が中身を見て採ると決めたもの(関門を外した分)
 DECLARED_EVIDENCE = {"declared-site", "declared-author"}
+# 多著者の論説媒体。採用条件は「その媒体が項目ごとに著者名を持つこと」で、
+# 本人の記事が今あるかどうかとは独立に成り立つ(載っていない日は 0 件)
+STANDING_EVIDENCE = {"standing-author"}
 
 
 def test_sources_schema(sources):
@@ -150,32 +154,45 @@ def test_sources_schema(sources):
     for s in sources:
         assert s["s"] in meta["src_label"], s
         assert s["feed"].startswith(("http://", "https://")), s
-        assert s["evidence"] in AUTO_EVIDENCE | DECLARED_EVIDENCE, s
-        if s["evidence"] in {"item-author", "declared-author"}:
+        assert s["evidence"] in AUTO_EVIDENCE | DECLARED_EVIDENCE | STANDING_EVIDENCE, s
+        if s["evidence"] in {"item-author", "declared-author", "standing-author"}:
             assert s.get("author"), f"{s['n']}: 著者条件が要る evidence なのに空"
 
 
 def test_declared_sources_carry_a_reason(sources):
     """自動の関門を外した分は、外した理由を必ず書く(緩めた側だけを用意しない)。"""
     for s in sources:
-        if s["evidence"] in DECLARED_EVIDENCE:
+        if s["evidence"] in DECLARED_EVIDENCE | STANDING_EVIDENCE:
             assert len(s.get("note", "")) >= 30, f"{s['n']}: 宣言の理由が書かれていない"
 
 
 def test_declared_sources_stay_the_exception(sources):
-    """宣言は例外であること。自動判定の方が多いことを固定して、関門の骨抜きを止める。"""
+    """人の判断で通した分は例外に留めること。関門の骨抜きを止める。
+
+    standing-author は数に入れない —— あれは関門を外したのではなく、
+    「著者名を持つ媒体だから著者で絞れる」という別の性質を機械で確かめている。
+    """
     declared = [s for s in sources if s["evidence"] in DECLARED_EVIDENCE]
     auto = [s for s in sources if s["evidence"] in AUTO_EVIDENCE]
     assert len(declared) < len(auto), f"宣言 {len(declared)} 本 / 自動 {len(auto)} 本"
+
+
+def test_standing_author_rows_name_the_person(sources):
+    """常設の取得元は、誰の記事を採るのかを必ず名指しする(絞りの根拠)。"""
+    for s in sources:
+        if s["evidence"] in STANDING_EVIDENCE:
+            assert s.get("author"), f"{s['n']}: 著者条件が無い"
+            assert all(a.strip() for a in s["author"])
 
 
 def test_sources_not_empty(sources):
     assert sources, "宣言フィードが 0 本 — 収集が何も動いていない"
 
 
-def test_sources_unique_per_feed(sources):
-    feeds = [s["feed"] for s in sources]
-    assert len(set(feeds)) == len(feeds)
+def test_sources_unique_per_person_and_feed(sources):
+    """同じフィードを複数人が指すのは正しい(多著者の媒体)。禁じるのは同じ組の重複。"""
+    pairs = [(s["n"], s["feed"]) for s in sources]
+    assert len(set(pairs)) == len(pairs), "同じ人・同じフィードの行が二重にある"
 
 
 # --- CMS の初期投稿を落とす(陽性対照・陰性対照つき)-----------------

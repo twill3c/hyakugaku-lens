@@ -13,6 +13,13 @@
               根にあるか、フィードの経路が公式サイトの下にある
   feed-title  フィードの表題に本人の名前が入っている
 
+これに加えて、`data/feed_declared.jsonl` に理由付きで置く二種がある。
+
+  declared-*      自動判定に落ちるが、中身を実測して人が採ると決めたもの(note 必須)
+  standing-author Project Syndicate・Aeon・Noema のような多著者の論説媒体。確かめるのは
+                  「その媒体が項目ごとに著者名を持つこと」で、本人の記事が今あるかとは独立。
+                  載っていない日は 0 件になって既存が残る
+
 判定の順は上から。**著者名が 2 つ以上あるフィード(共著)は item-author でしか採らない** ——
 表題やホストが一致しても、誰の記事かは項目ごとに違うからである。
 
@@ -186,7 +193,13 @@ def declared() -> list[dict]:
 
 
 def check_declared(people: dict[str, dict], get=None) -> list[dict]:
-    """宣言フィードが今も取得でき、項目があることだけは機械で確かめる。"""
+    """宣言フィードが今も取得でき、条件を満たす項目があることを機械で確かめる。
+
+    `standing-author`(Project Syndicate のような多著者の論説媒体)だけは扱いが違う。
+    その人の記事が**今この瞬間**フィードに載っているとは限らないからで、
+    確かめるのは「この媒体が項目ごとに著者名を持つこと」——
+    著者で絞れるという性質そのもの——にする。載っていない日は 0 件で劣化継続になる。
+    """
     out = []
     for d in declared():
         p = people[d["n"]]
@@ -195,6 +208,17 @@ def check_declared(people: dict[str, dict], get=None) -> list[dict]:
             items = [i for i in parse_feed(raw) if i["title"] and i["url"]]
         except Exception as e:                              # noqa: BLE001
             print(f"  NG {d['n']:16s} 宣言フィードが取れない: {type(e).__name__}")
+            continue
+        if d["evidence"] == "standing-author":
+            named = [i for i in items if (i.get("author") or "").strip()]
+            if not named:
+                print(f"  NG {d['n']:16s} 常設の著者条件を置いたが、この媒体は著者名を持たない")
+                continue
+            mine = [i for i in named if any(a.lower() in (i.get("author") or "").lower()
+                                            for a in d["author"])]
+            print(f"  ok {d['n']:16s} [{d['s']}] {d['feed']}  "
+                  f"(standing-author・著者付き {len(named)} 件 / 本人 {len(mine)} 件)")
+            out.append(dict(d, site=p["h"]))
             continue
         if d.get("author"):
             keys = [a.lower() for a in d["author"]]
@@ -220,19 +244,31 @@ def main(argv: list[str]) -> int:
     by_name = {p["n"]: p for p in people}
     if "--declared-only" in argv:
         cur = json.loads((ROOT / "data" / "sources.json").read_text(encoding="utf-8"))
-        auto = [s for s in cur if not s["evidence"].startswith("declared")]
+        # 宣言ファイルに載っている (人, フィード) の組を落として入れ直す。
+        # evidence の名前で判定すると、種類が増えたときに二重登録になる
+        dec = {(d["n"], d["feed"]) for d in declared()}
+        auto = [s for s in cur if (s["n"], s["feed"]) not in dec]
         merged = auto + check_declared(by_name)
         merged.sort(key=lambda s: s["n"])
         write_sources(merged)
         print(f"自動 {len(auto)} 本 + 宣言 {len(merged) - len(auto)} 本 = {len(merged)} 本")
         return 0
     extra = extras()
+    # --extra-only は data/feed_extra.jsonl の候補だけを試す。公式サイトの自動発見
+    # (1 人あたり最大 12 本)を飛ばすので、候補を足したときの試し直しが速い
+    only_extra = "--extra-only" in argv
+    keep = ({s["n"] for s in json.loads((ROOT / "data" / "sources.json").read_text(encoding="utf-8"))}
+            if only_extra else set())
     log, found = [], []
     for p in people:
+        if only_extra and (p["n"] in keep or p["n"] not in extra):
+            continue
         if not p["h"] and p["n"] not in extra:
             continue
         home = p["h"] or ""
-        for url in extra.get(p["n"], []) + (candidates(home) if home else []):
+        cand = extra.get(p["n"], []) if only_extra else \
+            extra.get(p["n"], []) + (candidates(home) if home else [])
+        for url in cand:
             rec = judge(p, home or url, url)
             log.append(rec)
             if rec["ok"]:
@@ -251,9 +287,14 @@ def main(argv: list[str]) -> int:
         json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
     print(f"試行 {len(log)} 本 / 採用 {len(found)} 名")
     if "--apply" in argv:
-        found += check_declared(by_name)
+        if only_extra:
+            # 既存の採用はそのまま残し、新しく通った分だけを足す
+            cur = json.loads((ROOT / "data" / "sources.json").read_text(encoding="utf-8"))
+            found = cur + [f for f in found if f["feed"] not in {c["feed"] for c in cur}]
+        else:
+            found += check_declared(by_name)
         write_sources(found)
-        print("data/sources.json を書いた")
+        print(f"data/sources.json を書いた({len(found)} 本)")
     return 0
 
 

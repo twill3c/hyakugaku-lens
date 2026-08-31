@@ -1,10 +1,43 @@
 [
  {
+  "n": "アリソン・ゴプニック",
+  "s": "media",
+  "feed": "https://aeon.co/feed.rss",
+  "evidence": "standing-author",
+  "author": [
+   "Alison Gopnik"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://alisongopnik.com/"
+ },
+ {
+  "n": "アントン・コリネック",
+  "s": "media",
+  "feed": "https://www.project-syndicate.org/rss",
+  "evidence": "standing-author",
+  "author": [
+   "Anton Korinek"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://www.korinek.com/"
+ },
+ {
   "n": "イアン・ゴールディン",
   "s": "blog",
   "feed": "https://iangoldin.org/feed/",
   "evidence": "declared-site",
   "note": "公式サイトだが dc:creator が運営スタッフのアカウント(Sami Wymes / nikola)。実測(2026-08-31)で全10件が本人の講演・出演・論説であることを確認。ただし最新項目は 2025-08 で更新は活発でない",
+  "site": "https://iangoldin.org/"
+ },
+ {
+  "n": "イアン・ゴールディン",
+  "s": "media",
+  "feed": "https://www.project-syndicate.org/rss",
+  "evidence": "standing-author",
+  "author": [
+   "Ian Goldin"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
   "site": "https://iangoldin.org/"
  },
  {
@@ -26,6 +59,28 @@
   "author": [
    "Ethan Mollick"
   ]
+ },
+ {
+  "n": "カール・ベネディクト・フレイ",
+  "s": "media",
+  "feed": "https://www.project-syndicate.org/rss",
+  "evidence": "standing-author",
+  "author": [
+   "Carl Benedikt Frey"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://www.carlbenediktfrey.com/"
+ },
+ {
+  "n": "ケイト・クロフォード",
+  "s": "media",
+  "feed": "https://www.noemamag.com/feed/",
+  "evidence": "standing-author",
+  "author": [
+   "Kate Crawford"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://katecrawford.net/"
  },
  {
   "n": "ゲアリー・マーカス",
@@ -69,6 +124,28 @@
   "site": "https://balkin.blogspot.com/"
  },
  {
+  "n": "ジュヌヴィエーヴ・ベル",
+  "s": "media",
+  "feed": "https://www.project-syndicate.org/rss",
+  "evidence": "standing-author",
+  "author": [
+   "Genevieve Bell"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://cybernetics.anu.edu.au/people/genevieve-bell/"
+ },
+ {
+  "n": "ジョセフ・スティグリッツ",
+  "s": "media",
+  "feed": "https://www.project-syndicate.org/rss",
+  "evidence": "standing-author",
+  "author": [
+   "Joseph Stiglitz"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "http://www.josephstiglitz.com/"
+ },
+ {
   "n": "ジョン・ダナハー",
   "s": "blog",
   "feed": "https://philosophicaldisquisitions.blogspot.com/feeds/posts/default",
@@ -84,6 +161,28 @@
   "feed": "https://stevenpinker.com/feed",
   "site": "https://stevenpinker.com/",
   "evidence": "own-domain"
+ },
+ {
+  "n": "スーザン・シュナイダー",
+  "s": "media",
+  "feed": "https://aeon.co/feed.rss",
+  "evidence": "standing-author",
+  "author": [
+   "Susan Schneider"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://schneiderwebsite.com/"
+ },
+ {
+  "n": "セス・ラザー",
+  "s": "media",
+  "feed": "https://aeon.co/feed.rss",
+  "evidence": "standing-author",
+  "author": [
+   "Seth Lazar"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://sethlazar.org/"
  },
  {
   "n": "タイラー・コーエン",
@@ -106,6 +205,46 @@
   ]
  },
  {
+  "n": "ダイアン・コイル",
+  "s": "media",
+  "feed": "https://www.project-syndicate.org/rss",
+  "evidence": "standing-author",
+  "author": [
+   "Diane Coyle"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "http://www.enlightenmenteconomics.com/blog/"
+ },
+ {
+  "n": "ダナ・ボイド",
+  "s": "blog",
+  "feed": "https://www.zephoria.org/thoughts/feed/",
+  "site": "https://www.danah.org/",
+  "evidence": "feed-title"
+ },
+ {
+  "n": "ダニエル・サスキンド",
+  "s": "media",
+  "feed": "https://www.project-syndicate.org/rss",
+  "evidence": "standing-author",
+  "author": [
+   "Daniel Susskind"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://www.danielsusskind.com/"
+ },
+ {
+  "n": "ダロン・アセモグル",
+  "s": "media",
+  "feed": "https://www.project-syndicate.org/rss",
+  "evidence": "standing-author",
+  "author": [
+   "Daron Acemoglu"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://economics.mit.edu/people/faculty/daron-acemoglu"
+ },
+ {
   "n": "デイヴィッド・チャーマーズ",
   "s": "blog",
   "feed": "https://consc.net/feed/",
@@ -113,6 +252,50 @@
   "evidence": "own-domain",
   "skip": true,
   "skip_reason": "フィードの中身が WordPress 初期投稿 1 件のみで、本人の発信が流れてこない(実測 2026-08-31)"
+ },
+ {
+  "n": "デイヴィッド・チャーマーズ",
+  "s": "media",
+  "feed": "https://aeon.co/feed.rss",
+  "evidence": "standing-author",
+  "author": [
+   "David Chalmers"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://consc.net/"
+ },
+ {
+  "n": "ニック・クドリー",
+  "s": "media",
+  "feed": "https://www.noemamag.com/feed/",
+  "evidence": "standing-author",
+  "author": [
+   "Nick Couldry"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://www.lse.ac.uk/media-and-communications/people/academic-staff/nick-couldry"
+ },
+ {
+  "n": "ピーター・シンガー",
+  "s": "media",
+  "feed": "https://aeon.co/feed.rss",
+  "evidence": "standing-author",
+  "author": [
+   "Peter Singer"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://petersinger.info/"
+ },
+ {
+  "n": "フランシス・フクヤマ",
+  "s": "media",
+  "feed": "https://www.project-syndicate.org/rss",
+  "evidence": "standing-author",
+  "author": [
+   "Francis Fukuyama"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://fukuyama.stanford.edu/"
  },
  {
   "n": "ヘンリー・ファレル",
@@ -125,6 +308,17 @@
   ]
  },
  {
+  "n": "ベンジャミン・ブラットン",
+  "s": "media",
+  "feed": "https://www.noemamag.com/feed/",
+  "evidence": "standing-author",
+  "author": [
+   "Benjamin Bratton"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://bratton.info/"
+ },
+ {
   "n": "ペーター=ポール・フェルベーク",
   "s": "blog",
   "feed": "https://ppverbeek.org/feed/",
@@ -133,6 +327,28 @@
   "author": [
    "Peter-Paul Verbeek"
   ]
+ },
+ {
+  "n": "マリーチェ・スハーケ",
+  "s": "media",
+  "feed": "https://www.project-syndicate.org/rss",
+  "evidence": "standing-author",
+  "author": [
+   "Marietje Schaake"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://cyber.fsi.stanford.edu/people/marietje-schaake"
+ },
+ {
+  "n": "マーティン・リース",
+  "s": "media",
+  "feed": "https://www.project-syndicate.org/rss",
+  "evidence": "standing-author",
+  "author": [
+   "Martin Rees"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://www.martinrees.uk/"
  },
  {
   "n": "ミレイユ・ヒルデブラント",
@@ -152,12 +368,34 @@
   ]
  },
  {
+  "n": "ユク・ホイ",
+  "s": "media",
+  "feed": "https://www.noemamag.com/feed/",
+  "evidence": "standing-author",
+  "author": [
+   "Yuk Hui"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://www.digitalmilieu.net/"
+ },
+ {
   "n": "ユヴァル・ノア・ハラリ",
   "s": "blog",
   "feed": "https://www.ynharari.com/feed/",
   "evidence": "declared-site",
   "note": "公式サイトだが dc:creator が運営スタッフのアカウント(Dima Basov / liat)で自動判定に落ちる。実測(2026-08-31)で直近20件すべてが本人名義の論説・インタビュー・講演であることを確認したうえで採用する",
   "site": "https://www.ynharari.com/"
+ },
+ {
+  "n": "リチャード・ボールドウィン",
+  "s": "media",
+  "feed": "https://www.project-syndicate.org/rss",
+  "evidence": "standing-author",
+  "author": [
+   "Richard Baldwin"
+  ],
+  "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://cepr.org/about/people/richard-baldwin"
  },
  {
   "n": "ルチアーノ・フロリディ",
@@ -176,6 +414,16 @@
   "evidence": "item-author",
   "author": [
    "Lucy Suchman"
+  ]
+ },
+ {
+  "n": "ローレンス・レッシグ",
+  "s": "blog",
+  "feed": "https://lessig.medium.com/feed",
+  "site": "https://lessig.org/",
+  "evidence": "item-author",
+  "author": [
+   "Lessig"
   ]
  },
  {

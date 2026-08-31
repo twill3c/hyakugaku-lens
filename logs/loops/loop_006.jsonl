@@ -1,0 +1,1 @@
+{"v": "1.2", "ts": "2026-08-31T22:06:56+09:00", "project": "hyakugaku-lens", "loop_id": "loop_006", "event": "loop_start", "data": {"goal": "発信 0 件の学者にフィード候補を足し、関門を通ったものだけ採って own の被覆を上げる", "spec_refs": ["F-06", "F-07"], "scaffold_version": "1.24.0", "agent": "claude-code"}}

@@ -1,14 +1,38 @@
 {
- "generated_at": "2026-08-31T11:46:10Z",
- "ok": 19,
- "fail": 0,
+ "generated_at": "2026-08-31T13:13:32Z",
+ "ok": 20,
+ "fail": 21,
  "sources": [
+  {
+   "n": "アリソン・ゴプニック",
+   "s": "media",
+   "feed": "https://aeon.co/feed.rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "アントン・コリネック",
+   "s": "media",
+   "feed": "https://www.project-syndicate.org/rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
   {
    "n": "イアン・ゴールディン",
    "s": "blog",
    "feed": "https://iangoldin.org/feed/",
    "ok": true,
    "count": 10
+  },
+  {
+   "n": "イアン・ゴールディン",
+   "s": "media",
+   "feed": "https://www.project-syndicate.org/rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
    "n": "イアン・ブレマー",
@@ -23,6 +47,22 @@
    "feed": "https://www.oneusefulthing.org/feed",
    "ok": true,
    "count": 20
+  },
+  {
+   "n": "カール・ベネディクト・フレイ",
+   "s": "media",
+   "feed": "https://www.project-syndicate.org/rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "ケイト・クロフォード",
+   "s": "media",
+   "feed": "https://www.noemamag.com/feed/",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
    "n": "ゲアリー・マーカス",
@@ -53,6 +93,22 @@
    "count": 3
   },
   {
+   "n": "ジュヌヴィエーヴ・ベル",
+   "s": "media",
+   "feed": "https://www.project-syndicate.org/rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "ジョセフ・スティグリッツ",
+   "s": "media",
+   "feed": "https://www.project-syndicate.org/rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
    "n": "ジョン・ダナハー",
    "s": "blog",
    "feed": "https://philosophicaldisquisitions.blogspot.com/feeds/posts/default",
@@ -67,11 +123,20 @@
    "count": 10
   },
   {
-   "n": "ゼイネップ・トゥフェクチ",
+   "n": "スーザン・シュナイダー",
    "s": "media",
-   "feed": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/by/zeynep-tufekci/rss.xml",
-   "ok": true,
-   "count": 10
+   "feed": "https://aeon.co/feed.rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "セス・ラザー",
+   "s": "media",
+   "feed": "https://aeon.co/feed.rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
    "n": "タイラー・コーエン",
@@ -88,6 +153,69 @@
    "count": 10
   },
   {
+   "n": "ダイアン・コイル",
+   "s": "media",
+   "feed": "https://www.project-syndicate.org/rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "ダナ・ボイド",
+   "s": "blog",
+   "feed": "https://www.zephoria.org/thoughts/feed/",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "ダニエル・サスキンド",
+   "s": "media",
+   "feed": "https://www.project-syndicate.org/rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "ダロン・アセモグル",
+   "s": "media",
+   "feed": "https://www.project-syndicate.org/rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "デイヴィッド・チャーマーズ",
+   "s": "media",
+   "feed": "https://aeon.co/feed.rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "ニック・クドリー",
+   "s": "media",
+   "feed": "https://www.noemamag.com/feed/",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "ピーター・シンガー",
+   "s": "media",
+   "feed": "https://aeon.co/feed.rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "フランシス・フクヤマ",
+   "s": "media",
+   "feed": "https://www.project-syndicate.org/rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
    "n": "ヘンリー・ファレル",
    "s": "blog",
    "feed": "https://www.programmablemutter.com/feed",
@@ -95,11 +223,35 @@
    "count": 20
   },
   {
+   "n": "ベンジャミン・ブラットン",
+   "s": "media",
+   "feed": "https://www.noemamag.com/feed/",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
    "n": "ペーター=ポール・フェルベーク",
    "s": "blog",
    "feed": "https://ppverbeek.org/feed/",
    "ok": true,
    "count": 10
+  },
+  {
+   "n": "マリーチェ・スハーケ",
+   "s": "media",
+   "feed": "https://www.project-syndicate.org/rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "マーティン・リース",
+   "s": "media",
+   "feed": "https://www.project-syndicate.org/rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
    "n": "ミレイユ・ヒルデブラント",
@@ -116,6 +268,14 @@
    "count": 10
   },
   {
+   "n": "ユク・ホイ",
+   "s": "media",
+   "feed": "https://www.noemamag.com/feed/",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
    "n": "ユヴァル・ノア・ハラリ",
    "s": "blog",
    "feed": "https://www.ynharari.com/feed/",
@@ -123,9 +283,24 @@
    "count": 20
   },
   {
+   "n": "リチャード・ボールドウィン",
+   "s": "media",
+   "feed": "https://www.project-syndicate.org/rss",
+   "ok": false,
+   "count": 0,
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
    "n": "ルーシー・サッチマン",
    "s": "blog",
    "feed": "https://robotfutures.wordpress.com/feed/",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "ローレンス・レッシグ",
+   "s": "blog",
+   "feed": "https://lessig.medium.com/feed",
    "ok": true,
    "count": 10
   },

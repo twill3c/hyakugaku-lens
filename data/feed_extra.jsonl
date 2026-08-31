@@ -1,14 +1,33 @@
 {"n": "ジョン・ダナハー", "feeds": ["https://philosophicaldisquisitions.blogspot.com/feeds/posts/default"]}
 {"n": "タイラー・コーエン", "feeds": ["https://marginalrevolution.com/feed"]}
 {"n": "ジャック・バルキン", "feeds": ["https://balkin.blogspot.com/feeds/posts/default"]}
-{"n": "ダイアン・コイル", "feeds": ["http://www.enlightenmenteconomics.com/blog/feed/", "https://www.enlightenmenteconomics.com/blog/feed/"]}
+{"n": "ダイアン・コイル", "feeds": ["http://www.enlightenmenteconomics.com/blog/feed/", "https://www.enlightenmenteconomics.com/blog/feed/", "https://www.project-syndicate.org/rss"]}
 {"n": "東浩紀", "feeds": ["https://note.com/hazuma/rss", "https://webgenron.com/feed"]}
-{"n": "ケイト・クロフォード", "feeds": ["https://katecrawford.net/feed", "https://katecrawford.net/rss"]}
+{"n": "ケイト・クロフォード", "feeds": ["https://katecrawford.net/feed", "https://katecrawford.net/rss", "https://www.noemamag.com/feed/", "https://aeon.co/feed.rss"]}
 {"n": "ゲアリー・マーカス", "feeds": ["https://garymarcus.substack.com/feed"]}
 {"n": "ヘンリー・ファレル", "feeds": ["https://www.programmablemutter.com/feed"]}
-{"n": "マーティン・リース", "feeds": ["https://www.martinrees.uk/feed/", "https://www.cser.ac.uk/news/feed/"]}
-{"n": "アリソン・ゴプニック", "feeds": ["https://alisongopnik.com/feed", "https://alisongopnik.com/rss.xml"]}
+{"n": "マーティン・リース", "feeds": ["https://www.martinrees.uk/feed/", "https://www.cser.ac.uk/news/feed/", "https://www.project-syndicate.org/rss"]}
+{"n": "アリソン・ゴプニック", "feeds": ["https://alisongopnik.com/feed", "https://alisongopnik.com/rss.xml", "https://aeon.co/feed.rss", "https://www.noemamag.com/feed/"]}
 {"n": "フィリップ・ハワード", "feeds": ["https://www.philhoward.org/feed/", "https://www.philhoward.org/blog?format=rss"]}
-{"n": "マリーチェ・スハーケ", "feeds": ["https://cyber.fsi.stanford.edu/rss.xml"]}
-{"n": "デイヴィッド・ランシマン", "feeds": ["https://www.ppfideas.com/feed", "https://feeds.megaphone.fm/pastpresentfuture"]}
+{"n": "マリーチェ・スハーケ", "feeds": ["https://cyber.fsi.stanford.edu/rss.xml", "https://www.project-syndicate.org/rss"]}
+{"n": "デイヴィッド・ランシマン", "feeds": ["https://www.ppfideas.com/feed", "https://feeds.megaphone.fm/pastpresentfuture", "https://feeds.megaphone.fm/ppfideas", "https://www.ppfideas.com/rss"]}
 {"n": "イヤド・ラーワン", "feeds": ["https://rahwan.me/feed", "https://rahwan.me/index.xml"]}
+{"n": "ダロン・アセモグル", "feeds": ["https://www.project-syndicate.org/rss"]}
+{"n": "ジョセフ・スティグリッツ", "feeds": ["https://www.project-syndicate.org/rss"]}
+{"n": "イアン・ゴールディン", "feeds": ["https://www.project-syndicate.org/rss"]}
+{"n": "カール・ベネディクト・フレイ", "feeds": ["https://www.project-syndicate.org/rss"]}
+{"n": "ダニエル・サスキンド", "feeds": ["https://www.project-syndicate.org/rss"]}
+{"n": "リチャード・ボールドウィン", "feeds": ["https://www.project-syndicate.org/rss"]}
+{"n": "フランシス・フクヤマ", "feeds": ["https://www.project-syndicate.org/rss"]}
+{"n": "ジュヌヴィエーヴ・ベル", "feeds": ["https://www.project-syndicate.org/rss"]}
+{"n": "アントン・コリネック", "feeds": ["https://www.project-syndicate.org/rss"]}
+{"n": "ベンジャミン・ブラットン", "feeds": ["https://www.noemamag.com/feed/", "https://aeon.co/feed.rss"]}
+{"n": "ユク・ホイ", "feeds": ["https://www.noemamag.com/feed/", "https://aeon.co/feed.rss"]}
+{"n": "ショシャナ・ズボフ", "feeds": ["https://www.noemamag.com/feed/"]}
+{"n": "ニック・クドリー", "feeds": ["https://www.noemamag.com/feed/", "https://aeon.co/feed.rss"]}
+{"n": "デイヴィッド・チャーマーズ", "feeds": ["https://aeon.co/feed.rss", "https://www.noemamag.com/feed/"]}
+{"n": "ピーター・シンガー", "feeds": ["https://aeon.co/feed.rss", "https://www.project-syndicate.org/rss"]}
+{"n": "スーザン・シュナイダー", "feeds": ["https://aeon.co/feed.rss", "https://www.noemamag.com/feed/"]}
+{"n": "セス・ラザー", "feeds": ["https://aeon.co/feed.rss", "https://www.noemamag.com/feed/"]}
+{"n": "ローレンス・レッシグ", "feeds": ["https://lessig.medium.com/feed"]}
+{"n": "ダナ・ボイド", "feeds": ["https://www.zephoria.org/thoughts/feed/"]}
