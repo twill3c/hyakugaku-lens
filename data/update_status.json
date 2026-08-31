@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-31T21:42:50Z",
- "ok": 26,
- "fail": 21,
+ "generated_at": "2026-08-31T22:54:49Z",
+ "ok": 24,
+ "fail": 23,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -93,8 +93,9 @@
    "n": "ゲアリー・マーカス",
    "s": "substack",
    "feed": "https://garymarcus.substack.com/feed",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "n": "サフィヤ・ノーブル",
@@ -307,8 +308,9 @@
    "n": "フランシス・フクヤマ",
    "s": "podcast",
    "feed": "https://api.substack.com/feed/podcast/61579/s/137248.rss",
-   "ok": true,
-   "count": 23
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "n": "ヘンリー・ファレル",
