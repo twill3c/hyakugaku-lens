@@ -1,0 +1,729 @@
+{
+ "bucket": 1,
+ "ok": 10,
+ "attempted": 50,
+ "people": [
+  {
+   "n": "ルチアーノ・フロリディ",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 3
+   },
+   "candidates": []
+  },
+  {
+   "n": "ピーター・シンガー",
+   "ok": true,
+   "count": 1,
+   "dropped": {
+    "題名に氏名が無い": 24
+   },
+   "candidates": [
+    {
+     "d": "2026-07-21",
+     "t": "【世界的哲学者、大いに語る】「愛国心」の取り扱い方／日本の「動物」が置かれた過酷すぎる環境／寄付の広げ方／ピーター・シンガー／THINKpod",
+     "u": "https://www.youtube.com/watch?v=8qp6i6nDl-k",
+     "s": "yt",
+     "o": "THINKpod /シンクポッド"
+    }
+   ]
+  },
+  {
+   "n": "マーク・クーケルバーク",
+   "ok": false,
+   "count": 0,
+   "candidates": []
+  },
+  {
+   "n": "スーザン・シュナイダー",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 7
+   },
+   "candidates": []
+  },
+  {
+   "n": "ウィリアム・マッカスキル",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 2
+   },
+   "candidates": []
+  },
+  {
+   "n": "カリッサ・ヴェリス",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 20
+   },
+   "candidates": []
+  },
+  {
+   "n": "ヴィンセント・C・ミュラー",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 25
+   },
+   "candidates": []
+  },
+  {
+   "n": "ペーター=ポール・フェルベーク",
+   "ok": true,
+   "count": 22,
+   "dropped": {
+    "題名に氏名が無い": 3
+   },
+   "candidates": [
+    {
+     "d": "2026-04-05",
+     "t": "【あつ森】オネエの離島ガチャNEW ～ペーターを探し求めて～ #11【ゲーム実況】",
+     "u": "https://www.youtube.com/watch?v=CRdMomfOBKE",
+     "s": "yt",
+     "o": "リョウティー"
+    },
+    {
+     "d": "2026-05-16",
+     "t": "【あつ森】オネエの離島ガチャNEW ～ペーターを探し求めて～ #14【ゲーム実況】",
+     "u": "https://www.youtube.com/watch?v=fOTv_S_OkAg",
+     "s": "yt",
+     "o": "リョウティー"
+    },
+    {
+     "d": "2026-05-10",
+     "t": "「リスク社会  ― 生存・文化・教育」の考察 #ウルリヒ・ベック、# ペーター・コスロフスキー、#クラウス・ミヒャエル・マイヤー=アービッヒ、#ベルンハルト・クラウセン",
+     "u": "https://www.youtube.com/watch?v=lie2cnzVd2s",
+     "s": "yt",
+     "o": "トリクルダウン　チャンネル"
+    },
+    {
+     "d": "2026-06-21",
+     "t": "吸血鬼と呼ばれた男…ペーター・キュルテンの狂気",
+     "u": "https://www.youtube.com/watch?v=tuD4VNMYUyA",
+     "s": "yt",
+     "o": "世界事件簿ラボ【聞き流し】"
+    },
+    {
+     "d": "2026-06-19",
+     "t": "【あつ森】オネエの離島ガチャNEW ～ペーターを探し求めて～ #16 (終)【ゲーム実況】",
+     "u": "https://www.youtube.com/watch?v=_3_3VHkZa0Q",
+     "s": "yt",
+     "o": "リョウティー"
+    },
+    {
+     "d": "2026-04-20",
+     "t": "この演出家がすごい！ペーター・コンヴィチュニー",
+     "u": "https://www.youtube.com/watch?v=7W642UGJIMc",
+     "s": "yt",
+     "o": "有馬 慶"
+    },
+    {
+     "d": "2026-04-02",
+     "t": "【あつ森】オネエの離島ガチャNEW ～ペーターを探し求めて～ #10【ゲーム実況】",
+     "u": "https://www.youtube.com/watch?v=MyN8dVNIEug",
+     "s": "yt",
+     "o": "リョウティー"
+    },
+    {
+     "d": "2026-04-03",
+     "t": "【あつ森BGM】喫茶ハトの巣☕｜ペーターと過ごす癒しの４時間｜作業用・勉強用｜Animal Crossing 🎧 Cozy Roost Café ambience | Study & Work Aid",
+     "u": "https://www.youtube.com/watch?v=5Aye93QH5cc",
+     "s": "yt",
+     "o": "Dreamy Crossing"
+    },
+    {
+     "d": "2026-07-18",
+     "t": "ライブ配信！ミュンヘン (München) 聖ペーター教会の塔から絶景&街歩き",
+     "u": "https://www.youtube.com/watch?v=8GmmYDPuUQ4",
+     "s": "yt",
+     "o": "ドイツ発 - 街歩きガイドKeikoと行くお城&絶景旅"
+    },
+    {
+     "d": "2026-05-09",
+     "t": "【あつ森】オネエの離島ガチャNEW ～ペーターを探し求めて～ #13【ゲーム実況】",
+     "u": "https://www.youtube.com/watch?v=7HTteq-uxEo",
+     "s": "yt",
+     "o": "リョウティー"
+    },
+    {
+     "d": "2026-04-03",
+     "t": "【#11ペーター】 どうぶつの森ブランケットへの道　Road to 100! Animal Crossing Blanket Project #11: Beau Motif",
+     "u": "https://www.youtube.com/watch?v=yS9qSLEFAsM",
+     "s": "yt",
+     "o": "Crochet Time"
+    },
+    {
+     "d": "2026-03-11",
+     "t": "2025/03 聖ペーター教会にて",
+     "u": "https://www.youtube.com/watch?v=o99ldkhKEBE",
+     "s": "yt",
+     "o": "Atelier Petit reve"
+    },
+    {
+     "d": "2026-05-24",
+     "t": "【あつ森】オネエの離島ガチャNEW ～ペーターを探し求めて～ #15【ゲーム実況】",
+     "u": "https://www.youtube.com/watch?v=AiTnZ7VqNCs",
+     "s": "yt",
+     "o": "リョウティー"
+    },
+    {
+     "d": "2026-05-22",
+     "t": "ペーター･キュルテン デュッセルドルフの吸血鬼",
+     "u": "https://www.youtube.com/watch?v=G9_pyeYGK7k",
+     "s": "yt",
+     "o": "ゆっくり重大事故調査室"
+    },
+    {
+     "d": "2026-07-11",
+     "t": "第147回　『ハンコアーティスト・ペーターがゲストです❣️ 後編』  ニョッシィの『OH! NYO!』2026.6月後半放送分",
+     "u": "https://www.youtube.com/watch?v=WO5biGYb6Vc",
+     "s": "yt",
+     "o": "OH! NYO-! チャンネル"
+    },
+    {
+     "d": "2026-03-11",
+     "t": "ペーター Drive VLOG #12  Go Back to Fukuoka from Beppu",
+     "u": "https://www.youtube.com/watch?v=QaMoQOpam14",
+     "s": "yt",
+     "o": "Peter "
+    },
+    {
+     "d": "2026-06-10",
+     "t": "#45 ウィーンvlog🇦🇹/2日間でお城とインテリアを楽しむ/DEMEL/カフェザッハー/ペーター教会オルガンコンサート/市街地散策/ベルヴェデーレ宮殿/シェーンブルン宮殿/シュテファン大聖堂",
+     "u": "https://www.youtube.com/watch?v=Q-LH3a20Xls",
+     "s": "yt",
+     "o": "Katy mama life"
+    },
+    {
+     "d": "2026-06-13",
+     "t": "♋️蟹座 \"アルプスからペーターが見ていた\" 6月後半タロット占い JUNE 16TH - 30TH （2026/6/13)",
+     "u": "https://www.youtube.com/watch?v=RpFiYlIoB9c",
+     "s": "yt",
+     "o": "AFUAKITTY"
+    },
+    {
+     "d": "2026-04-20",
+     "t": "【あつ森】オネエの離島ガチャNEW ～ペーターを探し求めて～ #12【ゲーム実況】",
+     "u": "https://www.youtube.com/watch?v=wsu_x6JB85c",
+     "s": "yt",
+     "o": "リョウティー"
+    },
+    {
+     "d": "2026-04-12",
+     "t": "【あつ森】ペーターのパン屋さん造り！シトラスミン島＊37日目＊【生放送】",
+     "u": "https://www.youtube.com/watch?v=dOtTIsPBDuc",
+     "s": "yt",
+     "o": "まりぺんの森"
+    },
+    {
+     "d": "2026-08-12",
+     "t": "【大掃除】ペーターの部屋を掃除しに行こう【ゴミ屋敷？】",
+     "u": "https://www.youtube.com/watch?v=4p-jjfGaBZc",
+     "s": "yt",
+     "o": "グレアムズ"
+    },
+    {
+     "d": "2026-03-29",
+     "t": "【あつ森】ペーターのパン屋さん造り！後半参加型夢の島！シトラスミン島＊36日目＊【生放送】",
+     "u": "https://www.youtube.com/watch?v=_H7HbiDZKg4",
+     "s": "yt",
+     "o": "まりぺんの森"
+    }
+   ]
+  },
+  {
+   "n": "ユク・ホイ",
+   "ok": true,
+   "count": 1,
+   "dropped": {
+    "題名に氏名が無い": 4
+   },
+   "candidates": [
+    {
+     "d": "2026-04-08",
+     "t": "【聞き流す、人類学。読書会】ユク・ホイ『ポストヨーロッパ』を読む【講師　宮脇陸人】",
+     "u": "https://www.youtube.com/watch?v=-dSgWDPa498",
+     "s": "yt",
+     "o": "聞き流す、人類学。"
+    }
+   ]
+  },
+  {
+   "n": "ビョンチョル・ハン",
+   "ok": true,
+   "count": 3,
+   "dropped": {
+    "題名に氏名が無い": 22
+   },
+   "candidates": [
+    {
+     "d": "2026-08-22",
+     "t": "【告知有り】『現代人は「自分が悪い」と洗脳されているんだよ』哲学者ビョンチョル・ハン/疲労社会",
+     "u": "https://www.youtube.com/watch?v=RbF6uzTcJh0",
+     "s": "yt",
+     "o": "GabalaboCH-ガバラボ"
+    },
+    {
+     "d": "2026-05-10",
+     "t": "休んでいるのに疲れるのはなぜか——「できる」があなたを静かに壊す｜ビョンチョル・ハン",
+     "u": "https://www.youtube.com/watch?v=gDOIAXcvrU8",
+     "s": "yt",
+     "o": "赤と黒の境界"
+    },
+    {
+     "d": "2026-05-18",
+     "t": "成功が近づくと現れる3つの「残酷なサイン」｜カール・ユング × ビョンチョル・ハン × フランクル",
+     "u": "https://www.youtube.com/watch?v=kTZMK0Rdk4s",
+     "s": "yt",
+     "o": "語られざる自分"
+    }
+   ]
+  },
+  {
+   "n": "ロージ・ブライドッティ",
+   "ok": false,
+   "count": 0,
+   "candidates": []
+  },
+  {
+   "n": "ダナ・ハラウェイ",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 3
+   },
+   "candidates": []
+  },
+  {
+   "n": "マッテオ・パスクィネッリ",
+   "ok": false,
+   "count": 0,
+   "candidates": []
+  },
+  {
+   "n": "エリック・ブリニョルフソン",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 16
+   },
+   "candidates": []
+  },
+  {
+   "n": "カール・ベネディクト・フレイ",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 5
+   },
+   "candidates": []
+  },
+  {
+   "n": "タイラー・コーエン",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 25
+   },
+   "candidates": []
+  },
+  {
+   "n": "ダイアン・コイル",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 3
+   },
+   "candidates": []
+  },
+  {
+   "n": "デイヴィッド・オーター",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 25
+   },
+   "candidates": []
+  },
+  {
+   "n": "アヴィ・ゴールドファーブ",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 4
+   },
+   "candidates": []
+  },
+  {
+   "n": "ライアン・カロ",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 25
+   },
+   "candidates": []
+  },
+  {
+   "n": "サンドラ・ワクター",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 6
+   },
+   "candidates": []
+  },
+  {
+   "n": "ジャック・バルキン",
+   "ok": false,
+   "count": 0,
+   "candidates": []
+  },
+  {
+   "n": "ジュリー・コーエン",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 2
+   },
+   "candidates": []
+  },
+  {
+   "n": "ウーゴ・パガロ",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 1
+   },
+   "candidates": []
+  },
+  {
+   "n": "シェリー・タークル",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 6
+   },
+   "candidates": []
+  },
+  {
+   "n": "ショシャナ・ズボフ",
+   "ok": true,
+   "count": 1,
+   "dropped": {
+    "題名に氏名が無い": 14
+   },
+   "candidates": [
+    {
+     "d": "2026-03-25",
+     "t": "【監視資本主義の時代】ショシャナ・ズボフ『The Age of Surveillance Capitalism』 をめぐる考察：現代政治・民主主義・人間の自由",
+     "u": "https://www.youtube.com/watch?v=e3jBDjTFK2E",
+     "s": "yt",
+     "o": "トリクルダウン　チャンネル"
+    }
+   ]
+  },
+  {
+   "n": "サフィヤ・ノーブル",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 24,
+    "切り抜きの印": 1
+   },
+   "candidates": []
+  },
+  {
+   "n": "ダナ・ボイド",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 2
+   },
+   "candidates": []
+  },
+  {
+   "n": "ホセ・ファン・ダイク",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 12
+   },
+   "candidates": []
+  },
+  {
+   "n": "ルーシー・サッチマン",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 2
+   },
+   "candidates": []
+  },
+  {
+   "n": "ヘルガ・ノヴォトニー",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 1
+   },
+   "candidates": []
+  },
+  {
+   "n": "ケイト・クロフォード",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 5
+   },
+   "candidates": []
+  },
+  {
+   "n": "フランシス・フクヤマ",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 25
+   },
+   "candidates": []
+  },
+  {
+   "n": "ヘンリー・ファレル",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 6
+   },
+   "candidates": []
+  },
+  {
+   "n": "デイヴィッド・ランシマン",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 2
+   },
+   "candidates": []
+  },
+  {
+   "n": "アリソン・スタンガー",
+   "ok": false,
+   "count": 0,
+   "candidates": []
+  },
+  {
+   "n": "スティーブン・ピンカー",
+   "ok": true,
+   "count": 2,
+   "dropped": {
+    "題名に氏名が無い": 23
+   },
+   "candidates": [
+    {
+     "d": "2026-05-17",
+     "t": "【ゲーム理論】合理的になるための6つの条件と強力な推論ツール【スティーブン・ピンカー『人はどこまで合理的か』】",
+     "u": "https://www.youtube.com/watch?v=ZkJ8uabCoh4",
+     "s": "yt",
+     "o": "タキハヤトの思考実験"
+    },
+    {
+     "d": "2026-05-09",
+     "t": "あなたは合理的か─人間を非合理にする思考の罠【スティーブン・ピンカー『人はどこまで合理的か』】",
+     "u": "https://www.youtube.com/watch?v=Qd0QioeQflA",
+     "s": "yt",
+     "o": "タキハヤトの思考実験"
+    }
+   ]
+  },
+  {
+   "n": "ゲアリー・マーカス",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 25
+   },
+   "candidates": []
+  },
+  {
+   "n": "マーティン・リース",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 21
+   },
+   "candidates": []
+  },
+  {
+   "n": "エイミー・ウェブ",
+   "ok": true,
+   "count": 1,
+   "dropped": {
+    "題名に氏名が無い": 2
+   },
+   "candidates": [
+    {
+     "d": "2026-03-26",
+     "t": "トレンド予測は死んだ。エイミー・ウェブが警告する「2026年の大嵐」と、私たちが生き残るための生存戦略",
+     "u": "https://www.youtube.com/watch?v=7LmjdPu1J5E",
+     "s": "yt",
+     "o": "Enjoy_Science"
+    }
+   ]
+  },
+  {
+   "n": "大澤真幸",
+   "ok": true,
+   "count": 3,
+   "dropped": {
+    "題名に氏名が無い": 9
+   },
+   "candidates": [
+    {
+     "d": "2026-07-30",
+     "t": "大澤真幸氏生出演！『私たちはどこへ向かうのか──2026年・日本社会を読み解く』（2026年7月30日20:00～生放送・前半パート）",
+     "u": "https://www.youtube.com/watch?v=OTqYQl_-7_U",
+     "s": "yt",
+     "o": "深掘TV"
+    },
+    {
+     "d": "2026-03-18",
+     "t": "大澤真幸氏生出演！『AFTER 15 YEARS ー311と現在のリベラル凋落の関係を解くー』（#58・2026年3月18日20:00～放送・前半パート）",
+     "u": "https://www.youtube.com/watch?v=Rke0WtY6A9I",
+     "s": "yt",
+     "o": "古谷経衡チャンネル"
+    },
+    {
+     "d": "2026-04-30",
+     "t": "ウィーナー「サイバネティックス」ー動物と機械における制御と通信　　　　　　　　　　　　　　　　　　　　　＜解説＞大澤真幸(社会学者)",
+     "u": "https://www.youtube.com/watch?v=11jWjLent94",
+     "s": "yt",
+     "o": "tM Agncy SF"
+    }
+   ]
+  },
+  {
+   "n": "西垣通",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 4
+   },
+   "candidates": []
+  },
+  {
+   "n": "鈴木貴之",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 25
+   },
+   "candidates": []
+  },
+  {
+   "n": "戸谷洋志",
+   "ok": true,
+   "count": 2,
+   "dropped": {
+    "題名に氏名が無い": 18
+   },
+   "candidates": [
+    {
+     "d": "2026-08-07",
+     "t": "なぜ私たちは「変わるべき」だと思ってしまうのか｜哲学者 戸谷洋志との対話【ほどける。】#4",
+     "u": "https://www.youtube.com/watch?v=2_tqmgyp-Ps",
+     "s": "yt",
+     "o": "大阪NEWS【テレビ大阪ニュース】"
+    },
+    {
+     "d": "2026-06-06",
+     "t": "「”SNS”ってなんだったんだろう」戸谷洋志『SNSの哲学: リアルとオンラインのあいだ』より/綺麗な月の見つけかた",
+     "u": "https://www.youtube.com/watch?v=wfimQ9ofo-I",
+     "s": "yt",
+     "o": "綺麗な月の見つけかた"
+    }
+   ]
+  },
+  {
+   "n": "神崎宣次",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 1
+   },
+   "candidates": []
+  },
+  {
+   "n": "大屋雄裕",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 1
+   },
+   "candidates": []
+  },
+  {
+   "n": "成原慧",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 25
+   },
+   "candidates": []
+  },
+  {
+   "n": "井上智洋",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 5
+   },
+   "candidates": []
+  },
+  {
+   "n": "山本勲",
+   "ok": true,
+   "count": 3,
+   "dropped": {
+    "題名に氏名が無い": 19
+   },
+   "candidates": [
+    {
+     "d": "2026-03-11",
+     "t": "【永久シードの誕生】JPBA PLAYERS DREAM MATCH 2021髙田浩規vs小原照之／川添奨太vs山本勲【決勝トーナメントベスト４から優勝決定戦まで】",
+     "u": "https://www.youtube.com/watch?v=23wKd5Nzi3Q",
+     "s": "yt",
+     "o": "JPBA男子選手会"
+    },
+    {
+     "d": "2026-05-29",
+     "t": "【ボールアジャストと魔法のポリッシュ剤！】勝つのはどっち!?小林よしみプロVS山本勲プロ【日本一のレフティー永久シードプロ凄すぎる】",
+     "u": "https://www.youtube.com/watch?v=AQbXfPAeNFQ",
+     "s": "yt",
+     "o": "KobaTV【ボウリング大学】"
+    },
+    {
+     "d": "2026-06-15",
+     "t": "【優勝賞金500万円!】大安興業プレゼンツ シーホースカップＪＰＢＡプレイヤーズトーナメント２０２５/安里秀策/内藤広人/山本勲/宮澤拓哉【決勝ステップラダー】",
+     "u": "https://www.youtube.com/watch?v=pE0Y1EWn9J8",
+     "s": "yt",
+     "o": "JPBA男子選手会"
+    }
+   ]
+  },
+  {
+   "n": "城山英明",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 1
+   },
+   "candidates": []
+  }
+ ],
+ "generated_at": "2026-08-31T22:37:40Z",
+ "applied": false,
+ "window_start": "2026-03-04T22:37:40Z"
+}
