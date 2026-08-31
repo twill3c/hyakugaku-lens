@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-08-31T12:00:05Z",
+ "generated_at": "2026-08-31T21:06:56Z",
  "declared": 99,
- "verified": 74,
+ "verified": 87,
+ "unreachable": 0,
+ "no_match": 12,
  "results": [
   {
    "n": "ニック・ボストロム",
@@ -6974,137 +6976,1074 @@
    "n": "大澤真幸",
    "q": "Masachi Osawa",
    "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "tried": [
+    {
+     "id": "A5062061133",
+     "display_name": "Masachi Osawa",
+     "works_count": 8,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ]
   },
   {
    "n": "稲葉振一郎",
    "q": "Shinichiro Inaba",
    "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "tried": [
+    {
+     "id": "A5012398104",
+     "display_name": "Shinichiro Inaba",
+     "works_count": 28,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ]
   },
   {
    "n": "西垣通",
    "q": "Toru Nishigaki",
-   "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5069110940",
+     "display_name": "Toru Nishigaki",
+     "works_count": 10,
+     "inst_hit": [
+      "University of Tokyo"
+     ],
+     "domain_ok": true,
+     "ok": true
+    }
+   ],
+   "openalex_id": "A5069110940",
+   "matched": {
+    "id": "A5069110940",
+    "display_name": "Toru Nishigaki",
+    "works_count": 10,
+    "institutions": [
+     "Tokyo University of Information Sciences",
+     "The University of Tokyo"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "University of Tokyo"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
   },
   {
    "n": "出口康夫",
    "q": "Yasuo Deguchi",
-   "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5033109212",
+     "display_name": "Yasuo Deguchi",
+     "works_count": 251,
+     "inst_hit": [
+      "Kyoto University"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5107762058",
+     "display_name": "Yasuo Deguchi",
+     "works_count": 8,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5061546563",
+     "display_name": "Y. Deguchi",
+     "works_count": 3,
+     "inst_hit": [
+      "Kyoto University"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5131870642",
+     "display_name": "Yasuo Deguchi",
+     "works_count": 2,
+     "inst_hit": [
+      "Kyoto University"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5125419242",
+     "display_name": "Yasuo Deguchi",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5132526890",
+     "display_name": "Yasuo Deguchi",
+     "works_count": 1,
+     "inst_hit": [
+      "Kyoto University"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5130604746",
+     "display_name": "Yasuo Deguchi",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5131792002",
+     "display_name": "Yasuo Deguchi",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5061546563",
+   "matched": {
+    "id": "A5061546563",
+    "display_name": "Y. Deguchi",
+    "works_count": 3,
+    "institutions": [
+     "Kyoto University",
+     "Kyoto University"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Kyoto University"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
   },
   {
    "n": "鈴木貴之",
    "q": "Takayuki Suzuki",
    "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "tried": [
+    {
+     "id": "A5013833262",
+     "display_name": "Takayuki Suzuki",
+     "works_count": 149,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5005533360",
+     "display_name": "Takayuki Suzuki",
+     "works_count": 704,
+     "inst_hit": [
+      "University of Tokyo"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5068717853",
+     "display_name": "Takayuki Suzuki",
+     "works_count": 305,
+     "inst_hit": [
+      "University of Tokyo"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5033049879",
+     "display_name": "Takayuki Suzuki",
+     "works_count": 278,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5108062903",
+     "display_name": "Takayuki Suzuki",
+     "works_count": 110,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5057568759",
+     "display_name": "Takayuki Suzuki",
+     "works_count": 82,
+     "inst_hit": [
+      "University of Tokyo",
+      "Nanzan"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5103139019",
+     "display_name": "Takayuki Suzuki",
+     "works_count": 58,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5103417574",
+     "display_name": "Takayuki SUZUKI",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ]
   },
   {
    "n": "久木田水生",
    "q": "Minao Kukita",
-   "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5010253822",
+     "display_name": "Minao Kukita",
+     "works_count": 36,
+     "inst_hit": [
+      "Nagoya"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5131623304",
+     "display_name": "Minao Kukita",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5132063777",
+     "display_name": "Minao KUKITA",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5131172848",
+     "display_name": "Minao KUKITA",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5010253822",
+   "matched": {
+    "id": "A5010253822",
+    "display_name": "Minao Kukita",
+    "works_count": 36,
+    "institutions": [
+     "Nagoya University",
+     "Nagoya University"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Nagoya"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
   },
   {
    "n": "戸谷洋志",
    "q": "Hiroshi Toya",
    "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "tried": [
+    {
+     "id": "A5085562387",
+     "display_name": "Hiroshi Toya",
+     "works_count": 37,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5084596764",
+     "display_name": "Hiroshi Toya",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5131658167",
+     "display_name": "Hiroshi Toya",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5002313544",
+     "display_name": "Toya Hiroshi",
+     "works_count": 6,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ]
   },
   {
    "n": "岡本裕一朗",
    "q": "Yuichiro Okamoto",
    "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "tried": [
+    {
+     "id": "A5069588895",
+     "display_name": "Yuichiro Okamoto",
+     "works_count": 13,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ]
   },
   {
    "n": "神崎宣次",
    "q": "Nobutsugu Kanzaki",
-   "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5073940508",
+     "display_name": "Nobutsugu Kanzaki",
+     "works_count": 22,
+     "inst_hit": [
+      "Nanzan"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5041349898",
+     "display_name": "Kanzaki Nobutsugu",
+     "works_count": 6,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5073940508",
+   "matched": {
+    "id": "A5073940508",
+    "display_name": "Nobutsugu Kanzaki",
+    "works_count": 22,
+    "institutions": [
+     "Nanzan University"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Nanzan"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
   },
   {
    "n": "山本龍彦",
    "q": "Tatsuhiko Yamamoto",
-   "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5111783645",
+     "display_name": "Tatsuhiko Yamamoto",
+     "works_count": 8,
+     "inst_hit": [
+      "Keio"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5037252631",
+     "display_name": "Tatsuhiko Yamamoto",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5070195817",
+     "display_name": "Tatsuhiko Yamamoto",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5128478374",
+     "display_name": "Tatsuhiko Yamamoto",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5131640196",
+     "display_name": "Tatsuhiko YAMAMOTO",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5129941230",
+     "display_name": "Tatsuhiko Yamamoto",
+     "works_count": 5,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5131190147",
+     "display_name": "Tatsuhiko Yamamoto",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5138569570",
+     "display_name": "Tatsuhiko Yamamoto",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5111783645",
+   "matched": {
+    "id": "A5111783645",
+    "display_name": "Tatsuhiko Yamamoto",
+    "works_count": 8,
+    "institutions": [
+     "Tohoku Fukushi University",
+     "Kyushu University",
+     "Kyushu Sangyo University",
+     "Keio University",
+     "Tohoku Fukushi University"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Keio"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
   },
   {
    "n": "大屋雄裕",
    "q": "Takehiro Ohya",
-   "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5112760596",
+     "display_name": "T. Ohya",
+     "works_count": 34,
+     "inst_hit": [
+      "Keio"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5017802782",
+     "display_name": "Takehiro Ohya",
+     "works_count": 3,
+     "inst_hit": [
+      "Nagoya"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5130002014",
+     "display_name": "Takehiro Ohya",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5093789373",
+     "display_name": "Takehiro Ohya",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5017802782",
+   "matched": {
+    "id": "A5017802782",
+    "display_name": "Takehiro Ohya",
+    "works_count": 3,
+    "institutions": [
+     "Nagoya University",
+     "Nagoya University"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Nagoya"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
   },
   {
    "n": "宍戸常寿",
    "q": "George Shishido",
-   "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5131834551",
+     "display_name": "Shishido George",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5055086499",
+     "display_name": "George Shishido",
+     "works_count": 4,
+     "inst_hit": [
+      "University of Tokyo"
+     ],
+     "domain_ok": true,
+     "ok": true
+    }
+   ],
+   "openalex_id": "A5055086499",
+   "matched": {
+    "id": "A5055086499",
+    "display_name": "George Shishido",
+    "works_count": 4,
+    "institutions": [
+     "The University of Tokyo",
+     "The University of Tokyo"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "University of Tokyo"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
   },
   {
    "n": "成原慧",
    "q": "Satoshi Narihara",
-   "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5054384894",
+     "display_name": "Satoshi Narihara",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5131574604",
+     "display_name": "Satoshi Narihara",
+     "works_count": 1,
+     "inst_hit": [
+      "Kyushu"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5132122171",
+     "display_name": "Satoshi Narihara",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5115023886",
+     "display_name": "Satoshi Narihara",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5118776415",
+     "display_name": "Satoshi Narihara",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5131574604",
+   "matched": {
+    "id": "A5131574604",
+    "display_name": "Satoshi Narihara",
+    "works_count": 1,
+    "institutions": [
+     "Kyushu University",
+     "Kyushu University"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Kyushu"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
   },
   {
    "n": "稲谷龍彦",
    "q": "Takahiko Inatani",
    "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "tried": []
   },
   {
    "n": "井上智洋",
    "q": "Tomohiro Inoue",
-   "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5087946125",
+     "display_name": "Tomohiro Inoue",
+     "works_count": 390,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5024993397",
+     "display_name": "Tomohiro Inoue",
+     "works_count": 79,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5041085897",
+     "display_name": "Tomohiro Inoue",
+     "works_count": 60,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5110197291",
+     "display_name": "Tsuneo Inoue",
+     "works_count": 74,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5103337557",
+     "display_name": "Tomohiro Inoue",
+     "works_count": 37,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5111711985",
+     "display_name": "Tomohiro Inoue",
+     "works_count": 59,
+     "inst_hit": [
+      "Komazawa"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5101709083",
+     "display_name": "Tomohiro Inoue",
+     "works_count": 26,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5068289294",
+     "display_name": "Tomohiro Inoue",
+     "works_count": 6,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5111711985",
+   "matched": {
+    "id": "A5111711985",
+    "display_name": "Tomohiro Inoue",
+    "works_count": 59,
+    "institutions": [
+     "Hyogo Brain and Heart Center",
+     "Shinshu University",
+     "Waseda University",
+     "Okayama University",
+     "NTT Medical Center"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Komazawa"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
   },
   {
    "n": "柳川範之",
    "q": "Noriyuki Yanagawa",
-   "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5049472021",
+     "display_name": "Noriyuki Yanagawa",
+     "works_count": 166,
+     "inst_hit": [
+      "University of Tokyo"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5002918703",
+     "display_name": "Noriyuki Yanagawa",
+     "works_count": 2,
+     "inst_hit": [
+      "University of Tokyo"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5108570770",
+     "display_name": "Noriyuki YANAGAWA",
+     "works_count": 7,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5037434759",
+     "display_name": "Noriyuki Yanagawa",
+     "works_count": 5,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5014229259",
+     "display_name": "Noriyuki Yanagawa",
+     "works_count": 2,
+     "inst_hit": [
+      "University of Tokyo"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5024625488",
+     "display_name": "Noriyuki Yanagawa Taiji Furusawa",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5132484055",
+     "display_name": "Noriyuki Yanagawa",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5131342941",
+     "display_name": "Noriyuki Yanagawa",
+     "works_count": 2,
+     "inst_hit": [
+      "University of Tokyo"
+     ],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5049472021",
+   "matched": {
+    "id": "A5049472021",
+    "display_name": "Noriyuki Yanagawa",
+    "works_count": 166,
+    "institutions": [
+     "Japan University of Economics",
+     "The University of Tokyo",
+     "Fukui University of Technology",
+     "Woodrow Wilson International Center for Scholars",
+     "National Bureau of Economic Research"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "University of Tokyo"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
   },
   {
    "n": "山本勲",
    "q": "Isamu Yamamoto",
-   "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5101960299",
+     "display_name": "Isamu Yamamoto",
+     "works_count": 224,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5068499957",
+     "display_name": "Isamu Yamamoto",
+     "works_count": 61,
+     "inst_hit": [
+      "Keio"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5020789759",
+     "display_name": "Isamu Yamamoto",
+     "works_count": 58,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5111606880",
+     "display_name": "Isamu Yamamoto",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5014484524",
+     "display_name": "J. Isamu Yamamoto",
+     "works_count": 5,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5000486643",
+     "display_name": "I Yamamoto",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5101103587",
+     "display_name": "Isamu Yamamoto",
+     "works_count": 11,
+     "inst_hit": [
+      "Keio"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5019996738",
+     "display_name": "Isamu YAMAMOTO",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5068499957",
+   "matched": {
+    "id": "A5068499957",
+    "display_name": "Isamu Yamamoto",
+    "works_count": 61,
+    "institutions": [
+     "Keio University",
+     "Keio University"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Keio"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
   },
   {
    "n": "江間有沙",
    "q": "Arisa Ema",
-   "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5003246745",
+     "display_name": "Arisa Ema",
+     "works_count": 44,
+     "inst_hit": [
+      "University of Tokyo"
+     ],
+     "domain_ok": true,
+     "ok": true
+    }
+   ],
+   "openalex_id": "A5003246745",
+   "matched": {
+    "id": "A5003246745",
+    "display_name": "Arisa Ema",
+    "works_count": 44,
+    "institutions": [
+     "The University of Tokyo",
+     "Bunkyo University",
+     "Tokyo University of the Arts",
+     "Kyoto University",
+     "Institute for Future Engineering"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "University of Tokyo"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
   },
   {
    "n": "城山英明",
    "q": "Hideaki Shiroyama",
-   "verified": false,
-   "tried": [],
-   "error": "検索失敗 HTTPError"
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5114044923",
+     "display_name": "Hideaki Shiroyama",
+     "works_count": 116,
+     "inst_hit": [
+      "University of Tokyo"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5004116758",
+     "display_name": "城山 英明",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5132090352",
+     "display_name": "Hideaki Shiroyama",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5114044923",
+   "matched": {
+    "id": "A5114044923",
+    "display_name": "Hideaki Shiroyama",
+    "works_count": 116,
+    "institutions": [
+     "The University of Tokyo",
+     "National Graduate Institute for Policy Studies",
+     "Bunkyo University",
+     "Tokyo University of Science",
+     "Science Council of Japan"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "University of Tokyo"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
   }
- ],
- "unreachable": 19,
- "no_match": 6,
- "note": "OpenAlex は 1 リクエスト $0.001 の日次予算制。2026-08-31 の同定で予算を使い切り、末尾の 19 名(日本の学者)は検索そのものが 429 で落ちた。これは『該当なし』ではない。tools/resolve_openalex.py --only-missing で引き直すこと"
+ ]
 }

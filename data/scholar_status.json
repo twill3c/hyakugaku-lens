@@ -1,0 +1,529 @@
+{
+ "generated_at": "2026-08-31T21:06:56Z",
+ "ok": 87,
+ "fail": 0,
+ "authors": [
+  {
+   "n": "ニック・ボストロム",
+   "openalex_id": "A5027943191",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "n": "ルチアーノ・フロリディ",
+   "openalex_id": "A5046574356",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "デイヴィッド・チャーマーズ",
+   "openalex_id": "A5103215889",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "ピーター・シンガー",
+   "openalex_id": "A5053698604",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "シャノン・ヴァラー",
+   "openalex_id": "A5076883843",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "マーク・クーケルバーク",
+   "openalex_id": "A5003571713",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "トマス・メッツィンガー",
+   "openalex_id": "A5036226202",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "スーザン・シュナイダー",
+   "openalex_id": "A5017841653",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "トビー・オード",
+   "openalex_id": "A5073888549",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ウィリアム・マッカスキル",
+   "openalex_id": "A5073466841",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ジョン・ダナハー",
+   "openalex_id": "A5057953350",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "カリッサ・ヴェリス",
+   "openalex_id": "A5063595192",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "セス・ラザー",
+   "openalex_id": "A5062824333",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ヴィンセント・C・ミュラー",
+   "openalex_id": "A5026465320",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "ウェンデル・ウォラック",
+   "openalex_id": "A5044236058",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ペーター=ポール・フェルベーク",
+   "openalex_id": "A5070880474",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "アンドリュー・フィーンバーグ",
+   "openalex_id": "A5009247091",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ユク・ホイ",
+   "openalex_id": "A5061533561",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "マルクス・ガブリエル",
+   "openalex_id": "A5113079322",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "ロージ・ブライドッティ",
+   "openalex_id": "A5063446448",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "N・キャサリン・ヘイルズ",
+   "openalex_id": "A5070884578",
+   "ok": true,
+   "count": 6
+  },
+  {
+   "n": "ダナ・ハラウェイ",
+   "openalex_id": "A5054380367",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ベンジャミン・ブラットン",
+   "openalex_id": "A5077567701",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "マッテオ・パスクィネッリ",
+   "openalex_id": "A5085389494",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ダロン・アセモグル",
+   "openalex_id": "A5012301204",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "エリック・ブリニョルフソン",
+   "openalex_id": "A5038255653",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "アンドリュー・マカフィー",
+   "openalex_id": "A5001239123",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "カール・ベネディクト・フレイ",
+   "openalex_id": "A5013275181",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ジョセフ・スティグリッツ",
+   "openalex_id": "A5074218217",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "タイラー・コーエン",
+   "openalex_id": "A5020548675",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "アントン・コリネック",
+   "openalex_id": "A5009882421",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "ダイアン・コイル",
+   "openalex_id": "A5038965583",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "デイヴィッド・オーター",
+   "openalex_id": "A5029839974",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "アジェイ・アグラワル",
+   "openalex_id": "A5109147283",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "アヴィ・ゴールドファーブ",
+   "openalex_id": "A5053397554",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ダニエル・サスキンド",
+   "openalex_id": "A5063768031",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "ライアン・カロ",
+   "openalex_id": "A5070609145",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "フランク・パスクァーレ",
+   "openalex_id": "A5043513868",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "サンドラ・ワクター",
+   "openalex_id": "A5075172090",
+   "ok": true,
+   "count": 6
+  },
+  {
+   "n": "ミレイユ・ヒルデブラント",
+   "openalex_id": "A5004617213",
+   "ok": true,
+   "count": 6
+  },
+  {
+   "n": "ジャック・バルキン",
+   "openalex_id": "A5068589813",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "ローレンス・レッシグ",
+   "openalex_id": "A5072431750",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ジュリー・コーエン",
+   "openalex_id": "A5087973237",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "カレン・ヨン",
+   "openalex_id": "A5029261881",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "ウーゴ・パガロ",
+   "openalex_id": "A5089573061",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "リチャード・サスキンド",
+   "openalex_id": "A5004131792",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "シェリー・タークル",
+   "openalex_id": "A5018775376",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "ゼイネップ・トゥフェクチ",
+   "openalex_id": "A5044522704",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "ショシャナ・ズボフ",
+   "openalex_id": "A5073480907",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ルハ・ベンジャミン",
+   "openalex_id": "A5064354725",
+   "ok": true,
+   "count": 6
+  },
+  {
+   "n": "サフィヤ・ノーブル",
+   "openalex_id": "A5001565446",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ヴァージニア・ユーバンクス",
+   "openalex_id": "A5057886941",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ダナ・ボイド",
+   "openalex_id": "A5009029178",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "ニック・クドリー",
+   "openalex_id": "A5061849511",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "ホセ・ファン・ダイク",
+   "openalex_id": "A5031080224",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "ジュディ・ワイクマン",
+   "openalex_id": "A5066117471",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ルーシー・サッチマン",
+   "openalex_id": "A5048208402",
+   "ok": true,
+   "count": 6
+  },
+  {
+   "n": "シーラ・ジャザノフ",
+   "openalex_id": "A5068594960",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ヘルガ・ノヴォトニー",
+   "openalex_id": "A5000945637",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ジュヌヴィエーヴ・ベル",
+   "openalex_id": "A5060815696",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ケイト・クロフォード",
+   "openalex_id": "A5033954307",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ユヴァル・ノア・ハラリ",
+   "openalex_id": "A5019691568",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "フランシス・フクヤマ",
+   "openalex_id": "A5066976206",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "ヘンリー・ファレル",
+   "openalex_id": "A5112468935",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "マリーチェ・スハーケ",
+   "openalex_id": "A5108343874",
+   "ok": true,
+   "count": 6
+  },
+  {
+   "n": "デイヴィッド・ランシマン",
+   "openalex_id": "A5089425160",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "イアン・ゴールディン",
+   "openalex_id": "A5003686226",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "アリソン・スタンガー",
+   "openalex_id": "A5005923892",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "フィリップ・ハワード",
+   "openalex_id": "A5079636968",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "スティーブン・ピンカー",
+   "openalex_id": "A5000597416",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "アリソン・ゴプニック",
+   "openalex_id": "A5062253481",
+   "ok": true,
+   "count": 6
+  },
+  {
+   "n": "ゲアリー・マーカス",
+   "openalex_id": "A5110126701",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "n": "イヤド・ラーワン",
+   "openalex_id": "A5009232244",
+   "ok": true,
+   "count": 6
+  },
+  {
+   "n": "イーサン・モリック",
+   "openalex_id": "A5061686034",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "西垣通",
+   "openalex_id": "A5069110940",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "出口康夫",
+   "openalex_id": "A5061546563",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "n": "久木田水生",
+   "openalex_id": "A5010253822",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "神崎宣次",
+   "openalex_id": "A5073940508",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "山本龍彦",
+   "openalex_id": "A5111783645",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "大屋雄裕",
+   "openalex_id": "A5017802782",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "n": "宍戸常寿",
+   "openalex_id": "A5055086499",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "n": "成原慧",
+   "openalex_id": "A5131574604",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "n": "井上智洋",
+   "openalex_id": "A5111711985",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "柳川範之",
+   "openalex_id": "A5049472021",
+   "ok": true,
+   "count": 7
+  },
+  {
+   "n": "山本勲",
+   "openalex_id": "A5068499957",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "江間有沙",
+   "openalex_id": "A5003246745",
+   "ok": true,
+   "count": 8
+  },
+  {
+   "n": "城山英明",
+   "openalex_id": "A5114044923",
+   "ok": true,
+   "count": 8
+  }
+ ]
+}
