@@ -1,0 +1,1203 @@
+{
+ "generated_at": "2026-08-31T11:16:10Z",
+ "attempted": 124,
+ "verified": 95,
+ "people_with_url": 95,
+ "results": [
+  {
+   "n": "ニック・ボストロム",
+   "url": "https://nickbostrom.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:01Z",
+   "status": 200,
+   "matched": [
+    "Bostrom"
+   ]
+  },
+  {
+   "n": "ルチアーノ・フロリディ",
+   "url": "https://www.philosophyofinformation.net/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:02Z",
+   "status": 200,
+   "matched": [
+    "Floridi"
+   ]
+  },
+  {
+   "n": "デイヴィッド・チャーマーズ",
+   "url": "https://consc.net/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:02Z",
+   "status": 200,
+   "matched": [
+    "Chalmers"
+   ]
+  },
+  {
+   "n": "ピーター・シンガー",
+   "url": "https://petersinger.info/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:03Z",
+   "status": 200,
+   "final_url": "https://www.petersinger.info/",
+   "matched": [
+    "Singer"
+   ]
+  },
+  {
+   "n": "シャノン・ヴァラー",
+   "url": "https://www.shannonvallor.net/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:04Z",
+   "error": "HTTP 404"
+  },
+  {
+   "n": "シャノン・ヴァラー",
+   "url": "https://efi.ed.ac.uk/people/professor-shannon-vallor/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:05Z",
+   "error": "HTTP 404"
+  },
+  {
+   "n": "シャノン・ヴァラー",
+   "url": "https://www.ed.ac.uk/profile/shannon-vallor",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:05Z",
+   "status": 200,
+   "final_url": "https://edwebprofiles.ed.ac.uk/profile/shannon-vallor",
+   "matched": [
+    "Vallor"
+   ]
+  },
+  {
+   "n": "マーク・クーケルバーク",
+   "url": "https://www.markcoeckelbergh.com/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:05Z",
+   "error": "URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+   "n": "マーク・クーケルバーク",
+   "url": "https://markcoeckelbergh.wordpress.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:06Z",
+   "status": 200,
+   "final_url": "https://wordpress.com/typo/?subdomain=markcoeckelbergh",
+   "matched": [
+    "Coeckelbergh"
+   ]
+  },
+  {
+   "n": "トマス・メッツィンガー",
+   "url": "https://www.blogs.uni-mainz.de/fb05philosophie-en/metzinger-thomas/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:07Z",
+   "error": "HTTP 404"
+  },
+  {
+   "n": "トマス・メッツィンガー",
+   "url": "https://philpeople.org/profiles/thomas-metzinger",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:08Z",
+   "status": 200,
+   "matched": [
+    "Metzinger"
+   ]
+  },
+  {
+   "n": "スーザン・シュナイダー",
+   "url": "https://schneiderwebsite.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:08Z",
+   "status": 200,
+   "final_url": "https://schneiderwebsite.com/index.html",
+   "matched": [
+    "Schneider"
+   ]
+  },
+  {
+   "n": "トビー・オード",
+   "url": "https://www.tobyord.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:11Z",
+   "status": 200,
+   "matched": [
+    "Ord"
+   ]
+  },
+  {
+   "n": "ウィリアム・マッカスキル",
+   "url": "https://www.williammacaskill.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:12Z",
+   "status": 200,
+   "matched": [
+    "MacAskill"
+   ]
+  },
+  {
+   "n": "ジョン・ダナハー",
+   "url": "https://philosophicaldisquisitions.blogspot.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:12Z",
+   "status": 200,
+   "matched": [
+    "Danaher"
+   ]
+  },
+  {
+   "n": "カリッサ・ヴェリス",
+   "url": "https://www.carissaveliz.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:13Z",
+   "status": 200,
+   "matched": [
+    "Véliz"
+   ]
+  },
+  {
+   "n": "セス・ラザー",
+   "url": "https://sethlazar.org/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:13Z",
+   "status": 200,
+   "final_url": "https://mintresearch.org/",
+   "matched": [
+    "Lazar"
+   ]
+  },
+  {
+   "n": "ヴィンセント・C・ミュラー",
+   "url": "https://www.sophia.de/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:14Z",
+   "status": 200,
+   "matched": [],
+   "error": "ページ本文に氏名が見当たらない"
+  },
+  {
+   "n": "ヴィンセント・C・ミュラー",
+   "url": "https://philpeople.org/profiles/vincent-c-muller",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:15Z",
+   "status": 200,
+   "matched": [
+    "Müller"
+   ]
+  },
+  {
+   "n": "ウェンデル・ウォラック",
+   "url": "https://bioethics.yale.edu/wendell-wallach",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:15Z",
+   "error": "HTTP 404"
+  },
+  {
+   "n": "ウェンデル・ウォラック",
+   "url": "https://carnegiecouncil.org/people/wendell-wallach",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:16Z",
+   "status": 200,
+   "final_url": "https://www.carnegiecouncil.org/people/wendell-wallach",
+   "matched": [
+    "Wallach"
+   ]
+  },
+  {
+   "n": "ペーター=ポール・フェルベーク",
+   "url": "https://ppverbeek.org/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:17Z",
+   "status": 200,
+   "matched": [
+    "Verbeek"
+   ]
+  },
+  {
+   "n": "アンドリュー・フィーンバーグ",
+   "url": "https://www.sfu.ca/~andrewf/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:17Z",
+   "status": 200,
+   "matched": [
+    "Feenberg"
+   ]
+  },
+  {
+   "n": "ユク・ホイ",
+   "url": "https://www.digitalmilieu.net/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:18Z",
+   "status": 200,
+   "final_url": "https://digitalmilieu.net/",
+   "matched": [
+    "Hui"
+   ]
+  },
+  {
+   "n": "マルクス・ガブリエル",
+   "url": "https://www.markusgabriel.de/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:22Z",
+   "error": "URLError: <urlopen error [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1081)>"
+  },
+  {
+   "n": "マルクス・ガブリエル",
+   "url": "http://www.markusgabriel.de/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:22Z",
+   "status": 200,
+   "final_url": "https://blackpattern.de/",
+   "matched": [
+    "Gabriel"
+   ]
+  },
+  {
+   "n": "ビョンチョル・ハン",
+   "url": "https://www.udk-berlin.de/en/persons/byung-chul-han/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:25Z",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  {
+   "n": "ビョンチョル・ハン",
+   "url": "http://www.udk-berlin.de/en/persons/byung-chul-han/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:26Z",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  {
+   "n": "ロージ・ブライドッティ",
+   "url": "https://rosibraidotti.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:27Z",
+   "status": 200,
+   "matched": [
+    "Braidotti"
+   ]
+  },
+  {
+   "n": "N・キャサリン・ヘイルズ",
+   "url": "https://nkhayles.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:29Z",
+   "status": 200,
+   "matched": [
+    "Hayles"
+   ]
+  },
+  {
+   "n": "ダナ・ハラウェイ",
+   "url": "https://people.ucsc.edu/~haraway/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:30Z",
+   "error": "HTTP 403"
+  },
+  {
+   "n": "ダナ・ハラウェイ",
+   "url": "https://histcon.ucsc.edu/faculty/singleton.php?singleton=true&cruz_id=haraway",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:31Z",
+   "error": "HTTP 404"
+  },
+  {
+   "n": "ダナ・ハラウェイ",
+   "url": "https://philpeople.org/profiles/donna-haraway",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:32Z",
+   "error": "HTTP 404"
+  },
+  {
+   "n": "ダナ・ハラウェイ",
+   "url": "https://egs.edu/biography/donna-haraway/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:36Z",
+   "error": "HTTP 403"
+  },
+  {
+   "n": "ベンジャミン・ブラットン",
+   "url": "https://bratton.info/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:39Z",
+   "status": 200,
+   "matched": [
+    "Bratton"
+   ]
+  },
+  {
+   "n": "マッテオ・パスクィネッリ",
+   "url": "https://matteopasquinelli.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:39Z",
+   "status": 200,
+   "final_url": "https://www.matteopasquinelli.com/",
+   "matched": [
+    "Pasquinelli"
+   ]
+  },
+  {
+   "n": "ダロン・アセモグル",
+   "url": "https://economics.mit.edu/people/faculty/daron-acemoglu",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:42Z",
+   "status": 200,
+   "matched": [
+    "Acemoglu"
+   ]
+  },
+  {
+   "n": "エリック・ブリニョルフソン",
+   "url": "https://www.brynjolfsson.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:42Z",
+   "status": 200,
+   "matched": [
+    "Brynjolfsson"
+   ]
+  },
+  {
+   "n": "アンドリュー・マカフィー",
+   "url": "https://andrewmcafee.org/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:43Z",
+   "status": 200,
+   "matched": [
+    "McAfee"
+   ]
+  },
+  {
+   "n": "カール・ベネディクト・フレイ",
+   "url": "https://www.carlbenediktfrey.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:43Z",
+   "status": 200,
+   "matched": [
+    "Frey"
+   ]
+  },
+  {
+   "n": "ジョセフ・スティグリッツ",
+   "url": "https://www.josephstiglitz.com/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:44Z",
+   "error": "URLError: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1081)>"
+  },
+  {
+   "n": "ジョセフ・スティグリッツ",
+   "url": "http://www.josephstiglitz.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:45Z",
+   "status": 200,
+   "final_url": "https://business.columbia.edu/stiglitz",
+   "matched": [
+    "Stiglitz"
+   ]
+  },
+  {
+   "n": "タイラー・コーエン",
+   "url": "https://marginalrevolution.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:47Z",
+   "status": 200,
+   "matched": [
+    "Cowen"
+   ]
+  },
+  {
+   "n": "アントン・コリネック",
+   "url": "https://www.korinek.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:48Z",
+   "status": 200,
+   "matched": [
+    "Korinek"
+   ]
+  },
+  {
+   "n": "ダイアン・コイル",
+   "url": "https://www.enlightenmenteconomics.com/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:49Z",
+   "error": "URLError: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1081)>"
+  },
+  {
+   "n": "ダイアン・コイル",
+   "url": "http://www.enlightenmenteconomics.com/blog/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:49Z",
+   "status": 200,
+   "matched": [
+    "Coyle"
+   ]
+  },
+  {
+   "n": "リチャード・ボールドウィン",
+   "url": "https://www.imd.org/faculty/richard-baldwin/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:14:51Z",
+   "error": "HTTP 404"
+  },
+  {
+   "n": "リチャード・ボールドウィン",
+   "url": "https://cepr.org/about/people/richard-baldwin",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:52Z",
+   "status": 200,
+   "matched": [
+    "Baldwin"
+   ]
+  },
+  {
+   "n": "デイヴィッド・オーター",
+   "url": "https://economics.mit.edu/people/faculty/david-h-autor",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:52Z",
+   "status": 200,
+   "matched": [
+    "Autor"
+   ]
+  },
+  {
+   "n": "アジェイ・アグラワル",
+   "url": "https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Agrawal",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:52Z",
+   "status": 200,
+   "final_url": "https://www.rotman.utoronto.ca/faculty-and-research/meet-our-faculty/",
+   "matched": [
+    "Agrawal"
+   ]
+  },
+  {
+   "n": "アヴィ・ゴールドファーブ",
+   "url": "https://www.avigoldfarb.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:57Z",
+   "status": 200,
+   "matched": [
+    "Goldfarb"
+   ]
+  },
+  {
+   "n": "ダニエル・サスキンド",
+   "url": "https://www.danielsusskind.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:58Z",
+   "status": 200,
+   "matched": [
+    "Susskind"
+   ]
+  },
+  {
+   "n": "ライアン・カロ",
+   "url": "https://www.law.uw.edu/directory/faculty/calo-ryan",
+   "verified": true,
+   "checked_at": "2026-08-31T11:14:58Z",
+   "status": 200,
+   "matched": [
+    "Calo"
+   ]
+  },
+  {
+   "n": "フランク・パスクァーレ",
+   "url": "https://www.lawschool.cornell.edu/faculty-research/faculty-directory/frank-pasquale/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:00Z",
+   "status": 200,
+   "matched": [
+    "Pasquale"
+   ]
+  },
+  {
+   "n": "サンドラ・ワクター",
+   "url": "https://www.oii.ox.ac.uk/people/profiles/sandra-wachter/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:01Z",
+   "status": 200,
+   "matched": [
+    "Wachter"
+   ]
+  },
+  {
+   "n": "ミレイユ・ヒルデブラント",
+   "url": "https://www.cohubicol.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:02Z",
+   "status": 200,
+   "matched": [
+    "Hildebrandt"
+   ]
+  },
+  {
+   "n": "ジャック・バルキン",
+   "url": "https://balkin.blogspot.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:03Z",
+   "status": 200,
+   "matched": [
+    "Balkin"
+   ]
+  },
+  {
+   "n": "ローレンス・レッシグ",
+   "url": "https://lessig.org/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:04Z",
+   "status": 200,
+   "matched": [
+    "Lessig"
+   ]
+  },
+  {
+   "n": "ジュリー・コーエン",
+   "url": "https://www.law.georgetown.edu/faculty/julie-e-cohen/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:04Z",
+   "status": 200,
+   "matched": [
+    "Cohen"
+   ]
+  },
+  {
+   "n": "カレン・ヨン",
+   "url": "https://www.birmingham.ac.uk/staff/profiles/law/yeung-karen",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:05Z",
+   "status": 200,
+   "matched": [
+    "Yeung"
+   ]
+  },
+  {
+   "n": "ウーゴ・パガロ",
+   "url": "https://www.unito.it/persone/upagallo",
+   "verified": false,
+   "checked_at": "2026-08-31T11:15:06Z",
+   "error": "HTTP 403"
+  },
+  {
+   "n": "ウーゴ・パガロ",
+   "url": "https://iris.unito.it/cris/rp/rp02290",
+   "verified": false,
+   "checked_at": "2026-08-31T11:15:06Z",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  {
+   "n": "ウーゴ・パガロ",
+   "url": "https://philpeople.org/profiles/ugo-pagallo",
+   "verified": false,
+   "checked_at": "2026-08-31T11:15:07Z",
+   "error": "HTTP 404"
+  },
+  {
+   "n": "リチャード・サスキンド",
+   "url": "https://www.susskind.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:12Z",
+   "status": 200,
+   "matched": [
+    "Susskind"
+   ]
+  },
+  {
+   "n": "シェリー・タークル",
+   "url": "https://sherryturkle.mit.edu/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:13Z",
+   "status": 200,
+   "matched": [
+    "Turkle"
+   ]
+  },
+  {
+   "n": "ゼイネップ・トゥフェクチ",
+   "url": "https://www.nytimes.com/by/zeynep-tufekci",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:15Z",
+   "status": 200,
+   "matched": [
+    "Tufekci"
+   ]
+  },
+  {
+   "n": "ショシャナ・ズボフ",
+   "url": "https://shoshanazuboff.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:15Z",
+   "status": 200,
+   "final_url": "https://shoshanazuboff.com/book/",
+   "matched": [
+    "Zuboff"
+   ]
+  },
+  {
+   "n": "ルハ・ベンジャミン",
+   "url": "https://www.ruhabenjamin.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:16Z",
+   "status": 200,
+   "matched": [
+    "Benjamin"
+   ]
+  },
+  {
+   "n": "サフィヤ・ノーブル",
+   "url": "https://safiyaunoble.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:17Z",
+   "status": 200,
+   "matched": [
+    "Noble"
+   ]
+  },
+  {
+   "n": "ヴァージニア・ユーバンクス",
+   "url": "https://virginia-eubanks.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:18Z",
+   "status": 200,
+   "matched": [
+    "Eubanks"
+   ]
+  },
+  {
+   "n": "ダナ・ボイド",
+   "url": "https://www.danah.org/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:18Z",
+   "status": 200,
+   "matched": [
+    "boyd"
+   ]
+  },
+  {
+   "n": "ニック・クドリー",
+   "url": "https://www.lse.ac.uk/media-and-communications/people/academic-staff/nick-couldry",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:18Z",
+   "status": 200,
+   "final_url": "https://www.lse.ac.uk/people/nick-couldry",
+   "matched": [
+    "Couldry"
+   ]
+  },
+  {
+   "n": "ホセ・ファン・ダイク",
+   "url": "https://www.uu.nl/staff/JFTMvanDijck",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:22Z",
+   "status": 200,
+   "matched": [
+    "Dijck"
+   ]
+  },
+  {
+   "n": "ジュディ・ワイクマン",
+   "url": "https://www.lse.ac.uk/sociology/people/professor-judy-wajcman",
+   "verified": false,
+   "checked_at": "2026-08-31T11:15:23Z",
+   "error": "HTTP 404"
+  },
+  {
+   "n": "ジュディ・ワイクマン",
+   "url": "https://www.turing.ac.uk/people/researchers/judy-wajcman",
+   "verified": false,
+   "checked_at": "2026-08-31T11:15:24Z",
+   "error": "HTTP 403"
+  },
+  {
+   "n": "ジュディ・ワイクマン",
+   "url": "https://www.britac.ac.uk/fellows/judy-wajcman-FBA/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:15:25Z",
+   "error": "HTTP 403"
+  },
+  {
+   "n": "ジュディ・ワイクマン",
+   "url": "https://www.lse.ac.uk/sociology/people/judy-wajcman",
+   "verified": false,
+   "checked_at": "2026-08-31T11:15:31Z",
+   "error": "HTTP 404"
+  },
+  {
+   "n": "ルーシー・サッチマン",
+   "url": "https://www.lancaster.ac.uk/sociology/about-us/people/lucy-suchman",
+   "verified": false,
+   "checked_at": "2026-08-31T11:15:34Z",
+   "status": 200,
+   "final_url": "https://www.lancaster.ac.uk/social-sciences/people/",
+   "matched": [],
+   "error": "ページ本文に氏名が見当たらない"
+  },
+  {
+   "n": "ルーシー・サッチマン",
+   "url": "https://robotfutures.wordpress.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:41Z",
+   "status": 200,
+   "matched": [
+    "Suchman"
+   ]
+  },
+  {
+   "n": "シーラ・ジャザノフ",
+   "url": "https://sheilajasanoff.org/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:41Z",
+   "status": 200,
+   "matched": [
+    "Jasanoff"
+   ]
+  },
+  {
+   "n": "ヘルガ・ノヴォトニー",
+   "url": "https://helga-nowotny.eu/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:42Z",
+   "status": 200,
+   "matched": [
+    "Nowotny"
+   ]
+  },
+  {
+   "n": "ジュヌヴィエーヴ・ベル",
+   "url": "https://cybernetics.anu.edu.au/people/genevieve-bell/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:43Z",
+   "status": 200,
+   "matched": [
+    "Bell"
+   ]
+  },
+  {
+   "n": "ケイト・クロフォード",
+   "url": "https://katecrawford.net/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:44Z",
+   "status": 200,
+   "matched": [
+    "Crawford"
+   ]
+  },
+  {
+   "n": "ユヴァル・ノア・ハラリ",
+   "url": "https://www.ynharari.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:45Z",
+   "status": 200,
+   "matched": [
+    "Harari"
+   ]
+  },
+  {
+   "n": "フランシス・フクヤマ",
+   "url": "https://www.francisfukuyama.com/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:15:46Z",
+   "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
+  },
+  {
+   "n": "フランシス・フクヤマ",
+   "url": "https://fukuyama.stanford.edu/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:47Z",
+   "status": 200,
+   "final_url": "https://fukuyama.people.stanford.edu/",
+   "matched": [
+    "Fukuyama"
+   ]
+  },
+  {
+   "n": "イアン・ブレマー",
+   "url": "https://www.gzeromedia.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:47Z",
+   "status": 200,
+   "matched": [
+    "Bremmer"
+   ]
+  },
+  {
+   "n": "ヘンリー・ファレル",
+   "url": "https://www.programmablemutter.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:48Z",
+   "status": 200,
+   "matched": [
+    "Farrell"
+   ]
+  },
+  {
+   "n": "マリーチェ・スハーケ",
+   "url": "https://www.marietjeschaake.eu/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:15:48Z",
+   "status": 200,
+   "final_url": "https://marietjeschaake.eu/",
+   "matched": [],
+   "error": "ページ本文に氏名が見当たらない"
+  },
+  {
+   "n": "マリーチェ・スハーケ",
+   "url": "https://cyber.fsi.stanford.edu/people/marietje-schaake",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:50Z",
+   "status": 200,
+   "matched": [
+    "Schaake"
+   ]
+  },
+  {
+   "n": "デイヴィッド・ランシマン",
+   "url": "https://www.polis.cam.ac.uk/Staff_and_Students/professor-david-runciman",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:50Z",
+   "status": 200,
+   "final_url": "https://www.polis.cam.ac.uk/people/david-runciman",
+   "matched": [
+    "Runciman"
+   ]
+  },
+  {
+   "n": "イアン・ゴールディン",
+   "url": "https://iangoldin.org/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:51Z",
+   "status": 200,
+   "matched": [
+    "Goldin"
+   ]
+  },
+  {
+   "n": "アリソン・スタンガー",
+   "url": "https://www.middlebury.edu/college/people/allison-stanger",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:52Z",
+   "status": 200,
+   "matched": [
+    "Stanger"
+   ]
+  },
+  {
+   "n": "フィリップ・ハワード",
+   "url": "https://www.philhoward.org/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:53Z",
+   "status": 200,
+   "final_url": "https://philhoward.org/",
+   "matched": [
+    "Howard"
+   ]
+  },
+  {
+   "n": "スティーブン・ピンカー",
+   "url": "https://stevenpinker.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:53Z",
+   "status": 200,
+   "matched": [
+    "Pinker"
+   ]
+  },
+  {
+   "n": "アリソン・ゴプニック",
+   "url": "https://alisongopnik.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:54Z",
+   "status": 200,
+   "matched": [
+    "Gopnik"
+   ]
+  },
+  {
+   "n": "ゲアリー・マーカス",
+   "url": "https://garymarcus.substack.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:55Z",
+   "status": 200,
+   "matched": [
+    "Marcus"
+   ]
+  },
+  {
+   "n": "イヤド・ラーワン",
+   "url": "https://www.mpib-berlin.mpg.de/staff/iyad-rahwan",
+   "verified": false,
+   "checked_at": "2026-08-31T11:15:55Z",
+   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  {
+   "n": "イヤド・ラーワン",
+   "url": "https://rahwan.me/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:56Z",
+   "status": 200,
+   "final_url": "https://www.rahwan.me/",
+   "matched": [
+    "Rahwan"
+   ]
+  },
+  {
+   "n": "マーティン・リース",
+   "url": "https://www.ast.cam.ac.uk/people/mjr",
+   "verified": false,
+   "checked_at": "2026-08-31T11:15:57Z",
+   "error": "HTTP 404"
+  },
+  {
+   "n": "マーティン・リース",
+   "url": "https://www.martinrees.uk/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:57Z",
+   "status": 200,
+   "matched": [
+    "Rees"
+   ]
+  },
+  {
+   "n": "イーサン・モリック",
+   "url": "https://www.oneusefulthing.org/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:58Z",
+   "status": 200,
+   "matched": [
+    "Mollick"
+   ]
+  },
+  {
+   "n": "エイミー・ウェブ",
+   "url": "https://amywebb.io/",
+   "verified": false,
+   "checked_at": "2026-08-31T11:15:58Z",
+   "error": "URLError: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+   "n": "エイミー・ウェブ",
+   "url": "https://ftsg.com/",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:58Z",
+   "status": 200,
+   "matched": [
+    "Webb"
+   ]
+  },
+  {
+   "n": "東浩紀",
+   "url": "https://note.com/hazuma",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:59Z",
+   "status": 200,
+   "matched": [
+    "Azuma"
+   ]
+  },
+  {
+   "n": "大澤真幸",
+   "url": "https://researchmap.jp/read0053619",
+   "verified": true,
+   "checked_at": "2026-08-31T11:15:59Z",
+   "status": 200,
+   "matched": [
+    "大澤真幸"
+   ]
+  },
+  {
+   "n": "稲葉振一郎",
+   "url": "https://researchmap.jp/7000000069",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:00Z",
+   "status": 200,
+   "matched": [
+    "稲葉振一郎",
+    "Inaba"
+   ]
+  },
+  {
+   "n": "西垣通",
+   "url": "https://researchmap.jp/read0029782",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:00Z",
+   "status": 200,
+   "matched": [
+    "西垣通",
+    "Nishigaki"
+   ]
+  },
+  {
+   "n": "出口康夫",
+   "url": "https://researchmap.jp/read0094782",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:01Z",
+   "status": 200,
+   "matched": [
+    "出口康夫",
+    "Deguchi"
+   ]
+  },
+  {
+   "n": "鈴木貴之",
+   "url": "https://researchmap.jp/tkykszk",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:01Z",
+   "status": 200,
+   "matched": [
+    "鈴木貴之",
+    "Suzuki"
+   ]
+  },
+  {
+   "n": "久木田水生",
+   "url": "https://researchmap.jp/minao_kukita",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:02Z",
+   "status": 200,
+   "matched": [
+    "久木田水生",
+    "Kukita"
+   ]
+  },
+  {
+   "n": "戸谷洋志",
+   "url": "https://researchmap.jp/toyahiroshi",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:02Z",
+   "status": 200,
+   "matched": [
+    "戸谷洋志",
+    "Toya"
+   ]
+  },
+  {
+   "n": "岡本裕一朗",
+   "url": "https://researchmap.jp/read0091595",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:03Z",
+   "status": 200,
+   "matched": [
+    "岡本裕一朗",
+    "Okamoto"
+   ]
+  },
+  {
+   "n": "神崎宣次",
+   "url": "https://researchmap.jp/knzknbtg",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:03Z",
+   "status": 200,
+   "matched": [
+    "神崎宣次",
+    "Kanzaki"
+   ]
+  },
+  {
+   "n": "山本龍彦",
+   "url": "https://researchmap.jp/read0211749",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:04Z",
+   "status": 200,
+   "matched": [
+    "山本龍彦",
+    "Yamamoto"
+   ]
+  },
+  {
+   "n": "大屋雄裕",
+   "url": "https://researchmap.jp/takehiroohya",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:04Z",
+   "status": 200,
+   "matched": [
+    "大屋雄裕",
+    "Ohya"
+   ]
+  },
+  {
+   "n": "宍戸常寿",
+   "url": "https://researchmap.jp/read0052810",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:05Z",
+   "status": 200,
+   "matched": [
+    "宍戸常寿",
+    "Shishido"
+   ]
+  },
+  {
+   "n": "成原慧",
+   "url": "https://researchmap.jp/narihara",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:06Z",
+   "status": 200,
+   "matched": [
+    "成原慧",
+    "Narihara"
+   ]
+  },
+  {
+   "n": "稲谷龍彦",
+   "url": "https://researchmap.jp/7000008734",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:06Z",
+   "status": 200,
+   "matched": [
+    "稲谷龍彦",
+    "Inatani"
+   ]
+  },
+  {
+   "n": "井上智洋",
+   "url": "https://researchmap.jp/read0144716",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:07Z",
+   "status": 200,
+   "matched": [
+    "井上智洋"
+   ]
+  },
+  {
+   "n": "柳川範之",
+   "url": "https://researchmap.jp/yanagawa",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:08Z",
+   "status": 200,
+   "matched": [
+    "柳川範之",
+    "Yanagawa"
+   ]
+  },
+  {
+   "n": "山本勲",
+   "url": "https://researchmap.jp/read0138102",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:08Z",
+   "status": 200,
+   "matched": [
+    "山本勲",
+    "Yamamoto"
+   ]
+  },
+  {
+   "n": "江間有沙",
+   "url": "https://researchmap.jp/arisaema",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:09Z",
+   "status": 200,
+   "matched": [
+    "江間有沙",
+    "Ema"
+   ]
+  },
+  {
+   "n": "城山英明",
+   "url": "https://researchmap.jp/siroyama1965",
+   "verified": true,
+   "checked_at": "2026-08-31T11:16:09Z",
+   "status": 200,
+   "matched": [
+    "城山英明",
+    "Shiroyama"
+   ]
+  }
+ ]
+}

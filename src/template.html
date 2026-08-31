@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>百学レンズ — AIの未来を論じる各界の学者100名</title>
+<meta name="description" content="哲学・経済学・法学・社会学・政治学など各界の学者100名(海外80・日本20)がAIの未来をどう論じているかを、本人の発信・学術発表・講演から一望する。">
+<style>
+:root{
+  --bg:#0f1115; --panel:#171a21; --panel2:#1d212a; --line:#2a2f3a; --line2:#343b48;
+  --fg:#e6e8ec; --muted:#9aa3b2; --faint:#6b7280; --accent:#7aa2f7;
+  --own:#7ee787; --pub:#79c0ff; --yt:#ff8080; --time:#67e8f9;
+  --sub:#f7a8b8; --lab:#f0b072; --pod:#c4b5fd; --x:#a5b4fc;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);
+  font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP","Segoe UI",sans-serif;
+  line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+header{padding:32px 24px 18px;max-width:1500px;margin:0 auto}
+h1{font-size:23px;margin:0 0 6px;letter-spacing:.01em}
+h1 small{font-size:14px;color:var(--muted);font-weight:400;margin-left:8px}
+.sub{color:var(--muted);font-size:13.5px;margin:0}
+.counts{color:var(--faint);font-size:12.5px;margin-top:10px}
+details.caveat{margin-top:14px;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px 14px}
+details.caveat summary{cursor:pointer;font-size:13px;color:var(--muted)}
+details.caveat div{font-size:12.5px;color:var(--muted);margin-top:8px}
+details.caveat li{margin:5px 0}
+.controls{position:sticky;top:0;z-index:10;background:rgba(15,17,21,.94);backdrop-filter:blur(8px);
+  border-bottom:1px solid var(--line);padding:12px 24px}
+.controls-in{max-width:1500px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+input[type=search]{background:var(--panel2);border:1px solid var(--line);color:var(--fg);
+  border-radius:7px;padding:7px 11px;font-size:13px;min-width:230px;outline:none}
+input[type=search]:focus{border-color:var(--accent)}
+.chip{background:var(--panel2);border:1px solid var(--line);color:var(--muted);border-radius:999px;
+  padding:5px 12px;font-size:12.5px;cursor:pointer;user-select:none;white-space:nowrap}
+.chip i{font-style:normal;opacity:.6;margin-left:5px;font-size:11px}
+.chip:hover{color:var(--fg)}
+.chip.on{background:var(--accent);border-color:var(--accent);color:#0f1115;font-weight:600}
+.chip.c-own{color:var(--own);border-color:rgba(126,231,135,.45)}
+.chip.c-pub{color:var(--pub);border-color:rgba(121,192,255,.45)}
+.chip.c-yt{color:var(--yt);border-color:rgba(255,128,128,.45)}
+.chip.c-time{color:var(--time);border-color:rgba(103,232,249,.45)}
+.chip.c-own:hover{color:var(--own)}.chip.c-pub:hover{color:var(--pub)}
+.chip.c-yt:hover{color:var(--yt)}.chip.c-time:hover{color:var(--time)}
+.chip.c-own.on{background:var(--own);border-color:var(--own);color:#0f1115}
+.chip.c-pub.on{background:var(--pub);border-color:var(--pub);color:#0f1115}
+.chip.c-yt.on{background:var(--yt);border-color:var(--yt);color:#0f1115}
+.chip.c-time.on{background:var(--time);border-color:var(--time);color:#0f1115}
+.spacer{flex:1}
+main{max-width:1500px;margin:0 auto;padding:20px 24px 96px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:14px;align-items:start}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:15px 17px 13px}
+.chead{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.name{font-size:16px;font-weight:650}
+.en{font-size:11.5px;color:var(--faint)}
+.cat{font-size:10.5px;color:var(--muted);border:1px solid var(--line2);border-radius:4px;padding:1px 6px}
+.aff{font-size:11.5px;color:var(--muted);margin-top:3px}
+.field{font-size:11.5px;color:var(--accent);margin-top:2px}
+.home{font-size:11.5px;color:var(--faint);text-decoration:none;word-break:break-all;display:block;margin-top:3px}
+.home:hover{color:var(--accent)}
+.bio{font-size:12.8px;color:#c9cfd9;margin:9px 0 4px;padding:9px 11px;background:var(--panel2);border-radius:7px;border-left:2px solid var(--line2)}
+.sect{font-size:10.5px;color:var(--faint);letter-spacing:.08em;margin:11px 0 2px;text-transform:uppercase}
+ol{list-style:none;margin:0;padding:0}
+li.item{padding:6px 0;border-top:1px solid var(--line)}
+.meta{display:flex;gap:7px;align-items:center;flex-wrap:wrap;margin-bottom:1px}
+.date{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+.date.unk{color:var(--faint)}
+.badge{font-size:10px;padding:0 6px;border-radius:3px;font-weight:600}
+.b-blog,.b-note{background:rgba(126,231,135,.14);color:var(--own)}
+.b-substack{background:rgba(247,168,184,.14);color:var(--sub)}
+.b-conversation,.b-lab{background:rgba(240,176,114,.14);color:var(--lab)}
+.b-podcast{background:rgba(196,181,253,.16);color:var(--pod)}
+.b-media,.b-x{background:rgba(165,180,252,.14);color:var(--x)}
+.b-paper,.b-book{background:rgba(121,192,255,.16);color:var(--pub)}
+.b-yt{background:rgba(255,128,128,.16);color:var(--yt)}
+.outlet{font-size:10.5px;color:var(--faint)}
+.title{font-size:13px;text-decoration:none;display:block}
+.title:hover{color:var(--accent);text-decoration:underline}
+.none{font-size:12.5px;color:var(--faint);padding:6px 0 2px}
+.secthead{grid-column:1/-1;margin:20px 0 2px;font-size:12.5px;color:var(--muted);
+  border-bottom:1px solid var(--line);padding-bottom:6px;letter-spacing:.04em}
+footer{position:fixed;left:0;right:0;bottom:0;z-index:10;background:rgba(15,17,21,.94);
+  backdrop-filter:blur(8px);border-top:1px solid var(--line);padding:7px 24px;
+  color:var(--faint);font-size:12px}
+footer p{max-width:1500px;margin:0 auto}
+@media(max-width:640px){.grid{grid-template-columns:1fr}header{padding:24px 16px 14px}main{padding:16px 16px 130px}.controls{padding:10px 16px}footer{padding:6px 16px;font-size:11px}}
+</style>
+</head>
+<body>
+<header>
+  <h1>百学レンズ<small>AIの未来を論じる各界の学者100名</small></h1>
+  <p class="sub">AIを作る側ではなく<b>論じる側</b> —— 哲学・思想・経済学・法学・社会学・政治学・認知科学の学者100名(海外80名・日本20名)について、紹介文と ①本人の発信 ②学術発表 ③講演・対談 を最大3件ずつ。</p>
+  <p class="counts">__COUNTS__</p>
+  <p class="counts">最終更新 __UPDATED__ — フィード(ブログ / Substack / note / The Conversation): __FEED_UPDATED__ · 学術発表(OpenAlex): __PUB_UPDATED__</p>
+  <details class="caveat">
+    <summary>このページの読み方と限界(クリックで展開)</summary>
+    <div>
+      <ul>
+        <li><b>発信の項目は人手で集めていません。</b>名簿(氏名・所属・専門・紹介文)だけを人が書き、発信の項目は公開フィードと公開APIから機械的に集めています。<b>0件は「発信していない」ことを意味しません</b> —— 取得経路が無いか、まだ宣言していないだけです。</li>
+        <li><b>公式サイト欄のURLは、実際に取得して本人の氏名が載っていることを確かめたものだけを載せています。</b>確かめられなかった人は空欄です(推測したURLは載せません)。所属機関のページや本人が書く媒体を指すことがあります。</li>
+        <li>自動収集された見出しは<b>原文のまま</b>です(英語は英語のまま)。和訳はしていません。</li>
+        <li>「直近1ヶ月」「直近1週間」は、閲覧時点から過去30日 / 7日以内に日付が確認できた項目を対象にします。日付が「不明」の項目は、実際には新しくてもこの絞り込みには出てきません。</li>
+        <li>紹介文は公開情報にもとづく要約です。<b>分類は暫定・所属は変動します。</b>専門分野の記述は本人の全業績を代表するものではありません。</li>
+        <li>この100名の選定は網羅的なものではなく、AIの未来を主題として継続的に発信している学者を各分野から選んだものです。</li>
+      </ul>
+    </div>
+  </details>
+</header>
+
+<div class="controls"><div class="controls-in">
+  <input type="search" id="q" placeholder="名前・所属・紹介文・見出しで検索">
+  <span class="chip on" data-cat="ALL">すべて<i>100</i></span>
+  __CAT_CHIPS__
+  <span class="spacer"></span>
+  <span class="chip c-own" id="fOwn">本人の発信のみ</span>
+  <span class="chip c-pub" id="fPub">学術発表のみ</span>
+  <span class="chip c-yt" id="fYt">講演・対談のみ</span>
+  <span class="chip c-time" id="f1m">直近1ヶ月の項目がある人</span>
+  <span class="chip c-time" id="f1w">直近1週間の項目がある人</span>
+</div></div>
+
+<main><div class="grid" id="grid"></div></main>
+<footer>
+  <p><a href="https://github.com/twill3c/hyakugaku-lens/blob/main/LICENSE" target="_blank" rel="noopener">MIT License</a> © 2026 坂田哲朗
+  ・ <a href="https://github.com/twill3c/hyakugaku-lens" target="_blank" rel="noopener">GitHub</a>
+  ・ <a href="__WALKTHROUGH_URL__" target="_blank" rel="noopener">百学レンズの歩き方</a>
+  ・ <a href="__BLUEPRINT_URL__" target="_blank" rel="noopener">百学レンズ 設計図</a>
+  ・ <a href="https://app-menu-amber.vercel.app" target="_blank" rel="noopener">App Menu</a></p>
+</footer>
+
+<script>
+const P = __PEOPLE__,
+ CAT_LABEL = __CAT_LABEL__,
+ SRC = __SRC__,
+ CATS = __CATS__;
+let curCat="ALL", showOwn=true, showPub=true, showYt=true, only1m=false, only1w=false, q="";
+const cutoff = days => new Date(Date.now() - days*864e5).toISOString().slice(0,10);
+const CUTOFF_1M = cutoff(30), CUTOFF_1W = cutoff(7);  // 閲覧時点基準
+const norm = d => (d && d.length===7) ? d+"-01" : d;
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const SECT = [["own","本人の発信"],["pub","学術発表"],["yt","講演・対談"]];
+
+const row = i => `<li class="item">
+  <div class="meta">
+    <span class="date ${i.d==="不明"?"unk":""}">${esc(i.d)}</span>
+    <span class="badge b-${esc(i.s)}">${esc(SRC[i.s]||i.s)}</span>
+    ${i.o?`<span class="outlet">${esc(i.o)}</span>`:""}
+  </div>
+  <a class="title" href="${esc(i.u)}" target="_blank" rel="noopener">${esc(i.t)}</a></li>`;
+
+const shown = {own:()=>showOwn, pub:()=>showPub, yt:()=>showYt};
+
+function card(p){
+  let h = `<div class="card"><div class="chead"><span class="name">${esc(p.n)}</span>`
+        + `<span class="en">${esc(p.en)}</span>`
+        + `<span class="cat">${esc(CAT_LABEL[p.c]||p.c)}</span></div>`;
+  h += `<div class="aff">${esc(p.aff)}</div><div class="field">${esc(p.field)}</div>`;
+  h += p.h?`<a class="home" href="${esc(p.h)}" target="_blank" rel="noopener">${esc(p.h)}</a>`
+         :`<span class="home">公式サイト未確認</span>`;
+  h += `<div class="bio">${esc(p.bio)}</div>`;
+  for (const [key,label] of SECT){
+    if (!shown[key]()) continue;
+    h += `<div class="sect">${label}</div>`;
+    h += p[key].length?`<ol>${p[key].map(row).join("")}</ol>`:`<div class="none">確認できず</div>`;
+  }
+  return h + `</div>`;
+}
+
+function render(){
+  const ql = q.trim().toLowerCase();
+  const list = P.filter(p => {
+    if (curCat!=="ALL" && p.c!==curCat) return false;
+    const all = p.own.concat(p.pub, p.yt);
+    if (only1m && !all.some(i=>i.d!=="不明" && norm(i.d) >= CUTOFF_1M)) return false;
+    if (only1w && !all.some(i=>i.d!=="不明" && norm(i.d) >= CUTOFF_1W)) return false;
+    if (!ql) return true;
+    return (p.n+p.en+p.aff+p.field+p.bio).toLowerCase().includes(ql)
+        || all.some(i=>i.t.toLowerCase().includes(ql)||(i.o||"").toLowerCase().includes(ql));
+  });
+  let html="";
+  if (curCat==="ALL"){
+    for (const c of CATS){
+      const g = list.filter(p=>p.c===c);
+      if (!g.length) continue;
+      html += `<div class="secthead">${esc(CAT_LABEL[c]||c)}（${g.length}名）</div>` + g.map(card).join("");
+    }
+  } else html = list.map(card).join("");
+  document.getElementById("grid").innerHTML = html || `<div class="none">該当なし</div>`;
+}
+
+document.querySelectorAll(".chip[data-cat]").forEach(el => el.onclick = () => {
+  document.querySelectorAll(".chip[data-cat]").forEach(x=>x.classList.remove("on"));
+  el.classList.add("on"); curCat = el.dataset.cat; render();
+});
+document.getElementById("q").oninput = e => { q=e.target.value; render(); };
+function only(which){
+  if (which==="all"){ showOwn=showPub=showYt=true;
+    for (const id of ["fOwn","fPub","fYt"]) document.getElementById(id).classList.remove("on");
+    render(); return; }
+  showOwn = which==="own"; showPub = which==="pub"; showYt = which==="yt";
+  for (const [id,key] of [["fOwn","own"],["fPub","pub"],["fYt","yt"]])
+    document.getElementById(id).classList.toggle("on", which===key);
+  render();
+}
+document.getElementById("fOwn").onclick = () => only(showOwn&&!showPub&&!showYt ? "all" : "own");
+document.getElementById("fPub").onclick = () => only(showPub&&!showOwn&&!showYt ? "all" : "pub");
+document.getElementById("fYt").onclick  = () => only(showYt&&!showOwn&&!showPub ? "all" : "yt");
+document.getElementById("f1m").onclick = e => {
+  only1m=!only1m; if (only1m){ only1w=false; document.getElementById("f1w").classList.remove("on"); }
+  e.target.classList.toggle("on",only1m); render();
+};
+document.getElementById("f1w").onclick = e => {
+  only1w=!only1w; if (only1w){ only1m=false; document.getElementById("f1m").classList.remove("on"); }
+  e.target.classList.toggle("on",only1w); render();
+};
+render();
+</script>
+</body></html>
