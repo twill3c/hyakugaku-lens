@@ -532,7 +532,7 @@
   "c": "経済",
   "aff": "トロント大 ロットマン経営大学院",
   "field": "予測マシンの経済学",
-  "h": "https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Agrawal",
+  "h": "",
   "bio": "『Prediction Machines』(2018)で、AIとは予測のコストを劇的に下げる技術であり、それゆえ判断・データ・行動という補完財の価値が上がる——という単純で強力な枠組みを示した。続く『Power and Prediction』では、点としての導入ではなくシステムの再設計が価値を生むと論じる。Creative Destruction Lab の創設者でもある。",
   "own": [],
   "pub": [],
@@ -740,26 +740,7 @@
   "field": "アルゴリズムと公共圏",
   "h": "https://www.nytimes.com/by/zeynep-tufekci",
   "bio": "『Twitter and Tear Gas』でネットワーク化された抗議運動の強さと脆さを分析した社会学者。推薦アルゴリズムが過激化の勾配を作ることを早くから指摘し、パンデミック初期のマスク推奨や空気感染をめぐる論評でも先見性を示した。NYT のコラムで技術と社会の交点を継続的に論じている。",
-  "own": [
-   {
-    "d": "2026-06-30",
-    "t": "Why A.I. Won’t Steal All Our Jobs",
-    "u": "https://www.nytimes.com/2026/06/30/opinion/ai-agents-steal-jobs-employment.html",
-    "s": "media"
-   },
-   {
-    "d": "2026-05-13",
-    "t": "A New Viral Outbreak. The Same Mistakes All Over Again.",
-    "u": "https://www.nytimes.com/2026/05/12/opinion/hantavirus-complacency.html",
-    "s": "media"
-   },
-   {
-    "d": "2025-09-13",
-    "t": "How Social Media Turned Charlie Kirk’s and Iryna Zarutska’s Murder Into Spectacle",
-    "u": "https://www.nytimes.com/2025/09/13/opinion/the-flood-of-moment-of-death-videos-is-killing-us.html",
-    "s": "media"
-   }
-  ],
+  "own": [],
   "pub": [],
   "yt": []
  },

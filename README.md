@@ -26,6 +26,8 @@ python -m src.update                 # 宣言フィードを収集 → own を�
 python tools/discover_feeds.py --apply       # フィードを探索して sources.json を作り直す
 python tools/discover_feeds.py --declared-only  # 宣言フィードの分だけ入れ直す
 python -m pytest -q                  # スキーマ検証 + 往復一致オラクル + 決定性 + 字種検査
+python -m pytest -q -m network       # 出荷している取得経路が robots.txt で許可されているか実測
+python tools/inspect_page.py         # 実ブラウザ検品(対照つき・3 つの画面幅)
 python tools/verify_links.py --apply # 公式サイト候補を実測して h を更新
 python tools/seed_people.py          # 名簿 JSONL から people.json を再生成(立ち上げ用)
 ```
@@ -58,6 +60,7 @@ GitHub Actions が二つの層を回し、差分があるときだけ `data/` + 
 | `data/link_status.json` | 候補 URL の検証結果(落ちた記録も残す) |
 | `src/build.py` + `src/template.html` | 自己完結の単一 HTML を生成 |
 | `src/merge.py` | セクション項目の差し替えマージ(劣化継続) |
+| `src/robots.py` | 取得の前に robots.txt を確かめる関門 |
 | `out/index.html` | 出荷物。Vercel がそのまま静的配信する |
 
 詳細は [SPEC.md](SPEC.md) と [TEST_SPEC.md](TEST_SPEC.md) を参照。

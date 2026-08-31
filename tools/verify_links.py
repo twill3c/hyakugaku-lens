@@ -23,12 +23,20 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
+from src.robots import RobotsGate  # noqa: E402
+
+# 取得の前に robots.txt を確かめる。ホストごとに 1 回だけ引いて覚える(N-05)
+GATE = RobotsGate()
 UA = "Mozilla/5.0 (compatible; hyakugaku-lens/1.0; +https://github.com/twill3c/hyakugaku-lens)"
 TAG = re.compile(r"<(script|style)\b.*?</\1>", re.S | re.I)
 ANY_TAG = re.compile(r"<[^>]+>")
 
 
-def fetch(url: str, timeout: int = 30) -> tuple[int, str, str]:
+def fetch(url: str, timeout: int = 30, check_robots: bool = True) -> tuple[int, str, str]:
+    """robots.txt が禁じている経路は取りに行かない(check_robots=False は robots.txt 自身の取得用)。"""
+    if check_robots:
+        GATE.check(url)
     req = urllib.request.Request(url, headers={
         "User-Agent": UA,
         "Accept": "text/html,application/xhtml+xml,*/*;q=0.8",

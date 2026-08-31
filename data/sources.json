@@ -86,18 +86,6 @@
   "evidence": "own-domain"
  },
  {
-  "n": "ゼイネップ・トゥフェクチ",
-  "s": "media",
-  "feed": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/by/zeynep-tufekci/rss.xml",
-  "site": "https://www.nytimes.com/by/zeynep-tufekci",
-  "evidence": "item-author",
-  "author": [
-   "David French, M. Gessen, Lydia Polgreen and Zeynep Tufekci",
-   "Jamelle Bouie, M. Gessen, Nicholas Kristof and Zeynep Tufekci",
-   "Zeynep Tufekci"
-  ]
- },
- {
   "n": "タイラー・コーエン",
   "s": "blog",
   "feed": "https://marginalrevolution.com/feed",

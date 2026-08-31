@@ -24,6 +24,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from .merge import merge_section
+from .robots import RobotsGate
 
 ROOT = Path(__file__).resolve().parents[1]
 API = "https://api.openalex.org"
@@ -100,13 +101,18 @@ def verified_ids(doc: dict) -> dict[str, str]:
     return {r["n"]: r["openalex_id"] for r in doc["results"] if r.get("verified")}
 
 
-def run(people, ids: dict[str, str], fetch=http_get_json, now=""):
-    """(people, report) を返す純関数コア。people は書き換えない。"""
+def run(people, ids: dict[str, str], fetch=http_get_json, now="", gate=None):
+    """(people, report) を返す純関数コア。people は書き換えない。
+
+    gate は robots.txt の関門(None なら確認しない — 単体テスト用)。
+    """
     status, ok_count = [], 0
     got: dict[str, list[dict]] = {}
     for name, aid in ids.items():
         rec = {"n": name, "openalex_id": aid, "ok": False, "count": 0}
         try:
+            if gate is not None:
+                gate.check(works_url(aid))
             items = work_items(fetch(works_url(aid)))
         except Exception as e:                              # noqa: BLE001 — 失敗は劣化継続
             rec["error"] = f"{type(e).__name__}: {e}"[:200]
@@ -139,7 +145,7 @@ def main() -> int:
         return 1
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    new_people, report = run(people, ids, now=now)
+    new_people, report = run(people, ids, now=now, gate=RobotsGate())
 
     write_json("people.json", new_people)
     meta["updated_at"] = meta["pub_updated_at"] = now

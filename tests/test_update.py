@@ -218,3 +218,36 @@ def test_boilerplate_is_purged_even_when_fetch_fails():
     out, _ = run(people, [{"n": "P", "s": "blog", "feed": "https://f"}],
                  fetch=lambda u: (_ for _ in ()).throw(OSError("down")))
     assert out[0]["own"] == []
+
+
+# --- robots の関門が実際に効くこと(陽性対照)------------------------
+
+class _DenyAll:
+    def check(self, url):
+        from src.robots import Disallowed
+        raise Disallowed(f"robots.txt が禁じている経路: {url}")
+
+
+class _AllowAll:
+    def check(self, url):
+        return None
+
+
+def test_run_refuses_a_disallowed_feed():
+    """関門を渡したとき、実際に取得が止まり劣化継続になること。"""
+    people = [_person([{"d": "2020-01-01", "t": "old", "u": "https://o", "s": "blog"}])]
+    src = [{"n": "P", "s": "blog", "feed": "https://f"}]
+    calls = []
+    out, rep = run(people, src, fetch=lambda u: calls.append(u) or ATOM.encode(),
+                   gate=_DenyAll())
+    assert calls == [], "禁じられているのに取りに行った"
+    assert [i["u"] for i in out[0]["own"]] == ["https://o"], "既存が維持されていない"
+    assert "Disallowed" in rep["sources"][0]["error"]
+
+
+def test_run_proceeds_when_allowed():
+    """陰性対照: 許可されていれば通ること(関門が常に落とすのではない)。"""
+    people = [_person([])]
+    out, rep = run(people, [{"n": "P", "s": "blog", "feed": "https://f"}],
+                   fetch=lambda u: ATOM.encode(), gate=_AllowAll())
+    assert rep["ok"] == 1 and out[0]["own"]

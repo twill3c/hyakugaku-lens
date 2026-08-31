@@ -22,6 +22,7 @@ from pathlib import Path
 
 from .feedparse import parse_feed
 from .merge import merge_section
+from .robots import RobotsGate
 
 ROOT = Path(__file__).resolve().parents[1]
 UA = "hyakugaku-lens/1.0 (+https://github.com/twill3c/hyakugaku-lens)"
@@ -86,14 +87,20 @@ def feed_items(raw: bytes, s: str, base: str = "", authors: list[str] | None = N
     return items
 
 
-def run(people, sources, fetch=http_get, now=""):
-    """(people, report) を返す純関数コア。people は書き換えず新リストを返す。"""
+def run(people, sources, fetch=http_get, now="", gate=None):
+    """(people, report) を返す純関数コア。people は書き換えず新リストを返す。
+
+    gate は robots.txt の関門。**取りに行く前に**可否を確かめる —— 禁じられている経路は
+    その取得元だけを失敗にし、他は通す(劣化継続)。None を渡すと確認しない(単体テスト用)。
+    """
     by_name: dict[str, list[dict]] = {}
     status, ok_count = [], 0
     sources = [s for s in sources if not s.get("skip")]
     for src in sources:
         rec = {"n": src["n"], "s": src["s"], "feed": src["feed"], "ok": False, "count": 0}
         try:
+            if gate is not None:
+                gate.check(src["feed"])
             items = feed_items(fetch(src["feed"]), src["s"], src["feed"], src.get("author"))
         except Exception as e:                              # noqa: BLE001 — 失敗は劣化継続
             rec["error"] = f"{type(e).__name__}: {e}"[:200]
@@ -129,7 +136,7 @@ def main() -> int:
     people, meta, sources = read_json("people.json"), read_json("meta.json"), read_json("sources.json")
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    new_people, report = run(people, sources, now=now)
+    new_people, report = run(people, sources, now=now, gate=RobotsGate())
 
     write_json("people.json", new_people)
     meta["updated_at"] = meta["feed_updated_at"] = now

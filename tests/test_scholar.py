@@ -218,3 +218,20 @@ def test_record_separates_unreachable_from_no_match():
     for k in ("verified", "no_match", "unreachable"):
         assert k in doc, f"{k} が記録されていない"
     assert doc["verified"] + doc["no_match"] + doc["unreachable"] == doc["declared"]
+
+
+def test_scholar_run_refuses_when_robots_disallows():
+    """陽性対照: 関門が落とせば取りに行かず、既存を維持すること。"""
+    from src.robots import Disallowed
+
+    class Deny:
+        def check(self, url):
+            raise Disallowed(url)
+
+    people = [_person([{"d": "2020-01-01", "t": "old", "u": "https://o", "s": "paper"}])]
+    calls = []
+    out, rep = run(people, {"P": "A1"},
+                   fetch=lambda u: calls.append(u) or payload(), gate=Deny())
+    assert calls == []
+    assert [i["u"] for i in out[0]["pub"]] == ["https://o"]
+    assert rep["ok"] == 0
