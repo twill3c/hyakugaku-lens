@@ -9,8 +9,12 @@
 要素名ではなく**振る舞い**で書く(HC-080)。カードの数は要素名ではなく grid の子の総数で数え、
 再描画のたびに要素を引き直す。異常は終了コードで知らせる。
 
-  python tools/inspect_page.py             # 検品して結果を出す(異常があれば exit 1)
+  python tools/inspect_page.py             # 手元の out/index.html を検品(異常があれば exit 1)
+  python tools/inspect_page.py --url https://hyakugaku-lens.vercel.app   # 本番を検品
   python tools/inspect_page.py --shot 出力先.png
+
+**手元で緑でも、配られた木で動くとは限らない。** 公開したループでは `--url` で本番にも当てる。
+比較の基準(カード数・分類ごとの人数)は手元の data から取るので、本番が古い版のままなら落ちる。
 """
 from __future__ import annotations
 
@@ -47,7 +51,11 @@ def main(argv: list[str]) -> int:
         errors: list[str] = []
         page.on("pageerror", lambda e: errors.append(str(e)))
         page.on("console", lambda m: errors.append(m.text) if m.type == "error" else None)
-        page.goto(PAGE, wait_until="load")
+        target = PAGE
+        if "--url" in argv:
+            target = argv[argv.index("--url") + 1]
+        print(f"  対象: {target}")
+        page.goto(target, wait_until="load")
 
         # --- 検品器の陽性対照 ---------------------------------------
         check(page.locator("#this-id-does-not-exist").count() == 0,
