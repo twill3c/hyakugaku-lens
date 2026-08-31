@@ -1,11 +1,18 @@
 # -*- coding: utf-8 -*-
-"""researchmap の氏名検索から、所属まで一致した本人のプロフィールだけを採る。
+"""【使用停止】researchmap の氏名検索から本人のプロフィールを同定していた道具。
 
-同姓同名の誤帰属を避けるため、**氏名の一致だけでは採らない**。検索でヒットした
-プロフィールを実際に開き、氏名と所属キーワードの両方が載っていることを確かめる(二要素同定)。
+**この道具は使ってはならない。** researchmap の robots.txt は `/researchers`(氏名検索)を
+Disallow している。loop_001 で 19 回叩いたあと、loop_004 でそれに気づいた ——
+**取得の前に robots.txt を読む**という手順が抜けていた。
 
-入力 JSONL: {"n": 表示名, "q": 検索語, "inst": ["所属キーワード", ...]}
+得られた 19 件のプロフィール URL は、公開プロフィール直下(`/<id>`。robots で許可されている)
+への到達と氏名一致を `tools/verify_links.py` が改めて確かめており、出荷データはそのまま使える。
+業績の収集は `/*/published_papers/` を含む下位ページがすべて Disallow のため行わない。
+
+再現の必要が出た場合は、researchmap の公式 API か sitemap.xml から辿る経路を先に探すこと。
+ソースは経緯の記録として残す(実行はしない)。
 """
+
 from __future__ import annotations
 
 import json
@@ -73,4 +80,4 @@ def main(path: str, out: str) -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main(sys.argv[1], sys.argv[2]))
+    raise SystemExit("この道具は使用停止(researchmap の robots.txt が /researchers を Disallow)")
