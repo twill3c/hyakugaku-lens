@@ -1,42 +1,511 @@
 {
  "bucket": 1,
- "ok": 10,
- "attempted": 50,
+ "ok": 11,
+ "attempted": 12,
  "people": [
   {
    "n": "ルチアーノ・フロリディ",
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 16,
    "dropped": {
-    "題名に氏名が無い": 3
+    "題名に氏名が無い": 9
    },
-   "candidates": []
+   "candidates": [
+    {
+     "d": "2026-05-18",
+     "t": "Che cos'è la CONOSCENZA? | FILOSOFIA con Luciano Floridi",
+     "u": "https://www.youtube.com/watch?v=hNNMQG7LQ8c",
+     "s": "yt",
+     "o": "ORBITS - Luciano Floridi"
+    },
+    {
+     "d": "2026-05-20",
+     "t": "Luciano Floridi - Distant Writing, AI, Authorship, and the Transformation of Kn",
+     "u": "https://www.youtube.com/watch?v=EydKRqHF4pw",
+     "s": "yt",
+     "o": "Digital Futures: Research Hub for Digitalization"
+    },
+    {
+     "d": "2026-03-13",
+     "t": "Luciano Floridi - How Life Could Flourish in the Information Ocean (Worthy Successor, Episode 25)",
+     "u": "https://www.youtube.com/watch?v=0ExWk5H02hM",
+     "s": "yt",
+     "o": "The Trajectory with Dan Faggella"
+    },
+    {
+     "d": "2026-04-01",
+     "t": "I Mestieri dell’arte - conferenza di Luciano Floridi - 18 marzo 2026",
+     "u": "https://www.youtube.com/watch?v=k9LpuYWH2Us",
+     "s": "yt",
+     "o": "Labs Sapienza"
+    },
+    {
+     "d": "2026-06-29",
+     "t": "Riscopriamo l'ONTOLOGIA per capire l'IA | FILOSOFIA con Luciano Floridi",
+     "u": "https://www.youtube.com/watch?v=6fFy8RqlSug",
+     "s": "yt",
+     "o": "ORBITS - Luciano Floridi"
+    },
+    {
+     "d": "2026-06-15",
+     "t": "Sul valore della SPERANZA | FILOSOFIA con Luciano Floridi",
+     "u": "https://www.youtube.com/watch?v=bC5DC6BeQEM",
+     "s": "yt",
+     "o": "ORBITS - Luciano Floridi"
+    },
+    {
+     "d": "2026-08-09",
+     "t": "Luciano Floridi al Libro Possibile 2026",
+     "u": "https://www.youtube.com/watch?v=fFi7MXiJoIo",
+     "s": "yt",
+     "o": "Il Libro Possibile "
+    },
+    {
+     "d": "2026-06-03",
+     "t": "Un po' di SCETTICISMO... fa bene | FILOSOFIA con Luciano Floridi",
+     "u": "https://www.youtube.com/watch?v=9qx37yQ-pUw",
+     "s": "yt",
+     "o": "ORBITS - Luciano Floridi"
+    },
+    {
+     "d": "2026-06-11",
+     "t": "L'umano troppo umano dietro l'intelligenza artificiale. Con Luciano Floridi",
+     "u": "https://www.youtube.com/watch?v=oKHtO-9v_wU",
+     "s": "yt",
+     "o": "Gazzetta filosofica"
+    },
+    {
+     "d": "2026-06-10",
+     "t": "Luciano Floridi | Lectio Magistralis \"Tecnologie della speranza\"",
+     "u": "https://www.youtube.com/watch?v=SlsdOX0Gpr8",
+     "s": "yt",
+     "o": "Play Uniud"
+    },
+    {
+     "d": "2026-03-28",
+     "t": "Dentro l’IA: la Vicepresidente Anna Ascani dialoga con il Professor Luciano Floridi",
+     "u": "https://www.youtube.com/watch?v=GiGx3LY0n_I",
+     "s": "yt",
+     "o": "cameradeideputati"
+    },
+    {
+     "d": "2026-03-08",
+     "t": "Barbara Carfagna con Kia Nobre e Luciano Floridi",
+     "u": "https://www.youtube.com/watch?v=mBq-rPop7VA",
+     "s": "yt",
+     "o": "barbara carfagna"
+    },
+    {
+     "d": "2026-07-25",
+     "t": "Luciano Floridi - Agencia Sin Inteligencia -  podcast filosófico",
+     "u": "https://www.youtube.com/watch?v=AN9ijnsCzBQ",
+     "s": "yt",
+     "o": "Filo Errante"
+    },
+    {
+     "d": "2026-04-17",
+     "t": "Intelligenza Artificiale raccontata da Luciano Floridi",
+     "u": "https://www.youtube.com/watch?v=QlEqapwJJZA",
+     "s": "yt",
+     "o": "Geeks Academy"
+    },
+    {
+     "d": "2026-08-04",
+     "t": "Luciano Floridi y la condición onlife - Podcast filosófico",
+     "u": "https://www.youtube.com/watch?v=Ql0a-RmgEQE",
+     "s": "yt",
+     "o": "Filo Errante"
+    },
+    {
+     "d": "2026-03-24",
+     "t": "Penjelasan Lengkap Buku The Ethics of Artificial Intelligence Karya Luciano Floridi",
+     "u": "https://www.youtube.com/watch?v=L2hr3GjZcBk",
+     "s": "yt",
+     "o": "Taufik Purbo Satrio"
+    }
+   ]
   },
   {
    "n": "ピーター・シンガー",
    "ok": true,
-   "count": 1,
+   "count": 15,
    "dropped": {
-    "題名に氏名が無い": 24
+    "題名に氏名が無い": 10
    },
    "candidates": [
     {
-     "d": "2026-07-21",
-     "t": "【世界的哲学者、大いに語る】「愛国心」の取り扱い方／日本の「動物」が置かれた過酷すぎる環境／寄付の広げ方／ピーター・シンガー／THINKpod",
-     "u": "https://www.youtube.com/watch?v=8qp6i6nDl-k",
+     "d": "2026-07-03",
+     "t": "‘I’ve mellowed a little bit’: Peter Singer on the limit of free speech and his guidance for giving",
+     "u": "https://www.youtube.com/watch?v=5E-QhB-t0m0",
      "s": "yt",
-     "o": "THINKpod /シンクポッド"
+     "o": "The Sydney Morning Herald and The Age"
+    },
+    {
+     "d": "2026-04-20",
+     "t": "Peter Singer on Maximizing Good for All Sentient Creatures | Mindscape 351",
+     "u": "https://www.youtube.com/watch?v=-URgAbSKrH4",
+     "s": "yt",
+     "o": "Sean Carroll"
+    },
+    {
+     "d": "2026-03-26",
+     "t": "Is Eating Meat Ethical? A Conversation with Peter Singer",
+     "u": "https://www.youtube.com/watch?v=61Mvn5g_M-Q",
+     "s": "yt",
+     "o": "Ett år för djuren och jorden"
+    },
+    {
+     "d": "2026-03-24",
+     "t": "The AI Sending People to Prison Is Racially Biased — And No One Is Stopping It | Peter Singer",
+     "u": "https://www.youtube.com/watch?v=Q0__JZi3SqM",
+     "s": "yt",
+     "o": "Human Layer AI"
+    },
+    {
+     "d": "2026-03-30",
+     "t": "Can You Be a Good Person in 2026? 'Most Influential Living Philosopher' Peter Singer explains",
+     "u": "https://www.youtube.com/watch?v=DDM4TNWxkx8",
+     "s": "yt",
+     "o": "Osher Günsberg"
+    },
+    {
+     "d": "2026-07-20",
+     "t": "Peter Singer CORNERS Christian on Why a Loving God Allows Suffering",
+     "u": "https://www.youtube.com/watch?v=9YJUpgn9rc8",
+     "s": "yt",
+     "o": "Skeptic Scriptura"
+    },
+    {
+     "d": "2026-03-26",
+     "t": "AI, Ethics and Animals with Peter Singer, Tse Yip Fai, Simon Coghlan and Christine Parker",
+     "u": "https://www.youtube.com/watch?v=JcEAg_OOKpc",
+     "s": "yt",
+     "o": "Centre for AI and Digital Ethics"
+    },
+    {
+     "d": "2026-05-10",
+     "t": "\"Ethics Without Religion\" - Peter Singer",
+     "u": "https://www.youtube.com/watch?v=cxxiuCxvo9Y",
+     "s": "yt",
+     "o": "atheist.archive"
+    },
+    {
+     "d": "2026-07-29",
+     "t": "Ep. 116 'Journal of Controversial Ideas' with Prof. Peter Singer",
+     "u": "https://www.youtube.com/watch?v=v4K5B6vgy-k",
+     "s": "yt",
+     "o": "So to Speak: The Free Speech Podcast"
+    },
+    {
+     "d": "2026-08-15",
+     "t": "Peter Singer vs Brian Wong: Evidence and Conviction in Philanthropy | Presented by GiveWise",
+     "u": "https://www.youtube.com/watch?v=HYmmYQ8kHtY",
+     "s": "yt",
+     "o": "Effective Altruism Hong Kong"
+    },
+    {
+     "d": "2026-07-24",
+     "t": "PETER SINGER TURNS 80!! 🎂",
+     "u": "https://www.youtube.com/watch?v=Sg7i0tXyhyg",
+     "s": "yt",
+     "o": "Peter Singer"
+    },
+    {
+     "d": "2026-04-14",
+     "t": "How Peter Singer DESTROYED the Way We Think ? | Philosophy To Sleep",
+     "u": "https://www.youtube.com/watch?v=CbnZkiDMk7w",
+     "s": "yt",
+     "o": "The Sleep Philosopher"
+    },
+    {
+     "d": "2026-08-25",
+     "t": "Peter Singer: Animal Liberation and the Next Moral Frontier",
+     "u": "https://www.youtube.com/watch?v=d9xg5x4Rp6k",
+     "s": "yt",
+     "o": "Zoe Weil"
+    },
+    {
+     "d": "2026-07-30",
+     "t": "Philosophy Bites - Peter Singer on Ending Innocent Lives",
+     "u": "https://www.youtube.com/watch?v=UmgbYFR0yqI",
+     "s": "yt",
+     "o": "Gonja Ladd"
+    },
+    {
+     "d": "2026-08-22",
+     "t": "Peter Singer vs. Ayn Rand: Altruism vs. Egoism",
+     "u": "https://www.youtube.com/watch?v=t0anvlN6yW8",
+     "s": "yt",
+     "o": "Dan Norton"
     }
    ]
   },
   {
    "n": "マーク・クーケルバーク",
-   "ok": false,
-   "count": 0,
-   "candidates": []
+   "ok": true,
+   "count": 3,
+   "dropped": {
+    "題名に氏名が無い": 9
+   },
+   "candidates": [
+    {
+     "d": "2026-07-02",
+     "t": "Postdigital Backlash: Past, Present, Future - Keynote Mark Coeckelbergh, University of Vienna",
+     "u": "https://www.youtube.com/watch?v=OTWajIbtKtk",
+     "s": "yt",
+     "o": "TVZ_Multimedija"
+    },
+    {
+     "d": "2026-07-20",
+     "t": "Cái bẫy \"hoàn thiện bản thân\" (2022): Giữ vững bản sắc giữa kỷ nguyên AI - Mark Coeckelbergh",
+     "u": "https://www.youtube.com/watch?v=cozn8a1bhx8",
+     "s": "yt",
+     "o": "Sách nói Peace"
+    },
+    {
+     "d": "2026-07-01",
+     "t": "文組的時代來臨！？AI巨頭為何重金搶聘「哲學家」？這群哲學家正在決定AI的未來！ / Mark Coeckelbergh《AI世代》",
+     "u": "https://www.youtube.com/watch?v=ZQbqMt5d_G8",
+     "s": "yt",
+     "o": "超級歪 SuperY"
+    }
+   ]
   },
   {
    "n": "スーザン・シュナイダー",
+   "ok": true,
+   "count": 6,
+   "dropped": {
+    "題名に氏名が無い": 19
+   },
+   "candidates": [
+    {
+     "d": "2026-07-27",
+     "t": "Ask Me Anything with Susan Schneider & Robert Lawrence Kuhn: Can AI Think Without Feeling? (Part 2)",
+     "u": "https://www.youtube.com/watch?v=PpD3vogm1Ms",
+     "s": "yt",
+     "o": "Closer To Truth"
+    },
+    {
+     "d": "2026-08-16",
+     "t": "The Biggest AI Risks Ahead | Susan Schneider",
+     "u": "https://www.youtube.com/watch?v=SFGrpOE0hEM",
+     "s": "yt",
+     "o": "Closer To Truth"
+    },
+    {
+     "d": "2026-05-06",
+     "t": "Susan Schneider - From Circuits to Sentience: Why Digital Chatbots Aren’t Conscious but ...",
+     "u": "https://www.youtube.com/watch?v=-AIXanPrLF4",
+     "s": "yt",
+     "o": "Models of Consciousness Conferences"
+    },
+    {
+     "d": "2026-08-03",
+     "t": "Ask Me Anything with Susan Schneider & Robert Lawrence Kuhn: Can You Upload Your Mind? (Part 3)",
+     "u": "https://www.youtube.com/watch?v=9YSLK40AWwY",
+     "s": "yt",
+     "o": "Closer To Truth"
+    },
+    {
+     "d": "2026-07-20",
+     "t": "Ask Me Anything with Susan Schneider and Robert Lawrence Kuhn (Part I)",
+     "u": "https://www.youtube.com/watch?v=zWXVaMCvkb0",
+     "s": "yt",
+     "o": "Closer To Truth"
+    },
+    {
+     "d": "2026-06-22",
+     "t": "BSSA Webinar | Climate change and its impacts on health - Dr. Susan Schneider, USA",
+     "u": "https://www.youtube.com/watch?v=IBHGvfzhBGM",
+     "s": "yt",
+     "o": "Breakthrough Science Society - Abroad Chapter"
+    }
+   ]
+  },
+  {
+   "n": "ウィリアム・マッカスキル",
+   "ok": true,
+   "count": 2,
+   "dropped": {
+    "題名に氏名が無い": 21
+   },
+   "candidates": [
+    {
+     "d": "2026-05-11",
+     "t": "AI & The Race for Global Power: China vs US | William MacAskill",
+     "u": "https://www.youtube.com/watch?v=KVbw4j__FOc",
+     "s": "yt",
+     "o": "The Rest Is Politics: Leading"
+    },
+    {
+     "d": "2026-07-12",
+     "t": "#36 William MacAskill: The Science of Doing Good",
+     "u": "https://www.youtube.com/watch?v=ukqbvKZQW0s",
+     "s": "yt",
+     "o": "Zenvora Productions"
+    }
+   ]
+  },
+  {
+   "n": "カリッサ・ヴェリス",
+   "ok": true,
+   "count": 19,
+   "dropped": {
+    "題名に氏名が無い": 6
+   },
+   "candidates": [
+    {
+     "d": "2026-04-19",
+     "t": "How AI Will Destroy Our Society (Carissa Véliz)",
+     "u": "https://www.youtube.com/watch?v=E00mNfH75qM",
+     "s": "yt",
+     "o": "Privacy Guides"
+    },
+    {
+     "d": "2026-07-22",
+     "t": "Carissa Véliz: Are AI \"Prophecies\" Dictating Your Future? | Lavin Voices",
+     "u": "https://www.youtube.com/watch?v=yqNqGPh1QVQ",
+     "s": "yt",
+     "o": "The Lavin Agency"
+    },
+    {
+     "d": "2026-04-22",
+     "t": "Are We Too Obsessed With AI Predictions? — With Carissa Véliz",
+     "u": "https://www.youtube.com/watch?v=TWbg2HYucZU",
+     "s": "yt",
+     "o": "Alex Kantrowitz"
+    },
+    {
+     "d": "2026-05-19",
+     "t": "Who controls the future? I Carissa Véliz I RSA REPLAY",
+     "u": "https://www.youtube.com/watch?v=qKy7sDT2MwQ",
+     "s": "yt",
+     "o": "Royal Society of Arts"
+    },
+    {
+     "d": "2026-05-20",
+     "t": "The Limits of Predictive AI - Oxford Philosopher Carissa Véliz | The Most Interesting Thing in AI",
+     "u": "https://www.youtube.com/watch?v=jL-5MR6_oP0",
+     "s": "yt",
+     "o": "Nicholas Thompson"
+    },
+    {
+     "d": "2026-05-28",
+     "t": "Carissa Véliz on the dangers of predictive AI",
+     "u": "https://www.youtube.com/watch?v=-Utj359k_6M",
+     "s": "yt",
+     "o": "Sifted"
+    },
+    {
+     "d": "2026-05-12",
+     "t": "Prophecy: Prediction, Power and the Future of AI: A Conversation with Associate Prof. Carissa Véliz",
+     "u": "https://www.youtube.com/watch?v=ig6PNYbw4HY",
+     "s": "yt",
+     "o": "Institute for Ethics in AI Oxford"
+    },
+    {
+     "d": "2026-07-10",
+     "t": "Lawfare Daily: Prophecy, Prediction, and Power with Carissa Véliz",
+     "u": "https://www.youtube.com/watch?v=Ur-UPmjFxFs",
+     "s": "yt",
+     "o": "Lawfare"
+    },
+    {
+     "d": "2026-06-02",
+     "t": "Carissa Véliz and Tim Wu: Why AI is the New Oracle of Delphi",
+     "u": "https://www.youtube.com/watch?v=1zGfbYJ55iw",
+     "s": "yt",
+     "o": "The 92nd Street Y, New York"
+    },
+    {
+     "d": "2026-05-15",
+     "t": "Human Relationships in an Artificial World with Carissa Véliz and Jonathan Zittrain",
+     "u": "https://www.youtube.com/watch?v=tAd5-X-V4JM",
+     "s": "yt",
+     "o": "Edmond & Lily Safra Center for Ethics Harvard"
+    },
+    {
+     "d": "2026-06-17",
+     "t": "Tech & Society. Carissa Véliz",
+     "u": "https://www.youtube.com/watch?v=48oW69sVgw8",
+     "s": "yt",
+     "o": "Espacio Fundación Telefónica Madrid"
+    },
+    {
+     "d": "2026-04-23",
+     "t": "How AI Predictions Can Shape the Future | Carissa Véliz",
+     "u": "https://www.youtube.com/watch?v=O6bNS1bC5Vw",
+     "s": "yt",
+     "o": "AI-Curious"
+    },
+    {
+     "d": "2026-05-19",
+     "t": "Prophecy, Power, and the Algorithm — with Carissa Véliz of Oxford's Institute for Ethics in AI",
+     "u": "https://www.youtube.com/watch?v=lcdzxOeH6Dk",
+     "s": "yt",
+     "o": "Talkin' Politics & Religion W/o Killin' Each Other"
+    },
+    {
+     "d": "2026-06-04",
+     "t": "657. Prophecy and Prediction: Exploring AI’s Future with Carissa Véliz",
+     "u": "https://www.youtube.com/watch?v=qDvQTlOCi4U",
+     "s": "yt",
+     "o": "unSILOed Podcast with Greg LaBlanc"
+    },
+    {
+     "d": "2026-08-19",
+     "t": "The Anxiety of Being Human: Why We Need To Know What’s Next with Oxford Philosopher Carissa Véliz",
+     "u": "https://www.youtube.com/watch?v=G6N_MBfUE9U",
+     "s": "yt",
+     "o": "What Could Go Right? Podcast"
+    },
+    {
+     "d": "2026-05-06",
+     "t": "Whoever holds our data holds the power with Carissa Véliz | The We Society S10 Ep7",
+     "u": "https://www.youtube.com/watch?v=Flsob3o_N8c",
+     "s": "yt",
+     "o": "Academy of Social Sciences"
+    },
+    {
+     "d": "2026-08-30",
+     "t": "Carissa Véliz: navigating LLM constraints in the pursuit of AI ethics",
+     "u": "https://www.youtube.com/watch?v=bqA4uPz2x-Y",
+     "s": "yt",
+     "o": "Masters of Privacy"
+    },
+    {
+     "d": "2026-06-16",
+     "t": "Carissa Véliz op Media voor Democratie 2026 - interview door Sophie Derkzen",
+     "u": "https://www.youtube.com/watch?v=c5TtlDdxVSs",
+     "s": "yt",
+     "o": "Stichting Democratie en Media"
+    },
+    {
+     "d": "2026-05-21",
+     "t": "Responsible Tech Book Talk With Carissa Véliz, Author of Prophecy",
+     "u": "https://www.youtube.com/watch?v=C629MRM6WOU",
+     "s": "yt",
+     "o": "All Tech Is Human"
+    }
+   ]
+  },
+  {
+   "n": "ヴィンセント・C・ミュラー",
+   "ok": true,
+   "count": 1,
+   "candidates": [
+    {
+     "d": "2026-04-24",
+     "t": "Vincent C. Müller - AI Is Accelerating - But Toward What? (Worthy Successor, Episode 28)",
+     "u": "https://www.youtube.com/watch?v=Bci8dcJvUpk",
+     "s": "yt",
+     "o": "The Trajectory with Dan Faggella"
+    }
+   ]
+  },
+  {
+   "n": "ペーター=ポール・フェルベーク",
    "ok": false,
    "count": 0,
    "dropped": {
@@ -45,685 +514,376 @@
    "candidates": []
   },
   {
-   "n": "ウィリアム・マッカスキル",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 2
-   },
-   "candidates": []
-  },
-  {
-   "n": "カリッサ・ヴェリス",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 20
-   },
-   "candidates": []
-  },
-  {
-   "n": "ヴィンセント・C・ミュラー",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 25
-   },
-   "candidates": []
-  },
-  {
-   "n": "ペーター=ポール・フェルベーク",
-   "ok": true,
-   "count": 22,
-   "dropped": {
-    "題名に氏名が無い": 3
-   },
-   "candidates": [
-    {
-     "d": "2026-04-05",
-     "t": "【あつ森】オネエの離島ガチャNEW ～ペーターを探し求めて～ #11【ゲーム実況】",
-     "u": "https://www.youtube.com/watch?v=CRdMomfOBKE",
-     "s": "yt",
-     "o": "リョウティー"
-    },
-    {
-     "d": "2026-05-16",
-     "t": "【あつ森】オネエの離島ガチャNEW ～ペーターを探し求めて～ #14【ゲーム実況】",
-     "u": "https://www.youtube.com/watch?v=fOTv_S_OkAg",
-     "s": "yt",
-     "o": "リョウティー"
-    },
-    {
-     "d": "2026-05-10",
-     "t": "「リスク社会  ― 生存・文化・教育」の考察 #ウルリヒ・ベック、# ペーター・コスロフスキー、#クラウス・ミヒャエル・マイヤー=アービッヒ、#ベルンハルト・クラウセン",
-     "u": "https://www.youtube.com/watch?v=lie2cnzVd2s",
-     "s": "yt",
-     "o": "トリクルダウン　チャンネル"
-    },
-    {
-     "d": "2026-06-21",
-     "t": "吸血鬼と呼ばれた男…ペーター・キュルテンの狂気",
-     "u": "https://www.youtube.com/watch?v=tuD4VNMYUyA",
-     "s": "yt",
-     "o": "世界事件簿ラボ【聞き流し】"
-    },
-    {
-     "d": "2026-06-19",
-     "t": "【あつ森】オネエの離島ガチャNEW ～ペーターを探し求めて～ #16 (終)【ゲーム実況】",
-     "u": "https://www.youtube.com/watch?v=_3_3VHkZa0Q",
-     "s": "yt",
-     "o": "リョウティー"
-    },
-    {
-     "d": "2026-04-20",
-     "t": "この演出家がすごい！ペーター・コンヴィチュニー",
-     "u": "https://www.youtube.com/watch?v=7W642UGJIMc",
-     "s": "yt",
-     "o": "有馬 慶"
-    },
-    {
-     "d": "2026-04-02",
-     "t": "【あつ森】オネエの離島ガチャNEW ～ペーターを探し求めて～ #10【ゲーム実況】",
-     "u": "https://www.youtube.com/watch?v=MyN8dVNIEug",
-     "s": "yt",
-     "o": "リョウティー"
-    },
-    {
-     "d": "2026-04-03",
-     "t": "【あつ森BGM】喫茶ハトの巣☕｜ペーターと過ごす癒しの４時間｜作業用・勉強用｜Animal Crossing 🎧 Cozy Roost Café ambience | Study & Work Aid",
-     "u": "https://www.youtube.com/watch?v=5Aye93QH5cc",
-     "s": "yt",
-     "o": "Dreamy Crossing"
-    },
-    {
-     "d": "2026-07-18",
-     "t": "ライブ配信！ミュンヘン (München) 聖ペーター教会の塔から絶景&街歩き",
-     "u": "https://www.youtube.com/watch?v=8GmmYDPuUQ4",
-     "s": "yt",
-     "o": "ドイツ発 - 街歩きガイドKeikoと行くお城&絶景旅"
-    },
-    {
-     "d": "2026-05-09",
-     "t": "【あつ森】オネエの離島ガチャNEW ～ペーターを探し求めて～ #13【ゲーム実況】",
-     "u": "https://www.youtube.com/watch?v=7HTteq-uxEo",
-     "s": "yt",
-     "o": "リョウティー"
-    },
-    {
-     "d": "2026-04-03",
-     "t": "【#11ペーター】 どうぶつの森ブランケットへの道　Road to 100! Animal Crossing Blanket Project #11: Beau Motif",
-     "u": "https://www.youtube.com/watch?v=yS9qSLEFAsM",
-     "s": "yt",
-     "o": "Crochet Time"
-    },
-    {
-     "d": "2026-03-11",
-     "t": "2025/03 聖ペーター教会にて",
-     "u": "https://www.youtube.com/watch?v=o99ldkhKEBE",
-     "s": "yt",
-     "o": "Atelier Petit reve"
-    },
-    {
-     "d": "2026-05-24",
-     "t": "【あつ森】オネエの離島ガチャNEW ～ペーターを探し求めて～ #15【ゲーム実況】",
-     "u": "https://www.youtube.com/watch?v=AiTnZ7VqNCs",
-     "s": "yt",
-     "o": "リョウティー"
-    },
-    {
-     "d": "2026-05-22",
-     "t": "ペーター･キュルテン デュッセルドルフの吸血鬼",
-     "u": "https://www.youtube.com/watch?v=G9_pyeYGK7k",
-     "s": "yt",
-     "o": "ゆっくり重大事故調査室"
-    },
-    {
-     "d": "2026-07-11",
-     "t": "第147回　『ハンコアーティスト・ペーターがゲストです❣️ 後編』  ニョッシィの『OH! NYO!』2026.6月後半放送分",
-     "u": "https://www.youtube.com/watch?v=WO5biGYb6Vc",
-     "s": "yt",
-     "o": "OH! NYO-! チャンネル"
-    },
-    {
-     "d": "2026-03-11",
-     "t": "ペーター Drive VLOG #12  Go Back to Fukuoka from Beppu",
-     "u": "https://www.youtube.com/watch?v=QaMoQOpam14",
-     "s": "yt",
-     "o": "Peter "
-    },
-    {
-     "d": "2026-06-10",
-     "t": "#45 ウィーンvlog🇦🇹/2日間でお城とインテリアを楽しむ/DEMEL/カフェザッハー/ペーター教会オルガンコンサート/市街地散策/ベルヴェデーレ宮殿/シェーンブルン宮殿/シュテファン大聖堂",
-     "u": "https://www.youtube.com/watch?v=Q-LH3a20Xls",
-     "s": "yt",
-     "o": "Katy mama life"
-    },
-    {
-     "d": "2026-06-13",
-     "t": "♋️蟹座 \"アルプスからペーターが見ていた\" 6月後半タロット占い JUNE 16TH - 30TH （2026/6/13)",
-     "u": "https://www.youtube.com/watch?v=RpFiYlIoB9c",
-     "s": "yt",
-     "o": "AFUAKITTY"
-    },
-    {
-     "d": "2026-04-20",
-     "t": "【あつ森】オネエの離島ガチャNEW ～ペーターを探し求めて～ #12【ゲーム実況】",
-     "u": "https://www.youtube.com/watch?v=wsu_x6JB85c",
-     "s": "yt",
-     "o": "リョウティー"
-    },
-    {
-     "d": "2026-04-12",
-     "t": "【あつ森】ペーターのパン屋さん造り！シトラスミン島＊37日目＊【生放送】",
-     "u": "https://www.youtube.com/watch?v=dOtTIsPBDuc",
-     "s": "yt",
-     "o": "まりぺんの森"
-    },
-    {
-     "d": "2026-08-12",
-     "t": "【大掃除】ペーターの部屋を掃除しに行こう【ゴミ屋敷？】",
-     "u": "https://www.youtube.com/watch?v=4p-jjfGaBZc",
-     "s": "yt",
-     "o": "グレアムズ"
-    },
-    {
-     "d": "2026-03-29",
-     "t": "【あつ森】ペーターのパン屋さん造り！後半参加型夢の島！シトラスミン島＊36日目＊【生放送】",
-     "u": "https://www.youtube.com/watch?v=_H7HbiDZKg4",
-     "s": "yt",
-     "o": "まりぺんの森"
-    }
-   ]
-  },
-  {
    "n": "ユク・ホイ",
    "ok": true,
-   "count": 1,
+   "count": 12,
    "dropped": {
-    "題名に氏名が無い": 4
+    "題名に氏名が無い": 13
    },
    "candidates": [
     {
-     "d": "2026-04-08",
-     "t": "【聞き流す、人類学。読書会】ユク・ホイ『ポストヨーロッパ』を読む【講師　宮脇陸人】",
-     "u": "https://www.youtube.com/watch?v=-dSgWDPa498",
+     "d": "2026-08-24",
+     "t": "21/05 - Do (curto)circuito entre Vilém Flusser e Yuk Hui | Gabriel Philipson (Unicamp)",
+     "u": "https://www.youtube.com/watch?v=k8mQDc0Sm80",
      "s": "yt",
-     "o": "聞き流す、人類学。"
+     "o": "Artes e Design PUC-Rio"
+    },
+    {
+     "d": "2026-08-22",
+     "t": "EXISTIR EN INTERNET. OBJETOS DIGITALES Y YUK HUI",
+     "u": "https://www.youtube.com/watch?v=Obtvzbr6MAw",
+     "s": "yt",
+     "o": "Malasombra"
+    },
+    {
+     "d": "2026-04-10",
+     "t": "Introducción a 'Post-Europa' de Yuk Hui [1/5]",
+     "u": "https://www.youtube.com/watch?v=LBm0DgCf0E0",
+     "s": "yt",
+     "o": " 🗡️InDagando📚"
+    },
+    {
+     "d": "2026-03-10",
+     "t": "Lo Inhumano o lo Orgánico No-humano | Recursividad y contingencia ~ Yuk Hui [7/7]",
+     "u": "https://www.youtube.com/watch?v=fPo6FsEJaGQ",
+     "s": "yt",
+     "o": " 🗡️InDagando📚"
+    },
+    {
+     "d": "2026-03-06",
+     "t": "Lo Inorgánico Organizado y lo Inorgánico Organizante | Recursividad y contingencia ~ Yuk Hui [6/7]",
+     "u": "https://www.youtube.com/watch?v=QZsYGiRbykE",
+     "s": "yt",
+     "o": " 🗡️InDagando📚"
+    },
+    {
+     "d": "2026-04-29",
+     "t": "«NOSOTROS Y LAS MÁQUINAS: UNA CONVERSACIÓN CON YUK HUI»",
+     "u": "https://www.youtube.com/watch?v=4nxmaALIj28",
+     "s": "yt",
+     "o": "Contemporánea Condeduque"
+    },
+    {
+     "d": "2026-07-27",
+     "t": "Yuk Hui: Kde domov náš? Tradice v době bezdomovectví",
+     "u": "https://www.youtube.com/watch?v=VF0RRMrDIDU",
+     "s": "yt",
+     "o": "Echo Podcasty"
+    },
+    {
+     "d": "2026-03-09",
+     "t": "55 - HEIDEGGER i YUK HUI. Prometeu Hackejat: el desgavell de la tecnologia.",
+     "u": "https://www.youtube.com/watch?v=7PXbr1wEYPg",
+     "s": "yt",
+     "o": "Filosofía para Pingüinos"
+    },
+    {
+     "d": "2026-06-30",
+     "t": "TAD: Ontología de la fragmentación en Yuk Hui.",
+     "u": "https://www.youtube.com/watch?v=t6mpJ9zHLC8",
+     "s": "yt",
+     "o": "Maestria en Comunicacion y Politica"
+    },
+    {
+     "d": "2026-04-17",
+     "t": "Globalización, Universalismo y Colonialismo Tecnológico | Post-Europa ~ Yuk Hui [3/5]",
+     "u": "https://www.youtube.com/watch?v=BLelFx7YNks",
+     "s": "yt",
+     "o": " 🗡️InDagando📚"
+    },
+    {
+     "d": "2026-04-14",
+     "t": "Europa como Proyecto Metafísico y Tecnológico | Post-Europa ~ Yuk Hui [2/5]",
+     "u": "https://www.youtube.com/watch?v=NfWH-pLgFPU",
+     "s": "yt",
+     "o": " 🗡️InDagando📚"
+    },
+    {
+     "d": "2026-04-24",
+     "t": "Post-Europa: Síntesis entre Oriente y Occidente | Post-Europa ~ Yuk Hui [5/5]",
+     "u": "https://www.youtube.com/watch?v=sm7FgLBztdc",
+     "s": "yt",
+     "o": " 🗡️InDagando📚"
     }
    ]
   },
   {
    "n": "ビョンチョル・ハン",
    "ok": true,
-   "count": 3,
+   "count": 21,
    "dropped": {
-    "題名に氏名が無い": 22
+    "題名に氏名が無い": 4
    },
    "candidates": [
     {
-     "d": "2026-08-22",
-     "t": "【告知有り】『現代人は「自分が悪い」と洗脳されているんだよ』哲学者ビョンチョル・ハン/疲労社会",
-     "u": "https://www.youtube.com/watch?v=RbF6uzTcJh0",
+     "d": "2026-04-30",
+     "t": "Psychopolitics by Byung-Chul Han | Full Book Summary Podcast",
+     "u": "https://www.youtube.com/watch?v=vVjWujSk_gQ",
      "s": "yt",
-     "o": "GabalaboCH-ガバラボ"
+     "o": "Listen & Learn Books"
     },
     {
-     "d": "2026-05-10",
-     "t": "休んでいるのに疲れるのはなぜか——「できる」があなたを静かに壊す｜ビョンチョル・ハン",
-     "u": "https://www.youtube.com/watch?v=gDOIAXcvrU8",
+     "d": "2026-04-19",
+     "t": "BYUNG-CHUL HAN : La société qui nous tue en silence",
+     "u": "https://www.youtube.com/watch?v=GH9KmIAogRg",
      "s": "yt",
-     "o": "赤と黒の境界"
+     "o": "Inspi Vibes"
     },
     {
-     "d": "2026-05-18",
-     "t": "成功が近づくと現れる3つの「残酷なサイン」｜カール・ユング × ビョンチョル・ハン × フランクル",
-     "u": "https://www.youtube.com/watch?v=kTZMK0Rdk4s",
+     "d": "2026-05-16",
+     "t": "Hablando de Dios - Byung-Chul Han",
+     "u": "https://www.youtube.com/watch?v=AqON8Pke4Dw",
      "s": "yt",
-     "o": "語られざる自分"
+     "o": "EL CUERVO BLANCO"
+    },
+    {
+     "d": "2026-07-03",
+     "t": "Affability, Attention to the Present, and Cosmic Consciousness: Byung-Chul Han and PWL",
+     "u": "https://www.youtube.com/watch?v=0hEnnsA66y4",
+     "s": "yt",
+     "o": "Palinode Productions"
+    },
+    {
+     "d": "2026-04-02",
+     "t": "SOCIEDADE DO CANSAÇO: A Filosofia de Byung-Chul Han Explicada",
+     "u": "https://www.youtube.com/watch?v=yDVOf_yNm0M",
+     "s": "yt",
+     "o": "A Filosofia Explica"
+    },
+    {
+     "d": "2026-04-10",
+     "t": "Sociedade do Cansaço | Byung-Chul Han Explica o Cansaço Moderno",
+     "u": "https://www.youtube.com/watch?v=xD2RraaY6o0",
+     "s": "yt",
+     "o": "Psi em Áudio | Resumos para Provas e Concursos"
+    },
+    {
+     "d": "2026-06-23",
+     "t": "CRÍTICA DURA AO LIVRO SOCIEDADE DO CANSAÇO (BYUNG-CHUL HAN)",
+     "u": "https://www.youtube.com/watch?v=b0jZ54DJDVI",
+     "s": "yt",
+     "o": "Prof. Daniel Gontijo"
+    },
+    {
+     "d": "2026-04-15",
+     "t": "The Agony of Eros by Byung-chul Han",
+     "u": "https://www.youtube.com/watch?v=Blg18YrFu9Q",
+     "s": "yt",
+     "o": "HETvertellen"
+    },
+    {
+     "d": "2026-06-26",
+     "t": "LA EXPERIENCIA DEL TIEMPO / Byung-Chul Han",
+     "u": "https://www.youtube.com/watch?v=xq4Yk_hvsO0",
+     "s": "yt",
+     "o": "Filosofía del Pórtico"
+    },
+    {
+     "d": "2026-05-12",
+     "t": "\"La Sociedad del Cansancio\" de Byung-Chul Han | Club de Lectura",
+     "u": "https://www.youtube.com/watch?v=dqqbLS57ZWk",
+     "s": "yt",
+     "o": "Mis Propias Finanzas"
+    },
+    {
+     "d": "2026-03-08",
+     "t": "Byung-Chul Han: No Enxame (Projeto Byung-Chul Han)",
+     "u": "https://www.youtube.com/watch?v=392FPFFtNx8",
+     "s": "yt",
+     "o": "À margem da página, por Giselle Lourenço"
+    },
+    {
+     "d": "2026-06-23",
+     "t": "L'inferno dell'Uguale: perché abbiamo smesso di incontrare l'Altro – Byung-Chul Han",
+     "u": "https://www.youtube.com/watch?v=JyhUuc8G3IQ",
+     "s": "yt",
+     "o": "Scorribande Filosofiche - Canale didattico"
+    },
+    {
+     "d": "2026-03-20",
+     "t": "El dilema de ser buena persona en un mundo que premia lo peor | El aviso de Byung-Chul Han",
+     "u": "https://www.youtube.com/watch?v=8vJLlKbUpEw",
+     "s": "yt",
+     "o": "Ensayos de Byung-Chul Han"
+    },
+    {
+     "d": "2026-06-17",
+     "t": "Hablando de Dios, la vida y la muerte | Byung-Chul Han",
+     "u": "https://www.youtube.com/watch?v=LJFrA5ZFWFg",
+     "s": "yt",
+     "o": "EL CUERVO BLANCO"
+    },
+    {
+     "d": "2026-08-27",
+     "t": "SOCIEDADE DO CANSAÇO de Byung-Chul Han (Resumo)",
+     "u": "https://www.youtube.com/watch?v=U6nouW490C4",
+     "s": "yt",
+     "o": "Ek-sistere"
+    },
+    {
+     "d": "2026-03-27",
+     "t": "The Agony of Eros by Byung-Chul Han",
+     "u": "https://www.youtube.com/watch?v=DF7B_IhEF6I",
+     "s": "yt",
+     "o": "History for Thinkers"
+    },
+    {
+     "d": "2026-06-06",
+     "t": "El régimen de la información (Byung-Chul Han)",
+     "u": "https://www.youtube.com/watch?v=AyvZtU7zXrA",
+     "s": "yt",
+     "o": "Sebastian Aros"
+    },
+    {
+     "d": "2026-07-06",
+     "t": "ERREI SOBRE \"SOCIEDADE DO CANSAÇO\" DE BYUNG-CHUL HAN?",
+     "u": "https://www.youtube.com/watch?v=WX6G7dj7S3A",
+     "s": "yt",
+     "o": "Prof. Daniel Gontijo"
+    },
+    {
+     "d": "2026-03-13",
+     "t": "Por qué la cultura del “sé tú mismo” es una trampa perfecta | Byung-Chul Han",
+     "u": "https://www.youtube.com/watch?v=N1snFQMrXyw",
+     "s": "yt",
+     "o": "Worker all4"
+    },
+    {
+     "d": "2026-03-19",
+     "t": "Por qué Estados Unidos e Irán redefinen el orden mundial con esta crisis | Teoría de Byung-Chul Han",
+     "u": "https://www.youtube.com/watch?v=kiz8zJWwLTw",
+     "s": "yt",
+     "o": "Ensayos de Byung-Chul Han"
+    },
+    {
+     "d": "2026-08-27",
+     "t": "La sociedad del cansancio - Byung-Chul Han (Audiolibro)",
+     "u": "https://www.youtube.com/watch?v=tV4tJmBwHbQ",
+     "s": "yt",
+     "o": "Mi Audioteca"
     }
    ]
   },
   {
    "n": "ロージ・ブライドッティ",
-   "ok": false,
-   "count": 0,
-   "candidates": []
+   "ok": true,
+   "count": 5,
+   "dropped": {
+    "題名に氏名が無い": 20
+   },
+   "candidates": [
+    {
+     "d": "2026-04-28",
+     "t": "Rosi Braidotti: How to Redesign the Future of Humanity",
+     "u": "https://www.youtube.com/watch?v=Yoi7B9PvCIY",
+     "s": "yt",
+     "o": "Extrapolate with Rob Hof"
+    },
+    {
+     "d": "2026-03-27",
+     "t": "Borders. Rosi Braidotti. Monstruas, máquinas y devenires: ¿El feminismo más allá de lo humano?",
+     "u": "https://www.youtube.com/watch?v=iF4WJ09Kcvc",
+     "s": "yt",
+     "o": "Centro de Investigaciones Interdisciplinarias-UAQ"
+    },
+    {
+     "d": "2026-05-20",
+     "t": "Rosi Braidotti al Salone Internazionale del Libro di Torino intervistata da Daniele Monti 16/5/26",
+     "u": "https://www.youtube.com/watch?v=MSwbspUliTk",
+     "s": "yt",
+     "o": "Grazia De Sensi"
+    },
+    {
+     "d": "2026-04-23",
+     "t": "Ogni desiderio è politico, intervista con Rosi Braidotti |VIVAVOCE",
+     "u": "https://www.youtube.com/watch?v=EjanxU2_fVA",
+     "s": "yt",
+     "o": "Chora Media"
+    },
+    {
+     "d": "2026-05-22",
+     "t": "Mini Lecture Series: Rosi Braidotti's Nomadic Ethics ||",
+     "u": "https://www.youtube.com/watch?v=bo2b2q0eBfA",
+     "s": "yt",
+     "o": "Literature and Theory"
+    }
+   ]
   },
   {
    "n": "ダナ・ハラウェイ",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 3
-   },
-   "candidates": []
-  },
-  {
-   "n": "マッテオ・パスクィネッリ",
-   "ok": false,
-   "count": 0,
-   "candidates": []
-  },
-  {
-   "n": "エリック・ブリニョルフソン",
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 9,
    "dropped": {
     "題名に氏名が無い": 16
    },
-   "candidates": []
-  },
-  {
-   "n": "カール・ベネディクト・フレイ",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 5
-   },
-   "candidates": []
-  },
-  {
-   "n": "タイラー・コーエン",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 25
-   },
-   "candidates": []
-  },
-  {
-   "n": "ダイアン・コイル",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 3
-   },
-   "candidates": []
-  },
-  {
-   "n": "デイヴィッド・オーター",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 25
-   },
-   "candidates": []
-  },
-  {
-   "n": "アヴィ・ゴールドファーブ",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 4
-   },
-   "candidates": []
-  },
-  {
-   "n": "ライアン・カロ",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 25
-   },
-   "candidates": []
-  },
-  {
-   "n": "サンドラ・ワクター",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 6
-   },
-   "candidates": []
-  },
-  {
-   "n": "ジャック・バルキン",
-   "ok": false,
-   "count": 0,
-   "candidates": []
-  },
-  {
-   "n": "ジュリー・コーエン",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 2
-   },
-   "candidates": []
-  },
-  {
-   "n": "ウーゴ・パガロ",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 1
-   },
-   "candidates": []
-  },
-  {
-   "n": "シェリー・タークル",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 6
-   },
-   "candidates": []
-  },
-  {
-   "n": "ショシャナ・ズボフ",
-   "ok": true,
-   "count": 1,
-   "dropped": {
-    "題名に氏名が無い": 14
-   },
    "candidates": [
     {
-     "d": "2026-03-25",
-     "t": "【監視資本主義の時代】ショシャナ・ズボフ『The Age of Surveillance Capitalism』 をめぐる考察：現代政治・民主主義・人間の自由",
-     "u": "https://www.youtube.com/watch?v=e3jBDjTFK2E",
+     "d": "2026-06-11",
+     "t": "10 años de “Seguir con el problema” | Donna Haraway y Helen Torres. Ciclo “Conversar, lo viviente”",
+     "u": "https://www.youtube.com/watch?v=U34E7UGW8_E",
      "s": "yt",
-     "o": "トリクルダウン　チャンネル"
-    }
-   ]
-  },
-  {
-   "n": "サフィヤ・ノーブル",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 24,
-    "切り抜きの印": 1
-   },
-   "candidates": []
-  },
-  {
-   "n": "ダナ・ボイド",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 2
-   },
-   "candidates": []
-  },
-  {
-   "n": "ホセ・ファン・ダイク",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 12
-   },
-   "candidates": []
-  },
-  {
-   "n": "ルーシー・サッチマン",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 2
-   },
-   "candidates": []
-  },
-  {
-   "n": "ヘルガ・ノヴォトニー",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 1
-   },
-   "candidates": []
-  },
-  {
-   "n": "ケイト・クロフォード",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 5
-   },
-   "candidates": []
-  },
-  {
-   "n": "フランシス・フクヤマ",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 25
-   },
-   "candidates": []
-  },
-  {
-   "n": "ヘンリー・ファレル",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 6
-   },
-   "candidates": []
-  },
-  {
-   "n": "デイヴィッド・ランシマン",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 2
-   },
-   "candidates": []
-  },
-  {
-   "n": "アリソン・スタンガー",
-   "ok": false,
-   "count": 0,
-   "candidates": []
-  },
-  {
-   "n": "スティーブン・ピンカー",
-   "ok": true,
-   "count": 2,
-   "dropped": {
-    "題名に氏名が無い": 23
-   },
-   "candidates": [
-    {
-     "d": "2026-05-17",
-     "t": "【ゲーム理論】合理的になるための6つの条件と強力な推論ツール【スティーブン・ピンカー『人はどこまで合理的か』】",
-     "u": "https://www.youtube.com/watch?v=ZkJ8uabCoh4",
-     "s": "yt",
-     "o": "タキハヤトの思考実験"
+     "o": "La Casa Encendida"
     },
     {
-     "d": "2026-05-09",
-     "t": "あなたは合理的か─人間を非合理にする思考の罠【スティーブン・ピンカー『人はどこまで合理的か』】",
-     "u": "https://www.youtube.com/watch?v=Qd0QioeQflA",
+     "d": "2026-05-08",
+     "t": "Entrevista a Donna Haraway (Subtitulado ) (2014)",
+     "u": "https://www.youtube.com/watch?v=kxFPZfL8dtI",
      "s": "yt",
-     "o": "タキハヤトの思考実験"
-    }
-   ]
-  },
-  {
-   "n": "ゲアリー・マーカス",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 25
-   },
-   "candidates": []
-  },
-  {
-   "n": "マーティン・リース",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 21
-   },
-   "candidates": []
-  },
-  {
-   "n": "エイミー・ウェブ",
-   "ok": true,
-   "count": 1,
-   "dropped": {
-    "題名に氏名が無い": 2
-   },
-   "candidates": [
-    {
-     "d": "2026-03-26",
-     "t": "トレンド予測は死んだ。エイミー・ウェブが警告する「2026年の大嵐」と、私たちが生き残るための生存戦略",
-     "u": "https://www.youtube.com/watch?v=7LmjdPu1J5E",
-     "s": "yt",
-     "o": "Enjoy_Science"
-    }
-   ]
-  },
-  {
-   "n": "大澤真幸",
-   "ok": true,
-   "count": 3,
-   "dropped": {
-    "題名に氏名が無い": 9
-   },
-   "candidates": [
-    {
-     "d": "2026-07-30",
-     "t": "大澤真幸氏生出演！『私たちはどこへ向かうのか──2026年・日本社会を読み解く』（2026年7月30日20:00～生放送・前半パート）",
-     "u": "https://www.youtube.com/watch?v=OTqYQl_-7_U",
-     "s": "yt",
-     "o": "深掘TV"
+     "o": "Diffusion Offline"
     },
     {
-     "d": "2026-03-18",
-     "t": "大澤真幸氏生出演！『AFTER 15 YEARS ー311と現在のリベラル凋落の関係を解くー』（#58・2026年3月18日20:00～放送・前半パート）",
-     "u": "https://www.youtube.com/watch?v=Rke0WtY6A9I",
+     "d": "2026-05-01",
+     "t": "Donna Haraway - Storytelling for Earthly Survival  - Legendado (dir. fabrizio teranova, 2016)",
+     "u": "https://www.youtube.com/watch?v=rRuJLR7SUBU",
      "s": "yt",
-     "o": "古谷経衡チャンネル"
+     "o": "Brenno B. Demarchi"
     },
     {
-     "d": "2026-04-30",
-     "t": "ウィーナー「サイバネティックス」ー動物と機械における制御と通信　　　　　　　　　　　　　　　　　　　　　＜解説＞大澤真幸(社会学者)",
-     "u": "https://www.youtube.com/watch?v=11jWjLent94",
+     "d": "2026-08-28",
+     "t": "A Cyborg Manifesto (1985) | Donna Haraway",
+     "u": "https://www.youtube.com/watch?v=yT1j4pETXCo",
      "s": "yt",
-     "o": "tM Agncy SF"
+     "o": "Epistemophilia"
+    },
+    {
+     "d": "2026-06-27",
+     "t": "Donna Haraway's Cyborg Theory",
+     "u": "https://www.youtube.com/watch?v=50Tq0C7J9Z8",
+     "s": "yt",
+     "o": "Literature and Theory"
+    },
+    {
+     "d": "2026-08-23",
+     "t": "Manifiesto cyborg [ DONNA HARAWAY ]",
+     "u": "https://www.youtube.com/watch?v=w1kuJ-Hposo",
+     "s": "yt",
+     "o": "Pienso y no sé nada"
+    },
+    {
+     "d": "2026-05-07",
+     "t": "Il Manifesto Cyborg di Donna Haraway tra scienza e mito politico | Psicologia e Tecnologia",
+     "u": "https://www.youtube.com/watch?v=9zpAxjnVvzk",
+     "s": "yt",
+     "o": "PsyMastery"
+    },
+    {
+     "d": "2026-04-14",
+     "t": "Biblioteke 0 Općenito – „Manifest družbeničkih vrsta: Psi, ljudi i značajna drugost“, Donna Haraway",
+     "u": "https://www.youtube.com/watch?v=5k6loEP9Jpc",
+     "s": "yt",
+     "o": "Biblioteka 0 Općenito"
+    },
+    {
+     "d": "2026-04-21",
+     "t": "Aula 130 Biotecnopoder   Donna Haraway",
+     "u": "https://www.youtube.com/watch?v=clvlCMaYSMk",
+     "s": "yt",
+     "o": "Leonardo Braga Flores - Filosofia "
     }
    ]
-  },
-  {
-   "n": "西垣通",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 4
-   },
-   "candidates": []
-  },
-  {
-   "n": "鈴木貴之",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 25
-   },
-   "candidates": []
-  },
-  {
-   "n": "戸谷洋志",
-   "ok": true,
-   "count": 2,
-   "dropped": {
-    "題名に氏名が無い": 18
-   },
-   "candidates": [
-    {
-     "d": "2026-08-07",
-     "t": "なぜ私たちは「変わるべき」だと思ってしまうのか｜哲学者 戸谷洋志との対話【ほどける。】#4",
-     "u": "https://www.youtube.com/watch?v=2_tqmgyp-Ps",
-     "s": "yt",
-     "o": "大阪NEWS【テレビ大阪ニュース】"
-    },
-    {
-     "d": "2026-06-06",
-     "t": "「”SNS”ってなんだったんだろう」戸谷洋志『SNSの哲学: リアルとオンラインのあいだ』より/綺麗な月の見つけかた",
-     "u": "https://www.youtube.com/watch?v=wfimQ9ofo-I",
-     "s": "yt",
-     "o": "綺麗な月の見つけかた"
-    }
-   ]
-  },
-  {
-   "n": "神崎宣次",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 1
-   },
-   "candidates": []
-  },
-  {
-   "n": "大屋雄裕",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 1
-   },
-   "candidates": []
-  },
-  {
-   "n": "成原慧",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 25
-   },
-   "candidates": []
-  },
-  {
-   "n": "井上智洋",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 5
-   },
-   "candidates": []
-  },
-  {
-   "n": "山本勲",
-   "ok": true,
-   "count": 3,
-   "dropped": {
-    "題名に氏名が無い": 19
-   },
-   "candidates": [
-    {
-     "d": "2026-03-11",
-     "t": "【永久シードの誕生】JPBA PLAYERS DREAM MATCH 2021髙田浩規vs小原照之／川添奨太vs山本勲【決勝トーナメントベスト４から優勝決定戦まで】",
-     "u": "https://www.youtube.com/watch?v=23wKd5Nzi3Q",
-     "s": "yt",
-     "o": "JPBA男子選手会"
-    },
-    {
-     "d": "2026-05-29",
-     "t": "【ボールアジャストと魔法のポリッシュ剤！】勝つのはどっち!?小林よしみプロVS山本勲プロ【日本一のレフティー永久シードプロ凄すぎる】",
-     "u": "https://www.youtube.com/watch?v=AQbXfPAeNFQ",
-     "s": "yt",
-     "o": "KobaTV【ボウリング大学】"
-    },
-    {
-     "d": "2026-06-15",
-     "t": "【優勝賞金500万円!】大安興業プレゼンツ シーホースカップＪＰＢＡプレイヤーズトーナメント２０２５/安里秀策/内藤広人/山本勲/宮澤拓哉【決勝ステップラダー】",
-     "u": "https://www.youtube.com/watch?v=pE0Y1EWn9J8",
-     "s": "yt",
-     "o": "JPBA男子選手会"
-    }
-   ]
-  },
-  {
-   "n": "城山英明",
-   "ok": false,
-   "count": 0,
-   "dropped": {
-    "題名に氏名が無い": 1
-   },
-   "candidates": []
   }
  ],
- "generated_at": "2026-08-31T22:37:40Z",
+ "generated_at": "2026-08-31T22:41:37Z",
  "applied": false,
- "window_start": "2026-03-04T22:37:40Z"
+ "window_start": "2026-03-04T22:41:37Z"
 }
