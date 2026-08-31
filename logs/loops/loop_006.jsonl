@@ -1,1 +1,11 @@
 {"v": "1.2", "ts": "2026-08-31T22:06:56+09:00", "project": "hyakugaku-lens", "loop_id": "loop_006", "event": "loop_start", "data": {"goal": "発信 0 件の学者にフィード候補を足し、関門を通ったものだけ採って own の被覆を上げる", "spec_refs": ["F-06", "F-07"], "scaffold_version": "1.24.0", "agent": "claude-code"}}
+{"v": "1.2", "ts": "2026-08-31T22:14:37+09:00", "project": "hyakugaku-lens", "loop_id": "loop_006", "event": "test_run", "data": {"command": "python -m pytest -q", "result": "pass", "passed": 107, "failed": 0}}
+{"v": "1.2", "ts": "2026-08-31T22:14:37+09:00", "project": "hyakugaku-lens", "loop_id": "loop_006", "event": "commit", "data": {"kind": "feat", "sha": "0f07585", "message": "多著者の論説媒体を常設の取得元にする(standing-author)"}}
+{"v": "1.2", "ts": "2026-08-31T22:14:38+09:00", "project": "hyakugaku-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 1, "stage_name": "計画", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-31T22:14:38+09:00", "project": "hyakugaku-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 2, "stage_name": "文脈読込", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-31T22:14:38+09:00", "project": "hyakugaku-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 3, "stage_name": "テスト先行", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-31T22:14:38+09:00", "project": "hyakugaku-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-31T22:14:39+09:00", "project": "hyakugaku-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-31T22:14:39+09:00", "project": "hyakugaku-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-31T22:14:39+09:00", "project": "hyakugaku-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 7, "stage_name": "完了", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-31T22:14:39+09:00", "project": "hyakugaku-lens", "loop_id": "loop_006", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "発信の取得元を22本から43本へ。多著者の論説媒体を著者条件つきで常設化(standing-author)し、レッシグ・ダナ・ボイドを追加。own 58件/20名"}}
