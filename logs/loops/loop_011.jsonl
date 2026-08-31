@@ -1,0 +1,5 @@
+{"v": "1.2", "ts": "2026-09-01T07:35:07+09:00", "project": "hyakugaku-lens", "loop_id": "loop_011", "event": "loop_start", "data": {"goal": "YouTube Data API v3 で講演・対談の候補を収集する。初回は people.json に書かず審査用ファイルへ出し、抜き取り検査を通してから有効化する", "spec_refs": ["F-11", "F-07"], "scaffold_version": "1.24.0", "agent": "claude-code"}}
+{"v": "1.2", "ts": "2026-09-01T07:36:03+09:00", "project": "hyakugaku-lens", "loop_id": "loop_011", "event": "test_run", "data": {"command": "python -m pytest -q tests/test_youtube.py", "result": "fail", "passed": 0, "failed": 0, "note": "src/youtube.py 未実装の赤を確認"}}
+{"v": "1.2", "ts": "2026-09-01T07:36:04+09:00", "project": "hyakugaku-lens", "loop_id": "loop_011", "event": "stage_end", "data": {"stage": 3, "stage_name": "テスト先行", "result": "pass"}}
+{"v": "1.2", "ts": "2026-09-01T07:37:02+09:00", "project": "hyakugaku-lens", "loop_id": "loop_011", "event": "test_run", "data": {"command": "python -m pytest -q", "result": "pass", "passed": 136, "failed": 0}}
+{"v": "1.2", "ts": "2026-09-01T07:37:03+09:00", "project": "hyakugaku-lens", "loop_id": "loop_011", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}

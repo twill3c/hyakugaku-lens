@@ -1,0 +1,44 @@
+name: collect-youtube
+
+# 既定は**審査のみ** —— data/yt_review.json を書くだけで people.json には触らない。
+# この 100 名は学者なので「本人が話す動画」より「本人について語る動画」のほうが多く、
+# 氏名ゲートだけでは切り抜きが通る(姉妹プロジェクトで実際に汚染された)。
+# 抜き取り検査を通したうえで apply=true にする。
+on:
+  workflow_dispatch:
+    inputs:
+      apply:
+        description: "true にすると people.json へ書き込む(既定は審査のみ)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-youtube
+  cancel-in-progress: false
+
+jobs:
+  youtube:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 候補を集める
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python -m src.youtube ${{ inputs.apply && '--apply' || '' }}
+      - name: 差分があるときだけコミット
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ out/
+          if git diff --cached --quiet; then
+            echo "変更なし — コミットしない"
+          else
+            git commit -m "data: youtube $( [ '${{ inputs.apply }}' = 'true' ] && echo apply || echo review ) $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
