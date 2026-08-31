@@ -25,7 +25,7 @@ hyakunin-lens との決定的な違いは、**初期データが人手収集の�
 | F-06 | `data/sources.json` に人物ごとのフィード取得経路を宣言的に保持する。**実際に取得し、本人のものだと言える証拠が取れたものだけ**を載せる。証拠は item-author / own-domain / feed-title の三種で、自動判定に落ちるものは `data/feed_declared.jsonl` に理由を書いて例外として通す | must | loop_002・21 本 |
 | F-07 | `src/update.py` が宣言フィードを収集し、成功したソース種別の項目だけを差し替えて own を再構成する(他種別・失敗時は既存維持=劣化継続)。各セクション最大 3 件・日付降順(不明は末尾)。CMS の初期投稿は収集の成否によらず落とす | must | loop_002・55 件 |
 | F-08 | `src/scholar.py` が OpenAlex API から最近の学術発表を取得して pub を更新する。著者 ID は `data/scholar_ids.json` に**二要素(所属 × 分野)で同定したうえで**固定で持ち、実行時の氏名検索で解決しない | must | loop_003 |
-| F-09 | GitHub Actions cron が update / scholar を定期実行し、差分があるときだけ `data/` + `out/` をコミットする(Vercel Git 連携で自動デプロイ) | must | loop_004 |
+| F-09 | GitHub Actions cron が update / scholar を定期実行し、差分があるときだけ `data/` + `out/` をコミットする(Vercel Git 連携で自動デプロイ) | must | loop_004・連携済み |
 | F-10 | フッタはフリート共通規約(MIT License © ・ GitHub ・ 歩き方 ・ 設計図 ・ App Menu の単一段落)で画面最下部に固定表示。ヘッダーに最終更新時刻(JST)と自動更新の層ごとの最終実行日を表示する | must | loop_001 |
 | F-11 | 講演・動画(yt)を YouTube から更新する | should | 未着手 |
 

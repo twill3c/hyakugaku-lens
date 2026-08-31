@@ -1,5 +1,7 @@
 # hyakugaku-lens — 百学レンズ
 
+**GitHub: https://github.com/twill3c/hyakugaku-lens**(Vercel 連携済み・初回デプロイ待ち)
+
 AI を**作る側**ではなく**論じる側**を見るダッシュボード。哲学・思想・経済学・法学・
 社会学・STS・政治学・認知科学の学者 100 名(海外 80 名・日本 20 名)について、
 紹介文と発信の最新状況を単一 HTML で一覧する。

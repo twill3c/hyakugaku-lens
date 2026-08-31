@@ -3,3 +3,6 @@ __pycache__/
 .pytest_cache/
 .vercel/
 data/_roster.jsonl
+
+.vercel
+.env*
