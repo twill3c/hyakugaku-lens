@@ -1,0 +1,7110 @@
+{
+ "generated_at": "2026-08-31T12:00:05Z",
+ "declared": 99,
+ "verified": 74,
+ "results": [
+  {
+   "n": "ニック・ボストロム",
+   "q": "Nick Bostrom",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5027943191",
+     "display_name": "Nick Bostrom",
+     "works_count": 131,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5070010598",
+     "display_name": "N.A. Bostrom",
+     "works_count": 10,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5139660187",
+     "display_name": "Nick Bostrom",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5139109693",
+     "display_name": "Nick Bostrom",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5146388298",
+     "display_name": "Nick 1973- Bostrom",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5022258266",
+     "display_name": "Nick . Auteur du texte Bostrom",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5027943191",
+   "matched": {
+    "id": "A5027943191",
+    "display_name": "Nick Bostrom",
+    "works_count": 131,
+    "institutions": [
+     "Development Initiatives",
+     "Oxford Brookes University",
+     "Martin University",
+     "Yale University",
+     "University of Oxford"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Oxford"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ルチアーノ・フロリディ",
+   "q": "Luciano Floridi",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5046574356",
+     "display_name": "Luciano Floridi",
+     "works_count": 979,
+     "inst_hit": [
+      "Yale",
+      "Bologna"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5102440167",
+     "display_name": "Luciano Floridi",
+     "works_count": 15,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5121446755",
+     "display_name": "Luciano Floridi",
+     "works_count": 6,
+     "inst_hit": [
+      "Yale",
+      "Bologna"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5103492966",
+     "display_name": "Luciano Floridi",
+     "works_count": 10,
+     "inst_hit": [
+      "Yale",
+      "Bologna"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5133118898",
+     "display_name": "Luciano Floridi",
+     "works_count": 1,
+     "inst_hit": [
+      "Yale",
+      "Bologna"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5128695267",
+     "display_name": "Luciano Floridi",
+     "works_count": 1,
+     "inst_hit": [
+      "Yale",
+      "Bologna"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5140295694",
+     "display_name": "Luciano Floridi",
+     "works_count": 1,
+     "inst_hit": [
+      "Yale",
+      "Bologna"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5146431086",
+     "display_name": "Luciano Floridi",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5046574356",
+   "matched": {
+    "id": "A5046574356",
+    "display_name": "Luciano Floridi",
+    "works_count": 979,
+    "institutions": [
+     "Yale University",
+     "Zambon (Italy)",
+     "Data Power Decisions (United States)",
+     "University of Bologna",
+     "University College Dublin"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Life Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Yale",
+     "Bologna"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "デイヴィッド・チャーマーズ",
+   "q": "David Chalmers",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5103215889",
+     "display_name": "David J. Chalmers",
+     "works_count": 188,
+     "inst_hit": [
+      "New York University"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5080908840",
+     "display_name": "David J. Chalmers",
+     "works_count": 178,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5027617278",
+     "display_name": "David K. Chalmers",
+     "works_count": 158,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5021119669",
+     "display_name": "David C. Kilpatrick",
+     "works_count": 153,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5020848302",
+     "display_name": "David Chalmers",
+     "works_count": 42,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5111365649",
+     "display_name": "David Chalmers",
+     "works_count": 42,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5108631131",
+     "display_name": "David Keith Chalmers Macdonald",
+     "works_count": 21,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5079625153",
+     "display_name": "David R. Chalmers",
+     "works_count": 9,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5103215889",
+   "matched": {
+    "id": "A5103215889",
+    "display_name": "David J. Chalmers",
+    "works_count": 188,
+    "institutions": [
+     "New York University",
+     "Australian National University",
+     "Montreal Neurological Institute and Hospital",
+     "University of Arizona",
+     "Fordham University"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "New York University"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ピーター・シンガー",
+   "q": "Peter Singer",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5053698604",
+     "display_name": "Peter Singer",
+     "works_count": 733,
+     "inst_hit": [
+      "Princeton"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5062509172",
+     "display_name": "Peter Singer",
+     "works_count": 306,
+     "inst_hit": [
+      "Princeton"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5069624753",
+     "display_name": "Peter Singer",
+     "works_count": 188,
+     "inst_hit": [
+      "Princeton"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5047009596",
+     "display_name": "P. Singer",
+     "works_count": 57,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5024823927",
+     "display_name": "Peter P. Singer",
+     "works_count": 38,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5113842857",
+     "display_name": "Peter N. Singer",
+     "works_count": 14,
+     "inst_hit": [
+      "Princeton"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5113972592",
+     "display_name": "Peter Singer",
+     "works_count": 13,
+     "inst_hit": [
+      "Princeton"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5070652111",
+     "display_name": "Colin P. S. Kruse",
+     "works_count": 39,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5053698604",
+   "matched": {
+    "id": "A5053698604",
+    "display_name": "Peter Singer",
+    "works_count": 733,
+    "institutions": [
+     "Princeton University",
+     "Center for Practical Bioethics",
+     "Agency for Science, Technology and Research",
+     "University of Southern California",
+     "Western University"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Princeton"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "シャノン・ヴァラー",
+   "q": "Shannon Vallor",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5076883843",
+     "display_name": "Shannon Vallor",
+     "works_count": 100,
+     "inst_hit": [
+      "Edinburgh",
+      "Santa Clara"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5130121644",
+     "display_name": "Shannon Vallor",
+     "works_count": 1,
+     "inst_hit": [
+      "Santa Clara"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5115654161",
+     "display_name": "Shannon Vallor",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5041120812",
+     "display_name": "Shannon Vallor Translated by Chen Jia",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5076883843",
+   "matched": {
+    "id": "A5076883843",
+    "display_name": "Shannon Vallor",
+    "works_count": 100,
+    "institutions": [
+     "University of Edinburgh",
+     "Google (United States)",
+     "Santa Clara University",
+     "Institute for Futures Studies",
+     "Futures Group (United States)"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Life Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Edinburgh",
+     "Santa Clara"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "マーク・クーケルバーク",
+   "q": "Mark Coeckelbergh",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5003571713",
+     "display_name": "Mark Coeckelbergh",
+     "works_count": 394,
+     "inst_hit": [
+      "Vienna"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5141573517",
+     "display_name": "Mark Coeckelbergh",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5082349802",
+     "display_name": "Coeckelbergh Mark",
+     "works_count": 6,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5123789982",
+     "display_name": "Mark Coeckelbergh",
+     "works_count": 1,
+     "inst_hit": [
+      "Vienna"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5125131224",
+     "display_name": "Mark Coeckelbergh",
+     "works_count": 1,
+     "inst_hit": [
+      "Vienna"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5001120905",
+     "display_name": "Mark Coeckelbergh",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5116610633",
+     "display_name": "Mark Coeckelbergh",
+     "works_count": 2,
+     "inst_hit": [
+      "Vienna"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5126871517",
+     "display_name": "Mark Coeckelbergh",
+     "works_count": 1,
+     "inst_hit": [
+      "Vienna"
+     ],
+     "domain_ok": true,
+     "ok": true
+    }
+   ],
+   "openalex_id": "A5003571713",
+   "matched": {
+    "id": "A5003571713",
+    "display_name": "Mark Coeckelbergh",
+    "works_count": 394,
+    "institutions": [
+     "University of Vienna",
+     "University of Vienna",
+     "Czech Academy of Sciences",
+     "Zygon Center for Religion and Science",
+     "Maastricht University"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Vienna"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "トマス・メッツィンガー",
+   "q": "Thomas Metzinger",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5036226202",
+     "display_name": "Thomas Metzinger",
+     "works_count": 146,
+     "inst_hit": [
+      "Mainz"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5039677618",
+     "display_name": "Metzinger Thomas",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5050292911",
+     "display_name": "T Metzinger",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5099193295",
+     "display_name": "Thomas Metzinger",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5058678711",
+     "display_name": "Thomas Metzinger",
+     "works_count": 5,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5025262684",
+     "display_name": "Mark Coeckelbergh und Thomas Metzinger",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5146513043",
+     "display_name": "Thomas Metzinger",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5124913754",
+     "display_name": "Thomas Metzinger",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5036226202",
+   "matched": {
+    "id": "A5036226202",
+    "display_name": "Thomas Metzinger",
+    "works_count": 146,
+    "institutions": [
+     "Johannes Gutenberg University Mainz",
+     "German National Academy of Sciences Leopoldina",
+     "Goethe University Frankfurt",
+     "University of Applied Sciences Mainz",
+     "Johannes Gutenberg University Mainz"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Mainz"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "スーザン・シュナイダー",
+   "q": "Susan Schneider",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5103879666",
+     "display_name": "Susan Schneider",
+     "works_count": 37,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5062429674",
+     "display_name": "Susan C. Schneider",
+     "works_count": 169,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5017841653",
+     "display_name": "Susan Schneider",
+     "works_count": 181,
+     "inst_hit": [
+      "Florida Atlantic"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5060354954",
+     "display_name": "Susan Williams",
+     "works_count": 142,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5103436744",
+     "display_name": "Susan Schneider",
+     "works_count": 7,
+     "inst_hit": [
+      "Florida Atlantic"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5042105907",
+     "display_name": "Susan K. Schneider",
+     "works_count": 8,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5112824376",
+     "display_name": "Susan Schneider",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5112536038",
+     "display_name": "Susan Schneider",
+     "works_count": 5,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5017841653",
+   "matched": {
+    "id": "A5017841653",
+    "display_name": "Susan Schneider",
+    "works_count": 181,
+    "institutions": [
+     "Florida Atlantic University",
+     "Pacific University Oregon",
+     "University of the Pacific",
+     "West Virginia University",
+     "Schneider Electric (France)"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Life Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Florida Atlantic"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "トビー・オード",
+   "q": "Toby Ord",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5073888549",
+     "display_name": "Toby Ord",
+     "works_count": 79,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    }
+   ],
+   "openalex_id": "A5073888549",
+   "matched": {
+    "id": "A5073888549",
+    "display_name": "Toby Ord",
+    "works_count": 79,
+    "institutions": [
+     "Uppsala University",
+     "New America",
+     "The University of Melbourne",
+     "Global Public Policy Institute",
+     "University of Oxford"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Oxford"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ウィリアム・マッカスキル",
+   "q": "William MacAskill",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5073466841",
+     "display_name": "William MacAskill",
+     "works_count": 62,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    }
+   ],
+   "openalex_id": "A5073466841",
+   "matched": {
+    "id": "A5073466841",
+    "display_name": "William MacAskill",
+    "works_count": 62,
+    "institutions": [
+     "Griffith University",
+     "Toowoomba Hospital",
+     "Griffith University",
+     "Uppsala University",
+     "Queensland University of Technology"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Life Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Oxford"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ジョン・ダナハー",
+   "q": "John Danaher",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5057953350",
+     "display_name": "John Danaher",
+     "works_count": 123,
+     "inst_hit": [
+      "Galway"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5003429769",
+     "display_name": "W.J. Danaher",
+     "works_count": 8,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5111714871",
+     "display_name": "T. Danaher",
+     "works_count": 18,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5106527402",
+     "display_name": "John Danaher",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5015718863",
+     "display_name": "Commissioner John Danaher",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5057953350",
+   "matched": {
+    "id": "A5057953350",
+    "display_name": "John Danaher",
+    "works_count": 123,
+    "institutions": [
+     "Ollscoil na Gaillimhe – University of Galway",
+     "Google (United States)",
+     "Fermi National Accelerator Laboratory",
+     "National University of Ireland",
+     "Ollscoil na Gaillimhe – University of Galway"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Galway"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "カリッサ・ヴェリス",
+   "q": "Carissa Véliz",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5063595192",
+     "display_name": "Carissa Véliz",
+     "works_count": 71,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5129626929",
+     "display_name": "Carissa Véliz",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5147615561",
+     "display_name": "Carissa Véliz",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5063595192",
+   "matched": {
+    "id": "A5063595192",
+    "display_name": "Carissa Véliz",
+    "works_count": 71,
+    "institutions": [
+     "University of Oxford",
+     "Institute of Medical Ethics",
+     "Wellcome Centre for Ethics and Humanities",
+     "Sprint (United States)",
+     "Universidad de Salamanca"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Life Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Oxford"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "セス・ラザー",
+   "q": "Seth Lazar",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5062824333",
+     "display_name": "Seth Lazar",
+     "works_count": 91,
+     "inst_hit": [
+      "Australian National"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5148258615",
+     "display_name": "Seth Lazar",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5129046556",
+     "display_name": "Seth Lazar",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5066704130",
+     "display_name": "Lazar Seth",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5116041791",
+     "display_name": "Seth Lazar",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5114337311",
+     "display_name": "Seth Lazar",
+     "works_count": 2,
+     "inst_hit": [
+      "Australian National"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5148387859",
+     "display_name": "Seth Lazar",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5133287306",
+     "display_name": "Seth Lazar",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5062824333",
+   "matched": {
+    "id": "A5062824333",
+    "display_name": "Seth Lazar",
+    "works_count": 91,
+    "institutions": [
+     "Australian National University",
+     "Australian National University",
+     "Saint Peter's University",
+     "Polish Institute of International Affairs",
+     "University of Oxford"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Australian National"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "ヴィンセント・C・ミュラー",
+   "q": "Vincent C. Müller",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5026465320",
+     "display_name": "Vincent C. Müller",
+     "works_count": 128,
+     "inst_hit": [
+      "Erlangen"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5045769571",
+     "display_name": "Vincent C Müller",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5107671746",
+     "display_name": "Vincent C. Müller",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5148428758",
+     "display_name": "Vincent C. Müller",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5120795626",
+     "display_name": "Vincent C. Müller",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5125227377",
+     "display_name": "Vincent C. Müller",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5116716827",
+     "display_name": "Vincent C. Müller",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5107533468",
+     "display_name": "Vincent C. Müller",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5026465320",
+   "matched": {
+    "id": "A5026465320",
+    "display_name": "Vincent C. Müller",
+    "works_count": 128,
+    "institutions": [
+     "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+     "University of Leeds",
+     "American College of Financial Services",
+     "University of Hildesheim",
+     "Universität Hamburg"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Erlangen"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ウェンデル・ウォラック",
+   "q": "Wendell Wallach",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5044236058",
+     "display_name": "Wendell Wallach",
+     "works_count": 60,
+     "inst_hit": [
+      "Yale"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5116397432",
+     "display_name": "Wallach Wendell Arnhold",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5044236058",
+   "matched": {
+    "id": "A5044236058",
+    "display_name": "Wendell Wallach",
+    "works_count": 60,
+    "institutions": [
+     "Carnegie Council for Ethics in International Affairs",
+     "Carnegie Council for Ethics in International Affairs",
+     "Yale University",
+     "Center for Practical Bioethics",
+     "Indiana University Bloomington"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Yale"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ペーター=ポール・フェルベーク",
+   "q": "Peter-Paul Verbeek",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5070880474",
+     "display_name": "Peter‐Paul Verbeek",
+     "works_count": 275,
+     "inst_hit": [
+      "Amsterdam",
+      "Twente"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5064423783",
+     "display_name": "Peter-Paul Verbeek",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5096867535",
+     "display_name": "Peter-Paul VERBEEK",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5120158081",
+     "display_name": "Peter-Paul Verbeek",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5120818733",
+     "display_name": "Peter-Paul Verbeek",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5124712696",
+     "display_name": "Peter-Paul Verbeek",
+     "works_count": 1,
+     "inst_hit": [
+      "Amsterdam"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5119667742",
+     "display_name": "Peter-Paul Verbeek",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5098593411",
+     "display_name": "Peter-Paul Verbeek",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5070880474",
+   "matched": {
+    "id": "A5070880474",
+    "display_name": "Peter‐Paul Verbeek",
+    "works_count": 275,
+    "institutions": [
+     "University of Amsterdam",
+     "Twitter (United States)",
+     "University of Minnesota",
+     "Emory University",
+     "Miyazaki International College"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Life Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Amsterdam",
+     "Twente"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "アンドリュー・フィーンバーグ",
+   "q": "Andrew Feenberg",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5009247091",
+     "display_name": "Andrew Feenberg",
+     "works_count": 255,
+     "inst_hit": [
+      "Simon Fraser"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5109266874",
+     "display_name": "Andrew Feenberg",
+     "works_count": 10,
+     "inst_hit": [
+      "Simon Fraser"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5104587523",
+     "display_name": "Andrew Feenberg",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5117653860",
+     "display_name": "Andrew Feenberg",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5104563999",
+     "display_name": "Andrew Feenberg",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5099258289",
+     "display_name": "Andrew Feenberg",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5142460784",
+     "display_name": "Andrew Feenberg",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5104399148",
+     "display_name": "Andrew Feenberg",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5009247091",
+   "matched": {
+    "id": "A5009247091",
+    "display_name": "Andrew Feenberg",
+    "works_count": 255,
+    "institutions": [
+     "Innovation, Science and Economic Development Canada",
+     "University of Louisville",
+     "Thompson Rivers University",
+     "The University of Melbourne",
+     "University of the Fraser Valley"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Simon Fraser"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "ユク・ホイ",
+   "q": "Yuk Hui",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5061533561",
+     "display_name": "Yuk Hui",
+     "works_count": 84,
+     "inst_hit": [
+      "Hong Kong"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5109183109",
+     "display_name": "Yuk Hui Ng",
+     "works_count": 9,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5054527132",
+     "display_name": "Yuk Fung Hui",
+     "works_count": 6,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5106372751",
+     "display_name": "Yuk Hui",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5049851355",
+     "display_name": "Ivy Hui",
+     "works_count": 7,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5091902347",
+     "display_name": "Yuk Hui",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5077472510",
+     "display_name": "Yuk-Hui Law",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5101031127",
+     "display_name": "Yuk Hui",
+     "works_count": 8,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5061533561",
+   "matched": {
+    "id": "A5061533561",
+    "display_name": "Yuk Hui",
+    "works_count": 84,
+    "institutions": [
+     "Leuphana University of Lüneburg",
+     "University of Antananarivo",
+     "Radboud University Nijmegen",
+     "City University of Hong Kong",
+     "Associated Press"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Hong Kong"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "マルクス・ガブリエル",
+   "q": "Markus Gabriel",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5008095018",
+     "display_name": "Markus G. Manz",
+     "works_count": 559,
+     "inst_hit": [
+      "Bonn"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5053346548",
+     "display_name": "Markus G. Donat",
+     "works_count": 299,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5113079322",
+     "display_name": "Markus Gabriel",
+     "works_count": 230,
+     "inst_hit": [
+      "Bonn"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5109430620",
+     "display_name": "Joshua D. Sugar",
+     "works_count": 244,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5103763794",
+     "display_name": "Markus Gabriel",
+     "works_count": 22,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5028241061",
+     "display_name": "Thorsten Pöppel",
+     "works_count": 36,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5084399296",
+     "display_name": "Markus Blaurock",
+     "works_count": 40,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5141487542",
+     "display_name": "Markus 1980- Gabriel",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5113079322",
+   "matched": {
+    "id": "A5113079322",
+    "display_name": "Markus Gabriel",
+    "works_count": 230,
+    "institutions": [
+     "University of Bonn",
+     "BICC - Bonn International Centre for Conflict Studies",
+     "Bonn Aachen International Center for Information Technology",
+     "Universidade Federal do Rio Grande do Sul",
+     "University of Bonn"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Bonn"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ビョンチョル・ハン",
+   "q": "Byung-Chul Han",
+   "verified": false,
+   "tried": [
+    {
+     "id": "A5012747203",
+     "display_name": "Byung-Chul Han",
+     "works_count": 58,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5038291668",
+     "display_name": "Byung-Chul Han",
+     "works_count": 6,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5061191853",
+     "display_name": "Byung-Chul Han",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5111726217",
+     "display_name": "Byung-Ho Song",
+     "works_count": 55,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5102819014",
+     "display_name": "Byoung-Chul Kim",
+     "works_count": 91,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5083968555",
+     "display_name": "Chan-Jung Kim",
+     "works_count": 122,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5072017887",
+     "display_name": "Chong-Sup Kim",
+     "works_count": 102,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5017464295",
+     "display_name": "Kih-Soo Joe",
+     "works_count": 16,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ]
+  },
+  {
+   "n": "ロージ・ブライドッティ",
+   "q": "Rosi Braidotti",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5063446448",
+     "display_name": "Rosi Braidotti",
+     "works_count": 340,
+     "inst_hit": [
+      "Utrecht"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5112489335",
+     "display_name": "Rosi Braidotti",
+     "works_count": 19,
+     "inst_hit": [
+      "Utrecht"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5142435035",
+     "display_name": "Rosi Braidotti",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5118613652",
+     "display_name": "Rosi Braidotti",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5124326869",
+     "display_name": "Rosi Braidotti",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5129435312",
+     "display_name": "Rosi Braidotti",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5132843939",
+     "display_name": "Rosi Braidotti",
+     "works_count": 12,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5123912558",
+     "display_name": "Rosi Braidotti",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5063446448",
+   "matched": {
+    "id": "A5063446448",
+    "display_name": "Rosi Braidotti",
+    "works_count": 340,
+    "institutions": [
+     "Utrecht University",
+     "Australian National University",
+     "University of Applied Sciences Utrecht",
+     "Utrecht University",
+     "University of the Arts Utrecht"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Utrecht"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "N・キャサリン・ヘイルズ",
+   "q": "N. Katherine Hayles",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5070884578",
+     "display_name": "N. Katherine Hayles",
+     "works_count": 210,
+     "inst_hit": [
+      "Duke",
+      "Los Angeles"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5108791112",
+     "display_name": "N. Katherine Hayles",
+     "works_count": 16,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5003047037",
+     "display_name": "Nick Montfort",
+     "works_count": 94,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5141656981",
+     "display_name": "N. Katherine Hayles",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5005864832",
+     "display_name": "N. KATHERINE HAYLES",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5096983428",
+     "display_name": "N. Katherine Hayles",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5132969707",
+     "display_name": "N. Katherine Hayles",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5115051191",
+     "display_name": "N. Katherine Hayles",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5070884578",
+   "matched": {
+    "id": "A5070884578",
+    "display_name": "N. Katherine Hayles",
+    "works_count": 210,
+    "institutions": [
+     "University of California, Los Angeles",
+     "University of Iowa",
+     "University of California, Los Angeles",
+     "Duke University",
+     "University of California System"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Duke",
+     "Los Angeles"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ダナ・ハラウェイ",
+   "q": "Donna Haraway",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5054380367",
+     "display_name": "Donna Haraway",
+     "works_count": 203,
+     "inst_hit": [
+      "Santa Cruz"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5080026100",
+     "display_name": "DONNA J. HARAWAY",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5093077319",
+     "display_name": "Donna Haraway",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5093939476",
+     "display_name": "Donna Haraway",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5099216540",
+     "display_name": "Donna J. Haraway",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5120776907",
+     "display_name": "DONNA J. HARAWAY",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5137143810",
+     "display_name": "Donna J. Haraway",
+     "works_count": 6,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5139235902",
+     "display_name": "Donna Haraway",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5054380367",
+   "matched": {
+    "id": "A5054380367",
+    "display_name": "Donna Haraway",
+    "works_count": 203,
+    "institutions": [
+     "University of California, Santa Cruz",
+     "Universitat Jaume I",
+     "Cité des Sciences et de l'Industrie",
+     "East Sussex County Council",
+     "Duke University"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Santa Cruz"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ベンジャミン・ブラットン",
+   "q": "Benjamin Bratton",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5077567701",
+     "display_name": "Benjamin H. Bratton",
+     "works_count": 67,
+     "inst_hit": [
+      "San Diego"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5036984709",
+     "display_name": "Benjamin P. Bratton",
+     "works_count": 74,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5130544386",
+     "display_name": "Benjamin Bratton",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5082671398",
+     "display_name": "Benjamin T. Bratton",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5120686399",
+     "display_name": "Benjamin H. Bratton",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5120587183",
+     "display_name": "Benjamin H. Bratton",
+     "works_count": 7,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5079505284",
+     "display_name": "P Bratton Benjamin",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5120587181",
+     "display_name": "Benjamin H. Bratton",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5077567701",
+   "matched": {
+    "id": "A5077567701",
+    "display_name": "Benjamin H. Bratton",
+    "works_count": 67,
+    "institutions": [
+     "Santa Fe Institute",
+     "University of California System",
+     "Berggruen Institute",
+     "Santa Fe Institute",
+     "Yahoo (United Kingdom)"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "San Diego"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "マッテオ・パスクィネッリ",
+   "q": "Matteo Pasquinelli",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5085389494",
+     "display_name": "Matteo Pasquinelli",
+     "works_count": 39,
+     "inst_hit": [
+      "Ca' Foscari",
+      "Venice",
+      "Karlsruhe"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5145064837",
+     "display_name": "Matteo. Pasquinelli",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5099337639",
+     "display_name": "Matteo Pasquinelli",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5133833154",
+     "display_name": "Matteo Pasquinelli",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5129402528",
+     "display_name": "Matteo Pasquinelli",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5130916703",
+     "display_name": "Matteo Pasquinelli",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5143035458",
+     "display_name": "Matteo 1974- Pasquinelli",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5085389494",
+   "matched": {
+    "id": "A5085389494",
+    "display_name": "Matteo Pasquinelli",
+    "works_count": 39,
+    "institutions": [
+     "Ca' Foscari University of Venice",
+     "Ca' Foscari University of Venice",
+     "New York Times",
+     "Liga Contra el Cancer",
+     "University of Arts"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Ca' Foscari",
+     "Venice",
+     "Karlsruhe"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ダロン・アセモグル",
+   "q": "Daron Acemoglu",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5012301204",
+     "display_name": "Daron Acemoğlu",
+     "works_count": 1027,
+     "inst_hit": [
+      "Massachusetts Institute of Technology"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5127795222",
+     "display_name": "Daron Acemoglu",
+     "works_count": 4,
+     "inst_hit": [
+      "Massachusetts Institute of Technology"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5126602477",
+     "display_name": "Daron Acemoglu",
+     "works_count": 1,
+     "inst_hit": [
+      "Massachusetts Institute of Technology"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5018452472",
+     "display_name": "Daron Acemoglu Woodford",
+     "works_count": 7,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5020599276",
+     "display_name": "Acemoglu Daron",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5015118449",
+     "display_name": "K. Daron Acemoglu",
+     "works_count": 5,
+     "inst_hit": [
+      "Massachusetts Institute of Technology"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5112965318",
+     "display_name": "Daron Acemoglu",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5123831181",
+     "display_name": "Daron Acemoglu",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5012301204",
+   "matched": {
+    "id": "A5012301204",
+    "display_name": "Daron Acemoğlu",
+    "works_count": 1027,
+    "institutions": [
+     "National Bureau of Economic Research",
+     "Centre for Economic Policy Research",
+     "Massachusetts Institute of Technology",
+     "Brigham Young University",
+     "Canadian Institute for Advanced Research"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Massachusetts Institute of Technology"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "エリック・ブリニョルフソン",
+   "q": "Erik Brynjolfsson",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5038255653",
+     "display_name": "Erik Brynjolfsson",
+     "works_count": 319,
+     "inst_hit": [
+      "Stanford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5108609301",
+     "display_name": "Erik Brynjolfsson",
+     "works_count": 22,
+     "inst_hit": [
+      "Stanford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5041986070",
+     "display_name": "Erik Brynjolfsson",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5097182778",
+     "display_name": "Erik Brynjolfsson",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5147062172",
+     "display_name": "Erik Brynjolfsson",
+     "works_count": 1,
+     "inst_hit": [
+      "Stanford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5146341146",
+     "display_name": "Erik 1962- Brynjolfsson",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5118843288",
+     "display_name": "Erik Brynjolfsson",
+     "works_count": 5,
+     "inst_hit": [
+      "Stanford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5134723088",
+     "display_name": "Erik Brynjolfsson",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5038255653",
+   "matched": {
+    "id": "A5038255653",
+    "display_name": "Erik Brynjolfsson",
+    "works_count": 319,
+    "institutions": [
+     "National Bureau of Economic Research",
+     "Cardiovascular Institute of the South",
+     "Stanford Health Care",
+     "Stanford Medicine",
+     "Stanford University"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Stanford"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "アンドリュー・マカフィー",
+   "q": "Andrew McAfee",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5001239123",
+     "display_name": "Andrew P. McAfee",
+     "works_count": 63,
+     "inst_hit": [
+      "Massachusetts Institute of Technology"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5010499068",
+     "display_name": "Andrew T. McAfee",
+     "works_count": 41,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5143135344",
+     "display_name": "Andrew McAfee",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5024269543",
+     "display_name": "Andrew McAfee . Vincent Dessain . Anders Sjoman",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5002114280",
+     "display_name": "Andrew Bryce McAfee",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5001239123",
+   "matched": {
+    "id": "A5001239123",
+    "display_name": "Andrew P. McAfee",
+    "works_count": 63,
+    "institutions": [
+     "Worcester Polytechnic Institute",
+     "Harvard University",
+     "Impact Assessment",
+     "Taizhou Second People's Hospital",
+     "Moscow Institute of Thermal Technology"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Massachusetts Institute of Technology"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "カール・ベネディクト・フレイ",
+   "q": "Carl Benedikt Frey",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5013275181",
+     "display_name": "Carl Benedikt Frey",
+     "works_count": 56,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5112780392",
+     "display_name": "Carl Benedikt Frey",
+     "works_count": 8,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5119629193",
+     "display_name": "CARL BENEDIKT FREY",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5119053666",
+     "display_name": "Carl Benedikt Frey",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5119630902",
+     "display_name": "Carl Benedikt Frey",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5144012669",
+     "display_name": "Carl-Benedikt Frey",
+     "works_count": 1,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5069203683",
+     "display_name": "Carl Benedikt Frey",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5099838778",
+     "display_name": "Carl Benedikt Frey",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5013275181",
+   "matched": {
+    "id": "A5013275181",
+    "display_name": "Carl Benedikt Frey",
+    "works_count": 56,
+    "institutions": [
+     "CI2",
+     "Mansfield University",
+     "Joint Commission",
+     "Martin University",
+     "University of Oxford"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Oxford"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "ジョセフ・スティグリッツ",
+   "q": "Joseph Stiglitz",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5074218217",
+     "display_name": "Joseph E. Stiglitz",
+     "works_count": 1645,
+     "inst_hit": [
+      "Columbia"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5141639396",
+     "display_name": "Joseph E. Stiglitz",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5027242236",
+     "display_name": "Joseph E. Stiglitz",
+     "works_count": 5,
+     "inst_hit": [
+      "Columbia"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5056868429",
+     "display_name": "Joseph Stiglitz",
+     "works_count": 13,
+     "inst_hit": [
+      "Columbia"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5112823325",
+     "display_name": "Joseph E. Stiglitz",
+     "works_count": 134,
+     "inst_hit": [
+      "Columbia"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5032027776",
+     "display_name": "D. Joseph Stiglitz",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5017510416",
+     "display_name": "Joseph STIGLITZ",
+     "works_count": 1,
+     "inst_hit": [
+      "Columbia"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5146410112",
+     "display_name": "Joseph E. Stiglitz",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5074218217",
+   "matched": {
+    "id": "A5074218217",
+    "display_name": "Joseph E. Stiglitz",
+    "works_count": 1645,
+    "institutions": [
+     "National Bureau of Economic Research",
+     "The Dialogue",
+     "Columbia University",
+     "Boston College",
+     "University of the Philippines System"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Columbia"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "タイラー・コーエン",
+   "q": "Tyler Cowen",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5020548675",
+     "display_name": "Tyler Cowen",
+     "works_count": 215,
+     "inst_hit": [
+      "George Mason"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5002950272",
+     "display_name": "TYLER COWEN",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5013147551",
+     "display_name": "TYLER COWEN",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5036481520",
+     "display_name": "Tyler Cowen",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5026265769",
+     "display_name": "Tyler Cowen",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5104570019",
+     "display_name": "Tyler Cowen",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5141909529",
+     "display_name": "Tyler 1962- Cowen",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5100051933",
+     "display_name": "Tyler Cowen",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5020548675",
+   "matched": {
+    "id": "A5020548675",
+    "display_name": "Tyler Cowen",
+    "works_count": 215,
+    "institutions": [
+     "George Mason University",
+     "University of California, Irvine",
+     "Harvard University Press",
+     "Health Affairs"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "George Mason"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "アントン・コリネック",
+   "q": "Anton Korinek",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5009882421",
+     "display_name": "Anton Korinek",
+     "works_count": 144,
+     "inst_hit": [
+      "Virginia"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5107610863",
+     "display_name": "Anton Korinek",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5126609047",
+     "display_name": "Anton Korinek",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5130931893",
+     "display_name": "Anton Korinek",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5114403264",
+     "display_name": "Anton Korinek",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5135158451",
+     "display_name": "Anton Korinek",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5107547460",
+     "display_name": "Anton Korinek",
+     "works_count": 1,
+     "inst_hit": [
+      "Virginia"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5143932235",
+     "display_name": "Anton Korinek",
+     "works_count": 1,
+     "inst_hit": [
+      "Virginia"
+     ],
+     "domain_ok": true,
+     "ok": true
+    }
+   ],
+   "openalex_id": "A5009882421",
+   "matched": {
+    "id": "A5009882421",
+    "display_name": "Anton Korinek",
+    "works_count": 144,
+    "institutions": [
+     "National Bureau of Economic Research",
+     "University of Virginia",
+     "Brookings Institution",
+     "Weber State University",
+     "Center for Economic and Policy Research"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Virginia"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "ダイアン・コイル",
+   "q": "Diane Coyle",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5038965583",
+     "display_name": "Diane Coyle",
+     "works_count": 217,
+     "inst_hit": [
+      "Cambridge"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5098672590",
+     "display_name": "Diane Coyle",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5009803513",
+     "display_name": "Diane M. Coyle",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5124150268",
+     "display_name": "Diane Coyle",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5125375984",
+     "display_name": "Diane Coyle",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5137066196",
+     "display_name": "Diane Coyle",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5123169414",
+     "display_name": "Diane Coyle",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5140229052",
+     "display_name": "Diane Coyle",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5038965583",
+   "matched": {
+    "id": "A5038965583",
+    "display_name": "Diane Coyle",
+    "works_count": 217,
+    "institutions": [
+     "University of Cambridge",
+     "Lincoln Institute of Land Policy",
+     "nLIGHT (United States)",
+     "Office for National Statistics",
+     "University of Strathclyde"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Cambridge"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "リチャード・ボールドウィン",
+   "q": "Richard Baldwin",
+   "verified": false,
+   "tried": [
+    {
+     "id": "A5074481124",
+     "display_name": "Richard Baldwin",
+     "works_count": 753,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5084082463",
+     "display_name": "Richard P. Baldwin",
+     "works_count": 112,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5088363918",
+     "display_name": "Richard K. Baldwin",
+     "works_count": 25,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5056783460",
+     "display_name": "Richard Baldwin",
+     "works_count": 19,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5042820256",
+     "display_name": "Richard Baldwin",
+     "works_count": 61,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5060597899",
+     "display_name": "Richard Hauxwell‐Baldwin",
+     "works_count": 12,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5113838514",
+     "display_name": "Robert Baldwin",
+     "works_count": 44,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5129602163",
+     "display_name": "Richard Baldwin",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ]
+  },
+  {
+   "n": "デイヴィッド・オーター",
+   "q": "David Autor",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5029839974",
+     "display_name": "David Autor",
+     "works_count": 337,
+     "inst_hit": [
+      "Massachusetts Institute of Technology"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5084157820",
+     "display_name": "David Barkin",
+     "works_count": 321,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5090765973",
+     "display_name": "David Autor",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5059701351",
+     "display_name": "David Recondo",
+     "works_count": 75,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5126636777",
+     "display_name": "David Autor",
+     "works_count": 1,
+     "inst_hit": [
+      "Massachusetts Institute of Technology"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5118594186",
+     "display_name": "David H. Autor",
+     "works_count": 2,
+     "inst_hit": [
+      "Massachusetts Institute of Technology"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5026015726",
+     "display_name": "David A. Autor",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5124535557",
+     "display_name": "David autor Dishypatos",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5029839974",
+   "matched": {
+    "id": "A5029839974",
+    "display_name": "David Autor",
+    "works_count": 337,
+    "institutions": [
+     "National Bureau of Economic Research",
+     "IZA - Institute of Labor Economics",
+     "Massachusetts Institute of Technology",
+     "Boston University",
+     "Hitotsubashi University"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Massachusetts Institute of Technology"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "アジェイ・アグラワル",
+   "q": "Ajay Agrawal",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5109147283",
+     "display_name": "Ajay Agrawal",
+     "works_count": 119,
+     "inst_hit": [
+      "Toronto"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5010079917",
+     "display_name": "Ajay K. Agrawal",
+     "works_count": 294,
+     "inst_hit": [
+      "Toronto"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5087299999",
+     "display_name": "Ajay Agrawal",
+     "works_count": 81,
+     "inst_hit": [
+      "Toronto"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5072958794",
+     "display_name": "Ajay Agrawal",
+     "works_count": 68,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5048298073",
+     "display_name": "Jay O. Keller",
+     "works_count": 106,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5079362772",
+     "display_name": "Ajay Kumar Agrawal",
+     "works_count": 15,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5110790294",
+     "display_name": "Ajay Prakash Agrawal",
+     "works_count": 11,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5051775464",
+     "display_name": "Ajay Kumar Agrawal",
+     "works_count": 9,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5109147283",
+   "matched": {
+    "id": "A5109147283",
+    "display_name": "Ajay Agrawal",
+    "works_count": 119,
+    "institutions": [
+     "National Bureau of Economic Research",
+     "University of Toronto",
+     "Boston University",
+     "Georgia Institute of Technology",
+     "Henderson State University"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Toronto"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "アヴィ・ゴールドファーブ",
+   "q": "Avi Goldfarb",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5053397554",
+     "display_name": "Avi Goldfarb",
+     "works_count": 269,
+     "inst_hit": [
+      "Toronto"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5053864960",
+     "display_name": "Bernardo S. Blum",
+     "works_count": 33,
+     "inst_hit": [
+      "Toronto"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5122214878",
+     "display_name": "Avi Goldfarb",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5104018923",
+     "display_name": "Avi Craig Goldfarb",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5143173459",
+     "display_name": "Avi Goldfarb",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5144653723",
+     "display_name": "Avi Goldfarb",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5147838977",
+     "display_name": "Avi - University of Toronto Goldfarb",
+     "works_count": 1,
+     "inst_hit": [
+      "Toronto"
+     ],
+     "domain_ok": true,
+     "ok": true
+    }
+   ],
+   "openalex_id": "A5053397554",
+   "matched": {
+    "id": "A5053397554",
+    "display_name": "Avi Goldfarb",
+    "works_count": 269,
+    "institutions": [
+     "University of Toronto",
+     "University of Vermont",
+     "Northwestern University",
+     "Western Illinois University",
+     "University of Minnesota"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Toronto"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "ダニエル・サスキンド",
+   "q": "Daniel Susskind",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5063768031",
+     "display_name": "Daniel Susskind",
+     "works_count": 34,
+     "inst_hit": [
+      "Oxford",
+      "King's College London"
+     ],
+     "domain_ok": true,
+     "ok": true
+    }
+   ],
+   "openalex_id": "A5063768031",
+   "matched": {
+    "id": "A5063768031",
+    "display_name": "Daniel Susskind",
+    "works_count": 34,
+    "institutions": [
+     "King's College London",
+     "King's College London",
+     "University of Oxford"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Oxford",
+     "King's College London"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ライアン・カロ",
+   "q": "Ryan Calo",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5070609145",
+     "display_name": "Ryan Calo",
+     "works_count": 88,
+     "inst_hit": [
+      "University of Washington"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5025076037",
+     "display_name": "M. Ryan Calo",
+     "works_count": 6,
+     "inst_hit": [
+      "University of Washington"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5024013900",
+     "display_name": "Ivan Evtimov",
+     "works_count": 16,
+     "inst_hit": [
+      "University of Washington"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5050736585",
+     "display_name": "Jan Whittington",
+     "works_count": 38,
+     "inst_hit": [
+      "University of Washington"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5063458125",
+     "display_name": "M. Ryan Calo",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5119685878",
+     "display_name": "Ryan Calo",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5119685892",
+     "display_name": "Ryan Calo",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5107811964",
+     "display_name": "Ryan Calo",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5070609145",
+   "matched": {
+    "id": "A5070609145",
+    "display_name": "Ryan Calo",
+    "works_count": 88,
+    "institutions": [
+     "University of Washington",
+     "Yale University",
+     "Stanford Medicine",
+     "University of Notre Dame",
+     "Internet Society"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "University of Washington"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "フランク・パスクァーレ",
+   "q": "Frank Pasquale",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5043513868",
+     "display_name": "Frank Pasquale",
+     "works_count": 176,
+     "inst_hit": [
+      "Cornell",
+      "Maryland",
+      "Brooklyn"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5046541340",
+     "display_name": "Frank L. Pasquale",
+     "works_count": 60,
+     "inst_hit": [
+      "Maryland"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5060747582",
+     "display_name": "Jessica Rimsza",
+     "works_count": 207,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5051517962",
+     "display_name": "FRANK PASQUALE",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5129780886",
+     "display_name": "Frank Pasquale",
+     "works_count": 3,
+     "inst_hit": [
+      "Maryland"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5100486278",
+     "display_name": "Frank Pasquale",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5003194854",
+     "display_name": "Maj Pasquale Frank Finelli",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5116621031",
+     "display_name": "Frank A. Pasquale",
+     "works_count": 1,
+     "inst_hit": [
+      "Cornell"
+     ],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5043513868",
+   "matched": {
+    "id": "A5043513868",
+    "display_name": "Frank Pasquale",
+    "works_count": 176,
+    "institutions": [
+     "Cornell University",
+     "Cornell Tech",
+     "Seton Hall University",
+     "University of Maryland, Baltimore",
+     "William Carey University"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Cornell",
+     "Maryland",
+     "Brooklyn"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "サンドラ・ワクター",
+   "q": "Sandra Wachter",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5075172090",
+     "display_name": "Sandra Wachter",
+     "works_count": 78,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5091785631",
+     "display_name": "Sandra Wächter",
+     "works_count": 20,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5139659483",
+     "display_name": "Sandra Wachter",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5146981165",
+     "display_name": "Sandra Wachter",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5143784772",
+     "display_name": "Sandra Wachter",
+     "works_count": 2,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5139793727",
+     "display_name": "Sandra Wachter",
+     "works_count": 1,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    }
+   ],
+   "openalex_id": "A5075172090",
+   "matched": {
+    "id": "A5075172090",
+    "display_name": "Sandra Wachter",
+    "works_count": 78,
+    "institutions": [
+     "Hasso Plattner Institute",
+     "University of Oxford",
+     "Science Oxford",
+     "Turing Institute",
+     "Hasso Plattner Institute"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Oxford"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "ミレイユ・ヒルデブラント",
+   "q": "Mireille Hildebrandt",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5004617213",
+     "display_name": "Mireille Hildebrandt",
+     "works_count": 303,
+     "inst_hit": [
+      "Vrije Universiteit Brussel",
+      "Brussel"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5141510439",
+     "display_name": "Mireille Hildebrandt, Carlos Castillo, Elisa Celis, Salvatore Ruggieri, Linnet Taylor, Gabriela Zanfir-Fortuna",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5116408326",
+     "display_name": "Hildebrandt Mireille",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5004617213",
+   "matched": {
+    "id": "A5004617213",
+    "display_name": "Mireille Hildebrandt",
+    "works_count": 303,
+    "institutions": [
+     "Vrije Universiteit Brussel",
+     "University of N'Djamena",
+     "Google (United States)",
+     "Vrije Universiteit Brussel",
+     "Radboud University Nijmegen"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Vrije Universiteit Brussel",
+     "Brussel"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ジャック・バルキン",
+   "q": "Jack Balkin",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5068589813",
+     "display_name": "Jack M. Balkin",
+     "works_count": 246,
+     "inst_hit": [
+      "Yale"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5034930867",
+     "display_name": "Balkin Jack M",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5107327078",
+     "display_name": "Jack M. Balkin",
+     "works_count": 1,
+     "inst_hit": [
+      "Yale"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5042271908",
+     "display_name": "Joyce Finato Pires",
+     "works_count": 14,
+     "inst_hit": [
+      "Yale"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5108341647",
+     "display_name": "Jack M. Balkin",
+     "works_count": 1,
+     "inst_hit": [
+      "Yale"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5080756317",
+     "display_name": "Jack M. Balkin",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5098822453",
+     "display_name": "Jack M. Balkin",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5107012402",
+     "display_name": "Jack M. Balkin",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5068589813",
+   "matched": {
+    "id": "A5068589813",
+    "display_name": "Jack M. Balkin",
+    "works_count": 246,
+    "institutions": [
+     "Harvard University",
+     "Hofstra University",
+     "University of Miami",
+     "Fordham University",
+     "Illinois Institute of Technology"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Yale"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "ローレンス・レッシグ",
+   "q": "Lawrence Lessig",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5072431750",
+     "display_name": "Lawrence Lessig",
+     "works_count": 215,
+     "inst_hit": [
+      "Harvard"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5121024103",
+     "display_name": "Lawrence Lessig",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5043568302",
+     "display_name": "LAWRENCE LESSIG",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5111967815",
+     "display_name": "Lessig Lawrence",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5124468404",
+     "display_name": "Lawrence Lessig",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5129406060",
+     "display_name": "Lawrence Lessig",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5122414252",
+     "display_name": "Lawrence Lessig",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5120639738",
+     "display_name": "Lawrence Lessig",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5072431750",
+   "matched": {
+    "id": "A5072431750",
+    "display_name": "Lawrence Lessig",
+    "works_count": 215,
+    "institutions": [
+     "Harvard University Press",
+     "Harvard University",
+     "St. John's University",
+     "Fordham University",
+     "Illinois Institute of Technology"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Harvard"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ジュリー・コーエン",
+   "q": "Julie E. Cohen",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5087973237",
+     "display_name": "Julie E. Cohen",
+     "works_count": 117,
+     "inst_hit": [
+      "Georgetown"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5015147720",
+     "display_name": "Cohen Je",
+     "works_count": 10,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5140075687",
+     "display_name": "Julie E. Cohen",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5117710985",
+     "display_name": "Julie E. Cohen",
+     "works_count": 1,
+     "inst_hit": [
+      "Georgetown"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5109535862",
+     "display_name": "Julie E. Cohen",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5100466372",
+     "display_name": "Julie E. Cohen",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5100469278",
+     "display_name": "Julie E. Cohen",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5104709359",
+     "display_name": "Julie E. Cohen",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5087973237",
+   "matched": {
+    "id": "A5087973237",
+    "display_name": "Julie E. Cohen",
+    "works_count": 117,
+    "institutions": [
+     "Georgetown University",
+     "SOAS University of London",
+     "Bridge University",
+     "Fordham University",
+     "University of Pittsburgh"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Georgetown"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "カレン・ヨン",
+   "q": "Karen Yeung",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5029261881",
+     "display_name": "Karen Yeung",
+     "works_count": 75,
+     "inst_hit": [
+      "Birmingham"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5102889725",
+     "display_name": "Karen Yeung",
+     "works_count": 61,
+     "inst_hit": [
+      "Birmingham"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5045292061",
+     "display_name": "Karen Yeung",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5027438464",
+     "display_name": "Karen Au Yeung",
+     "works_count": 7,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5020088381",
+     "display_name": "Karen Au-Yeung",
+     "works_count": 5,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5058273217",
+     "display_name": "Karen Yeung",
+     "works_count": 13,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5072951290",
+     "display_name": "Karen Hung Yeung San",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5037507051",
+     "display_name": "Karen C.L. Au-Yeung",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5029261881",
+   "matched": {
+    "id": "A5029261881",
+    "display_name": "Karen Yeung",
+    "works_count": 75,
+    "institutions": [
+     "University of Birmingham",
+     "Birmingham City University",
+     "Kaiser Permanente",
+     "King's College - North Carolina",
+     "The University of Melbourne"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Birmingham"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "ウーゴ・パガロ",
+   "q": "Ugo Pagallo",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5089573061",
+     "display_name": "Ugo Pagallo",
+     "works_count": 178,
+     "inst_hit": [
+      "Turin",
+      "Torino"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5116359737",
+     "display_name": "Pagallo Ugo",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5142191729",
+     "display_name": "Ugo Pagallo",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5129317780",
+     "display_name": "Ugo Pagallo",
+     "works_count": 1,
+     "inst_hit": [
+      "Turin"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5130984648",
+     "display_name": "Ugo Pagallo",
+     "works_count": 1,
+     "inst_hit": [
+      "Turin"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5119279728",
+     "display_name": "Ugo Pagallo",
+     "works_count": 14,
+     "inst_hit": [
+      "Turin"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5133816780",
+     "display_name": "Ugo Pagallo",
+     "works_count": 1,
+     "inst_hit": [
+      "Turin"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5133758066",
+     "display_name": "Ugo Pagallo",
+     "works_count": 1,
+     "inst_hit": [
+      "Turin"
+     ],
+     "domain_ok": true,
+     "ok": true
+    }
+   ],
+   "openalex_id": "A5089573061",
+   "matched": {
+    "id": "A5089573061",
+    "display_name": "Ugo Pagallo",
+    "works_count": 178,
+    "institutions": [
+     "Department of Medical Sciences",
+     "University of Turin",
+     "Google (United States)",
+     "Politecnico di Torino",
+     "5T Torino (Italy)"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Turin",
+     "Torino"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "リチャード・サスキンド",
+   "q": "Richard Susskind",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5004131792",
+     "display_name": "Richard Susskind",
+     "works_count": 156,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5116712325",
+     "display_name": "Richard Susskind",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5116712393",
+     "display_name": "Richard Susskind",
+     "works_count": 15,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5117905759",
+     "display_name": "Richard Susskind",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5116712372",
+     "display_name": "Richard Susskind",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5116712318",
+     "display_name": "Richard Susskind",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5139350612",
+     "display_name": "Richard Susskind",
+     "works_count": 5,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5116712311",
+     "display_name": "Richard Susskind",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5004131792",
+   "matched": {
+    "id": "A5004131792",
+    "display_name": "Richard Susskind",
+    "works_count": 156,
+    "institutions": [
+     "Oxford University Press (United Kingdom)",
+     "McKinsey & Company (United Kingdom)",
+     "Pinsent Masons (United Kingdom)",
+     "Institute of Chartered Accountants in England and Wales"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Oxford"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "シェリー・タークル",
+   "q": "Sherry Turkle",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5018775376",
+     "display_name": "Sherry Turkle",
+     "works_count": 126,
+     "inst_hit": [
+      "Massachusetts Institute of Technology"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5092228448",
+     "display_name": "Sherry Turkle",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5094259863",
+     "display_name": "Sherry Turkle",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5098100585",
+     "display_name": "Sherry Turkle",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5067889148",
+     "display_name": "Sherry Turkle Federico Casalegno",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5093452834",
+     "display_name": "Sherry Turkle",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5093193482",
+     "display_name": "Sherry Turkle",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5077337776",
+     "display_name": "Sherry Roxanne Turkle",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5018775376",
+   "matched": {
+    "id": "A5018775376",
+    "display_name": "Sherry Turkle",
+    "works_count": 126,
+    "institutions": [
+     "Massachusetts Institute of Technology",
+     "Boston Psychoanalytic Society and Institute",
+     "Oxford University Press (United Kingdom)",
+     "Office of the Governor",
+     "Massachusetts Institute of Technology"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Massachusetts Institute of Technology"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ゼイネップ・トゥフェクチ",
+   "q": "Zeynep Tufekci",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5044522704",
+     "display_name": "Zeynep Tüfekçi",
+     "works_count": 81,
+     "inst_hit": [
+      "Princeton"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5070757451",
+     "display_name": "Zeynep Tufekci",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5104710192",
+     "display_name": "Zeynep Tufekci",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5098053652",
+     "display_name": "Zeynep TÜFEKÇİ",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5100467050",
+     "display_name": "Zeynep Tufekci",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5125689487",
+     "display_name": "Zeynep Tufekci",
+     "works_count": 1,
+     "inst_hit": [
+      "Princeton"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5104731873",
+     "display_name": "Zeynep Tufekci",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5100465973",
+     "display_name": "Zeynep Tufekci",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5044522704",
+   "matched": {
+    "id": "A5044522704",
+    "display_name": "Zeynep Tüfekçi",
+    "works_count": 81,
+    "institutions": [
+     "Princeton University",
+     "University of North Carolina at Chapel Hill",
+     "Sivas Cumhuriyet Üniversitesi",
+     "TOBB University of Economics and Technology",
+     "University of North Carolina Health Care"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Princeton"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "ショシャナ・ズボフ",
+   "q": "Shoshana Zuboff",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5073480907",
+     "display_name": "Shoshana Zuboff",
+     "works_count": 45,
+     "inst_hit": [
+      "Harvard"
+     ],
+     "domain_ok": true,
+     "ok": true
+    }
+   ],
+   "openalex_id": "A5073480907",
+   "matched": {
+    "id": "A5073480907",
+    "display_name": "Shoshana Zuboff",
+    "works_count": 45,
+    "institutions": [
+     "Harvard University",
+     "John F. Kennedy University",
+     "Internet Society",
+     "Economie Publique",
+     "International Human Frontier Science Program Organization"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Harvard"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ルハ・ベンジャミン",
+   "q": "Ruha Benjamin",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5103791663",
+     "display_name": "Ruha Benjamin",
+     "works_count": 50,
+     "inst_hit": [
+      "Princeton"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5064354725",
+     "display_name": "Ruha Benjamin",
+     "works_count": 6,
+     "inst_hit": [
+      "Princeton"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5006052474",
+     "display_name": "Ruha Benjamin",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5071645314",
+     "display_name": "RUHA BENJAMIN",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5099710838",
+     "display_name": "Ruha Benjamin",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5099710557",
+     "display_name": "Ruha Benjamin",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5085477648",
+     "display_name": "Ruha Benjamin",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5119774036",
+     "display_name": "Ruha Benjamin",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5064354725",
+   "matched": {
+    "id": "A5064354725",
+    "display_name": "Ruha Benjamin",
+    "works_count": 6,
+    "institutions": [
+     "Princeton University",
+     "Princeton University"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Princeton"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "サフィヤ・ノーブル",
+   "q": "Safiya Umoja Noble",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5001565446",
+     "display_name": "Safiya Noble",
+     "works_count": 78,
+     "inst_hit": [
+      "Los Angeles"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5097098495",
+     "display_name": "Safiya Umoja Noble",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5097674648",
+     "display_name": "Safiya Umoja Noble",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5104418696",
+     "display_name": "Safiya Umoja Noble",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5104418823",
+     "display_name": "Safiya Umoja Noble",
+     "works_count": 13,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5095683796",
+     "display_name": "Safiya Noble",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5001565446",
+   "matched": {
+    "id": "A5001565446",
+    "display_name": "Safiya Noble",
+    "works_count": 78,
+    "institutions": [
+     "University of California, Los Angeles",
+     "University of Southern California",
+     "Google (United States)",
+     "Center for Inquiry",
+     "University of Wisconsin–Madison"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Los Angeles"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ヴァージニア・ユーバンクス",
+   "q": "Virginia Eubanks",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5057886941",
+     "display_name": "Virginia Eubanks",
+     "works_count": 18,
+     "inst_hit": [
+      "Albany"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5104659539",
+     "display_name": "Virginia Eubanks",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5120454693",
+     "display_name": "Virginia Eubanks",
+     "works_count": 1,
+     "inst_hit": [
+      "Albany"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5106962430",
+     "display_name": "Virginia Eubanks",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5057886941",
+   "matched": {
+    "id": "A5057886941",
+    "display_name": "Virginia Eubanks",
+    "works_count": 18,
+    "institutions": [
+     "Albany State University",
+     "Rensselaer Polytechnic Institute",
+     "Instituto Tecnológico de Saltillo",
+     "University at Albany, State University of New York"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Albany"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "ダナ・ボイド",
+   "q": "danah boyd",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5009029178",
+     "display_name": "danah boyd",
+     "works_count": 210,
+     "inst_hit": [
+      "Georgetown",
+      "Microsoft",
+      "Data & Society"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5076903245",
+     "display_name": "danah boyd",
+     "works_count": 2,
+     "inst_hit": [
+      "Data & Society"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5094274242",
+     "display_name": "Danah Boyd",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5035999392",
+     "display_name": "danah boyd",
+     "works_count": 9,
+     "inst_hit": [
+      "Microsoft"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5017034418",
+     "display_name": "Dan Boyd",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5122962514",
+     "display_name": "danah boyd",
+     "works_count": 3,
+     "inst_hit": [
+      "Microsoft"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5032048610",
+     "display_name": "danah boyd",
+     "works_count": 13,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5023108152",
+     "display_name": "danah boyd",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5009029178",
+   "matched": {
+    "id": "A5009029178",
+    "display_name": "danah boyd",
+    "works_count": 210,
+    "institutions": [
+     "Cornell University",
+     "University of Southern California",
+     "Microsoft (United States)",
+     "Harvard University",
+     "University of New Hampshire"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Georgetown",
+     "Microsoft",
+     "Data & Society"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "ニック・クドリー",
+   "q": "Nick Couldry",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5061849511",
+     "display_name": "Nick Couldry",
+     "works_count": 380,
+     "inst_hit": [
+      "London School of Economics"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5096806530",
+     "display_name": "Couldry Nick",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5126974639",
+     "display_name": "Nick Couldry",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5097889360",
+     "display_name": "Nick Couldry",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5104847220",
+     "display_name": "Nick Couldry",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5126515275",
+     "display_name": "Nick Couldry",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5124435488",
+     "display_name": "Nick Couldry",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5124023354",
+     "display_name": "Nick Couldry",
+     "works_count": 7,
+     "inst_hit": [
+      "London School of Economics"
+     ],
+     "domain_ok": true,
+     "ok": true
+    }
+   ],
+   "openalex_id": "A5061849511",
+   "matched": {
+    "id": "A5061849511",
+    "display_name": "Nick Couldry",
+    "works_count": 380,
+    "institutions": [
+     "London School of Economics and Political Science",
+     "University of London",
+     "The Open University",
+     "University of Cambridge",
+     "British Library"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "London School of Economics"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "ホセ・ファン・ダイク",
+   "q": "José van Dijck",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5031080224",
+     "display_name": "José van Dijck",
+     "works_count": 178,
+     "inst_hit": [
+      "Utrecht"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5097232770",
+     "display_name": "José van Dijck",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5112325334",
+     "display_name": "José van Dijck",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5005006315",
+     "display_name": "José Dijck",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5091459651",
+     "display_name": "J.F.T.M. van Dijck",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5098565950",
+     "display_name": "José van Dijck",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5115547376",
+     "display_name": "José van Dijck",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5013530379",
+     "display_name": "José A. A. M. van Dijck",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5031080224",
+   "matched": {
+    "id": "A5031080224",
+    "display_name": "José van Dijck",
+    "works_count": 178,
+    "institutions": [
+     "Utrecht University",
+     "Institute on Governance",
+     "Royal Netherlands Academy of Arts and Sciences",
+     "University of Applied Sciences Utrecht",
+     "Transnational University Limburg"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Utrecht"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ジュディ・ワイクマン",
+   "q": "Judy Wajcman",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5066117471",
+     "display_name": "Judy Wajcman",
+     "works_count": 137,
+     "inst_hit": [
+      "London School of Economics"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5005742459",
+     "display_name": "Judy Wajcman",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5093854222",
+     "display_name": "Judy Wajcman",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5014319806",
+     "display_name": "Donald MacKenzie and Judy Wajcman",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5124405112",
+     "display_name": "Judy Wajcman",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5123998915",
+     "display_name": "Judy Wajcman",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5066117471",
+   "matched": {
+    "id": "A5066117471",
+    "display_name": "Judy Wajcman",
+    "works_count": 137,
+    "institutions": [
+     "London School of Economics and Political Science",
+     "Australian National University",
+     "United Nations Industrial Development Organization",
+     "Flinders University",
+     "Australian Mathematical Sciences Institute"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "London School of Economics"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ルーシー・サッチマン",
+   "q": "Lucy Suchman",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5048208402",
+     "display_name": "Lucy Suchman",
+     "works_count": 198,
+     "inst_hit": [
+      "Lancaster"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5047563105",
+     "display_name": "Suchman Lucy",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5114988546",
+     "display_name": "Lucy Suchman",
+     "works_count": 1,
+     "inst_hit": [
+      "Lancaster"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5093826061",
+     "display_name": "Lucy Suchman",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5092283770",
+     "display_name": "Lucy Suchman",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5129579438",
+     "display_name": "Lucy Suchman",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5130095909",
+     "display_name": "Lucy Suchman",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5117194629",
+     "display_name": "Lucy Suchman",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5048208402",
+   "matched": {
+    "id": "A5048208402",
+    "display_name": "Lucy Suchman",
+    "works_count": 198,
+    "institutions": [
+     "Lancaster University",
+     "Palo Alto Research Center",
+     "Xerox (France)",
+     "Mortimer Surgery",
+     "Lancaster University Ghana"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Lancaster"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "シーラ・ジャザノフ",
+   "q": "Sheila Jasanoff",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5068594960",
+     "display_name": "Sheila Jasanoff",
+     "works_count": 224,
+     "inst_hit": [
+      "Harvard"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5108289625",
+     "display_name": "Sheila Jasanoff",
+     "works_count": 44,
+     "inst_hit": [
+      "Harvard"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5129244636",
+     "display_name": "Sheila Jasanoff",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5127837154",
+     "display_name": "Sheila Jasanoff",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5047604022",
+     "display_name": "SHEILA JASANOFF",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5147215479",
+     "display_name": "Sheila Jasanoff",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5100484135",
+     "display_name": "Sheila Jasanoff",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5118397624",
+     "display_name": "Sheila Jasanoff",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5068594960",
+   "matched": {
+    "id": "A5068594960",
+    "display_name": "Sheila Jasanoff",
+    "works_count": 224,
+    "institutions": [
+     "Twitter (United States)",
+     "University of Wisconsin–Madison",
+     "Harvard University",
+     "University of British Columbia",
+     "John F. Kennedy University"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Life Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Harvard"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "ヘルガ・ノヴォトニー",
+   "q": "Helga Nowotny",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5000945637",
+     "display_name": "Helga Nowotny",
+     "works_count": 258,
+     "inst_hit": [
+      "ETH Zurich"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5099144974",
+     "display_name": "Helga Nowotny",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5004796490",
+     "display_name": "Helga Nowotny",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5119438160",
+     "display_name": "Helga Nowotny",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5129100170",
+     "display_name": "Helga Nowotny",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5124535420",
+     "display_name": "Helga Nowotny",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5129177118",
+     "display_name": "Helga Nowotny",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5105251669",
+     "display_name": "Helga Nowotny",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5000945637",
+   "matched": {
+    "id": "A5000945637",
+    "display_name": "Helga Nowotny",
+    "works_count": 258,
+    "institutions": [
+     "Economic Research Forum",
+     "University of Applied Sciences Technikum Wien",
+     "Natural Sciences and Engineering Research Council of Canada",
+     "University of Vienna",
+     "European Union"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "ETH Zurich"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ジュヌヴィエーヴ・ベル",
+   "q": "Genevieve Bell",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5060815696",
+     "display_name": "Genevieve Bell",
+     "works_count": 80,
+     "inst_hit": [
+      "Australian National",
+      "Intel"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5046830512",
+     "display_name": "Genevieve A. Bell",
+     "works_count": 8,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5136336106",
+     "display_name": "Genevieve Bell",
+     "works_count": 12,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5041527687",
+     "display_name": "Genevieve Alexandria Bell",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5060815696",
+   "matched": {
+    "id": "A5060815696",
+    "display_name": "Genevieve Bell",
+    "works_count": 80,
+    "institutions": [
+     "Australian National University",
+     "Australian National University",
+     "Intel (United States)",
+     "Australian and New Zealand Intensive Care Society",
+     "Intel (Germany)"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Australian National",
+     "Intel"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ケイト・クロフォード",
+   "q": "Kate Crawford",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5033954307",
+     "display_name": "Kate Crawford",
+     "works_count": 175,
+     "inst_hit": [
+      "Microsoft",
+      "Southern California",
+      "New York University"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5077361847",
+     "display_name": "Ifeoma Ajunwa",
+     "works_count": 71,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5052853680",
+     "display_name": "Kate D Crawford",
+     "works_count": 7,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5019389131",
+     "display_name": "Kate Crawford",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5017481826",
+     "display_name": "Mary Kate Crawford",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5018104929",
+     "display_name": "Kate Crawford",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5046546850",
+     "display_name": "Kate Crawford",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5142411855",
+     "display_name": "Kate Crawford",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5033954307",
+   "matched": {
+    "id": "A5033954307",
+    "display_name": "Kate Crawford",
+    "works_count": 175,
+    "institutions": [
+     "University of Southern California",
+     "Microsoft (United States)",
+     "Panthera Corporation",
+     "Art Institute of Portland",
+     "California Southern University"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Microsoft",
+     "Southern California",
+     "New York University"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "ユヴァル・ノア・ハラリ",
+   "q": "Yuval Noah Harari",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5019691568",
+     "display_name": "Yuval Noah Harari",
+     "works_count": 173,
+     "inst_hit": [
+      "Hebrew University"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5059703493",
+     "display_name": "Yuval Noaḥ Harari",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5116783416",
+     "display_name": "Yuval Noah Harari",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5142713890",
+     "display_name": "Yuval Noaḥ 1976- Harari",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5143594674",
+     "display_name": "Yuval Noah Harari",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5089351726",
+     "display_name": "Yuval Noah Harari",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5099495513",
+     "display_name": "Yuval Noah Harari",
+     "works_count": 7,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5122977343",
+     "display_name": "Yuval Noah Harari",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5019691568",
+   "matched": {
+    "id": "A5019691568",
+    "display_name": "Yuval Noah Harari",
+    "works_count": 173,
+    "institutions": [
+     "Ben-Gurion University of the Negev",
+     "IE University",
+     "Allegheny Intermediate Unit",
+     "Yonsei University",
+     "Hebrew University of Jerusalem"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Hebrew University"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "フランシス・フクヤマ",
+   "q": "Francis Fukuyama",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5066976206",
+     "display_name": "Francis Fukuyama",
+     "works_count": 610,
+     "inst_hit": [
+      "Stanford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5097555261",
+     "display_name": "Francis Fukuyama",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5064157898",
+     "display_name": "Francis Fukuyama",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5070517530",
+     "display_name": "FRANCIS FUKUYAMA",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5046733438",
+     "display_name": "Francis Fukuyama",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5097031035",
+     "display_name": "Francis Fukuyama",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5126975810",
+     "display_name": "Francis Fukuyama",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5138710768",
+     "display_name": "Francis Fukuyama",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5066976206",
+   "matched": {
+    "id": "A5066976206",
+    "display_name": "Francis Fukuyama",
+    "works_count": 610,
+    "institutions": [
+     "Stanford University",
+     "Roskilde University",
+     "American Institute for Economic Research",
+     "RAND Corporation",
+     "International Monetary Fund"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Stanford"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "イアン・ブレマー",
+   "q": "Ian Bremmer",
+   "verified": false,
+   "tried": [
+    {
+     "id": "A5017243791",
+     "display_name": "Ian Bremmer",
+     "works_count": 119,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5082924077",
+     "display_name": "Bremmer Ian",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ]
+  },
+  {
+   "n": "ヘンリー・ファレル",
+   "q": "Henry Farrell",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5112468935",
+     "display_name": "Henry Farrell",
+     "works_count": 136,
+     "inst_hit": [
+      "Johns Hopkins"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5035425177",
+     "display_name": "David H. Farrell",
+     "works_count": 106,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5137116116",
+     "display_name": "Henry Farrell",
+     "works_count": 12,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5052374967",
+     "display_name": "Henry C. Farrell",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5108950183",
+     "display_name": "James Henry Farrell",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5120148133",
+     "display_name": "HENRY FARRELL ABRAHAM L. NEWMAN",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5035156767",
+     "display_name": "Farrell Henry",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5035266279",
+     "display_name": "Henry Percy Farrell",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5112468935",
+   "matched": {
+    "id": "A5112468935",
+    "display_name": "Henry Farrell",
+    "works_count": 136,
+    "institutions": [
+     "Tufts University",
+     "Johns Hopkins University",
+     "Max Planck Society",
+     "University of Toronto",
+     "George Washington University"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Johns Hopkins"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "マリーチェ・スハーケ",
+   "q": "Marietje Schaake",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5108343874",
+     "display_name": "Marietje Schaake",
+     "works_count": 7,
+     "inst_hit": [
+      "Stanford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5011865503",
+     "display_name": "Marietje Schaake",
+     "works_count": 17,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5109825299",
+     "display_name": "Marietje Schaake",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5107038388",
+     "display_name": "Marietje Schaake",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5107576056",
+     "display_name": "Marietje Schaake",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5119629154",
+     "display_name": "Marietje Schaake",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5120712809",
+     "display_name": "Marietje Schaake",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5108343874",
+   "matched": {
+    "id": "A5108343874",
+    "display_name": "Marietje Schaake",
+    "works_count": 7,
+    "institutions": [
+     "Stanford University",
+     "Stanford University"
+    ],
+    "domains": [
+     "Health Sciences",
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Stanford"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "デイヴィッド・ランシマン",
+   "q": "David Runciman",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5013523683",
+     "display_name": "David Runciman Boyd",
+     "works_count": 30,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5089425160",
+     "display_name": "David Runciman",
+     "works_count": 120,
+     "inst_hit": [
+      "Cambridge"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5065450205",
+     "display_name": "David Runciman",
+     "works_count": 13,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5030629422",
+     "display_name": "David Runciman",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5016355346",
+     "display_name": "David Martin Runciman",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5030894975",
+     "display_name": "DAVID RUNCIMAN",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5104414711",
+     "display_name": "David Runciman",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5038578639",
+     "display_name": "David Runciman",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5089425160",
+   "matched": {
+    "id": "A5089425160",
+    "display_name": "David Runciman",
+    "works_count": 120,
+    "institutions": [
+     "University of Cambridge",
+     "International Crisis Group",
+     "Princeton University",
+     "Trinity College",
+     "University of Cambridge"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Cambridge"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "イアン・ゴールディン",
+   "q": "Ian Goldin",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5003686226",
+     "display_name": "Ian Goldin",
+     "works_count": 146,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5072515156",
+     "display_name": "Ian M. Goldin",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5062380113",
+     "display_name": "Goldin. Ian",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5129570695",
+     "display_name": "Ian Goldin",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5092153140",
+     "display_name": "Ian Goldin",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5003686226",
+   "matched": {
+    "id": "A5003686226",
+    "display_name": "Ian Goldin",
+    "works_count": 146,
+    "institutions": [
+     "University of Oxford",
+     "Arab Open University",
+     "Organisation de Coopération et de Développement Economiques",
+     "Center for Global Development",
+     "World Bank"
+    ],
+    "domains": [
+     "Life Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Oxford"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "アリソン・スタンガー",
+   "q": "Allison Stanger",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5005923892",
+     "display_name": "Allison Stanger",
+     "works_count": 42,
+     "inst_hit": [
+      "Harvard",
+      "Middlebury"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5048261166",
+     "display_name": "ALLISON STANGER",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5104887085",
+     "display_name": "Allison Stanger",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5119731285",
+     "display_name": "Allison Stanger",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5104732189",
+     "display_name": "Allison Stanger",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5104783847",
+     "display_name": "Allison Stanger",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5104834963",
+     "display_name": "Allison Stanger",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5104710104",
+     "display_name": "Allison Stanger",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5005923892",
+   "matched": {
+    "id": "A5005923892",
+    "display_name": "Allison Stanger",
+    "works_count": 42,
+    "institutions": [
+     "Center for the Study of Democracy",
+     "Middlebury College",
+     "Harvard University Press",
+     "Santa Fe Institute",
+     "Center for the Study of Democracy"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Harvard",
+     "Middlebury"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "フィリップ・ハワード",
+   "q": "Philip N. Howard",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5079636968",
+     "display_name": "Philip N. Howard",
+     "works_count": 240,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5070270980",
+     "display_name": "PN Howard",
+     "works_count": 7,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5085317828",
+     "display_name": "Neil Howard",
+     "works_count": 95,
+     "inst_hit": [
+      "Oxford"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5001833831",
+     "display_name": "PHILIP N. HOWARD",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5109436436",
+     "display_name": "Howard Philip N.",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5111370609",
+     "display_name": "Philip Eugene Howard",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5100467978",
+     "display_name": "Philip N. Howard",
+     "works_count": 5,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5126119137",
+     "display_name": "Philip N. Howard",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5079636968",
+   "matched": {
+    "id": "A5079636968",
+    "display_name": "Philip N. Howard",
+    "works_count": 240,
+    "institutions": [
+     "Northwestern University",
+     "Boeing (United States)",
+     "Oregon Institute of Technology",
+     "Royal College of Surgeons in Ireland",
+     "University of Waterloo"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Oxford"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "スティーブン・ピンカー",
+   "q": "Steven Pinker",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5000597416",
+     "display_name": "Steven Pinker",
+     "works_count": 326,
+     "inst_hit": [
+      "Harvard"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5129569660",
+     "display_name": "Steven Pinker",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5036472634",
+     "display_name": "Steven Pinker Bowersock",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5076544217",
+     "display_name": "Pinker Steven",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5000597416",
+   "matched": {
+    "id": "A5000597416",
+    "display_name": "Steven Pinker",
+    "works_count": 326,
+    "institutions": [
+     "Harvard University",
+     "University of Massachusetts Dartmouth",
+     "Dartmouth College",
+     "University of Essex",
+     "Tufts University"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Harvard"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
+  },
+  {
+   "n": "アリソン・ゴプニック",
+   "q": "Alison Gopnik",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5062253481",
+     "display_name": "Alison Gopnik",
+     "works_count": 365,
+     "inst_hit": [
+      "Berkeley"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5078821451",
+     "display_name": "Elizabeth Seiver",
+     "works_count": 23,
+     "inst_hit": [
+      "Berkeley"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5001213500",
+     "display_name": "Andrew N. Meltzoff Patricia K. Kuhn Alison Gopnik",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5062253481",
+   "matched": {
+    "id": "A5062253481",
+    "display_name": "Alison Gopnik",
+    "works_count": 365,
+    "institutions": [
+     "University of California, Berkeley",
+     "University of North Carolina at Charlotte",
+     "Rutgers, The State University of New Jersey",
+     "Natural History Museum Vienna",
+     "Save the Children"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Berkeley"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "ゲアリー・マーカス",
+   "q": "Gary Marcus",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5110126701",
+     "display_name": "Gary Marcus",
+     "works_count": 206,
+     "inst_hit": [
+      "New York University"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5109948973",
+     "display_name": "G. Marcus",
+     "works_count": 15,
+     "inst_hit": [
+      "New York University"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5002980504",
+     "display_name": "Marcus Gary",
+     "works_count": 48,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5112335035",
+     "display_name": "Leah D. Minc",
+     "works_count": 86,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5114586747",
+     "display_name": "Gary F. Marcus",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5097331746",
+     "display_name": "Gary Marcus",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5103637569",
+     "display_name": "Gary J. Marcus",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5030037331",
+     "display_name": "Gary Maxwell Marcus",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5110126701",
+   "matched": {
+    "id": "A5110126701",
+    "display_name": "Gary Marcus",
+    "works_count": 206,
+    "institutions": [
+     "Rusk Rehabilitation",
+     "Supélec",
+     "University of Essex",
+     "Max Planck Society",
+     "University of Applied Sciences and Arts of Southern Switzerland"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "New York University"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "イヤド・ラーワン",
+   "q": "Iyad Rahwan",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5009232244",
+     "display_name": "Iyad Rahwan",
+     "works_count": 337,
+     "inst_hit": [
+      "Max Planck"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5121685469",
+     "display_name": "Iyad Rahwan",
+     "works_count": 13,
+     "inst_hit": [
+      "Max Planck"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5138256393",
+     "display_name": "Iyad Rahwan",
+     "works_count": 1,
+     "inst_hit": [
+      "Max Planck"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5139243810",
+     "display_name": "Iyad Rahwan",
+     "works_count": 1,
+     "inst_hit": [
+      "Max Planck"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5133783494",
+     "display_name": "Iyad Rahwan",
+     "works_count": 1,
+     "inst_hit": [
+      "Max Planck"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5136595550",
+     "display_name": "Iyad Rahwan",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5139167560",
+     "display_name": "Iyad Rahwan",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5139186684",
+     "display_name": "Iyad Rahwan",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5009232244",
+   "matched": {
+    "id": "A5009232244",
+    "display_name": "Iyad Rahwan",
+    "works_count": 337,
+    "institutions": [
+     "Max Planck Institute for Human Development",
+     "Teesside University",
+     "Tulane University",
+     "The Graduate Center, CUNY",
+     "Center for Economic and Policy Research"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Max Planck"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "マーティン・リース",
+   "q": "Martin Rees",
+   "verified": false,
+   "tried": [
+    {
+     "id": "A5110092412",
+     "display_name": "M. J. Rees",
+     "works_count": 885,
+     "inst_hit": [
+      "Cambridge"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5090248780",
+     "display_name": "Robert M. Rees",
+     "works_count": 360,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5041064006",
+     "display_name": "Martin D. Rees",
+     "works_count": 34,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5045826016",
+     "display_name": "Martin Rees",
+     "works_count": 33,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5046143932",
+     "display_name": "Martin Rees",
+     "works_count": 45,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5029019830",
+     "display_name": "Martin Rees",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5072424086",
+     "display_name": "MARTIN REES",
+     "works_count": 2,
+     "inst_hit": [
+      "Cambridge"
+     ],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5041861902",
+     "display_name": "MARTIN REES",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ]
+  },
+  {
+   "n": "イーサン・モリック",
+   "q": "Ethan Mollick",
+   "verified": true,
+   "tried": [
+    {
+     "id": "A5061686034",
+     "display_name": "Ethan Mollick",
+     "works_count": 84,
+     "inst_hit": [
+      "Pennsylvania"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5097621260",
+     "display_name": "Ethan Mollick",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5136480601",
+     "display_name": "Ethan Mollick",
+     "works_count": 4,
+     "inst_hit": [
+      "Pennsylvania"
+     ],
+     "domain_ok": true,
+     "ok": true
+    },
+    {
+     "id": "A5089155441",
+     "display_name": "ETHAN MOLLICK",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5130808823",
+     "display_name": "Ethan Mollick",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5139375898",
+     "display_name": "Ethan Mollick",
+     "works_count": 10,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ],
+   "openalex_id": "A5061686034",
+   "matched": {
+    "id": "A5061686034",
+    "display_name": "Ethan Mollick",
+    "works_count": 84,
+    "institutions": [
+     "University of Pennsylvania",
+     "National Bureau of Economic Research",
+     "Wharton County Junior College",
+     "Cornell University",
+     "University of the Arts"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Pennsylvania"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": true
+  },
+  {
+   "n": "エイミー・ウェブ",
+   "q": "Amy Webb",
+   "verified": false,
+   "tried": [
+    {
+     "id": "A5111630906",
+     "display_name": "Amy Webb",
+     "works_count": 22,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5075965119",
+     "display_name": "Amy Webb",
+     "works_count": 200,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5037194368",
+     "display_name": "Amy Girard",
+     "works_count": 284,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5082175645",
+     "display_name": "Amy Webb",
+     "works_count": 19,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5016960273",
+     "display_name": "A. Alexander G. Webb",
+     "works_count": 142,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5113805471",
+     "display_name": "Amy Girard",
+     "works_count": 48,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5019144889",
+     "display_name": "Amy Webb",
+     "works_count": 5,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5028034749",
+     "display_name": "Amy Webb",
+     "works_count": 7,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    }
+   ]
+  },
+  {
+   "n": "東浩紀",
+   "q": "Hiroki Azuma",
+   "verified": false,
+   "tried": [
+    {
+     "id": "A5050727421",
+     "display_name": "Hiroki Azuma",
+     "works_count": 11,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5110570423",
+     "display_name": "Hiroki Azuma",
+     "works_count": 35,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5013043339",
+     "display_name": "Hiroki Azuma",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5075537132",
+     "display_name": "Hiroki Azuma",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5131261321",
+     "display_name": "Hiroki AZUMA",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5068208166",
+     "display_name": "Hiroki AZUMA",
+     "works_count": 4,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5116321062",
+     "display_name": "Azuma Hiroki",
+     "works_count": 3,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5042365985",
+     "display_name": "Hiroki AZUMA",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    }
+   ]
+  },
+  {
+   "n": "大澤真幸",
+   "q": "Masachi Osawa",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "稲葉振一郎",
+   "q": "Shinichiro Inaba",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "西垣通",
+   "q": "Toru Nishigaki",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "出口康夫",
+   "q": "Yasuo Deguchi",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "鈴木貴之",
+   "q": "Takayuki Suzuki",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "久木田水生",
+   "q": "Minao Kukita",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "戸谷洋志",
+   "q": "Hiroshi Toya",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "岡本裕一朗",
+   "q": "Yuichiro Okamoto",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "神崎宣次",
+   "q": "Nobutsugu Kanzaki",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "山本龍彦",
+   "q": "Tatsuhiko Yamamoto",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "大屋雄裕",
+   "q": "Takehiro Ohya",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "宍戸常寿",
+   "q": "George Shishido",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "成原慧",
+   "q": "Satoshi Narihara",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "稲谷龍彦",
+   "q": "Takahiko Inatani",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "井上智洋",
+   "q": "Tomohiro Inoue",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "柳川範之",
+   "q": "Noriyuki Yanagawa",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "山本勲",
+   "q": "Isamu Yamamoto",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "江間有沙",
+   "q": "Arisa Ema",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  },
+  {
+   "n": "城山英明",
+   "q": "Hideaki Shiroyama",
+   "verified": false,
+   "tried": [],
+   "error": "検索失敗 HTTPError"
+  }
+ ],
+ "unreachable": 19,
+ "no_match": 6,
+ "note": "OpenAlex は 1 リクエスト $0.001 の日次予算制。2026-08-31 の同定で予算を使い切り、末尾の 19 名(日本の学者)は検索そのものが 429 で落ちた。これは『該当なし』ではない。tools/resolve_openalex.py --only-missing で引き直すこと"
+}
