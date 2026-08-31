@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-31T13:13:32Z",
- "ok": 20,
+ "generated_at": "2026-08-31T21:42:50Z",
+ "ok": 26,
  "fail": 21,
  "sources": [
   {
@@ -9,6 +9,9 @@
    "feed": "https://aeon.co/feed.rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -17,6 +20,9 @@
    "feed": "https://www.project-syndicate.org/rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -32,6 +38,9 @@
    "feed": "https://www.project-syndicate.org/rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -39,7 +48,17 @@
    "s": "blog",
    "feed": "https://www.gzeromedia.com/feeds/feed.rss",
    "ok": true,
-   "count": 1
+   "count": 1,
+   "dropped": {
+    "著者条件に一致せず": 29
+   }
+  },
+  {
+   "n": "イアン・ブレマー",
+   "s": "podcast",
+   "feed": "https://feeds.simplecast.com/ibBxsiVV",
+   "ok": true,
+   "count": 442
   },
   {
    "n": "イーサン・モリック",
@@ -54,6 +73,9 @@
    "feed": "https://www.project-syndicate.org/rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -62,6 +84,9 @@
    "feed": "https://www.noemamag.com/feed/",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 10
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -83,14 +108,20 @@
    "s": "blog",
    "feed": "https://shoshanazuboff.com/book/feed/",
    "ok": true,
-   "count": 3
+   "count": 3,
+   "dropped": {
+    "CMS の初期投稿": 1
+   }
   },
   {
    "n": "ジャック・バルキン",
    "s": "blog",
    "feed": "https://balkin.blogspot.com/feeds/posts/default",
    "ok": true,
-   "count": 3
+   "count": 3,
+   "dropped": {
+    "著者条件に一致せず": 22
+   }
   },
   {
    "n": "ジュヌヴィエーヴ・ベル",
@@ -98,6 +129,9 @@
    "feed": "https://www.project-syndicate.org/rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -106,6 +140,9 @@
    "feed": "https://www.project-syndicate.org/rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -114,6 +151,13 @@
    "feed": "https://philosophicaldisquisitions.blogspot.com/feeds/posts/default",
    "ok": true,
    "count": 25
+  },
+  {
+   "n": "ジョン・ダナハー",
+   "s": "podcast",
+   "feed": "http://feeds.feedburner.com/philosophicaldiscursions",
+   "ok": true,
+   "count": 60
   },
   {
    "n": "スティーブン・ピンカー",
@@ -128,6 +172,9 @@
    "feed": "https://aeon.co/feed.rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -136,6 +183,9 @@
    "feed": "https://aeon.co/feed.rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -143,7 +193,10 @@
    "s": "blog",
    "feed": "https://marginalrevolution.com/feed",
    "ok": true,
-   "count": 12
+   "count": 13,
+   "dropped": {
+    "著者条件に一致せず": 2
+   }
   },
   {
    "n": "ダイアン・コイル",
@@ -158,6 +211,9 @@
    "feed": "https://www.project-syndicate.org/rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -173,6 +229,9 @@
    "feed": "https://www.project-syndicate.org/rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -181,6 +240,9 @@
    "feed": "https://www.project-syndicate.org/rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -189,7 +251,17 @@
    "feed": "https://aeon.co/feed.rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "デイヴィッド・ランシマン",
+   "s": "podcast",
+   "feed": "https://feeds.megaphone.fm/ARML2708405200",
+   "ok": true,
+   "count": 336
   },
   {
    "n": "ニック・クドリー",
@@ -197,6 +269,9 @@
    "feed": "https://www.noemamag.com/feed/",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 10
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -205,7 +280,17 @@
    "feed": "https://aeon.co/feed.rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "ピーター・シンガー",
+   "s": "podcast",
+   "feed": "https://feeds.acast.com/public/shows/6628460c6b51e80012b834c2",
+   "ok": true,
+   "count": 89
   },
   {
    "n": "フランシス・フクヤマ",
@@ -213,7 +298,17 @@
    "feed": "https://www.project-syndicate.org/rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "フランシス・フクヤマ",
+   "s": "podcast",
+   "feed": "https://api.substack.com/feed/podcast/61579/s/137248.rss",
+   "ok": true,
+   "count": 23
   },
   {
    "n": "ヘンリー・ファレル",
@@ -228,6 +323,9 @@
    "feed": "https://www.noemamag.com/feed/",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 10
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -243,6 +341,9 @@
    "feed": "https://www.project-syndicate.org/rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -251,6 +352,9 @@
    "feed": "https://www.project-syndicate.org/rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -273,6 +377,9 @@
    "feed": "https://www.noemamag.com/feed/",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 10
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -288,6 +395,9 @@
    "feed": "https://www.project-syndicate.org/rss",
    "ok": false,
    "count": 0,
+   "dropped": {
+    "著者条件に一致せず": 20
+   },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
@@ -303,6 +413,13 @@
    "feed": "https://lessig.medium.com/feed",
    "ok": true,
    "count": 10
+  },
+  {
+   "n": "ローレンス・レッシグ",
+   "s": "podcast",
+   "feed": "https://feeds.simplecast.com/oibbcLXn",
+   "ok": true,
+   "count": 166
   },
   {
    "n": "ヴァージニア・ユーバンクス",

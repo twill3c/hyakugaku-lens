@@ -143,7 +143,7 @@ def test_sources_reference_real_people(sources):
 
 AUTO_EVIDENCE = {"own-domain", "feed-title", "item-author"}
 # 人が中身を見て採ると決めたもの(関門を外した分)
-DECLARED_EVIDENCE = {"declared-site", "declared-author"}
+DECLARED_EVIDENCE = {"declared-site", "declared-author", "declared-host"}
 # 多著者の論説媒体。採用条件は「その媒体が項目ごとに著者名を持つこと」で、
 # 本人の記事が今あるかどうかとは独立に成り立つ(載っていない日は 0 件)
 STANDING_EVIDENCE = {"standing-author"}
@@ -268,3 +268,114 @@ def test_run_proceeds_when_allowed():
     out, rep = run(people, [{"n": "P", "s": "blog", "feed": "https://f"}],
                    fetch=lambda u: ATOM.encode(), gate=_AllowAll())
     assert rep["ok"] == 1 and out[0]["own"]
+
+
+# --- 取得元をどの欄へ入れるか(sec)-----------------------------------
+
+def test_sources_default_to_the_own_section():
+    """sec を書かない取得元は「本人の発信」へ入る(既存の宣言を壊さない)。"""
+    people = [_person([])]
+    out, _ = run(people, [{"n": "P", "s": "blog", "feed": "https://f"}],
+                 fetch=lambda u: ATOM.encode())
+    assert out[0]["own"] and not out[0]["yt"]
+
+
+def test_sources_can_target_the_yt_section():
+    people = [_person([])]
+    out, _ = run(people, [{"n": "P", "s": "podcast", "feed": "https://f", "sec": "yt"}],
+                 fetch=lambda u: ATOM.encode())
+    assert out[0]["yt"] and not out[0]["own"], "宣言した欄に入っていない"
+
+
+def test_sections_do_not_disturb_each_other():
+    """片方の欄を差し替えても、もう片方の既存項目は残る。"""
+    people = [_person([{"d": "2020-01-01", "t": "old", "u": "https://o", "s": "blog"}])]
+    people[0]["yt"] = [{"d": "2019-01-01", "t": "talk", "u": "https://t", "s": "podcast"}]
+    out, _ = run(people, [{"n": "P", "s": "blog", "feed": "https://f"}],
+                 fetch=lambda u: ATOM.encode())
+    assert [i["u"] for i in out[0]["yt"]] == ["https://t"]
+    assert [i["u"] for i in out[0]["own"]] == ["https://ex.org/p"]
+
+
+def test_sources_declare_a_known_section(sources):
+    for s in sources:
+        assert s.get("sec", "own") in {"own", "yt"}, s
+
+
+def test_declared_host_rows_are_podcasts_in_the_talk_section(sources):
+    """本人が主宰する番組は、講演・対談の欄に podcast として入る。
+
+    氏名の一致だけでは決められない —— 同名の別人による番組が実在する
+    (loop_010 の実測: ヘンリー・ファレル名義の朗読番組)。だから declared-host には
+    「中身を読んで確かめた」ことを書いた note が要る。
+    """
+    rows = [s for s in sources if s["evidence"] == "declared-host"]
+    assert rows, "本人主宰の番組が 1 本も無い"
+    for s in rows:
+        assert s.get("sec") == "yt", f"{s['n']}: 入れ先の欄が yt でない"
+        assert s["s"] == "podcast", f"{s['n']}: 種別が podcast でない"
+        assert "確認" in s.get("note", ""), f"{s['n']}: 何を確かめたかが note に無い"
+
+
+# --- 回ごとの link が無いフィード(実測: megaphone)--------------------
+
+PODCAST_NO_LINK = """<?xml version="1.0"?><rss version="2.0"><channel>
+<title>Past Present Future</title><link>https://www.ppfideas.com/</link>
+<item><title>最新回</title><guid isPermaLink="false">c58055a8</guid>
+ <pubDate>Sun, 30 Aug 2026 05:00:00 -0000</pubDate>
+ <enclosure url="https://traffic.example/1.mp3" type="audio/mpeg"/></item>
+<item><title>その前の回</title><guid isPermaLink="false">4479f55a</guid>
+ <pubDate>Wed, 26 Aug 2026 05:00:00 -0000</pubDate></item>
+</channel></rss>"""
+
+
+def test_control_the_feed_really_lacks_item_links():
+    """対照の前提: この例に item/link が本当に無いこと。"""
+    assert "<link>" in PODCAST_NO_LINK           # channel の link はある
+    assert PODCAST_NO_LINK.count("<link>") == 1  # item の側には無い
+    assert all(not e["url"] for e in parse_feed(PODCAST_NO_LINK.encode()))
+
+
+def test_items_without_links_fall_back_to_the_show_page():
+    """捨てると**新しい回だけが落ちて更新が止まった番組に見える**(実測 S2)。"""
+    got = feed_items(PODCAST_NO_LINK.encode(), "podcast", "https://feeds.example/")
+    assert len(got) == 2, "link の無い回が落ちている"
+    assert all(i["u"] == "https://www.ppfideas.com/" for i in got)
+    assert got[0]["d"] == "2026-08-30"
+
+
+def test_items_without_links_are_dropped_when_there_is_no_show_page():
+    """退避先も無ければ採らない(到達できない項目は出さない)。"""
+    raw = b'<?xml version="1.0"?><rss version="2.0"><channel><title>x</title>' \
+          b"<item><title>no link</title></item></channel></rss>"
+    assert feed_items(raw, "podcast", "https://f/") == []
+
+
+def test_dropped_items_are_counted_by_reason():
+    """黙って捨てない。理由ごとの件数が呼び出し側へ返ること(陽性対照)。"""
+    raw = ('<?xml version="1.0"?><rss version="2.0"><channel><title>t</title>'
+           "<item><title>Hello world!</title><link>https://ex.org/1</link></item>"
+           "<item><title>no link</title></item>"
+           "<item><title>ok</title><link>https://ex.org/2</link></item>"
+           "</channel></rss>").encode()
+    dropped: dict[str, int] = {}
+    got = feed_items(raw, "blog", "https://ex.org/", dropped=dropped)
+    assert [i["t"] for i in got] == ["ok"]
+    assert dropped == {"CMS の初期投稿": 1, "到達先なし": 1}, dropped
+
+
+def test_nothing_dropped_means_an_empty_record():
+    """陰性対照: 全部通ったときに空の集計が返る(常に何かを報告するのではない)。"""
+    dropped: dict[str, int] = {}
+    feed_items(ATOM.encode(), "blog", "https://ex.org/", dropped=dropped)
+    assert dropped == {}
+
+
+def test_run_reports_what_each_source_dropped():
+    people = [_person([])]
+    raw = ('<?xml version="1.0"?><rss version="2.0"><channel><title>t</title>'
+           "<item><title>Hello world!</title><link>https://ex.org/1</link></item>"
+           "<item><title>ok</title><link>https://ex.org/2</link></item>"
+           "</channel></rss>").encode()
+    _, rep = run(people, [{"n": "P", "s": "blog", "feed": "https://f"}], fetch=lambda u: raw)
+    assert rep["sources"][0]["dropped"] == {"CMS の初期投稿": 1}

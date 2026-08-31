@@ -23,6 +23,26 @@ def _text(el: ET.Element | None) -> str:
     return (el.text or "").strip() if el is not None else ""
 
 
+def channel_link(raw: bytes) -> str:
+    """フィード全体の代表 URL(RSS の channel/link、Atom の alternate)。
+
+    ポッドキャストのフィードは**回ごとの link を持たないことがある**(megaphone で実測:
+    336 件中 191 件)。そのとき回そのもののページは存在しないので、番組のページへ退避する。
+    """
+    try:
+        root = ET.fromstring(raw)
+    except ET.ParseError:
+        return ""
+    ch = root.find("channel")
+    if ch is not None:
+        return _text(ch.find("link"))
+    if root.tag == f"{{{_NS_ATOM}}}feed":
+        for ln in root.findall(f"{{{_NS_ATOM}}}link"):
+            if ln.get("rel", "alternate") == "alternate":
+                return ln.get("href", "")
+    return ""
+
+
 def parse_feed(raw: bytes) -> list[dict]:
     try:
         root = ET.fromstring(raw)

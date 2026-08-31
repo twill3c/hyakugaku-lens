@@ -75,3 +75,25 @@ def test_input_not_mutated():
     snapshot = [dict(x) for x in existing]
     merge_section(existing, [it("2026-01-01", "new", "blog")], {"blog"})
     assert existing == snapshot
+
+
+# --- 同じ URL でも見出しが違えば別の項目(実測: ポッドキャスト)-------
+
+def test_same_url_different_titles_are_kept():
+    """回ごとのページを持たない番組では、複数の回が同じ番組ページを指す。
+
+    実測(2026-09-01): megaphone のフィードは 336 件中 191 件に item/link が無い。
+    URL だけで畳むと、その番組は 1 件しか出せなくなる。
+    """
+    show = "https://www.ppfideas.com/"
+    got = merge_section([], [it("2026-08-30", show, "podcast", "第1回"),
+                             it("2026-08-26", show, "podcast", "第2回")], {"podcast"})
+    assert len(got) == 2
+    assert [x["t"] for x in got] == ["第1回", "第2回"]
+
+
+def test_same_url_same_title_still_collapses():
+    """陰性対照: 本当に同じ項目は畳む(重複排除を無効にしたのではない)。"""
+    got = merge_section([], [it("2026-08-30", "https://a", "blog", "同じ見出し"),
+                             it("2026-08-26", "https://a", "blog", "同じ見出し")], {"blog"})
+    assert len(got) == 1

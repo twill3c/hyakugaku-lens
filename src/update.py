@@ -20,7 +20,7 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .feedparse import parse_feed
+from .feedparse import channel_link, parse_feed
 from .merge import merge_section
 from .robots import RobotsGate
 
@@ -68,22 +68,45 @@ def is_boilerplate(title: str) -> bool:
     return title.strip().lower().rstrip("!！") in {t.rstrip("!！") for t in BOILERPLATE}
 
 
-def feed_items(raw: bytes, s: str, base: str = "", authors: list[str] | None = None) -> list[dict]:
-    """フィードを本文項目に整形する。authors が指定されたら著者一致のものだけを残す。"""
+def feed_items(raw: bytes, s: str, base: str = "", authors: list[str] | None = None,
+               dropped: dict[str, int] | None = None) -> list[dict]:
+    """フィードを本文項目に整形する。authors が指定されたら著者一致のものだけを残す。
+
+    dropped を渡すと、**落とした件数を理由ごとに数えて書き込む**。黙って捨てる絞り込みは、
+    もっともらしい別の事実を画面に出す —— 実測(2026-09-01)では link の無い回を捨てた結果、
+    活動中の番組の最新回が 2 年前に見えていた(336 件中 191 件を落としていた)。
+    """
+    def drop(why: str) -> None:
+        if dropped is not None:
+            dropped[why] = dropped.get(why, 0) + 1
+
     keys = [a.lower() for a in (authors or [])]
+    # 回ごとの link を持たないフィードがある(ポッドキャストで多い)。
+    # 捨てると**新しい回だけが落ちて、更新が止まった番組に見える**ので、番組ページへ退避する
+    fallback = channel_link(raw)
     items = []
     for e in parse_feed(raw):
-        if not (e["title"] and e["url"]):
+        if not e["title"]:
+            drop("題名なし")
             continue
+        if not e["url"]:
+            if not fallback:
+                drop("到達先なし")
+                continue
+            e = dict(e, url=fallback)
         if is_boilerplate(e["title"]):
+            drop("CMS の初期投稿")
             continue
         if keys:
             who = (e.get("author") or "").lower()
             if not who or not any(k in who for k in keys):
+                drop("著者条件に一致せず")
                 continue
         u = absolutize(e["url"], base)
         if u.startswith(("http://", "https://")):
             items.append({"d": e["date"] or UNKNOWN, "t": e["title"].strip(), "u": u, "s": s})
+        else:
+            drop("URL が http(s) でない")
     return items
 
 
@@ -93,7 +116,8 @@ def run(people, sources, fetch=http_get, now="", gate=None):
     gate は robots.txt の関門。**取りに行く前に**可否を確かめる —— 禁じられている経路は
     その取得元だけを失敗にし、他は通す(劣化継続)。None を渡すと確認しない(単体テスト用)。
     """
-    by_name: dict[str, list[dict]] = {}
+    # 取得元は入れ先の欄(sec)を宣言できる。既定は「本人の発信」
+    by_name: dict[tuple[str, str], list[dict]] = {}
     status, ok_count = [], 0
     sources = [s for s in sources if not s.get("skip")]
     # 多著者の論説媒体(Project Syndicate など)は複数人が同じ URL を指す。
@@ -106,14 +130,19 @@ def run(people, sources, fetch=http_get, now="", gate=None):
                 gate.check(src["feed"])
             if src["feed"] not in cache:
                 cache[src["feed"]] = fetch(src["feed"])
-            items = feed_items(cache[src["feed"]], src["s"], src["feed"], src.get("author"))
+            dropped: dict[str, int] = {}
+            items = feed_items(cache[src["feed"]], src["s"], src["feed"], src.get("author"),
+                               dropped=dropped)
+            if dropped:
+                rec["dropped"] = dropped
         except Exception as e:                              # noqa: BLE001 — 失敗は劣化継続
             rec["error"] = f"{type(e).__name__}: {e}"[:200]
             items = []
         if items:
             rec.update(ok=True, count=len(items))
             ok_count += 1
-            by_name.setdefault(src["n"], []).append({"s": src["s"], "items": items})
+            by_name.setdefault((src["n"], src.get("sec", "own")), []).append(
+                {"s": src["s"], "items": items})
         elif not rec.get("error") and src.get("evidence") == "standing-author":
             # 多著者の媒体に本人の記事が今は無いだけ。故障と読み違えないよう印を残す
             rec["note"] = "常設の取得元・この時点で本人の記事が載っていない"
@@ -123,18 +152,18 @@ def run(people, sources, fetch=http_get, now="", gate=None):
     for p in people:
         # 既存側にも同じ関門を掛ける。フィードが空になった休止中のブログでは、
         # 初期投稿だけが「劣化継続」で残り続ける —— 収集の成否によらず落とす
-        kept = [i for i in p["own"] if not is_boilerplate(i["t"])]
-        got = by_name.get(p["n"])
-        if not got:
-            if len(kept) != len(p["own"]):
-                p = dict(p, own=kept)
-            out_people.append(p)
-            continue
         q = dict(p)
-        q["own"] = merge_section(kept,
-                                 [i for g in got for i in g["items"]],
-                                 {g["s"] for g in got})
-        out_people.append(q)
+        q["own"] = [i for i in p["own"] if not is_boilerplate(i["t"])]
+        touched = len(q["own"]) != len(p["own"])
+        for sec in ("own", "yt"):
+            got = by_name.get((p["n"], sec))
+            if not got:
+                continue
+            q[sec] = merge_section(q[sec],
+                                   [i for g in got for i in g["items"]],
+                                   {g["s"] for g in got})
+            touched = True
+        out_people.append(q if touched else p)
 
     return out_people, {"generated_at": now, "ok": ok_count,
                         "fail": len(sources) - ok_count, "sources": status}
@@ -156,7 +185,10 @@ def main() -> int:
 
     print(f"update: {report['ok']}/{report['ok'] + report['fail']} フィード成功")
     for s in report["sources"]:
-        print(f"  {'ok ' if s['ok'] else 'NG '}{s['n']} [{s['s']}] {s['count']} 件 {s.get('error', '')}")
+        drops = s.get("dropped") or {}
+        tail = "  捨てた: " + " / ".join(f"{k} {v}" for k, v in drops.items()) if drops else ""
+        print(f"  {'ok ' if s['ok'] else 'NG '}{s['n']} [{s['s']}] {s['count']} 件 "
+              f"{s.get('error', '')}{tail}")
     return 0 if (report["ok"] > 0 or not sources) else 1
 
 

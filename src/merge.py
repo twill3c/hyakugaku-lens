@@ -4,7 +4,9 @@
 規則:
 - 収集に成功したソース種別(s)の既存項目は捨て、収集項目で置き換える
 - それ以外の種別(未収集・失敗種別)は既存のまま維持する(劣化継続)
-- URL で重複排除し、日付降順(YYYY-MM は月初扱い、「不明」と空は末尾)で最大 3 件
+- **URL と見出しの組**で重複排除し、日付降順(YYYY-MM は月初扱い、「不明」と空は末尾)で最大 3 件。
+  URL だけで畳まないのは、回ごとのページを持たないポッドキャストでは複数の回が同じ
+  番組ページを指すからである(それらは別の項目である)
 """
 
 from __future__ import annotations
@@ -30,11 +32,12 @@ def merge_section(existing: list[dict], fetched: list[dict],
     """existing: 現在の項目。fetched: 今回収集した項目(d/t/u/s)。
     fetched_ok_types: 今回取得に成功したソース種別の集合。"""
     kept = [i for i in existing if i["s"] not in fetched_ok_types]
-    seen: set[str] = set()
+    seen: set[tuple[str, str]] = set()
     merged: list[dict] = []
     for i in sort_items(list(fetched) + kept):
-        if i["u"] in seen:
+        key = (i["u"], i["t"])
+        if key in seen:
             continue
-        seen.add(i["u"])
+        seen.add(key)
         merged.append(dict(i))
     return merged[:MAX_ITEMS]

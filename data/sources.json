@@ -51,6 +51,15 @@
   ]
  },
  {
+  "n": "イアン・ブレマー",
+  "s": "podcast",
+  "sec": "yt",
+  "feed": "https://feeds.simplecast.com/ibBxsiVV",
+  "evidence": "declared-host",
+  "note": "GZERO World with Ian Bremmer(442話)。番組名に本人名を含み、実測(2026-09-01)で各回が本人による招待対談(with 〈相手〉の形)であることを確認した",
+  "site": "https://www.gzeromedia.com/"
+ },
+ {
   "n": "イーサン・モリック",
   "s": "blog",
   "feed": "https://www.oneusefulthing.org/feed",
@@ -154,6 +163,15 @@
   "author": [
    "John Danaher"
   ]
+ },
+ {
+  "n": "ジョン・ダナハー",
+  "s": "podcast",
+  "sec": "yt",
+  "feed": "http://feeds.feedburner.com/philosophicaldiscursions",
+  "evidence": "declared-host",
+  "note": "Philosophical Disquisitions(60話)。本人のブログと同名で著者欄も本人。実測(2026-09-01)で技術倫理の対談番組であることを確認した。ただし最新回は2023-12で更新は止まっている",
+  "site": "https://philosophicaldisquisitions.blogspot.com/"
  },
  {
   "n": "スティーブン・ピンカー",
@@ -265,6 +283,15 @@
   "site": "https://consc.net/"
  },
  {
+  "n": "デイヴィッド・ランシマン",
+  "s": "podcast",
+  "sec": "yt",
+  "feed": "https://feeds.megaphone.fm/ARML2708405200",
+  "evidence": "declared-host",
+  "note": "Past Present Future(336話)。Apple の著者欄が本人名義で、実測(2026-09-01)で最新回まで本人が進行する哲学史・政治史の連続番組であることを確認した。同名の別人による番組ではない",
+  "site": "https://www.polis.cam.ac.uk/Staff_and_Students/professor-david-runciman"
+ },
+ {
   "n": "ニック・クドリー",
   "s": "media",
   "feed": "https://www.noemamag.com/feed/",
@@ -287,6 +314,15 @@
   "site": "https://petersinger.info/"
  },
  {
+  "n": "ピーター・シンガー",
+  "s": "podcast",
+  "sec": "yt",
+  "feed": "https://feeds.acast.com/public/shows/6628460c6b51e80012b834c2",
+  "evidence": "declared-host",
+  "note": "Lives Well Lived(89話)。Apple の著者欄が Peter Singer & Kasia de Lazari-Radek。実測(2026-09-01)で本人が共同司会する倫理学の対談番組であることを確認した。同姓同名の別人(トロント大の公衆衛生研究者)の番組とは別物",
+  "site": "https://petersinger.info/"
+ },
+ {
   "n": "フランシス・フクヤマ",
   "s": "media",
   "feed": "https://www.project-syndicate.org/rss",
@@ -295,6 +331,15 @@
    "Francis Fukuyama"
   ],
   "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
+  "site": "https://fukuyama.stanford.edu/"
+ },
+ {
+  "n": "フランシス・フクヤマ",
+  "s": "podcast",
+  "sec": "yt",
+  "feed": "https://api.substack.com/feed/podcast/61579/s/137248.rss",
+  "evidence": "declared-host",
+  "note": "Frankly Fukuyama(23話)。実測(2026-09-01)で最新回が本人によるAI・政治の対談であることを確認した。本人の Substack が配信元",
   "site": "https://fukuyama.stanford.edu/"
  },
  {
@@ -425,6 +470,15 @@
   "author": [
    "Lessig"
   ]
+ },
+ {
+  "n": "ローレンス・レッシグ",
+  "s": "podcast",
+  "sec": "yt",
+  "feed": "https://feeds.simplecast.com/oibbcLXn",
+  "evidence": "declared-host",
+  "note": "Another Way, by Lawrence Lessig(166話)。番組名に本人名を含み著者欄も本人。実測(2026-09-01)で最新回まで継続していることを確認した",
+  "site": "https://lessig.org/"
  },
  {
   "n": "ヴァージニア・ユーバンクス",
