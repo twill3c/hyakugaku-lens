@@ -1,0 +1,35 @@
+name: collect
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'  # 6 時間間隔(F-09)。JST 09:17/15:17/21:17/03:17 頃
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 宣言フィードから本人の発信を更新して再ビルド
+        run: python -m src.update
+      - name: 差分があるときだけコミット
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ out/
+          if git diff --cached --quiet; then
+            echo "変更なし — コミットしない"
+          else
+            git commit -m "data: feed update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi

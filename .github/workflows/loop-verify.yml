@@ -1,0 +1,25 @@
+name: loop-verify
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 開発用の依存を入れる
+        run: pip install pytest
+      - name: テスト
+        run: python -m pytest -q
+      - name: ループログの検証
+        run: python harness/looplog.py validate
+      - name: 出荷物が data から再生成できること(決定性)
+        run: |
+          python src/build.py
+          git diff --exit-code -- out/index.html

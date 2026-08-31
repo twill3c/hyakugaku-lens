@@ -1,0 +1,41 @@
+name: scholar
+
+on:
+  schedule:
+    - cron: '35 21 * * *'  # 毎日 1 回・UTC 21:35(JST 06:35 頃)。
+                           # OpenAlex の日次予算は UTC 深夜に戻るので、その後に走らせる
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scholar
+  cancel-in-progress: false
+
+jobs:
+  scholar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      # 同定できていない人を引き直す。前日にレート制限で落ちた分がここで埋まる。
+      # 済んだ人は引き継ぐので、日次の追加コストはほぼ無い
+      - name: 未同定の著者を引き直す
+        run: python tools/resolve_openalex.py --only-missing
+        continue-on-error: true
+      - name: 学術発表を更新して再ビルド
+        run: python -m src.scholar
+      - name: 差分があるときだけコミット
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ out/
+          if git diff --cached --quiet; then
+            echo "変更なし — コミットしない"
+          else
+            git commit -m "data: scholar update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi

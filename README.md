@@ -30,6 +30,20 @@ python tools/verify_links.py --apply # 公式サイト候補を実測して h �
 python tools/seed_people.py          # 名簿 JSONL から people.json を再生成(立ち上げ用)
 ```
 
+## 定期更新のしかけ
+
+GitHub Actions が二つの層を回し、差分があるときだけ `data/` + `out/` をコミットする
+(Vercel の Git 連携が自動デプロイする)。
+
+| 層 | 頻度 | 中身 |
+|---|---|---|
+| `collect.yml` | 6 時間ごと | 宣言フィード 21 本から「本人の発信」を差し替える |
+| `scholar.yml` | 毎日 UTC 21:35 | 未同定の著者を引き直し、OpenAlex から「学術発表」を差し替える |
+
+`scholar.yml` が未同定分を毎日引き直すのは、**OpenAlex に日次の無料予算がある**ためである。
+初回の同定で予算を使い切り、19 名(日本の学者)が未取得のまま残っている。
+予算は UTC 深夜に戻るので、翌日以降の実行で順に埋まる。
+
 ## 構成
 
 | 場所 | 役割 |
