@@ -47,6 +47,33 @@ _CJK = re.compile(r"[぀-ヿ一-鿿]+")
 _LATIN = re.compile(r"[A-Za-z][A-Za-z .'À-ɏ-]*[A-Za-z.]")
 
 
+_KANJI = re.compile(r"[一-鿿]")
+
+
+def query_term(person: dict) -> str:
+    """検索に使う語。
+
+    **表示名(カタカナ)で引いてはならない。** 実測(2026-09-01)で
+    「ペーター=ポール・フェルベーク」の表示名から取った「ペーター」が
+    『あつ森の住民ペーター』『連続殺人犯ペーター・キュルテン』『聖ペーター教会』に当たり、
+    22 件すべてが別物だった。原綴を持っているのだから、そちらで引く。
+
+    日本の学者(漢字の氏名)は原綴のローマ字より漢字のほうが当たるので、表示名を使う。
+    """
+    return person["n"] if _KANJI.search(person["n"]) else person["en"]
+
+
+def accepted_forms(person: dict) -> list[str]:
+    """題名に現れてよい語形。検索語だけでなく、もう一方の表記も許す。"""
+    forms = name_variants(person["en"]) + name_variants(person["n"])
+    seen, out = set(), []
+    for f in forms:
+        if f not in seen:
+            seen.add(f)
+            out.append(f)
+    return out
+
+
 def name_variants(name: str) -> list[str]:
     """氏名の照合語形。'Philip N. Howard' → ['Philip N. Howard', 'Philip Howard']。"""
     variants = []
@@ -61,32 +88,34 @@ def name_variants(name: str) -> list[str]:
     return variants or [name]
 
 
-def title_matches(title: str, name: str) -> bool:
+def title_matches(title: str, name_or_forms) -> bool:
     t = title.lower()
     if "#shorts" in t or "#short" in t:
         return False
-    return any(v.lower() in t for v in name_variants(name))
+    forms = name_or_forms if isinstance(name_or_forms, list) else name_variants(name_or_forms)
+    return any(v.lower() in t for v in forms)
 
 
-def search_url(name: str, key: str, published_after: str = "") -> str:
+def search_url(term: str, key: str, published_after: str = "") -> str:
     params = {
         "part": "snippet", "type": "video", "maxResults": 25,
         "order": "relevance", "videoDuration": "long",
-        "q": f'"{name_variants(name)[0]}"', "key": key,
+        "q": f'"{term}"', "key": key,
     }
     if published_after:
         params["publishedAfter"] = published_after
     return f"{API}?{urllib.parse.urlencode(params)}"
 
 
-def search_person(name: str, key: str, fetch, published_after: str = "",
+def search_person(person: dict, key: str, fetch, published_after: str = "",
                   dropped: dict[str, int] | None = None) -> list[dict]:
     """検索し、氏名ゲートを通った候補を返す。落としたものは理由ごとに数える。"""
     def drop(why: str) -> None:
         if dropped is not None:
             dropped[why] = dropped.get(why, 0) + 1
 
-    body = json.loads(fetch(search_url(name, key, published_after)))
+    forms = accepted_forms(person)
+    body = json.loads(fetch(search_url(query_term(person), key, published_after)))
     items = []
     for it in body.get("items", []):
         vid = (it.get("id") or {}).get("videoId")
@@ -99,7 +128,7 @@ def search_person(name: str, key: str, fetch, published_after: str = "",
         if "#shorts" in low or "#short" in low:
             drop("切り抜きの印")
             continue
-        if not title_matches(title, name):
+        if not title_matches(title, forms):
             drop("題名に氏名が無い")
             continue
         items.append({
@@ -121,7 +150,8 @@ def window_start(now: datetime, days: int = WINDOW_DAYS) -> str:
     return (now - timedelta(days=days)).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-def run_yt(people, key, fetch, bucket: int, published_after: str = "", gate=None):
+def run_yt(people, key, fetch, bucket: int, published_after: str = "", gate=None,
+           limit: int = 0):
     """(people, report) を返す純関数コア。people は書き換えない。
 
     bucket に該当する人(index % BUCKETS == bucket)だけを検索する。
@@ -129,15 +159,15 @@ def run_yt(people, key, fetch, bucket: int, published_after: str = "", gate=None
     """
     out, status, ok = [], [], 0
     for idx, p in enumerate(people):
-        if idx % BUCKETS != bucket:
+        if idx % BUCKETS != bucket or (limit and len(status) >= limit):
             out.append(p)
             continue
         rec: dict = {"n": p["n"], "ok": False, "count": 0}
         dropped: dict[str, int] = {}
         try:
             if gate is not None:
-                gate.check(search_url(p["n"], key, published_after))
-            found = search_person(p["n"], key, fetch, published_after, dropped=dropped)
+                gate.check(search_url(query_term(p), key, published_after))
+            found = search_person(p, key, fetch, published_after, dropped=dropped)
         except Exception as e:                              # noqa: BLE001 — 失敗は劣化継続
             rec["error"] = f"{type(e).__name__}: {e}"[:200]
             found = []
@@ -196,8 +226,13 @@ def main(argv: list[str] | None = None) -> int:
     now = datetime.now(timezone.utc)
     bucket = todays_bucket(now)
 
+    limit = 0
+    for a in argv:
+        if a.startswith("--limit="):
+            limit = int(a.split("=", 1)[1])
     new_people, report = run_yt(people, key, http_get, bucket,
-                                published_after=window_start(now), gate=RobotsGate())
+                                published_after=window_start(now), gate=RobotsGate(),
+                                limit=limit)
     report["generated_at"] = now.strftime("%Y-%m-%dT%H:%M:%SZ")
     report["applied"] = apply
     report["window_start"] = window_start(now)

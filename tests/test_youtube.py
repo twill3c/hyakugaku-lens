@@ -25,8 +25,15 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
 from src.youtube import (  # noqa: E402
-    name_variants, search_person, title_matches, todays_bucket, run_yt,
+    accepted_forms, name_variants, query_term, search_person, title_matches,
+    todays_bucket, run_yt,
 )
+
+
+def person(n, en, **kw):
+    base = {"n": n, "en": en, "own": [], "pub": [], "yt": []}
+    base.update(kw)
+    return base
 
 
 def api(*items):
@@ -70,7 +77,7 @@ def test_search_applies_the_query_gate():
         seen["url"] = url
         return api(("v1", "Seth Lazar: AI and Power", "2026-08-01", "ANU"))
 
-    got = search_person("Seth Lazar", "KEY", fetch)
+    got = search_person(person("セス・ラザー", "Seth Lazar"), "KEY", fetch)
     assert "videoDuration=long" in seen["url"]
     assert "order=relevance" in seen["url"]
     assert got[0]["u"] == "https://www.youtube.com/watch?v=v1"
@@ -83,7 +90,7 @@ def test_search_counts_what_it_dropped():
               ("v2", "Explaining AI ethics", "2026-08-02", "SomeChannel"),
               ("v3", "Seth Lazar clip #shorts", "2026-08-03", "Clips"))
     dropped: dict[str, int] = {}
-    got = search_person("Seth Lazar", "KEY", lambda u: raw, dropped=dropped)
+    got = search_person(person("セス・ラザー", "Seth Lazar"), "KEY", lambda u: raw, dropped=dropped)
     assert [i["u"].endswith("v1") for i in got] == [True]
     assert dropped == {"題名に氏名が無い": 1, "切り抜きの印": 1}, dropped
 
@@ -99,7 +106,7 @@ def test_bucket_alternates_by_day():
 
 def test_only_todays_half_is_searched():
     """1 日の検索は半数まで(search.list は 100 units・無料枠 10,000/日)。"""
-    people = [{"n": f"P{i}", "own": [], "pub": [], "yt": []} for i in range(100)]
+    people = [person(f"P{i}", f"Person {i}") for i in range(100)]
     calls = []
 
     def fetch(u):
@@ -113,9 +120,7 @@ def test_only_todays_half_is_searched():
 # --- 既存項目との関係 -------------------------------------------------
 
 def _person(**kw):
-    base = {"n": "Seth Lazar", "own": [], "pub": [], "yt": []}
-    base.update(kw)
-    return base
+    return person("セス・ラザー", "Seth Lazar", **kw)
 
 
 def test_urls_already_shown_elsewhere_are_excluded():
@@ -152,3 +157,46 @@ def test_run_does_not_mutate_input():
     snapshot = json.loads(json.dumps(people))
     run_yt(people, "KEY", lambda u: api(("v1", "Seth Lazar talk", "2026-08-01", "ANU")), bucket=0)
     assert people == snapshot
+
+
+# --- 検索語の選び方(実測 2026-09-01 の失敗)---------------------------
+
+def test_foreign_scholars_are_searched_by_original_spelling():
+    """表示名(カタカナ)で引いてはならない。
+
+    「ペーター=ポール・フェルベーク」の表示名から取った「ペーター」で引いたところ、
+    22 件すべてが別物だった(あつ森の住民・連続殺人犯・聖ペーター教会)。
+    """
+    p = person("ペーター=ポール・フェルベーク", "Peter-Paul Verbeek")
+    assert query_term(p) == "Peter-Paul Verbeek"
+
+
+def test_japanese_scholars_are_searched_by_their_kanji_name():
+    """日本の学者はローマ字より漢字のほうが当たる。"""
+    assert query_term(person("東浩紀", "Hiroki Azuma")) == "東浩紀"
+
+
+def test_control_the_katakana_name_really_is_ambiguous():
+    """対照の前提: 表示名の先頭語が短く、他に当たりうること。
+
+    これが成り立たないなら、原綴で引く理由が無い。
+    """
+    p = person("ペーター=ポール・フェルベーク", "Peter-Paul Verbeek")
+    first = name_variants(p["n"])[0]
+    assert len(first) <= 4, f"{first!r} は十分に短く曖昧"
+
+
+def test_both_spellings_are_accepted_in_titles():
+    """日本語の媒体は原綴でなくカタカナで書くことがあるので、題名側は両方許す。"""
+    p = person("ユヴァル・ノア・ハラリ", "Yuval Noah Harari")
+    forms = accepted_forms(p)
+    assert title_matches("Yuval Noah Harari on AI", forms)
+    assert title_matches("ユヴァル・ノア・ハラリが語るAIの未来", forms)
+
+
+def test_limit_caps_how_many_are_searched():
+    """少量で測れること(クォータを使い切らずに較正するため)。"""
+    people = [person(f"P{i}", f"Person {i}") for i in range(100)]
+    calls = []
+    run_yt(people, "KEY", lambda u: calls.append(u) or api(), bucket=0, limit=6)
+    assert len(calls) == 6

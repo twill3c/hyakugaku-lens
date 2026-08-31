@@ -11,6 +11,10 @@ on:
         description: "true にすると people.json へ書き込む(既定は審査のみ)"
         type: boolean
         default: false
+      limit:
+        description: "検索する人数の上限(0 なら組の全員=50 名)。較正を安く回すため"
+        type: string
+        default: "0"
 
 permissions:
   contents: write
@@ -30,7 +34,7 @@ jobs:
       - name: 候補を集める
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: python -m src.youtube ${{ inputs.apply && '--apply' || '' }}
+        run: python -m src.youtube ${{ inputs.apply && '--apply' || '' }} --limit=${{ inputs.limit }}
       - name: 差分があるときだけコミット
         run: |
           git config user.name "github-actions[bot]"
