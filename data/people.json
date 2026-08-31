@@ -127,7 +127,26 @@
   "field": "自動化と人間の生の意味",
   "h": "https://philosophicaldisquisitions.blogspot.com/",
   "bio": "『Automation and Utopia』(2019)で、労働が失われた後に人間の生の意味をどこに置くかを、サイボーグ化と仮想世界という二つの道として整理した。ブログ Philosophical Disquisitions と同名ポッドキャストで、AI倫理・ロボット倫理の論文を丹念に読み解く発信を長年続けている。",
-  "own": [],
+  "own": [
+   {
+    "d": "2024-11-29",
+    "t": "Why Values are Always Apt for Technological Disruption",
+    "u": "https://philosophicaldisquisitions.blogspot.com/2024/11/why-values-are-always-apt-for.html",
+    "s": "blog"
+   },
+   {
+    "d": "2024-11-26",
+    "t": "Are Seatbelt Mandates Unduly Paternalistic?",
+    "u": "https://philosophicaldisquisitions.blogspot.com/2024/11/are-seatbelt-mandates-unduly.html",
+    "s": "blog"
+   },
+   {
+    "d": "2024-07-30",
+    "t": "Generative AI and the Future of Equality Norms",
+    "u": "https://philosophicaldisquisitions.blogspot.com/2024/07/generative-ai-and-future-of-equality.html",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -187,7 +206,26 @@
   "field": "技術の媒介理論",
   "h": "https://ppverbeek.org/",
   "bio": "技術は中立な道具でも外的な脅威でもなく、人間と世界の関係を媒介し道徳性そのものを形づくる——という技術媒介論を『What Things Do』『Moralizing Technology』で展開した。ユネスコのAI倫理勧告の起草に関わり、設計段階に倫理を組み込む実践(倫理的パラレル研究)を提唱する。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-01-15",
+    "t": "Diesrede UvA 2026",
+    "u": "https://ppverbeek.org/2026/01/15/diesrede-uva-2026/",
+    "s": "blog"
+   },
+   {
+    "d": "2025-10-20",
+    "t": "Interview AT5: universiteitsprotesten en de waarde van wetenschap",
+    "u": "https://ppverbeek.org/2025/10/20/interview-at5-universiteitsprotesten-en-de-waarde-van-wetenschap/",
+    "s": "blog"
+   },
+   {
+    "d": "2025-10-20",
+    "t": "Opinie-artikel: houd de universiteit vrij van toegangspoortjes",
+    "u": "https://ppverbeek.org/2025/10/20/opinie-artikel-houd-de-universiteit-vrij-van-toegangspoortjes/",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -211,7 +249,26 @@
   "field": "技術哲学・宇宙技芸論",
   "h": "https://www.digitalmilieu.net/",
   "bio": "『中国における技術への問い』で、技術は普遍的ではなく各文明の宇宙論に根ざすという宇宙技芸(cosmotechnics)の概念を提示した。『Recursivity and Contingency』『Art and Cosmotechnics』では再帰性と偶然性からサイバネティクス以後の思考を捉え直す。AIを西洋近代の一形態として相対化する視座を提供している。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-07-24",
+    "t": "Publication of Post-Europe in Turkish",
+    "u": "https://digitalmilieu.net/5900/publication-of-post-europe-in-turkish/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-06-15",
+    "t": "Publication of Anthology Machine and Eros in Taiwan",
+    "u": "https://digitalmilieu.net/5840/publication-of-anthology-machine-and-eros-in-taiwan/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-03-16",
+    "t": "Publication of Chinese translation of Machine and Sovereignty (Shanghai: East China Normal University Press, 2026)",
+    "u": "https://digitalmilieu.net/5788/publication-of-chinese-translation-of-machine-and-sovereignty-shanghai-east-china-normal-university-press-2026/",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -379,7 +436,26 @@
   "field": "技術停滞と平均の終焉",
   "h": "https://marginalrevolution.com/",
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-08-31",
+    "t": "Spain fact of the day",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/08/spain-fact-of-the-day-7.html?utm_source=rss&utm_medium=rss&utm_campaign=spain-fact-of-the-day-7",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-31",
+    "t": "Anthropomorphizing AI?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/08/anthropomorphizing-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=anthropomorphizing-ai",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-30",
+    "t": "Russia markets in everything",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/08/russia-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=russia-markets-in-everything",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -403,7 +479,26 @@
   "field": "デジタル経済の測定",
   "h": "http://www.enlightenmenteconomics.com/blog/",
   "bio": "『GDP —— 小さくて大きな数字の歴史』で経済統計の政治性を明らかにし、『Cogs and Monsters』ではデジタル経済に経済学の道具立てが追いついていないことを論じた。無料のデジタル財や規模の経済をどう測るかという計測問題を専門とし、AIの生産性効果をめぐる統計上の空白を指摘する。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-08-30",
+    "t": "Summertime reading",
+    "u": "http://www.enlightenmenteconomics.com/blog/index.php/2026/08/summertime-reading/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-07-31",
+    "t": "July – monthly reading round-up",
+    "u": "http://www.enlightenmenteconomics.com/blog/index.php/2026/07/july-monthly-reading-round-up/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-06-28",
+    "t": "June books",
+    "u": "http://www.enlightenmenteconomics.com/blog/index.php/2026/06/june-books/",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -511,7 +606,26 @@
   "field": "法とコンピューテーション",
   "h": "https://www.cohubicol.com/",
   "bio": "『Smart Technologies and the End(s) of Law』で、文字と印刷が法の様式を規定してきたのと同様に、計算が法そのものを作り替えると論じた。法を計算に置き換える動きに対し、争えること(contestability)を法の核心として擁護する。ERC 助成の COHUBICOL プロジェクトで法とコンピューテーショナル法学の比較を進める。",
-  "own": [],
+  "own": [
+   {
+    "d": "2024-05-28",
+    "t": "Post-Project Output: The Special Issue on ‘THE FUTURE OF COMPUTATIONAL LAW’",
+    "u": "https://www.cohubicol.com/news/post-project-output-the-special-issue-on-the-future-of-computational-law/",
+    "s": "blog"
+   },
+   {
+    "d": "2024-01-05",
+    "t": "Final publication of the COHUBICOL Research Study on Computational Law",
+    "u": "https://www.cohubicol.com/news/final-publication-of-the-cohubicol-research-study-on-computational-law/",
+    "s": "blog"
+   },
+   {
+    "d": "2023-12-18",
+    "t": "Hildebrandt publishes chapter on ‘Grounding Computational Law’ in legal education and professional legal training",
+    "u": "https://www.cohubicol.com/news/hildebrandt-publishes-chapter-on-grounding-computational-law-in-legal-education-and-professional-legal-training/",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -523,7 +637,26 @@
   "field": "情報受託者論",
   "h": "https://balkin.blogspot.com/",
   "bio": "プラットフォームを利用者に対する受託者(information fiduciary)とみなす理論を提唱し、米国のプラットフォーム規制論に強い影響を与えた。「アルゴリズム社会」における言論の自由の三角構造(政府・プラットフォーム・利用者)の分析でも知られる。ブログ Balkinization を長年運営している。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-08-29",
+    "t": "Balkinization Symposium on the Global Political Economy of Artificial Intelligence",
+    "u": "https://balkin.blogspot.com/2026/08/balkinization-symposium-on-global.html",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-16",
+    "t": "Technology and Constitutional Rot",
+    "u": "https://balkin.blogspot.com/2026/08/technology-and-constitutional-rot.html",
+    "s": "blog"
+   },
+   {
+    "d": "2026-07-24",
+    "t": "From Off the Wall to On the Wall: How Social Power Shapes Legal Reason",
+    "u": "https://balkin.blogspot.com/2026/07/from-off-wall-to-on-wall-how-social.html",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -607,7 +740,26 @@
   "field": "アルゴリズムと公共圏",
   "h": "https://www.nytimes.com/by/zeynep-tufekci",
   "bio": "『Twitter and Tear Gas』でネットワーク化された抗議運動の強さと脆さを分析した社会学者。推薦アルゴリズムが過激化の勾配を作ることを早くから指摘し、パンデミック初期のマスク推奨や空気感染をめぐる論評でも先見性を示した。NYT のコラムで技術と社会の交点を継続的に論じている。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-06-30",
+    "t": "Why A.I. Won’t Steal All Our Jobs",
+    "u": "https://www.nytimes.com/2026/06/30/opinion/ai-agents-steal-jobs-employment.html",
+    "s": "media"
+   },
+   {
+    "d": "2026-05-13",
+    "t": "A New Viral Outbreak. The Same Mistakes All Over Again.",
+    "u": "https://www.nytimes.com/2026/05/12/opinion/hantavirus-complacency.html",
+    "s": "media"
+   },
+   {
+    "d": "2025-09-13",
+    "t": "How Social Media Turned Charlie Kirk’s and Iryna Zarutska’s Murder Into Spectacle",
+    "u": "https://www.nytimes.com/2025/09/13/opinion/the-flood-of-moment-of-death-videos-is-killing-us.html",
+    "s": "media"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -619,7 +771,26 @@
   "field": "監視資本主義論",
   "h": "https://shoshanazuboff.com/",
   "bio": "『監視資本主義の時代』(2019)で、人間の経験を予測用の行動データとして無償で採取し先物市場で取引する新しい蓄積の論理を「監視資本主義」と名づけた。行動余剰・行動予測製品・道具主義的権力といった語彙は、その後のプラットフォーム批判の共通言語になっている。AIをその論理の増幅装置として位置づける。",
-  "own": [],
+  "own": [
+   {
+    "d": "2014-07-01",
+    "t": "Dark Facebook: Facebook’s Secret Experiment in Emotional Manipulation Provides a Fresh Glimpse of its Radical Politics and Absolutist Ambitions",
+    "u": "https://shoshanazuboff.com/book/dark-facebook/",
+    "s": "blog"
+   },
+   {
+    "d": "2014-02-13",
+    "t": "The New Military-Informational Complex and What You Should Wear",
+    "u": "https://shoshanazuboff.com/book/my-new-article-on-the-weapons-of-mass-detection/",
+    "s": "blog"
+   },
+   {
+    "d": "2014-01-19",
+    "t": "The NSA Debate as Epochal Crisis: Obama’s NSA Speech Combines FDR Insights and Herbert Hoover Prescriptions",
+    "u": "https://shoshanazuboff.com/book/the-nsa-debate-as-epochal-crisis-obamas-nsa-speech-combines-fdr-insights-and-herbert-hoover-prescriptions/",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -643,7 +814,26 @@
   "field": "検索アルゴリズムの差別",
   "h": "https://safiyaunoble.com/",
   "bio": "『Algorithms of Oppression』(2018)で、検索エンジンが黒人女性を性的に表象する結果を返す事実を実証し、検索を中立な鏡ではなく広告に駆動された編集装置として捉え直した。UCLA の Center on Race & Digital Justice を共同で率い、マッカーサー・フェローにも選出されている。",
-  "own": [],
+  "own": [
+   {
+    "d": "2018-11-16",
+    "t": "Book Review in American Scientist",
+    "u": "https://safiyaunoble.com/book-review-in-american-scientist/",
+    "s": "blog"
+   },
+   {
+    "d": "2018-11-16",
+    "t": "Book Review in Feminist Formations",
+    "u": "https://safiyaunoble.com/book-review-in-feminist-formations/",
+    "s": "blog"
+   },
+   {
+    "d": "2018-11-13",
+    "t": "Financial Times",
+    "u": "https://safiyaunoble.com/financial-times/",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -655,7 +845,26 @@
   "field": "自動化された不平等",
   "h": "https://virginia-eubanks.com/",
   "bio": "『Automating Inequality』(2018)で、福祉の受給資格判定・ホームレス支援・児童虐待予測に導入された自動化システムが、貧困層に対する監視と排除の装置として働く実態を現地調査で描いた。「デジタル救貧院」という表現で、技術が古い救貧法の論理を延命させる構図を可視化した。",
-  "own": [],
+  "own": [
+   {
+    "d": "2025-10-30",
+    "t": "An excerpt…",
+    "u": "https://virginia-eubanks.com/2025/10/30/an-excerpt/",
+    "s": "blog"
+   },
+   {
+    "d": "2025-10-29",
+    "t": "The exciting reason PTSD Bookclub has been resting",
+    "u": "https://virginia-eubanks.com/2025/10/29/the-exciting-reason-ptsd-bookclub-has-been-resting/",
+    "s": "blog"
+   },
+   {
+    "d": "2024-12-13",
+    "t": "What if the body politic kept the score?",
+    "u": "https://virginia-eubanks.com/2024/12/12/what-if-the-body-politic-kept-the-score/",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -715,7 +924,26 @@
   "field": "人間‐機械の相互行為",
   "h": "https://robotfutures.wordpress.com/",
   "bio": "『Plans and Situated Actions』(1987)で、人間の行為は計画の実行ではなく状況に応じた即興であると論じ、AI と HCI の前提を根底から問い直した。ゼロックス PARC での人類学的研究に基づく議論は、以後の相互行為研究の基礎になっている。近年は自律兵器と軍事AIの批判的分析に注力する。",
-  "own": [],
+  "own": [
+   {
+    "d": "2024-01-21",
+    "t": "The algorithmically accelerated killing machine",
+    "u": "https://robotfutures.wordpress.com/2024/01/21/the-algorithmically-accelerated-killing-machine/",
+    "s": "blog"
+   },
+   {
+    "d": "2019-07-08",
+    "t": "DoD Patronage",
+    "u": "https://robotfutures.wordpress.com/2019/07/08/dod-patronage/",
+    "s": "blog"
+   },
+   {
+    "d": "2019-01-23",
+    "t": "Still unsafe at any speed?",
+    "u": "https://robotfutures.wordpress.com/2019/01/22/still-unsafe-at-any-speed/",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -775,7 +1003,26 @@
   "field": "人類史とAIの未来",
   "h": "https://www.ynharari.com/",
   "bio": "『サピエンス全史』で虚構を共有する能力を人類の力の源泉として描き、『ホモ・デウス』でデータ至上主義の到来を論じた歴史学者。『NEXUS』(2024)では情報ネットワークの歴史からAIを捉え、AIは道具ではなく自ら決定を下す「エージェント」であり、人類史上初めて物語を生成できる存在だと警告する。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-08-26",
+    "t": "AI, finance, and the end of trust",
+    "u": "https://www.ynharari.com/ai-finance-and-the-end-of-trust/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-23",
+    "t": "Economic and political perils of AI",
+    "u": "https://www.ynharari.com/economic-and-political-perils-of-ai/",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-04",
+    "t": "The next 50 years: humanity, AI, power",
+    "u": "https://www.ynharari.com/the-next-50-years-humanity-ai-power/",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -799,7 +1046,14 @@
   "field": "AIの地政学",
   "h": "https://www.gzeromedia.com/",
   "bio": "政治リスク分析会社ユーラシア・グループの創業者。国家に代わりテック企業が地政学的アクターになる「技術極(technopolar)世界」という概念を提示し、国連の AI 諮問機関にも加わった。年頭のトップリスク・レポートは各国の政策担当者に読まれ、GZERO メディアを通じて発信を続ける。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-08-24",
+    "t": "US-Canada trade war heats up",
+    "u": "https://www.gzeromedia.com/video/quick-take/us-canada-trade-war-heats-up",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -811,7 +1065,26 @@
   "field": "情報と国際政治",
   "h": "https://www.programmablemutter.com/",
   "bio": "エイブラハム・ニューマンとの『Underground Empire』で、金融・通信のネットワークの結節点を握る米国が経済を武器化する構図(weaponized interdependence)を描いた。コスマ・シャリツィとの共著論考ではAIを市場や官僚制と並ぶ社会的情報処理装置として位置づける。Programmable Mutter で発信する。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-08-27",
+    "t": "The Acemoglu Wars Are All About AI",
+    "u": "https://www.programmablemutter.com/p/the-acemoglu-wars-are-all-about-ai",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-13",
+    "t": "No-One Makes You Shop at Amazon",
+    "u": "https://www.programmablemutter.com/p/no-one-makes-you-shop-at-amazon",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-09",
+    "t": "John Crowley has died",
+    "u": "https://www.programmablemutter.com/p/john-crowley-has-died",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -847,7 +1120,26 @@
   "field": "技術と新ルネサンス論",
   "h": "https://iangoldin.org/",
   "bio": "世界銀行副総裁を経てオックスフォード・マーティン・スクールを創設した開発経済学者。『Age of Discovery』で現代を第二のルネサンスになぞらえ、繁栄と混乱が同時に加速すると論じた。『The Butterfly Defect』ではグローバル化の systemic risk を扱い、AIを含む技術変化の分配問題に踏み込む。",
-  "own": [],
+  "own": [
+   {
+    "d": "2025-08-12",
+    "t": "The Future: Politics, Economics and the Environment in the Age of Uncertainty",
+    "u": "https://iangoldin.org/2025/08/12/the-future-good-bad-ugly/",
+    "s": "blog"
+   },
+   {
+    "d": "2025-08-12",
+    "t": "Facing the Future: Globalisation, AI & Migration",
+    "u": "https://iangoldin.org/2025/08/12/facing-the-future-globalisation-ai-migration/",
+    "s": "blog"
+   },
+   {
+    "d": "2025-07-28",
+    "t": "Tariffs, Trade & Globalization w/ Ian Goldin & James Fraser",
+    "u": "https://iangoldin.org/2025/07/28/tariffs-trade-globalisation-w-ian-goldin-james-fraser/",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -883,7 +1175,26 @@
   "field": "進歩とAIリスク論争",
   "h": "https://stevenpinker.com/",
   "bio": "『言語を生みだす本能』『暴力の人類史』『Enlightenment Now』で知られる認知科学者。AIの実存的リスク論に対しては最も声の大きい懐疑派のひとりで、知能と支配欲は別物であり、破局シナリオは擬人化の産物だと論じる。『Rationality』では合理性の道具立てを説き、悲観論と楽観論の双方に統計的検証を求める。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-08-17",
+    "t": "PNAS: Recursive mentalizing and public salience in the perception of common knowledge",
+    "u": "https://stevenpinker.com/news/pnas-recursive-mentalizing-and-public-salience-perception-common-knowledge",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-10",
+    "t": "RLS: Steven Pinker’s ‘The Blank Slate’ Was a Warning We Ignored",
+    "u": "https://stevenpinker.com/news/rls-steven-pinkers-blank-slate-was-warning-we-ignored",
+    "s": "blog"
+   },
+   {
+    "d": "2026-08-04",
+    "t": "Harvard Crimson: Reflections on Half a Century of Progress",
+    "u": "https://stevenpinker.com/news/harvard-crimson-reflections-half-century-progress",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -907,7 +1218,26 @@
   "field": "認知科学からのAI批判",
   "h": "https://garymarcus.substack.com/",
   "bio": "深層学習だけでは頑健な知能に到達しないと2012年から主張し続ける認知科学者。『Rebooting AI』でニューロシンボリックな路線を説き、幻覚・推論の脆さ・スケーリングの限界を具体的な失敗例で示す。米上院公聴会でサム・アルトマンと並んで証言し、Substack で最も精力的に発信するAI批評家のひとり。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-08-28",
+    "t": "5 lessons from the OpenAI / Hugging Face incident",
+    "u": "https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging",
+    "s": "substack"
+   },
+   {
+    "d": "2026-08-26",
+    "t": "Excellent new Bill Gates essay on the urgency of having a coherent AI plan",
+    "u": "https://garymarcus.substack.com/p/excellent-new-bill-gates-essay-on",
+    "s": "substack"
+   },
+   {
+    "d": "2026-08-25",
+    "t": "Anthropic’s $30 trillion fantasy",
+    "u": "https://garymarcus.substack.com/p/anthropics-30-trillion-fantasy",
+    "s": "substack"
+   }
+  ],
   "pub": [],
   "yt": []
  },
@@ -943,7 +1273,26 @@
   "field": "AIと働き方・教育",
   "h": "https://www.oneusefulthing.org/",
   "bio": "『Co-Intelligence』(2024)で、AIを人間の共働者として扱う四原則を示した経営学者。ボストン・コンサルティング・グループでの大規模実験で、AIが能力の低い層を大きく引き上げる一方、能力の境界を越えると性能が落ちる「ギザギザのフロンティア」を実証した。ニュースレター One Useful Thing で高頻度に発信する。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-08-31",
+    "t": "Agency and Agents",
+    "u": "https://www.oneusefulthing.org/p/agency-and-agents",
+    "s": "blog"
+   },
+   {
+    "d": "2026-07-23",
+    "t": "An opinionated guide to which AI to use to do stuff",
+    "u": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "s": "blog"
+   },
+   {
+    "d": "2026-06-30",
+    "t": "The twilight of the chatbots",
+    "u": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "s": "blog"
+   }
+  ],
   "pub": [],
   "yt": []
  },

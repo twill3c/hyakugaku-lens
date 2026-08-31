@@ -1,0 +1,3935 @@
+{
+ "generated_at": "2026-08-31T11:40:12Z",
+ "attempted": 590,
+ "found": 18,
+ "results": [
+  {
+   "n": "ニック・ボストロム",
+   "feed": "https://nickbostrom.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ニック・ボストロム",
+   "feed": "https://nickbostrom.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ニック・ボストロム",
+   "feed": "https://nickbostrom.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ニック・ボストロム",
+   "feed": "https://nickbostrom.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ニック・ボストロム",
+   "feed": "https://nickbostrom.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ニック・ボストロム",
+   "feed": "https://nickbostrom.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ニック・ボストロム",
+   "feed": "https://nickbostrom.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ルチアーノ・フロリディ",
+   "feed": "https://www.philosophyofinformation.net/feed/",
+   "ok": true,
+   "count": 1,
+   "feed_title": "Luciano Floridi | Philosophy of Information",
+   "writers": [
+    "OII Web Team"
+   ],
+   "evidence": "own-domain"
+  },
+  {
+   "n": "デイヴィッド・チャーマーズ",
+   "feed": "https://consc.net/feed/",
+   "ok": true,
+   "count": 1,
+   "feed_title": "David Chalmers",
+   "writers": [
+    "consc"
+   ],
+   "evidence": "own-domain"
+  },
+  {
+   "n": "ピーター・シンガー",
+   "feed": "https://www.petersinger.info/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ピーター・シンガー",
+   "feed": "https://www.petersinger.info/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ピーター・シンガー",
+   "feed": "https://www.petersinger.info/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ピーター・シンガー",
+   "feed": "https://www.petersinger.info/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ピーター・シンガー",
+   "feed": "https://www.petersinger.info/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ピーター・シンガー",
+   "feed": "https://www.petersinger.info/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ピーター・シンガー",
+   "feed": "https://www.petersinger.info/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "シャノン・ヴァラー",
+   "feed": "https://edwebprofiles.ed.ac.uk/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "シャノン・ヴァラー",
+   "feed": "https://edwebprofiles.ed.ac.uk/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "シャノン・ヴァラー",
+   "feed": "https://edwebprofiles.ed.ac.uk/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "シャノン・ヴァラー",
+   "feed": "https://edwebprofiles.ed.ac.uk/rss.xml",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "シャノン・ヴァラー",
+   "feed": "https://edwebprofiles.ed.ac.uk/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "シャノン・ヴァラー",
+   "feed": "https://edwebprofiles.ed.ac.uk/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "シャノン・ヴァラー",
+   "feed": "https://edwebprofiles.ed.ac.uk/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マーク・クーケルバーク",
+   "feed": "https://wordpress.com/blog/feed/",
+   "ok": false,
+   "count": 10,
+   "feed_title": "WordPress.com Blog",
+   "writers": [
+    "Adeline Yaw",
+    "Alvaro Gómez",
+    "Jonathan Bossenger",
+    "Molly Lane",
+    "Peter Schimke",
+    "Ronnie Burt"
+   ],
+   "error": "共著フィード(著者 7 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "マーク・クーケルバーク",
+   "feed": "https://wordpress.com/typo/feed/",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: not well-formed (invalid token): line 24, column 23"
+  },
+  {
+   "n": "マーク・クーケルバーク",
+   "feed": "https://wordpress.com/feed",
+   "ok": false,
+   "count": 10,
+   "feed_title": "WordPress.com Blog",
+   "writers": [
+    "Adeline Yaw",
+    "Alvaro Gómez",
+    "Jonathan Bossenger",
+    "Molly Lane",
+    "Peter Schimke",
+    "Ronnie Burt"
+   ],
+   "error": "共著フィード(著者 7 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "マーク・クーケルバーク",
+   "feed": "https://wordpress.com/feed/",
+   "ok": false,
+   "count": 10,
+   "feed_title": "WordPress.com Blog",
+   "writers": [
+    "Adeline Yaw",
+    "Alvaro Gómez",
+    "Jonathan Bossenger",
+    "Molly Lane",
+    "Peter Schimke",
+    "Ronnie Burt"
+   ],
+   "error": "共著フィード(著者 7 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "マーク・クーケルバーク",
+   "feed": "https://wordpress.com/rss",
+   "ok": false,
+   "count": 10,
+   "feed_title": "WordPress.com Blog",
+   "writers": [
+    "Adeline Yaw",
+    "Alvaro Gómez",
+    "Jonathan Bossenger",
+    "Molly Lane",
+    "Peter Schimke",
+    "Ronnie Burt"
+   ],
+   "error": "共著フィード(著者 7 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "マーク・クーケルバーク",
+   "feed": "https://wordpress.com/rss.xml",
+   "ok": false,
+   "count": 10,
+   "feed_title": "WordPress.com Blog",
+   "writers": [
+    "Adeline Yaw",
+    "Alvaro Gómez",
+    "Jonathan Bossenger",
+    "Molly Lane",
+    "Peter Schimke",
+    "Ronnie Burt"
+   ],
+   "error": "共著フィード(著者 7 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "マーク・クーケルバーク",
+   "feed": "https://wordpress.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マーク・クーケルバーク",
+   "feed": "https://wordpress.com/atom.xml",
+   "ok": false,
+   "count": 10,
+   "feed_title": "WordPress.com Blog",
+   "writers": [
+    "Adeline Yaw",
+    "Alvaro Gómez",
+    "Jonathan Bossenger",
+    "Molly Lane",
+    "Peter Schimke",
+    "Ronnie Burt"
+   ],
+   "error": "共著フィード(著者 7 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "マーク・クーケルバーク",
+   "feed": "https://wordpress.com/feed.xml",
+   "ok": false,
+   "count": 10,
+   "feed_title": "WordPress.com Blog",
+   "writers": [
+    "Adeline Yaw",
+    "Alvaro Gómez",
+    "Jonathan Bossenger",
+    "Molly Lane",
+    "Peter Schimke",
+    "Ronnie Burt"
+   ],
+   "error": "共著フィード(著者 7 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "トマス・メッツィンガー",
+   "feed": "https://philpeople.org/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "トマス・メッツィンガー",
+   "feed": "https://philpeople.org/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "トマス・メッツィンガー",
+   "feed": "https://philpeople.org/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "トマス・メッツィンガー",
+   "feed": "https://philpeople.org/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "トマス・メッツィンガー",
+   "feed": "https://philpeople.org/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "トマス・メッツィンガー",
+   "feed": "https://philpeople.org/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "トマス・メッツィンガー",
+   "feed": "https://philpeople.org/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "スーザン・シュナイダー",
+   "feed": "https://schneiderwebsite.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "スーザン・シュナイダー",
+   "feed": "https://schneiderwebsite.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "スーザン・シュナイダー",
+   "feed": "https://schneiderwebsite.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "スーザン・シュナイダー",
+   "feed": "https://schneiderwebsite.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "スーザン・シュナイダー",
+   "feed": "https://schneiderwebsite.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "スーザン・シュナイダー",
+   "feed": "https://schneiderwebsite.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "スーザン・シュナイダー",
+   "feed": "https://schneiderwebsite.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "トビー・オード",
+   "feed": "https://www.tobyord.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "トビー・オード",
+   "feed": "https://www.tobyord.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "トビー・オード",
+   "feed": "https://www.tobyord.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "トビー・オード",
+   "feed": "https://www.tobyord.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "トビー・オード",
+   "feed": "https://www.tobyord.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "トビー・オード",
+   "feed": "https://www.tobyord.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "トビー・オード",
+   "feed": "https://www.tobyord.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ウィリアム・マッカスキル",
+   "feed": "https://www.williammacaskill.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ウィリアム・マッカスキル",
+   "feed": "https://www.williammacaskill.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ウィリアム・マッカスキル",
+   "feed": "https://www.williammacaskill.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ウィリアム・マッカスキル",
+   "feed": "https://www.williammacaskill.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ウィリアム・マッカスキル",
+   "feed": "https://www.williammacaskill.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ウィリアム・マッカスキル",
+   "feed": "https://www.williammacaskill.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ウィリアム・マッカスキル",
+   "feed": "https://www.williammacaskill.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジョン・ダナハー",
+   "feed": "https://philosophicaldisquisitions.blogspot.com/feeds/posts/default",
+   "ok": true,
+   "count": 25,
+   "feed_title": "Philosophical Disquisitions",
+   "writers": [
+    "John Danaher"
+   ],
+   "evidence": "item-author",
+   "author": [
+    "John Danaher"
+   ]
+  },
+  {
+   "n": "カリッサ・ヴェリス",
+   "feed": "https://www.carissaveliz.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+   "n": "カリッサ・ヴェリス",
+   "feed": "https://www.carissaveliz.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+   "n": "カリッサ・ヴェリス",
+   "feed": "https://www.carissaveliz.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+   "n": "カリッサ・ヴェリス",
+   "feed": "https://www.carissaveliz.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+   "n": "カリッサ・ヴェリス",
+   "feed": "https://www.carissaveliz.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+   "n": "カリッサ・ヴェリス",
+   "feed": "https://www.carissaveliz.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+   "n": "カリッサ・ヴェリス",
+   "feed": "https://www.carissaveliz.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+  },
+  {
+   "n": "セス・ラザー",
+   "feed": "https://mintresearch.org/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "セス・ラザー",
+   "feed": "https://mintresearch.org/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "セス・ラザー",
+   "feed": "https://mintresearch.org/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "セス・ラザー",
+   "feed": "https://mintresearch.org/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "セス・ラザー",
+   "feed": "https://mintresearch.org/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "セス・ラザー",
+   "feed": "https://mintresearch.org/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "セス・ラザー",
+   "feed": "https://mintresearch.org/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ヴィンセント・C・ミュラー",
+   "feed": "https://philpeople.org/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ヴィンセント・C・ミュラー",
+   "feed": "https://philpeople.org/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ヴィンセント・C・ミュラー",
+   "feed": "https://philpeople.org/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ヴィンセント・C・ミュラー",
+   "feed": "https://philpeople.org/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ヴィンセント・C・ミュラー",
+   "feed": "https://philpeople.org/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ヴィンセント・C・ミュラー",
+   "feed": "https://philpeople.org/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ヴィンセント・C・ミュラー",
+   "feed": "https://philpeople.org/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ウェンデル・ウォラック",
+   "feed": "https://www.carnegiecouncil.org/resources/rss/feed.xml",
+   "ok": false,
+   "count": 40,
+   "feed_title": "Carnegie Council on Ethics in International Affairs: Media RSS Feed",
+   "writers": [],
+   "error": "本人のものだと言える手がかりが無い"
+  },
+  {
+   "n": "ウェンデル・ウォラック",
+   "feed": "https://www.carnegiecouncil.org/resources/rss/news-feed.xml",
+   "ok": false,
+   "count": 40,
+   "feed_title": "Carnegie Council on Ethics in International Affairs: News RSS Feed",
+   "writers": [],
+   "error": "本人のものだと言える手がかりが無い"
+  },
+  {
+   "n": "ウェンデル・ウォラック",
+   "feed": "https://www.carnegiecouncil.org/feed",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: not well-formed (invalid token): line 21, column 94"
+  },
+  {
+   "n": "ウェンデル・ウォラック",
+   "feed": "https://www.carnegiecouncil.org/feed/",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: not well-formed (invalid token): line 21, column 94"
+  },
+  {
+   "n": "ウェンデル・ウォラック",
+   "feed": "https://www.carnegiecouncil.org/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ウェンデル・ウォラック",
+   "feed": "https://www.carnegiecouncil.org/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ウェンデル・ウォラック",
+   "feed": "https://www.carnegiecouncil.org/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ウェンデル・ウォラック",
+   "feed": "https://www.carnegiecouncil.org/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ウェンデル・ウォラック",
+   "feed": "https://www.carnegiecouncil.org/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ペーター=ポール・フェルベーク",
+   "feed": "https://ppverbeek.org/feed/",
+   "ok": true,
+   "count": 10,
+   "feed_title": "Peter-Paul Verbeek",
+   "writers": [
+    "Peter-Paul Verbeek"
+   ],
+   "evidence": "item-author",
+   "author": [
+    "Peter-Paul Verbeek"
+   ]
+  },
+  {
+   "n": "アンドリュー・フィーンバーグ",
+   "feed": "https://www.sfu.ca/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アンドリュー・フィーンバーグ",
+   "feed": "https://www.sfu.ca/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アンドリュー・フィーンバーグ",
+   "feed": "https://www.sfu.ca/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アンドリュー・フィーンバーグ",
+   "feed": "https://www.sfu.ca/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アンドリュー・フィーンバーグ",
+   "feed": "https://www.sfu.ca/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アンドリュー・フィーンバーグ",
+   "feed": "https://www.sfu.ca/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アンドリュー・フィーンバーグ",
+   "feed": "https://www.sfu.ca/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ユク・ホイ",
+   "feed": "https://digitalmilieu.net/feed/",
+   "ok": true,
+   "count": 10,
+   "feed_title": "Yuk Hui",
+   "writers": [
+    "Yuk Hui"
+   ],
+   "evidence": "item-author",
+   "author": [
+    "Yuk Hui"
+   ]
+  },
+  {
+   "n": "マルクス・ガブリエル",
+   "feed": "https://blackpattern.de/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マルクス・ガブリエル",
+   "feed": "https://blackpattern.de/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マルクス・ガブリエル",
+   "feed": "https://blackpattern.de/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マルクス・ガブリエル",
+   "feed": "https://blackpattern.de/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マルクス・ガブリエル",
+   "feed": "https://blackpattern.de/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マルクス・ガブリエル",
+   "feed": "https://blackpattern.de/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マルクス・ガブリエル",
+   "feed": "https://blackpattern.de/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ロージ・ブライドッティ",
+   "feed": "https://rosibraidotti.com/feed",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: mismatched tag: line 507, column 2"
+  },
+  {
+   "n": "ロージ・ブライドッティ",
+   "feed": "https://rosibraidotti.com/feed/",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: mismatched tag: line 507, column 2"
+  },
+  {
+   "n": "ロージ・ブライドッティ",
+   "feed": "https://rosibraidotti.com/rss",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: mismatched tag: line 507, column 2"
+  },
+  {
+   "n": "ロージ・ブライドッティ",
+   "feed": "https://rosibraidotti.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ロージ・ブライドッティ",
+   "feed": "https://rosibraidotti.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ロージ・ブライドッティ",
+   "feed": "https://rosibraidotti.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ロージ・ブライドッティ",
+   "feed": "https://rosibraidotti.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "N・キャサリン・ヘイルズ",
+   "feed": "https://dtc-wsuv.org/projects/hayles-sandbox/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "N・キャサリン・ヘイルズ",
+   "feed": "https://dtc-wsuv.org/projects/hayles-sandbox/comments/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "N・キャサリン・ヘイルズ",
+   "feed": "https://nkhayles.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+  },
+  {
+   "n": "N・キャサリン・ヘイルズ",
+   "feed": "https://nkhayles.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+  },
+  {
+   "n": "N・キャサリン・ヘイルズ",
+   "feed": "https://nkhayles.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+  },
+  {
+   "n": "N・キャサリン・ヘイルズ",
+   "feed": "https://nkhayles.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+  },
+  {
+   "n": "N・キャサリン・ヘイルズ",
+   "feed": "https://nkhayles.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+  },
+  {
+   "n": "N・キャサリン・ヘイルズ",
+   "feed": "https://nkhayles.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+  },
+  {
+   "n": "N・キャサリン・ヘイルズ",
+   "feed": "https://nkhayles.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+  },
+  {
+   "n": "ベンジャミン・ブラットン",
+   "feed": "https://bratton.info/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ベンジャミン・ブラットン",
+   "feed": "https://bratton.info/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ベンジャミン・ブラットン",
+   "feed": "https://bratton.info/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ベンジャミン・ブラットン",
+   "feed": "https://bratton.info/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ベンジャミン・ブラットン",
+   "feed": "https://bratton.info/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ベンジャミン・ブラットン",
+   "feed": "https://bratton.info/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ベンジャミン・ブラットン",
+   "feed": "https://bratton.info/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マッテオ・パスクィネッリ",
+   "feed": "https://www.matteopasquinelli.com/feed/",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "マッテオ・パスクィネッリ",
+   "feed": "https://www.matteopasquinelli.com/comments/feed/",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "マッテオ・パスクィネッリ",
+   "feed": "https://www.matteopasquinelli.com/feed",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "マッテオ・パスクィネッリ",
+   "feed": "https://www.matteopasquinelli.com/rss",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "マッテオ・パスクィネッリ",
+   "feed": "https://www.matteopasquinelli.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マッテオ・パスクィネッリ",
+   "feed": "https://www.matteopasquinelli.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マッテオ・パスクィネッリ",
+   "feed": "https://www.matteopasquinelli.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マッテオ・パスクィネッリ",
+   "feed": "https://www.matteopasquinelli.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダロン・アセモグル",
+   "feed": "https://economics.mit.edu/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダロン・アセモグル",
+   "feed": "https://economics.mit.edu/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダロン・アセモグル",
+   "feed": "https://economics.mit.edu/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダロン・アセモグル",
+   "feed": "https://economics.mit.edu/rss.xml",
+   "ok": false,
+   "count": 10,
+   "feed_title": "MIT Economics - slogan",
+   "writers": [
+    "Anonymous"
+   ],
+   "error": "本人のものだと言える手がかりが無い"
+  },
+  {
+   "n": "ダロン・アセモグル",
+   "feed": "https://economics.mit.edu/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダロン・アセモグル",
+   "feed": "https://economics.mit.edu/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダロン・アセモグル",
+   "feed": "https://economics.mit.edu/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "エリック・ブリニョルフソン",
+   "feed": "https://www.brynjolfsson.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "エリック・ブリニョルフソン",
+   "feed": "https://www.brynjolfsson.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "エリック・ブリニョルフソン",
+   "feed": "https://www.brynjolfsson.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "エリック・ブリニョルフソン",
+   "feed": "https://www.brynjolfsson.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "エリック・ブリニョルフソン",
+   "feed": "https://www.brynjolfsson.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "エリック・ブリニョルフソン",
+   "feed": "https://www.brynjolfsson.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "エリック・ブリニョルフソン",
+   "feed": "https://www.brynjolfsson.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アンドリュー・マカフィー",
+   "feed": "https://andrewmcafee.org/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アンドリュー・マカフィー",
+   "feed": "https://andrewmcafee.org/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アンドリュー・マカフィー",
+   "feed": "https://andrewmcafee.org/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アンドリュー・マカフィー",
+   "feed": "https://andrewmcafee.org/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アンドリュー・マカフィー",
+   "feed": "https://andrewmcafee.org/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アンドリュー・マカフィー",
+   "feed": "https://andrewmcafee.org/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アンドリュー・マカフィー",
+   "feed": "https://andrewmcafee.org/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "カール・ベネディクト・フレイ",
+   "feed": "https://www.carlbenediktfrey.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+   "n": "カール・ベネディクト・フレイ",
+   "feed": "https://www.carlbenediktfrey.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+   "n": "カール・ベネディクト・フレイ",
+   "feed": "https://www.carlbenediktfrey.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+   "n": "カール・ベネディクト・フレイ",
+   "feed": "https://www.carlbenediktfrey.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+   "n": "カール・ベネディクト・フレイ",
+   "feed": "https://www.carlbenediktfrey.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+   "n": "カール・ベネディクト・フレイ",
+   "feed": "https://www.carlbenediktfrey.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+   "n": "カール・ベネディクト・フレイ",
+   "feed": "https://www.carlbenediktfrey.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+   "n": "ジョセフ・スティグリッツ",
+   "feed": "https://business.columbia.edu/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "ジョセフ・スティグリッツ",
+   "feed": "https://business.columbia.edu/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "ジョセフ・スティグリッツ",
+   "feed": "https://business.columbia.edu/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジョセフ・スティグリッツ",
+   "feed": "https://business.columbia.edu/rss.xml",
+   "ok": false,
+   "count": 10,
+   "feed_title": "Columbia Business School",
+   "writers": [
+    "ael2165",
+    "ap4395",
+    "rdj8"
+   ],
+   "error": "共著フィード(著者 3 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "ジョセフ・スティグリッツ",
+   "feed": "https://business.columbia.edu/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジョセフ・スティグリッツ",
+   "feed": "https://business.columbia.edu/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "ジョセフ・スティグリッツ",
+   "feed": "https://business.columbia.edu/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "タイラー・コーエン",
+   "feed": "https://marginalrevolution.com/feed",
+   "ok": true,
+   "count": 15,
+   "feed_title": "Marginal REVOLUTION",
+   "writers": [
+    "Alex Tabarrok",
+    "Tyler Cowen"
+   ],
+   "evidence": "item-author",
+   "author": [
+    "Tyler Cowen"
+   ]
+  },
+  {
+   "n": "アントン・コリネック",
+   "feed": "https://www.korinek.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アントン・コリネック",
+   "feed": "https://www.korinek.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アントン・コリネック",
+   "feed": "https://www.korinek.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アントン・コリネック",
+   "feed": "https://www.korinek.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アントン・コリネック",
+   "feed": "https://www.korinek.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アントン・コリネック",
+   "feed": "https://www.korinek.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アントン・コリネック",
+   "feed": "https://www.korinek.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダイアン・コイル",
+   "feed": "http://www.enlightenmenteconomics.com/blog/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダイアン・コイル",
+   "feed": "https://www.enlightenmenteconomics.com/blog/feed/",
+   "ok": false,
+   "error": "URLError: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1081)>"
+  },
+  {
+   "n": "ダイアン・コイル",
+   "feed": "http://www.enlightenmenteconomics.com/blog/index.php/feed/",
+   "ok": true,
+   "count": 10,
+   "feed_title": "The Enlightened Economist",
+   "writers": [
+    "Diane Coyle"
+   ],
+   "evidence": "item-author",
+   "author": [
+    "Diane Coyle"
+   ]
+  },
+  {
+   "n": "リチャード・ボールドウィン",
+   "feed": "https://cepr.org/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "リチャード・ボールドウィン",
+   "feed": "https://cepr.org/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "リチャード・ボールドウィン",
+   "feed": "https://cepr.org/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "リチャード・ボールドウィン",
+   "feed": "https://cepr.org/rss.xml",
+   "ok": false,
+   "count": 10,
+   "feed_title": "CEPR",
+   "writers": [
+    "Anonymous"
+   ],
+   "error": "本人のものだと言える手がかりが無い"
+  },
+  {
+   "n": "リチャード・ボールドウィン",
+   "feed": "https://cepr.org/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "リチャード・ボールドウィン",
+   "feed": "https://cepr.org/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "リチャード・ボールドウィン",
+   "feed": "https://cepr.org/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "デイヴィッド・オーター",
+   "feed": "https://economics.mit.edu/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "デイヴィッド・オーター",
+   "feed": "https://economics.mit.edu/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "デイヴィッド・オーター",
+   "feed": "https://economics.mit.edu/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "デイヴィッド・オーター",
+   "feed": "https://economics.mit.edu/rss.xml",
+   "ok": false,
+   "count": 10,
+   "feed_title": "MIT Economics - slogan",
+   "writers": [
+    "Anonymous"
+   ],
+   "error": "本人のものだと言える手がかりが無い"
+  },
+  {
+   "n": "デイヴィッド・オーター",
+   "feed": "https://economics.mit.edu/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "デイヴィッド・オーター",
+   "feed": "https://economics.mit.edu/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "デイヴィッド・オーター",
+   "feed": "https://economics.mit.edu/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アジェイ・アグラワル",
+   "feed": "https://www.rotman.utoronto.ca/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アジェイ・アグラワル",
+   "feed": "https://www.rotman.utoronto.ca/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アジェイ・アグラワル",
+   "feed": "https://www.rotman.utoronto.ca/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アジェイ・アグラワル",
+   "feed": "https://www.rotman.utoronto.ca/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アジェイ・アグラワル",
+   "feed": "https://www.rotman.utoronto.ca/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 300: Multiple Choices"
+  },
+  {
+   "n": "アジェイ・アグラワル",
+   "feed": "https://www.rotman.utoronto.ca/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アジェイ・アグラワル",
+   "feed": "https://www.rotman.utoronto.ca/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アヴィ・ゴールドファーブ",
+   "feed": "https://www.avigoldfarb.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アヴィ・ゴールドファーブ",
+   "feed": "https://www.avigoldfarb.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アヴィ・ゴールドファーブ",
+   "feed": "https://www.avigoldfarb.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アヴィ・ゴールドファーブ",
+   "feed": "https://www.avigoldfarb.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アヴィ・ゴールドファーブ",
+   "feed": "https://www.avigoldfarb.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アヴィ・ゴールドファーブ",
+   "feed": "https://www.avigoldfarb.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アヴィ・ゴールドファーブ",
+   "feed": "https://www.avigoldfarb.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダニエル・サスキンド",
+   "feed": "https://www.danielsusskind.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダニエル・サスキンド",
+   "feed": "https://www.danielsusskind.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダニエル・サスキンド",
+   "feed": "https://www.danielsusskind.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダニエル・サスキンド",
+   "feed": "https://www.danielsusskind.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダニエル・サスキンド",
+   "feed": "https://www.danielsusskind.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダニエル・サスキンド",
+   "feed": "https://www.danielsusskind.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダニエル・サスキンド",
+   "feed": "https://www.danielsusskind.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ライアン・カロ",
+   "feed": "https://www.law.uw.edu/feed",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: not well-formed (invalid token): line 50, column 47"
+  },
+  {
+   "n": "ライアン・カロ",
+   "feed": "https://www.law.uw.edu/feed/",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: not well-formed (invalid token): line 50, column 47"
+  },
+  {
+   "n": "ライアン・カロ",
+   "feed": "https://www.law.uw.edu/rss",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: not well-formed (invalid token): line 50, column 47"
+  },
+  {
+   "n": "ライアン・カロ",
+   "feed": "https://www.law.uw.edu/rss.xml",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: not well-formed (invalid token): line 50, column 47"
+  },
+  {
+   "n": "ライアン・カロ",
+   "feed": "https://www.law.uw.edu/index.xml",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: not well-formed (invalid token): line 50, column 47"
+  },
+  {
+   "n": "ライアン・カロ",
+   "feed": "https://www.law.uw.edu/atom.xml",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: not well-formed (invalid token): line 50, column 47"
+  },
+  {
+   "n": "ライアン・カロ",
+   "feed": "https://www.law.uw.edu/feed.xml",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: not well-formed (invalid token): line 50, column 47"
+  },
+  {
+   "n": "フランク・パスクァーレ",
+   "feed": "https://www.lawschool.cornell.edu/feed/",
+   "ok": false,
+   "count": 1,
+   "feed_title": "Cornell Law School",
+   "writers": [
+    "es_admin"
+   ],
+   "error": "本人のものだと言える手がかりが無い"
+  },
+  {
+   "n": "フランク・パスクァーレ",
+   "feed": "https://www.lawschool.cornell.edu/feed",
+   "ok": false,
+   "count": 1,
+   "feed_title": "Cornell Law School",
+   "writers": [
+    "es_admin"
+   ],
+   "error": "本人のものだと言える手がかりが無い"
+  },
+  {
+   "n": "フランク・パスクァーレ",
+   "feed": "https://www.lawschool.cornell.edu/rss",
+   "ok": false,
+   "count": 1,
+   "feed_title": "Cornell Law School",
+   "writers": [
+    "es_admin"
+   ],
+   "error": "本人のものだと言える手がかりが無い"
+  },
+  {
+   "n": "フランク・パスクァーレ",
+   "feed": "https://www.lawschool.cornell.edu/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フランク・パスクァーレ",
+   "feed": "https://www.lawschool.cornell.edu/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フランク・パスクァーレ",
+   "feed": "https://www.lawschool.cornell.edu/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フランク・パスクァーレ",
+   "feed": "https://www.lawschool.cornell.edu/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "サンドラ・ワクター",
+   "feed": "https://www.oii.ox.ac.uk/people/profiles/sandra-wachter/feed/",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "サンドラ・ワクター",
+   "feed": "https://www.oii.ox.ac.uk/feed",
+   "ok": false,
+   "count": 10,
+   "feed_title": "Oxford Internet Institute",
+   "writers": [
+    "Sara Spinks",
+    "Veena McCoole"
+   ],
+   "error": "共著フィード(著者 2 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "サンドラ・ワクター",
+   "feed": "https://www.oii.ox.ac.uk/feed/",
+   "ok": false,
+   "count": 10,
+   "feed_title": "Oxford Internet Institute",
+   "writers": [
+    "Sara Spinks",
+    "Veena McCoole"
+   ],
+   "error": "共著フィード(著者 2 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "サンドラ・ワクター",
+   "feed": "https://www.oii.ox.ac.uk/rss",
+   "ok": false,
+   "count": 10,
+   "feed_title": "Oxford Internet Institute",
+   "writers": [
+    "Sara Spinks",
+    "Veena McCoole"
+   ],
+   "error": "共著フィード(著者 2 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "サンドラ・ワクター",
+   "feed": "https://www.oii.ox.ac.uk/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "サンドラ・ワクター",
+   "feed": "https://www.oii.ox.ac.uk/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "サンドラ・ワクター",
+   "feed": "https://www.oii.ox.ac.uk/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "サンドラ・ワクター",
+   "feed": "https://www.oii.ox.ac.uk/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ミレイユ・ヒルデブラント",
+   "feed": "https://www.cohubicol.com/feed.xml",
+   "ok": true,
+   "count": 10,
+   "feed_title": "COHUBICOL |",
+   "writers": [
+    "COHUBICOL"
+   ],
+   "evidence": "own-domain"
+  },
+  {
+   "n": "ジャック・バルキン",
+   "feed": "https://balkin.blogspot.com/feeds/posts/default",
+   "ok": false,
+   "count": 25,
+   "feed_title": "Balkinization",
+   "writers": [
+    "Andrew Koppelman",
+    "David Super",
+    "Gerard N. Magliocca",
+    "Guest Blogger",
+    "JB",
+    "Stephen Griffin"
+   ],
+   "error": "共著フィード(著者 6 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "ジャック・バルキン",
+   "feed": "https://balkin.blogspot.com/feeds/posts/default",
+   "ok": false,
+   "count": 25,
+   "feed_title": "Balkinization",
+   "writers": [
+    "Andrew Koppelman",
+    "David Super",
+    "Gerard N. Magliocca",
+    "Guest Blogger",
+    "JB",
+    "Stephen Griffin"
+   ],
+   "error": "共著フィード(著者 6 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "ジャック・バルキン",
+   "feed": "https://balkin.blogspot.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジャック・バルキン",
+   "feed": "https://balkin.blogspot.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジャック・バルキン",
+   "feed": "https://balkin.blogspot.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジャック・バルキン",
+   "feed": "https://balkin.blogspot.com/rss.xml",
+   "ok": false,
+   "count": 25,
+   "feed_title": "Balkinization",
+   "writers": [
+    "noreply@blogger.com (Andrew Koppelman)",
+    "noreply@blogger.com (David Super)",
+    "noreply@blogger.com (Gerard N. Magliocca)",
+    "noreply@blogger.com (Guest Blogger)",
+    "noreply@blogger.com (JB)",
+    "noreply@blogger.com (Stephen Griffin)"
+   ],
+   "error": "共著フィード(著者 6 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "ジャック・バルキン",
+   "feed": "https://balkin.blogspot.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジャック・バルキン",
+   "feed": "https://balkin.blogspot.com/atom.xml",
+   "ok": false,
+   "count": 25,
+   "feed_title": "Balkinization",
+   "writers": [
+    "Andrew Koppelman",
+    "David Super",
+    "Gerard N. Magliocca",
+    "Guest Blogger",
+    "JB",
+    "Stephen Griffin"
+   ],
+   "error": "共著フィード(著者 6 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "ジャック・バルキン",
+   "feed": "https://balkin.blogspot.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ローレンス・レッシグ",
+   "feed": "https://lessig.org/feed",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: junk after document element: line 1, column 244"
+  },
+  {
+   "n": "ローレンス・レッシグ",
+   "feed": "https://lessig.org/feed/",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: junk after document element: line 1, column 244"
+  },
+  {
+   "n": "ローレンス・レッシグ",
+   "feed": "https://lessig.org/rss",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: junk after document element: line 1, column 244"
+  },
+  {
+   "n": "ローレンス・レッシグ",
+   "feed": "https://lessig.org/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ローレンス・レッシグ",
+   "feed": "https://lessig.org/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ローレンス・レッシグ",
+   "feed": "https://lessig.org/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ローレンス・レッシグ",
+   "feed": "https://lessig.org/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジュリー・コーエン",
+   "feed": "https://www.law.georgetown.edu/rsslatest.xml",
+   "ok": false,
+   "count": 50,
+   "feed_title": "Georgetown Law",
+   "writers": [],
+   "error": "本人のものだと言える手がかりが無い"
+  },
+  {
+   "n": "ジュリー・コーエン",
+   "feed": "https://www.law.georgetown.edu/feed",
+   "ok": false,
+   "count": 10,
+   "feed_title": "Georgetown Law",
+   "writers": [
+    "timbuckingham"
+   ],
+   "error": "本人のものだと言える手がかりが無い"
+  },
+  {
+   "n": "ジュリー・コーエン",
+   "feed": "https://www.law.georgetown.edu/feed/",
+   "ok": false,
+   "count": 10,
+   "feed_title": "Georgetown Law",
+   "writers": [
+    "timbuckingham"
+   ],
+   "error": "本人のものだと言える手がかりが無い"
+  },
+  {
+   "n": "ジュリー・コーエン",
+   "feed": "https://www.law.georgetown.edu/rss",
+   "ok": false,
+   "count": 10,
+   "feed_title": "Georgetown Law",
+   "writers": [
+    "timbuckingham"
+   ],
+   "error": "本人のものだと言える手がかりが無い"
+  },
+  {
+   "n": "ジュリー・コーエン",
+   "feed": "https://www.law.georgetown.edu/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジュリー・コーエン",
+   "feed": "https://www.law.georgetown.edu/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジュリー・コーエン",
+   "feed": "https://www.law.georgetown.edu/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジュリー・コーエン",
+   "feed": "https://www.law.georgetown.edu/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "カレン・ヨン",
+   "feed": "https://www.birmingham.ac.uk/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "カレン・ヨン",
+   "feed": "https://www.birmingham.ac.uk/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "カレン・ヨン",
+   "feed": "https://www.birmingham.ac.uk/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "カレン・ヨン",
+   "feed": "https://www.birmingham.ac.uk/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "カレン・ヨン",
+   "feed": "https://www.birmingham.ac.uk/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "カレン・ヨン",
+   "feed": "https://www.birmingham.ac.uk/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "カレン・ヨン",
+   "feed": "https://www.birmingham.ac.uk/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "リチャード・サスキンド",
+   "feed": "https://www.susskind.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "リチャード・サスキンド",
+   "feed": "https://www.susskind.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "リチャード・サスキンド",
+   "feed": "https://www.susskind.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "リチャード・サスキンド",
+   "feed": "https://www.susskind.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "リチャード・サスキンド",
+   "feed": "https://www.susskind.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "リチャード・サスキンド",
+   "feed": "https://www.susskind.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "リチャード・サスキンド",
+   "feed": "https://www.susskind.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "シェリー・タークル",
+   "feed": "https://sherryturkle.mit.edu/feed/",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "シェリー・タークル",
+   "feed": "https://sherryturkle.mit.edu/comments/feed/",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "シェリー・タークル",
+   "feed": "https://sherryturkle.mit.edu/feed",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "シェリー・タークル",
+   "feed": "https://sherryturkle.mit.edu/rss",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "シェリー・タークル",
+   "feed": "https://sherryturkle.mit.edu/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "シェリー・タークル",
+   "feed": "https://sherryturkle.mit.edu/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "シェリー・タークル",
+   "feed": "https://sherryturkle.mit.edu/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "シェリー・タークル",
+   "feed": "https://sherryturkle.mit.edu/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ゼイネップ・トゥフェクチ",
+   "feed": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/by/zeynep-tufekci/rss.xml",
+   "ok": true,
+   "count": 10,
+   "feed_title": "NYT &gt; Zeynep Tufekci",
+   "writers": [
+    "David French, M. Gessen, Lydia Polgreen and Zeynep Tufekci",
+    "Jamelle Bouie, M. Gessen, Nicholas Kristof and Zeynep Tufekci",
+    "Zeynep Tufekci"
+   ],
+   "evidence": "item-author",
+   "author": [
+    "David French, M. Gessen, Lydia Polgreen and Zeynep Tufekci",
+    "Jamelle Bouie, M. Gessen, Nicholas Kristof and Zeynep Tufekci",
+    "Zeynep Tufekci"
+   ]
+  },
+  {
+   "n": "ショシャナ・ズボフ",
+   "feed": "https://shoshanazuboff.com/book/feed/",
+   "ok": true,
+   "count": 4,
+   "feed_title": "SHOSHANA ZUBOFF",
+   "writers": [
+    "szuboff"
+   ],
+   "evidence": "item-author",
+   "author": [
+    "szuboff"
+   ]
+  },
+  {
+   "n": "ルハ・ベンジャミン",
+   "feed": "https://www.ruhabenjamin.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ルハ・ベンジャミン",
+   "feed": "https://www.ruhabenjamin.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ルハ・ベンジャミン",
+   "feed": "https://www.ruhabenjamin.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ルハ・ベンジャミン",
+   "feed": "https://www.ruhabenjamin.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ルハ・ベンジャミン",
+   "feed": "https://www.ruhabenjamin.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ルハ・ベンジャミン",
+   "feed": "https://www.ruhabenjamin.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ルハ・ベンジャミン",
+   "feed": "https://www.ruhabenjamin.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "サフィヤ・ノーブル",
+   "feed": "https://safiyaunoble.com/feed/",
+   "ok": true,
+   "count": 10,
+   "feed_title": "Safiya Umoja Noble, Ph.D.",
+   "writers": [
+    "Safiya Noble"
+   ],
+   "evidence": "item-author",
+   "author": [
+    "Safiya Noble"
+   ]
+  },
+  {
+   "n": "ヴァージニア・ユーバンクス",
+   "feed": "https://virginia-eubanks.com/feed/",
+   "ok": true,
+   "count": 10,
+   "feed_title": "Virginia Eubanks",
+   "writers": [
+    "virginiaeubanks"
+   ],
+   "evidence": "item-author",
+   "author": [
+    "virginiaeubanks"
+   ]
+  },
+  {
+   "n": "ダナ・ボイド",
+   "feed": "https://www.danah.org/feed/",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "ダナ・ボイド",
+   "feed": "https://www.danah.org/comments/feed/",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "ダナ・ボイド",
+   "feed": "https://www.danah.org/feed",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "ダナ・ボイド",
+   "feed": "https://www.danah.org/rss",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "ダナ・ボイド",
+   "feed": "https://www.danah.org/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダナ・ボイド",
+   "feed": "https://www.danah.org/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダナ・ボイド",
+   "feed": "https://www.danah.org/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ダナ・ボイド",
+   "feed": "https://www.danah.org/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ニック・クドリー",
+   "feed": "https://www.lse.ac.uk/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ニック・クドリー",
+   "feed": "https://www.lse.ac.uk/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ニック・クドリー",
+   "feed": "https://www.lse.ac.uk/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ニック・クドリー",
+   "feed": "https://www.lse.ac.uk/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ニック・クドリー",
+   "feed": "https://www.lse.ac.uk/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ニック・クドリー",
+   "feed": "https://www.lse.ac.uk/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ニック・クドリー",
+   "feed": "https://www.lse.ac.uk/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ホセ・ファン・ダイク",
+   "feed": "https://www.uu.nl/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ホセ・ファン・ダイク",
+   "feed": "https://www.uu.nl/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ホセ・ファン・ダイク",
+   "feed": "https://www.uu.nl/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ホセ・ファン・ダイク",
+   "feed": "https://www.uu.nl/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ホセ・ファン・ダイク",
+   "feed": "https://www.uu.nl/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ホセ・ファン・ダイク",
+   "feed": "https://www.uu.nl/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ホセ・ファン・ダイク",
+   "feed": "https://www.uu.nl/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ルーシー・サッチマン",
+   "feed": "https://robotfutures.wordpress.com/feed/",
+   "ok": true,
+   "count": 10,
+   "feed_title": "Robot Futures",
+   "writers": [
+    "Lucy Suchman"
+   ],
+   "evidence": "item-author",
+   "author": [
+    "Lucy Suchman"
+   ]
+  },
+  {
+   "n": "シーラ・ジャザノフ",
+   "feed": "https://sheilajasanoff.org/feed",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "シーラ・ジャザノフ",
+   "feed": "https://sheilajasanoff.org/feed/",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "シーラ・ジャザノフ",
+   "feed": "https://sheilajasanoff.org/rss",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "シーラ・ジャザノフ",
+   "feed": "https://sheilajasanoff.org/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "シーラ・ジャザノフ",
+   "feed": "https://sheilajasanoff.org/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "シーラ・ジャザノフ",
+   "feed": "https://sheilajasanoff.org/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "シーラ・ジャザノフ",
+   "feed": "https://sheilajasanoff.org/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ヘルガ・ノヴォトニー",
+   "feed": "https://helga-nowotny.eu/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ヘルガ・ノヴォトニー",
+   "feed": "https://helga-nowotny.eu/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ヘルガ・ノヴォトニー",
+   "feed": "https://helga-nowotny.eu/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ヘルガ・ノヴォトニー",
+   "feed": "https://helga-nowotny.eu/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ヘルガ・ノヴォトニー",
+   "feed": "https://helga-nowotny.eu/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ヘルガ・ノヴォトニー",
+   "feed": "https://helga-nowotny.eu/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ヘルガ・ノヴォトニー",
+   "feed": "https://helga-nowotny.eu/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジュヌヴィエーヴ・ベル",
+   "feed": "https://cybernetics.anu.edu.au/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジュヌヴィエーヴ・ベル",
+   "feed": "https://cybernetics.anu.edu.au/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジュヌヴィエーヴ・ベル",
+   "feed": "https://cybernetics.anu.edu.au/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジュヌヴィエーヴ・ベル",
+   "feed": "https://cybernetics.anu.edu.au/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジュヌヴィエーヴ・ベル",
+   "feed": "https://cybernetics.anu.edu.au/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジュヌヴィエーヴ・ベル",
+   "feed": "https://cybernetics.anu.edu.au/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ジュヌヴィエーヴ・ベル",
+   "feed": "https://cybernetics.anu.edu.au/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ケイト・クロフォード",
+   "feed": "https://katecrawford.net/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ケイト・クロフォード",
+   "feed": "https://katecrawford.net/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ケイト・クロフォード",
+   "feed": "https://katecrawford.net/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ケイト・クロフォード",
+   "feed": "https://katecrawford.net/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ケイト・クロフォード",
+   "feed": "https://katecrawford.net/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ケイト・クロフォード",
+   "feed": "https://katecrawford.net/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ケイト・クロフォード",
+   "feed": "https://katecrawford.net/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ケイト・クロフォード",
+   "feed": "https://katecrawford.net/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ケイト・クロフォード",
+   "feed": "https://katecrawford.net/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ユヴァル・ノア・ハラリ",
+   "feed": "https://www.ynharari.com/feed/",
+   "ok": false,
+   "count": 20,
+   "feed_title": "Yuval Noah Harari",
+   "writers": [
+    "Dima Basov",
+    "liat"
+   ],
+   "error": "共著フィード(著者 2 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "ユヴァル・ノア・ハラリ",
+   "feed": "https://www.ynharari.com/comments/feed/",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "ユヴァル・ノア・ハラリ",
+   "feed": "https://www.ynharari.com/feed",
+   "ok": false,
+   "count": 20,
+   "feed_title": "Yuval Noah Harari",
+   "writers": [
+    "Dima Basov",
+    "liat"
+   ],
+   "error": "共著フィード(著者 2 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "ユヴァル・ノア・ハラリ",
+   "feed": "https://www.ynharari.com/rss",
+   "ok": false,
+   "count": 20,
+   "feed_title": "Yuval Noah Harari",
+   "writers": [
+    "Dima Basov",
+    "liat"
+   ],
+   "error": "共著フィード(著者 2 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "ユヴァル・ノア・ハラリ",
+   "feed": "https://www.ynharari.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ユヴァル・ノア・ハラリ",
+   "feed": "https://www.ynharari.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ユヴァル・ノア・ハラリ",
+   "feed": "https://www.ynharari.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ユヴァル・ノア・ハラリ",
+   "feed": "https://www.ynharari.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フランシス・フクヤマ",
+   "feed": "https://fukuyama.people.stanford.edu/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フランシス・フクヤマ",
+   "feed": "https://fukuyama.people.stanford.edu/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フランシス・フクヤマ",
+   "feed": "https://fukuyama.people.stanford.edu/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フランシス・フクヤマ",
+   "feed": "https://fukuyama.people.stanford.edu/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フランシス・フクヤマ",
+   "feed": "https://fukuyama.people.stanford.edu/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フランシス・フクヤマ",
+   "feed": "https://fukuyama.people.stanford.edu/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フランシス・フクヤマ",
+   "feed": "https://fukuyama.people.stanford.edu/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "イアン・ブレマー",
+   "feed": "https://www.gzeromedia.com/feeds/feed.rss",
+   "ok": true,
+   "count": 30,
+   "feed_title": "GZERO Media",
+   "writers": [
+    "Alex Kliment",
+    "Eileen Zhang",
+    "GZERO Staff",
+    "Ian Bremmer",
+    "Lottie Tellyn",
+    "Natalie Johnson"
+   ],
+   "evidence": "item-author",
+   "author": [
+    "Ian Bremmer"
+   ]
+  },
+  {
+   "n": "ヘンリー・ファレル",
+   "feed": "https://www.programmablemutter.com/feed",
+   "ok": true,
+   "count": 20,
+   "feed_title": "",
+   "writers": [
+    "Henry Farrell"
+   ],
+   "evidence": "item-author",
+   "author": [
+    "Henry Farrell"
+   ]
+  },
+  {
+   "n": "マリーチェ・スハーケ",
+   "feed": "https://cyber.fsi.stanford.edu/rss.xml",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "マリーチェ・スハーケ",
+   "feed": "https://cyber.fsi.stanford.edu/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マリーチェ・スハーケ",
+   "feed": "https://cyber.fsi.stanford.edu/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マリーチェ・スハーケ",
+   "feed": "https://cyber.fsi.stanford.edu/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マリーチェ・スハーケ",
+   "feed": "https://cyber.fsi.stanford.edu/rss.xml",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "マリーチェ・スハーケ",
+   "feed": "https://cyber.fsi.stanford.edu/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マリーチェ・スハーケ",
+   "feed": "https://cyber.fsi.stanford.edu/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マリーチェ・スハーケ",
+   "feed": "https://cyber.fsi.stanford.edu/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "デイヴィッド・ランシマン",
+   "feed": "https://www.ppfideas.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+   "n": "デイヴィッド・ランシマン",
+   "feed": "https://feeds.megaphone.fm/pastpresentfuture",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "デイヴィッド・ランシマン",
+   "feed": "https://www.polis.cam.ac.uk/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "デイヴィッド・ランシマン",
+   "feed": "https://www.polis.cam.ac.uk/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "デイヴィッド・ランシマン",
+   "feed": "https://www.polis.cam.ac.uk/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "デイヴィッド・ランシマン",
+   "feed": "https://www.polis.cam.ac.uk/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "デイヴィッド・ランシマン",
+   "feed": "https://www.polis.cam.ac.uk/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "デイヴィッド・ランシマン",
+   "feed": "https://www.polis.cam.ac.uk/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "デイヴィッド・ランシマン",
+   "feed": "https://www.polis.cam.ac.uk/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "イアン・ゴールディン",
+   "feed": "https://iangoldin.org/feed/",
+   "ok": false,
+   "count": 10,
+   "feed_title": "Ian Goldin",
+   "writers": [
+    "Sami Wymes",
+    "nikola"
+   ],
+   "error": "共著フィード(著者 2 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "イアン・ゴールディン",
+   "feed": "https://iangoldin.org/feed",
+   "ok": false,
+   "count": 10,
+   "feed_title": "Ian Goldin",
+   "writers": [
+    "Sami Wymes",
+    "nikola"
+   ],
+   "error": "共著フィード(著者 2 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "イアン・ゴールディン",
+   "feed": "https://iangoldin.org/rss",
+   "ok": false,
+   "count": 10,
+   "feed_title": "Ian Goldin",
+   "writers": [
+    "Sami Wymes",
+    "nikola"
+   ],
+   "error": "共著フィード(著者 2 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "イアン・ゴールディン",
+   "feed": "https://iangoldin.org/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "イアン・ゴールディン",
+   "feed": "https://iangoldin.org/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "イアン・ゴールディン",
+   "feed": "https://iangoldin.org/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "イアン・ゴールディン",
+   "feed": "https://iangoldin.org/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・スタンガー",
+   "feed": "https://www.middlebury.edu/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・スタンガー",
+   "feed": "https://www.middlebury.edu/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・スタンガー",
+   "feed": "https://www.middlebury.edu/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・スタンガー",
+   "feed": "https://www.middlebury.edu/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・スタンガー",
+   "feed": "https://www.middlebury.edu/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・スタンガー",
+   "feed": "https://www.middlebury.edu/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・スタンガー",
+   "feed": "https://www.middlebury.edu/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フィリップ・ハワード",
+   "feed": "https://www.philhoward.org/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フィリップ・ハワード",
+   "feed": "https://www.philhoward.org/blog?format=rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フィリップ・ハワード",
+   "feed": "https://philhoward.org/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フィリップ・ハワード",
+   "feed": "https://philhoward.org/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フィリップ・ハワード",
+   "feed": "https://philhoward.org/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フィリップ・ハワード",
+   "feed": "https://philhoward.org/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フィリップ・ハワード",
+   "feed": "https://philhoward.org/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フィリップ・ハワード",
+   "feed": "https://philhoward.org/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "フィリップ・ハワード",
+   "feed": "https://philhoward.org/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "スティーブン・ピンカー",
+   "feed": "https://stevenpinker.com/feed",
+   "ok": true,
+   "count": 10,
+   "feed_title": "https://stevenpinker.com/\n    \n    en\n    \n    \n  PNAS: Recursive mentalizing an",
+   "writers": [
+    "bwoods"
+   ],
+   "evidence": "own-domain"
+  },
+  {
+   "n": "アリソン・ゴプニック",
+   "feed": "https://alisongopnik.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・ゴプニック",
+   "feed": "https://alisongopnik.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・ゴプニック",
+   "feed": "https://alisongopnik.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・ゴプニック",
+   "feed": "https://alisongopnik.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・ゴプニック",
+   "feed": "https://alisongopnik.com/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・ゴプニック",
+   "feed": "https://alisongopnik.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・ゴプニック",
+   "feed": "https://alisongopnik.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・ゴプニック",
+   "feed": "https://alisongopnik.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "アリソン・ゴプニック",
+   "feed": "https://alisongopnik.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "ゲアリー・マーカス",
+   "feed": "https://garymarcus.substack.com/feed",
+   "ok": true,
+   "count": 20,
+   "feed_title": "",
+   "writers": [
+    "Gary Marcus"
+   ],
+   "evidence": "item-author",
+   "author": [
+    "Gary Marcus"
+   ]
+  },
+  {
+   "n": "イヤド・ラーワン",
+   "feed": "https://rahwan.me/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "イヤド・ラーワン",
+   "feed": "https://rahwan.me/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "イヤド・ラーワン",
+   "feed": "https://www.rahwan.me/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "イヤド・ラーワン",
+   "feed": "https://www.rahwan.me/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "イヤド・ラーワン",
+   "feed": "https://www.rahwan.me/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "イヤド・ラーワン",
+   "feed": "https://www.rahwan.me/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "イヤド・ラーワン",
+   "feed": "https://www.rahwan.me/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "イヤド・ラーワン",
+   "feed": "https://www.rahwan.me/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "イヤド・ラーワン",
+   "feed": "https://www.rahwan.me/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マーティン・リース",
+   "feed": "https://www.martinrees.uk/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マーティン・リース",
+   "feed": "https://www.cser.ac.uk/news/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マーティン・リース",
+   "feed": "https://www.martinrees.uk/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マーティン・リース",
+   "feed": "https://www.martinrees.uk/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マーティン・リース",
+   "feed": "https://www.martinrees.uk/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マーティン・リース",
+   "feed": "https://www.martinrees.uk/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マーティン・リース",
+   "feed": "https://www.martinrees.uk/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マーティン・リース",
+   "feed": "https://www.martinrees.uk/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "マーティン・リース",
+   "feed": "https://www.martinrees.uk/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "イーサン・モリック",
+   "feed": "https://www.oneusefulthing.org/feed",
+   "ok": true,
+   "count": 20,
+   "feed_title": "",
+   "writers": [
+    "Ethan Mollick"
+   ],
+   "evidence": "item-author",
+   "author": [
+    "Ethan Mollick"
+   ]
+  },
+  {
+   "n": "エイミー・ウェブ",
+   "feed": "https://ftsg.com/feed/",
+   "ok": false,
+   "count": 10,
+   "feed_title": "Future Today Strategy Group",
+   "writers": [
+    "Full Name",
+    "Milan Tailor"
+   ],
+   "error": "共著フィード(著者 2 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "エイミー・ウェブ",
+   "feed": "https://ftsg.com/comments/feed/",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "エイミー・ウェブ",
+   "feed": "https://ftsg.com/feed",
+   "ok": false,
+   "count": 10,
+   "feed_title": "Future Today Strategy Group",
+   "writers": [
+    "Full Name",
+    "Milan Tailor"
+   ],
+   "error": "共著フィード(著者 2 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "エイミー・ウェブ",
+   "feed": "https://ftsg.com/rss",
+   "ok": false,
+   "count": 10,
+   "feed_title": "Future Today Strategy Group",
+   "writers": [
+    "Full Name",
+    "Milan Tailor"
+   ],
+   "error": "共著フィード(著者 2 名)だが本人の記事を選り分けられない"
+  },
+  {
+   "n": "エイミー・ウェブ",
+   "feed": "https://ftsg.com/rss.xml",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: syntax error: line 1, column 0"
+  },
+  {
+   "n": "エイミー・ウェブ",
+   "feed": "https://ftsg.com/index.xml",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: syntax error: line 1, column 0"
+  },
+  {
+   "n": "エイミー・ウェブ",
+   "feed": "https://ftsg.com/atom.xml",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: syntax error: line 1, column 0"
+  },
+  {
+   "n": "エイミー・ウェブ",
+   "feed": "https://ftsg.com/feed.xml",
+   "ok": false,
+   "error": "ValueError: XML として解釈できない: syntax error: line 1, column 0"
+  },
+  {
+   "n": "東浩紀",
+   "feed": "https://note.com/hazuma/rss",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "東浩紀",
+   "feed": "https://webgenron.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "東浩紀",
+   "feed": "https://note.com/hazuma/rss",
+   "ok": false,
+   "error": "ValueError: フィードに item/entry が 1 件もない"
+  },
+  {
+   "n": "東浩紀",
+   "feed": "https://note.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "東浩紀",
+   "feed": "https://note.com/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "東浩紀",
+   "feed": "https://note.com/rss",
+   "ok": false,
+   "count": 10,
+   "feed_title": "注目",
+   "writers": [],
+   "error": "本人のものだと言える手がかりが無い"
+  },
+  {
+   "n": "東浩紀",
+   "feed": "https://note.com/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "東浩紀",
+   "feed": "https://note.com/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "東浩紀",
+   "feed": "https://note.com/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "東浩紀",
+   "feed": "https://note.com/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "n": "大澤真幸",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "大澤真幸",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "大澤真幸",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "大澤真幸",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "大澤真幸",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "大澤真幸",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "大澤真幸",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "稲葉振一郎",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "稲葉振一郎",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "稲葉振一郎",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "稲葉振一郎",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "稲葉振一郎",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "稲葉振一郎",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "稲葉振一郎",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "西垣通",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "西垣通",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "西垣通",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "西垣通",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "西垣通",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "西垣通",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "西垣通",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "出口康夫",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "出口康夫",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "出口康夫",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "出口康夫",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "出口康夫",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "出口康夫",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "出口康夫",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "鈴木貴之",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "鈴木貴之",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "鈴木貴之",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "鈴木貴之",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "鈴木貴之",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "鈴木貴之",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "鈴木貴之",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "久木田水生",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "久木田水生",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "久木田水生",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "久木田水生",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "久木田水生",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "久木田水生",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "久木田水生",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "戸谷洋志",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "戸谷洋志",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "戸谷洋志",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "戸谷洋志",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "戸谷洋志",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "戸谷洋志",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "戸谷洋志",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "岡本裕一朗",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "岡本裕一朗",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "岡本裕一朗",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "岡本裕一朗",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "岡本裕一朗",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "岡本裕一朗",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "岡本裕一朗",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "神崎宣次",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "神崎宣次",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "神崎宣次",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "神崎宣次",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "神崎宣次",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "神崎宣次",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "神崎宣次",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "山本龍彦",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "山本龍彦",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "山本龍彦",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "山本龍彦",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "山本龍彦",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "山本龍彦",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "山本龍彦",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "大屋雄裕",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "大屋雄裕",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "大屋雄裕",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "大屋雄裕",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "大屋雄裕",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "大屋雄裕",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "大屋雄裕",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "宍戸常寿",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "宍戸常寿",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "宍戸常寿",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "宍戸常寿",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "宍戸常寿",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "宍戸常寿",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "宍戸常寿",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "成原慧",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "成原慧",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "成原慧",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "成原慧",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "成原慧",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "成原慧",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "成原慧",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "稲谷龍彦",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "稲谷龍彦",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "稲谷龍彦",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "稲谷龍彦",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "稲谷龍彦",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "稲谷龍彦",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "稲谷龍彦",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "井上智洋",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "井上智洋",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "井上智洋",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "井上智洋",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "井上智洋",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "井上智洋",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "井上智洋",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "柳川範之",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "柳川範之",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "柳川範之",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "柳川範之",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "柳川範之",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "柳川範之",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "柳川範之",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "山本勲",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "山本勲",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "山本勲",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "山本勲",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "山本勲",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "山本勲",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "山本勲",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "江間有沙",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "江間有沙",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "江間有沙",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "江間有沙",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "江間有沙",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "江間有沙",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "江間有沙",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "城山英明",
+   "feed": "https://researchmap.jp/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "城山英明",
+   "feed": "https://researchmap.jp/feed/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "城山英明",
+   "feed": "https://researchmap.jp/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "城山英明",
+   "feed": "https://researchmap.jp/rss.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "城山英明",
+   "feed": "https://researchmap.jp/index.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "城山英明",
+   "feed": "https://researchmap.jp/atom.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "n": "城山英明",
+   "feed": "https://researchmap.jp/feed.xml",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  }
+ ]
+}

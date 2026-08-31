@@ -1,0 +1,203 @@
+[
+ {
+  "n": "イアン・ゴールディン",
+  "s": "blog",
+  "feed": "https://iangoldin.org/feed/",
+  "evidence": "declared-site",
+  "note": "公式サイトだが dc:creator が運営スタッフのアカウント(Sami Wymes / nikola)。実測(2026-08-31)で全10件が本人の講演・出演・論説であることを確認。ただし最新項目は 2025-08 で更新は活発でない",
+  "site": "https://iangoldin.org/"
+ },
+ {
+  "n": "イアン・ブレマー",
+  "s": "blog",
+  "feed": "https://www.gzeromedia.com/feeds/feed.rss",
+  "site": "https://www.gzeromedia.com/",
+  "evidence": "item-author",
+  "author": [
+   "Ian Bremmer"
+  ]
+ },
+ {
+  "n": "イーサン・モリック",
+  "s": "blog",
+  "feed": "https://www.oneusefulthing.org/feed",
+  "site": "https://www.oneusefulthing.org/",
+  "evidence": "item-author",
+  "author": [
+   "Ethan Mollick"
+  ]
+ },
+ {
+  "n": "ゲアリー・マーカス",
+  "s": "substack",
+  "feed": "https://garymarcus.substack.com/feed",
+  "site": "https://garymarcus.substack.com/",
+  "evidence": "item-author",
+  "author": [
+   "Gary Marcus"
+  ]
+ },
+ {
+  "n": "サフィヤ・ノーブル",
+  "s": "blog",
+  "feed": "https://safiyaunoble.com/feed/",
+  "site": "https://safiyaunoble.com/",
+  "evidence": "item-author",
+  "author": [
+   "Safiya Noble"
+  ]
+ },
+ {
+  "n": "ショシャナ・ズボフ",
+  "s": "blog",
+  "feed": "https://shoshanazuboff.com/book/feed/",
+  "site": "https://shoshanazuboff.com/",
+  "evidence": "item-author",
+  "author": [
+   "szuboff"
+  ]
+ },
+ {
+  "n": "ジャック・バルキン",
+  "s": "blog",
+  "feed": "https://balkin.blogspot.com/feeds/posts/default",
+  "evidence": "declared-author",
+  "author": [
+   "JB"
+  ],
+  "note": "Balkinization は6名以上の法学者による共著ブログ。本人の投稿は創設者の頭文字 JB 名義で出る。実測(2026-08-31)で JB の記事が本人の主題(憲法・技術)であることを確認し、著者条件 JB でのみ採る",
+  "site": "https://balkin.blogspot.com/"
+ },
+ {
+  "n": "ジョン・ダナハー",
+  "s": "blog",
+  "feed": "https://philosophicaldisquisitions.blogspot.com/feeds/posts/default",
+  "site": "https://philosophicaldisquisitions.blogspot.com/",
+  "evidence": "item-author",
+  "author": [
+   "John Danaher"
+  ]
+ },
+ {
+  "n": "スティーブン・ピンカー",
+  "s": "blog",
+  "feed": "https://stevenpinker.com/feed",
+  "site": "https://stevenpinker.com/",
+  "evidence": "own-domain"
+ },
+ {
+  "n": "ゼイネップ・トゥフェクチ",
+  "s": "media",
+  "feed": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/by/zeynep-tufekci/rss.xml",
+  "site": "https://www.nytimes.com/by/zeynep-tufekci",
+  "evidence": "item-author",
+  "author": [
+   "David French, M. Gessen, Lydia Polgreen and Zeynep Tufekci",
+   "Jamelle Bouie, M. Gessen, Nicholas Kristof and Zeynep Tufekci",
+   "Zeynep Tufekci"
+  ]
+ },
+ {
+  "n": "タイラー・コーエン",
+  "s": "blog",
+  "feed": "https://marginalrevolution.com/feed",
+  "site": "https://marginalrevolution.com/",
+  "evidence": "item-author",
+  "author": [
+   "Tyler Cowen"
+  ]
+ },
+ {
+  "n": "ダイアン・コイル",
+  "s": "blog",
+  "feed": "http://www.enlightenmenteconomics.com/blog/index.php/feed/",
+  "site": "http://www.enlightenmenteconomics.com/blog/",
+  "evidence": "item-author",
+  "author": [
+   "Diane Coyle"
+  ]
+ },
+ {
+  "n": "デイヴィッド・チャーマーズ",
+  "s": "blog",
+  "feed": "https://consc.net/feed/",
+  "site": "https://consc.net/",
+  "evidence": "own-domain",
+  "skip": true,
+  "skip_reason": "フィードの中身が WordPress 初期投稿 1 件のみで、本人の発信が流れてこない(実測 2026-08-31)"
+ },
+ {
+  "n": "ヘンリー・ファレル",
+  "s": "blog",
+  "feed": "https://www.programmablemutter.com/feed",
+  "site": "https://www.programmablemutter.com/",
+  "evidence": "item-author",
+  "author": [
+   "Henry Farrell"
+  ]
+ },
+ {
+  "n": "ペーター=ポール・フェルベーク",
+  "s": "blog",
+  "feed": "https://ppverbeek.org/feed/",
+  "site": "https://ppverbeek.org/",
+  "evidence": "item-author",
+  "author": [
+   "Peter-Paul Verbeek"
+  ]
+ },
+ {
+  "n": "ミレイユ・ヒルデブラント",
+  "s": "blog",
+  "feed": "https://www.cohubicol.com/feed.xml",
+  "site": "https://www.cohubicol.com/",
+  "evidence": "own-domain"
+ },
+ {
+  "n": "ユク・ホイ",
+  "s": "blog",
+  "feed": "https://digitalmilieu.net/feed/",
+  "site": "https://www.digitalmilieu.net/",
+  "evidence": "item-author",
+  "author": [
+   "Yuk Hui"
+  ]
+ },
+ {
+  "n": "ユヴァル・ノア・ハラリ",
+  "s": "blog",
+  "feed": "https://www.ynharari.com/feed/",
+  "evidence": "declared-site",
+  "note": "公式サイトだが dc:creator が運営スタッフのアカウント(Dima Basov / liat)で自動判定に落ちる。実測(2026-08-31)で直近20件すべてが本人名義の論説・インタビュー・講演であることを確認したうえで採用する",
+  "site": "https://www.ynharari.com/"
+ },
+ {
+  "n": "ルチアーノ・フロリディ",
+  "s": "blog",
+  "feed": "https://www.philosophyofinformation.net/feed/",
+  "site": "https://www.philosophyofinformation.net/",
+  "evidence": "own-domain",
+  "skip": true,
+  "skip_reason": "フィードの中身が WordPress 初期投稿 1 件のみで、本人の発信が流れてこない(実測 2026-08-31)"
+ },
+ {
+  "n": "ルーシー・サッチマン",
+  "s": "blog",
+  "feed": "https://robotfutures.wordpress.com/feed/",
+  "site": "https://robotfutures.wordpress.com/",
+  "evidence": "item-author",
+  "author": [
+   "Lucy Suchman"
+  ]
+ },
+ {
+  "n": "ヴァージニア・ユーバンクス",
+  "s": "blog",
+  "feed": "https://virginia-eubanks.com/feed/",
+  "site": "https://virginia-eubanks.com/",
+  "evidence": "item-author",
+  "author": [
+   "virginiaeubanks"
+  ]
+ }
+]

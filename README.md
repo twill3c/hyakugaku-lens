@@ -22,6 +22,9 @@ hyakunin-lens は人手で集めたスナップショットを起点にしたが
 
 ```bash
 python src/build.py                  # data/*.json → out/index.html
+python -m src.update                 # 宣言フィードを収集 → own を差し替え → 再ビルド
+python tools/discover_feeds.py --apply       # フィードを探索して sources.json を作り直す
+python tools/discover_feeds.py --declared-only  # 宣言フィードの分だけ入れ直す
 python -m pytest -q                  # スキーマ検証 + 往復一致オラクル + 決定性 + 字種検査
 python tools/verify_links.py --apply # 公式サイト候補を実測して h を更新
 python tools/seed_people.py          # 名簿 JSONL から people.json を再生成(立ち上げ用)
@@ -34,6 +37,10 @@ python tools/seed_people.py          # 名簿 JSONL から people.json を再生
 | `data/people.json` | 100 名の名簿と発信項目(唯一の正本) |
 | `data/meta.json` | 分類語彙・ソース種別語彙・各層の最終実行時刻 |
 | `data/homepage_candidates.jsonl` | 公式サイトの候補 URL(順に試す) |
+| `data/sources.json` | 採用したフィードと、本人のものだと言える証拠 |
+| `data/feed_extra.jsonl` | 自動発見できないが在ることを知っている候補(同じ関門を通す) |
+| `data/feed_declared.jsonl` | 自動判定に落ちるが中身を実測して採ると決めたもの(理由必須) |
+| `data/feed_discovery.json` | 590 本の探索記録(落ちた理由も残す) |
 | `data/link_status.json` | 候補 URL の検証結果(落ちた記録も残す) |
 | `src/build.py` + `src/template.html` | 自己完結の単一 HTML を生成 |
 | `src/merge.py` | セクション項目の差し替えマージ(劣化継続) |

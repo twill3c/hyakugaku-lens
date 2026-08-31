@@ -9,3 +9,7 @@
 {"v": "1.2", "ts": "2026-08-31T20:18:03+09:00", "project": "hyakugaku-lens", "loop_id": "loop_001", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-31T20:18:04+09:00", "project": "hyakugaku-lens", "loop_id": "loop_001", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-31T20:18:04+09:00", "project": "hyakugaku-lens", "loop_id": "loop_001", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-31T20:18:15+09:00", "project": "hyakugaku-lens", "loop_id": "loop_001", "event": "commit", "data": {"kind": "feat", "sha": "c0a04ea", "message": "百学レンズ骨格 — 各界の学者100名の名簿と再現ビルド器"}}
+{"v": "1.2", "ts": "2026-08-31T20:18:26+09:00", "project": "hyakugaku-lens", "loop_id": "loop_001", "event": "commit", "data": {"kind": "chore", "sha": "96af58f", "message": ".gitattributes で改行コード変換を止める"}}
+{"v": "1.2", "ts": "2026-08-31T20:18:27+09:00", "project": "hyakugaku-lens", "loop_id": "loop_001", "event": "stage_end", "data": {"stage": 7, "stage_name": "完了", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-31T20:18:27+09:00", "project": "hyakugaku-lens", "loop_id": "loop_001", "event": "loop_end", "data": {"outcome": "success", "failure_count": 2, "summary": "名簿100名(12分類・海外80/日本20)と再現ビルド器を構築。公式サイトURLは124試行の実測で95名分を確定、5名は空欄で出荷。テスト36件全合格"}}

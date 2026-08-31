@@ -1,0 +1,3 @@
+{"n":"ユヴァル・ノア・ハラリ","s":"blog","feed":"https://www.ynharari.com/feed/","evidence":"declared-site","note":"公式サイトだが dc:creator が運営スタッフのアカウント(Dima Basov / liat)で自動判定に落ちる。実測(2026-08-31)で直近20件すべてが本人名義の論説・インタビュー・講演であることを確認したうえで採用する"}
+{"n":"イアン・ゴールディン","s":"blog","feed":"https://iangoldin.org/feed/","evidence":"declared-site","note":"公式サイトだが dc:creator が運営スタッフのアカウント(Sami Wymes / nikola)。実測(2026-08-31)で全10件が本人の講演・出演・論説であることを確認。ただし最新項目は 2025-08 で更新は活発でない"}
+{"n":"ジャック・バルキン","s":"blog","feed":"https://balkin.blogspot.com/feeds/posts/default","evidence":"declared-author","author":["JB"],"note":"Balkinization は6名以上の法学者による共著ブログ。本人の投稿は創設者の頭文字 JB 名義で出る。実測(2026-08-31)で JB の記事が本人の主題(憲法・技術)であることを確認し、著者条件 JB でのみ採る"}

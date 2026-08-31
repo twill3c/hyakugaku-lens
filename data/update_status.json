@@ -1,0 +1,140 @@
+{
+ "generated_at": "2026-08-31T11:46:10Z",
+ "ok": 19,
+ "fail": 0,
+ "sources": [
+  {
+   "n": "イアン・ゴールディン",
+   "s": "blog",
+   "feed": "https://iangoldin.org/feed/",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "イアン・ブレマー",
+   "s": "blog",
+   "feed": "https://www.gzeromedia.com/feeds/feed.rss",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "n": "イーサン・モリック",
+   "s": "blog",
+   "feed": "https://www.oneusefulthing.org/feed",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "n": "ゲアリー・マーカス",
+   "s": "substack",
+   "feed": "https://garymarcus.substack.com/feed",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "n": "サフィヤ・ノーブル",
+   "s": "blog",
+   "feed": "https://safiyaunoble.com/feed/",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "ショシャナ・ズボフ",
+   "s": "blog",
+   "feed": "https://shoshanazuboff.com/book/feed/",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "n": "ジャック・バルキン",
+   "s": "blog",
+   "feed": "https://balkin.blogspot.com/feeds/posts/default",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "n": "ジョン・ダナハー",
+   "s": "blog",
+   "feed": "https://philosophicaldisquisitions.blogspot.com/feeds/posts/default",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "n": "スティーブン・ピンカー",
+   "s": "blog",
+   "feed": "https://stevenpinker.com/feed",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "ゼイネップ・トゥフェクチ",
+   "s": "media",
+   "feed": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/by/zeynep-tufekci/rss.xml",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "タイラー・コーエン",
+   "s": "blog",
+   "feed": "https://marginalrevolution.com/feed",
+   "ok": true,
+   "count": 12
+  },
+  {
+   "n": "ダイアン・コイル",
+   "s": "blog",
+   "feed": "http://www.enlightenmenteconomics.com/blog/index.php/feed/",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "ヘンリー・ファレル",
+   "s": "blog",
+   "feed": "https://www.programmablemutter.com/feed",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "n": "ペーター=ポール・フェルベーク",
+   "s": "blog",
+   "feed": "https://ppverbeek.org/feed/",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "ミレイユ・ヒルデブラント",
+   "s": "blog",
+   "feed": "https://www.cohubicol.com/feed.xml",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "ユク・ホイ",
+   "s": "blog",
+   "feed": "https://digitalmilieu.net/feed/",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "ユヴァル・ノア・ハラリ",
+   "s": "blog",
+   "feed": "https://www.ynharari.com/feed/",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "n": "ルーシー・サッチマン",
+   "s": "blog",
+   "feed": "https://robotfutures.wordpress.com/feed/",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "n": "ヴァージニア・ユーバンクス",
+   "s": "blog",
+   "feed": "https://virginia-eubanks.com/feed/",
+   "ok": true,
+   "count": 10
+  }
+ ]
+}
