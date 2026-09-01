@@ -200,3 +200,78 @@ def test_limit_caps_how_many_are_searched():
     calls = []
     run_yt(people, "KEY", lambda u: calls.append(u) or api(), bucket=0, limit=6)
     assert len(calls) == 6
+
+
+# --- チャンネル許可リスト(loop_012)-----------------------------------
+
+ALLOW = {"closer to truth", "orbits - luciano floridi"}
+
+
+def test_only_allowlisted_channels_are_accepted():
+    """題名に氏名があっても、許可していないチャンネルは採らない。
+
+    実測(2026-09-01)で、題名の字面では「本人による」と「本人についての」を
+    分けられなかった。分けられるのは**場**のほうである。
+    """
+    raw = api(("v1", "The Biggest AI Risks | Susan Schneider", "2026-08-16", "Closer To Truth"),
+              ("v2", "Susan Schneider explained", "2026-08-17", "Some Explainer Channel"))
+    people = [person("スーザン・シュナイダー", "Susan Schneider")]
+    out, rep = run_yt(people, "KEY", lambda u: raw, bucket=0, channels=ALLOW)
+    assert [i["u"].endswith("v1") for i in out[0]["yt"]] == [True]
+    assert rep["people"][0]["dropped"] == {"許可していないチャンネル": 1}
+
+
+def test_channel_match_ignores_case_and_spacing():
+    raw = api(("v1", "Susan Schneider on AI", "2026-08-16", "  CLOSER  To Truth "))
+    people = [person("スーザン・シュナイダー", "Susan Schneider")]
+    out, _ = run_yt(people, "KEY", lambda u: raw, bucket=0, channels=ALLOW)
+    assert out[0]["yt"]
+
+
+def test_empty_allowlist_accepts_nothing():
+    """陽性対照: 許可リストが空なら 1 件も通らない(関門が効いていることの裏づけ)。"""
+    raw = api(("v1", "Susan Schneider on AI", "2026-08-16", "Closer To Truth"))
+    people = [person("スーザン・シュナイダー", "Susan Schneider")]
+    out, _ = run_yt(people, "KEY", lambda u: raw, bucket=0, channels=set())
+    assert out[0]["yt"] == []
+
+
+def test_no_allowlist_argument_keeps_the_old_behaviour():
+    """陰性対照: 許可リストを渡さない審査モードでは、従来どおり全候補が残る。"""
+    raw = api(("v1", "Susan Schneider on AI", "2026-08-16", "Anywhere"))
+    people = [person("スーザン・シュナイダー", "Susan Schneider")]
+    _, rep = run_yt(people, "KEY", lambda u: raw, bucket=0)
+    assert rep["people"][0]["count"] == 1
+
+
+def test_rejected_candidates_are_kept_for_review():
+    """許可外のものも審査用に残す —— 許可リストはここから育てる。"""
+    raw = api(("v1", "Susan Schneider on AI", "2026-08-16", "New Venue"))
+    people = [person("スーザン・シュナイダー", "Susan Schneider")]
+    _, rep = run_yt(people, "KEY", lambda u: raw, bucket=0, channels=ALLOW)
+    assert [c["o"] for c in rep["people"][0]["pending"]] == ["New Venue"]
+
+
+def test_allowlist_entries_carry_the_evidence_that_admitted_them():
+    """許可したチャンネルには、**実際に読んだ題名**を証拠として残す。
+
+    「その場が本人を招いている」という判断は機械にはできない。だから
+    判断の材料を消さずに置く —— 後から見て、なぜ通したかが分かるように。
+    """
+    path = ROOT / "data" / "yt_channels.jsonl"
+    rows = [json.loads(l) for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]
+    assert rows, "許可リストが空"
+    kinds = {"own", "interview", "institution", "event", "press"}
+    for r in rows:
+        assert r["ch"].strip(), r
+        assert r["kind"] in kinds, r
+        assert len(r["seen"]) >= 10, f"{r['ch']}: 根拠の題名が無い"
+        assert r["for"].strip(), r
+
+
+def test_allowlist_has_no_duplicates():
+    from src.youtube import norm_channel
+    path = ROOT / "data" / "yt_channels.jsonl"
+    rows = [json.loads(l) for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]
+    names = [norm_channel(r["ch"]) for r in rows]
+    assert len(set(names)) == len(names)

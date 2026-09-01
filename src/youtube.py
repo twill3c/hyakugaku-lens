@@ -150,13 +150,25 @@ def window_start(now: datetime, days: int = WINDOW_DAYS) -> str:
     return (now - timedelta(days=days)).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
+def norm_channel(name: str) -> str:
+    """チャンネル名の照合形。大文字小文字と空白の揺れを吸収する。"""
+    return " ".join(name.split()).lower()
+
+
 def run_yt(people, key, fetch, bucket: int, published_after: str = "", gate=None,
-           limit: int = 0):
+           limit: int = 0, channels: set[str] | None = None):
     """(people, report) を返す純関数コア。people は書き換えない。
 
     bucket に該当する人(index % BUCKETS == bucket)だけを検索する。
     gate は robots.txt の関門(None なら確認しない — 単体テスト用)。
+
+    channels を渡すと、**そのチャンネルの動画だけ**を採る。題名の字面では
+    「本人による」と「本人についての」を分けられないことが実測で分かったので、
+    分けられるもの——**場**——で絞る(loop_011 の四つの規則がいずれも届かなかった)。
+    許可外の候補は捨てずに `pending` へ入れる。許可リストはそこから育てる。
+    None を渡すと絞らない(審査モード)。
     """
+    allow = None if channels is None else {norm_channel(c) for c in channels}
     out, status, ok = [], [], 0
     for idx, p in enumerate(people):
         if idx % BUCKETS != bucket or (limit and len(status) >= limit):
@@ -173,7 +185,7 @@ def run_yt(people, key, fetch, bucket: int, published_after: str = "", gate=None
             found = []
         # 他の欄に出ている動画は採らない(同じものを二度見せない)
         exclude = {i["u"] for i in p["own"] + p["pub"]}
-        accepted, seen = [], set()
+        accepted, pending, seen = [], [], set()
         for i in found:
             if i["u"] in exclude:
                 dropped["他の欄に既出"] = dropped.get("他の欄に既出", 0) + 1
@@ -181,10 +193,16 @@ def run_yt(people, key, fetch, bucket: int, published_after: str = "", gate=None
             if i["u"] in seen:
                 continue
             seen.add(i["u"])
+            if allow is not None and norm_channel(i["o"]) not in allow:
+                dropped["許可していないチャンネル"] = dropped.get("許可していないチャンネル", 0) + 1
+                pending.append(i)
+                continue
             accepted.append(i)
         if dropped:
             rec["dropped"] = dropped
         rec["candidates"] = accepted
+        if pending:
+            rec["pending"] = pending
         if accepted:
             rec.update(ok=True, count=len(accepted))
             ok += 1
@@ -203,6 +221,14 @@ def http_get(url: str) -> bytes:
     req = urllib.request.Request(url, headers={"User-Agent": "hyakugaku-lens/1.0"})
     with urllib.request.urlopen(req, timeout=30) as r:
         return r.read()
+
+
+def load_channels() -> set[str]:
+    """`data/yt_channels.jsonl` の許可チャンネル。無ければ空(=何も通さない)。"""
+    path = ROOT / "data" / "yt_channels.jsonl"
+    if not path.exists():
+        return set()
+    return {json.loads(l)["ch"] for l in path.read_text(encoding="utf-8").splitlines() if l.strip()}
 
 
 def read_json(name: str):
@@ -230,9 +256,13 @@ def main(argv: list[str] | None = None) -> int:
     for a in argv:
         if a.startswith("--limit="):
             limit = int(a.split("=", 1)[1])
+    # 審査モードでは絞らない(許可リストを育てるため候補を全部見る)。
+    # 適用モードでは許可チャンネルだけを採る
+    channels = load_channels() if apply else None
     new_people, report = run_yt(people, key, http_get, bucket,
                                 published_after=window_start(now), gate=RobotsGate(),
-                                limit=limit)
+                                limit=limit, channels=channels)
+    report["channels_allowed"] = len(channels) if channels is not None else None
     report["generated_at"] = now.strftime("%Y-%m-%dT%H:%M:%SZ")
     report["applied"] = apply
     report["window_start"] = window_start(now)

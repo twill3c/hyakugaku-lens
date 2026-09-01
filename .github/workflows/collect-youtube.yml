@@ -1,10 +1,14 @@
 name: collect-youtube
 
-# 既定は**審査のみ** —— data/yt_review.json を書くだけで people.json には触らない。
-# この 100 名は学者なので「本人が話す動画」より「本人について語る動画」のほうが多く、
-# 氏名ゲートだけでは切り抜きが通る(姉妹プロジェクトで実際に汚染された)。
-# 抜き取り検査を通したうえで apply=true にする。
+# 定期実行は**適用**(data/yt_channels.jsonl の許可チャンネルだけを採る)。
+# 手動実行は既定が**審査のみ** —— 許可リストを育てるために候補を全部出す。
+#
+# なぜ許可リストが要るか: この 100 名は学者なので「本人が話す動画」より
+# 「本人について語る動画」のほうが多い。題名の字面では両者を分けられないことを
+# 実測した(loop_011 で四つの規則がいずれも届かなかった)。分けられるのは**場**である。
 on:
+  schedule:
+    - cron: '5 20 * * *'   # 毎日 UTC 20:05(JST 05:05 頃)。1 日 50 名・2 日で一巡
   workflow_dispatch:
     inputs:
       apply:
@@ -34,7 +38,8 @@ jobs:
       - name: 候補を集める
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: python -m src.youtube ${{ inputs.apply && '--apply' || '' }} --limit=${{ inputs.limit }}
+        run: |
+          python -m src.youtube             ${{ (github.event_name == 'schedule' || inputs.apply) && '--apply' || '' }}             --limit=${{ inputs.limit || 0 }}
       - name: 差分があるときだけコミット
         run: |
           git config user.name "github-actions[bot]"
@@ -43,6 +48,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "変更なし — コミットしない"
           else
-            git commit -m "data: youtube $( [ '${{ inputs.apply }}' = 'true' ] && echo apply || echo review ) $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git commit -m "data: youtube $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git push
           fi
