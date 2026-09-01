@@ -69,3 +69,12 @@ YouTube のチャンネル RSS は robots.txt が禁じているため使って�
 | `out/index.html` | 出荷物。Vercel がそのまま静的配信する |
 
 詳細は [SPEC.md](SPEC.md) と [TEST_SPEC.md](TEST_SPEC.md) を参照。
+
+## 法務・収集ポリシー
+
+- 保存・表示するのは**見出し・リンク・日付のみ**(本文・要旨は取得も保存もしない)
+- **見出しと論文題目の権利は各発信者・各出版者に帰属する。** `LICENSE`(MIT)が及ぶのは
+  コードと本アプリの生成物(名簿・分類・人物紹介文・出荷 HTML)であって、
+  `data/people.json` や `out/index.html` に載る見出し・題目ではない
+- 繰り返し取得する経路は、取りに行く前に robots.txt で可否を確かめる(N-05・`src/robots.py`)
+- 各項目は発信元へのリンクにする
