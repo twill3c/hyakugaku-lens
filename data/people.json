@@ -1050,6 +1050,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-09-01",
+    "t": "The Hugging Face hack",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/the-hugging-face-hack.html?utm_source=rss&utm_medium=rss&utm_campaign=the-hugging-face-hack",
+    "s": "blog"
+   },
+   {
     "d": "2026-08-31",
     "t": "Yerevan bleg",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/08/yerevan-bleg.html?utm_source=rss&utm_medium=rss&utm_campaign=yerevan-bleg",
@@ -1059,12 +1065,6 @@
     "d": "2026-08-31",
     "t": "Monday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-575",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-31",
-    "t": "Spain fact of the day",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/08/spain-fact-of-the-day-7.html?utm_source=rss&utm_medium=rss&utm_campaign=spain-fact-of-the-day-7",
     "s": "blog"
    }
   ],
