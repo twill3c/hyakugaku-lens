@@ -1,889 +1,786 @@
 {
- "bucket": 1,
- "ok": 11,
+ "bucket": 0,
+ "ok": 4,
  "attempted": 12,
  "people": [
   {
-   "n": "ルチアーノ・フロリディ",
-   "ok": true,
-   "count": 16,
-   "dropped": {
-    "題名に氏名が無い": 9
-   },
-   "candidates": [
-    {
-     "d": "2026-05-18",
-     "t": "Che cos'è la CONOSCENZA? | FILOSOFIA con Luciano Floridi",
-     "u": "https://www.youtube.com/watch?v=hNNMQG7LQ8c",
-     "s": "yt",
-     "o": "ORBITS - Luciano Floridi"
-    },
-    {
-     "d": "2026-05-20",
-     "t": "Luciano Floridi - Distant Writing, AI, Authorship, and the Transformation of Kn",
-     "u": "https://www.youtube.com/watch?v=EydKRqHF4pw",
-     "s": "yt",
-     "o": "Digital Futures: Research Hub for Digitalization"
-    },
-    {
-     "d": "2026-03-13",
-     "t": "Luciano Floridi - How Life Could Flourish in the Information Ocean (Worthy Successor, Episode 25)",
-     "u": "https://www.youtube.com/watch?v=0ExWk5H02hM",
-     "s": "yt",
-     "o": "The Trajectory with Dan Faggella"
-    },
-    {
-     "d": "2026-04-01",
-     "t": "I Mestieri dell’arte - conferenza di Luciano Floridi - 18 marzo 2026",
-     "u": "https://www.youtube.com/watch?v=k9LpuYWH2Us",
-     "s": "yt",
-     "o": "Labs Sapienza"
-    },
-    {
-     "d": "2026-06-29",
-     "t": "Riscopriamo l'ONTOLOGIA per capire l'IA | FILOSOFIA con Luciano Floridi",
-     "u": "https://www.youtube.com/watch?v=6fFy8RqlSug",
-     "s": "yt",
-     "o": "ORBITS - Luciano Floridi"
-    },
-    {
-     "d": "2026-06-15",
-     "t": "Sul valore della SPERANZA | FILOSOFIA con Luciano Floridi",
-     "u": "https://www.youtube.com/watch?v=bC5DC6BeQEM",
-     "s": "yt",
-     "o": "ORBITS - Luciano Floridi"
-    },
-    {
-     "d": "2026-08-09",
-     "t": "Luciano Floridi al Libro Possibile 2026",
-     "u": "https://www.youtube.com/watch?v=fFi7MXiJoIo",
-     "s": "yt",
-     "o": "Il Libro Possibile "
-    },
-    {
-     "d": "2026-06-03",
-     "t": "Un po' di SCETTICISMO... fa bene | FILOSOFIA con Luciano Floridi",
-     "u": "https://www.youtube.com/watch?v=9qx37yQ-pUw",
-     "s": "yt",
-     "o": "ORBITS - Luciano Floridi"
-    },
-    {
-     "d": "2026-06-11",
-     "t": "L'umano troppo umano dietro l'intelligenza artificiale. Con Luciano Floridi",
-     "u": "https://www.youtube.com/watch?v=oKHtO-9v_wU",
-     "s": "yt",
-     "o": "Gazzetta filosofica"
-    },
-    {
-     "d": "2026-06-10",
-     "t": "Luciano Floridi | Lectio Magistralis \"Tecnologie della speranza\"",
-     "u": "https://www.youtube.com/watch?v=SlsdOX0Gpr8",
-     "s": "yt",
-     "o": "Play Uniud"
-    },
-    {
-     "d": "2026-03-28",
-     "t": "Dentro l’IA: la Vicepresidente Anna Ascani dialoga con il Professor Luciano Floridi",
-     "u": "https://www.youtube.com/watch?v=GiGx3LY0n_I",
-     "s": "yt",
-     "o": "cameradeideputati"
-    },
-    {
-     "d": "2026-03-08",
-     "t": "Barbara Carfagna con Kia Nobre e Luciano Floridi",
-     "u": "https://www.youtube.com/watch?v=mBq-rPop7VA",
-     "s": "yt",
-     "o": "barbara carfagna"
-    },
-    {
-     "d": "2026-07-25",
-     "t": "Luciano Floridi - Agencia Sin Inteligencia -  podcast filosófico",
-     "u": "https://www.youtube.com/watch?v=AN9ijnsCzBQ",
-     "s": "yt",
-     "o": "Filo Errante"
-    },
-    {
-     "d": "2026-04-17",
-     "t": "Intelligenza Artificiale raccontata da Luciano Floridi",
-     "u": "https://www.youtube.com/watch?v=QlEqapwJJZA",
-     "s": "yt",
-     "o": "Geeks Academy"
-    },
-    {
-     "d": "2026-08-04",
-     "t": "Luciano Floridi y la condición onlife - Podcast filosófico",
-     "u": "https://www.youtube.com/watch?v=Ql0a-RmgEQE",
-     "s": "yt",
-     "o": "Filo Errante"
-    },
-    {
-     "d": "2026-03-24",
-     "t": "Penjelasan Lengkap Buku The Ethics of Artificial Intelligence Karya Luciano Floridi",
-     "u": "https://www.youtube.com/watch?v=L2hr3GjZcBk",
-     "s": "yt",
-     "o": "Taufik Purbo Satrio"
-    }
-   ]
-  },
-  {
-   "n": "ピーター・シンガー",
-   "ok": true,
-   "count": 15,
-   "dropped": {
-    "題名に氏名が無い": 10
-   },
-   "candidates": [
-    {
-     "d": "2026-07-03",
-     "t": "‘I’ve mellowed a little bit’: Peter Singer on the limit of free speech and his guidance for giving",
-     "u": "https://www.youtube.com/watch?v=5E-QhB-t0m0",
-     "s": "yt",
-     "o": "The Sydney Morning Herald and The Age"
-    },
-    {
-     "d": "2026-04-20",
-     "t": "Peter Singer on Maximizing Good for All Sentient Creatures | Mindscape 351",
-     "u": "https://www.youtube.com/watch?v=-URgAbSKrH4",
-     "s": "yt",
-     "o": "Sean Carroll"
-    },
-    {
-     "d": "2026-03-26",
-     "t": "Is Eating Meat Ethical? A Conversation with Peter Singer",
-     "u": "https://www.youtube.com/watch?v=61Mvn5g_M-Q",
-     "s": "yt",
-     "o": "Ett år för djuren och jorden"
-    },
-    {
-     "d": "2026-03-24",
-     "t": "The AI Sending People to Prison Is Racially Biased — And No One Is Stopping It | Peter Singer",
-     "u": "https://www.youtube.com/watch?v=Q0__JZi3SqM",
-     "s": "yt",
-     "o": "Human Layer AI"
-    },
-    {
-     "d": "2026-03-30",
-     "t": "Can You Be a Good Person in 2026? 'Most Influential Living Philosopher' Peter Singer explains",
-     "u": "https://www.youtube.com/watch?v=DDM4TNWxkx8",
-     "s": "yt",
-     "o": "Osher Günsberg"
-    },
-    {
-     "d": "2026-07-20",
-     "t": "Peter Singer CORNERS Christian on Why a Loving God Allows Suffering",
-     "u": "https://www.youtube.com/watch?v=9YJUpgn9rc8",
-     "s": "yt",
-     "o": "Skeptic Scriptura"
-    },
-    {
-     "d": "2026-03-26",
-     "t": "AI, Ethics and Animals with Peter Singer, Tse Yip Fai, Simon Coghlan and Christine Parker",
-     "u": "https://www.youtube.com/watch?v=JcEAg_OOKpc",
-     "s": "yt",
-     "o": "Centre for AI and Digital Ethics"
-    },
-    {
-     "d": "2026-05-10",
-     "t": "\"Ethics Without Religion\" - Peter Singer",
-     "u": "https://www.youtube.com/watch?v=cxxiuCxvo9Y",
-     "s": "yt",
-     "o": "atheist.archive"
-    },
-    {
-     "d": "2026-07-29",
-     "t": "Ep. 116 'Journal of Controversial Ideas' with Prof. Peter Singer",
-     "u": "https://www.youtube.com/watch?v=v4K5B6vgy-k",
-     "s": "yt",
-     "o": "So to Speak: The Free Speech Podcast"
-    },
-    {
-     "d": "2026-08-15",
-     "t": "Peter Singer vs Brian Wong: Evidence and Conviction in Philanthropy | Presented by GiveWise",
-     "u": "https://www.youtube.com/watch?v=HYmmYQ8kHtY",
-     "s": "yt",
-     "o": "Effective Altruism Hong Kong"
-    },
-    {
-     "d": "2026-07-24",
-     "t": "PETER SINGER TURNS 80!! 🎂",
-     "u": "https://www.youtube.com/watch?v=Sg7i0tXyhyg",
-     "s": "yt",
-     "o": "Peter Singer"
-    },
-    {
-     "d": "2026-04-14",
-     "t": "How Peter Singer DESTROYED the Way We Think ? | Philosophy To Sleep",
-     "u": "https://www.youtube.com/watch?v=CbnZkiDMk7w",
-     "s": "yt",
-     "o": "The Sleep Philosopher"
-    },
-    {
-     "d": "2026-08-25",
-     "t": "Peter Singer: Animal Liberation and the Next Moral Frontier",
-     "u": "https://www.youtube.com/watch?v=d9xg5x4Rp6k",
-     "s": "yt",
-     "o": "Zoe Weil"
-    },
-    {
-     "d": "2026-07-30",
-     "t": "Philosophy Bites - Peter Singer on Ending Innocent Lives",
-     "u": "https://www.youtube.com/watch?v=UmgbYFR0yqI",
-     "s": "yt",
-     "o": "Gonja Ladd"
-    },
-    {
-     "d": "2026-08-22",
-     "t": "Peter Singer vs. Ayn Rand: Altruism vs. Egoism",
-     "u": "https://www.youtube.com/watch?v=t0anvlN6yW8",
-     "s": "yt",
-     "o": "Dan Norton"
-    }
-   ]
-  },
-  {
-   "n": "マーク・クーケルバーク",
+   "n": "ニック・ボストロム",
    "ok": true,
    "count": 3,
    "dropped": {
-    "題名に氏名が無い": 9
+    "題名に氏名が無い": 4,
+    "許可していないチャンネル": 18
    },
    "candidates": [
     {
-     "d": "2026-07-02",
-     "t": "Postdigital Backlash: Past, Present, Future - Keynote Mark Coeckelbergh, University of Vienna",
-     "u": "https://www.youtube.com/watch?v=OTWajIbtKtk",
-     "s": "yt",
-     "o": "TVZ_Multimedija"
-    },
-    {
-     "d": "2026-07-20",
-     "t": "Cái bẫy \"hoàn thiện bản thân\" (2022): Giữ vững bản sắc giữa kỷ nguyên AI - Mark Coeckelbergh",
-     "u": "https://www.youtube.com/watch?v=cozn8a1bhx8",
-     "s": "yt",
-     "o": "Sách nói Peace"
-    },
-    {
-     "d": "2026-07-01",
-     "t": "文組的時代來臨！？AI巨頭為何重金搶聘「哲學家」？這群哲學家正在決定AI的未來！ / Mark Coeckelbergh《AI世代》",
-     "u": "https://www.youtube.com/watch?v=ZQbqMt5d_G8",
-     "s": "yt",
-     "o": "超級歪 SuperY"
-    }
-   ]
-  },
-  {
-   "n": "スーザン・シュナイダー",
-   "ok": true,
-   "count": 6,
-   "dropped": {
-    "題名に氏名が無い": 19
-   },
-   "candidates": [
-    {
-     "d": "2026-07-27",
-     "t": "Ask Me Anything with Susan Schneider & Robert Lawrence Kuhn: Can AI Think Without Feeling? (Part 2)",
-     "u": "https://www.youtube.com/watch?v=PpD3vogm1Ms",
-     "s": "yt",
-     "o": "Closer To Truth"
-    },
-    {
-     "d": "2026-08-16",
-     "t": "The Biggest AI Risks Ahead | Susan Schneider",
-     "u": "https://www.youtube.com/watch?v=SFGrpOE0hEM",
-     "s": "yt",
-     "o": "Closer To Truth"
-    },
-    {
-     "d": "2026-05-06",
-     "t": "Susan Schneider - From Circuits to Sentience: Why Digital Chatbots Aren’t Conscious but ...",
-     "u": "https://www.youtube.com/watch?v=-AIXanPrLF4",
-     "s": "yt",
-     "o": "Models of Consciousness Conferences"
-    },
-    {
-     "d": "2026-08-03",
-     "t": "Ask Me Anything with Susan Schneider & Robert Lawrence Kuhn: Can You Upload Your Mind? (Part 3)",
-     "u": "https://www.youtube.com/watch?v=9YSLK40AWwY",
-     "s": "yt",
-     "o": "Closer To Truth"
-    },
-    {
-     "d": "2026-07-20",
-     "t": "Ask Me Anything with Susan Schneider and Robert Lawrence Kuhn (Part I)",
-     "u": "https://www.youtube.com/watch?v=zWXVaMCvkb0",
-     "s": "yt",
-     "o": "Closer To Truth"
-    },
-    {
-     "d": "2026-06-22",
-     "t": "BSSA Webinar | Climate change and its impacts on health - Dr. Susan Schneider, USA",
-     "u": "https://www.youtube.com/watch?v=IBHGvfzhBGM",
-     "s": "yt",
-     "o": "Breakthrough Science Society - Abroad Chapter"
-    }
-   ]
-  },
-  {
-   "n": "ウィリアム・マッカスキル",
-   "ok": true,
-   "count": 2,
-   "dropped": {
-    "題名に氏名が無い": 21
-   },
-   "candidates": [
-    {
-     "d": "2026-05-11",
-     "t": "AI & The Race for Global Power: China vs US | William MacAskill",
-     "u": "https://www.youtube.com/watch?v=KVbw4j__FOc",
-     "s": "yt",
-     "o": "The Rest Is Politics: Leading"
-    },
-    {
-     "d": "2026-07-12",
-     "t": "#36 William MacAskill: The Science of Doing Good",
-     "u": "https://www.youtube.com/watch?v=ukqbvKZQW0s",
-     "s": "yt",
-     "o": "Zenvora Productions"
-    }
-   ]
-  },
-  {
-   "n": "カリッサ・ヴェリス",
-   "ok": true,
-   "count": 19,
-   "dropped": {
-    "題名に氏名が無い": 6
-   },
-   "candidates": [
-    {
-     "d": "2026-04-19",
-     "t": "How AI Will Destroy Our Society (Carissa Véliz)",
-     "u": "https://www.youtube.com/watch?v=E00mNfH75qM",
-     "s": "yt",
-     "o": "Privacy Guides"
-    },
-    {
-     "d": "2026-07-22",
-     "t": "Carissa Véliz: Are AI \"Prophecies\" Dictating Your Future? | Lavin Voices",
-     "u": "https://www.youtube.com/watch?v=yqNqGPh1QVQ",
-     "s": "yt",
-     "o": "The Lavin Agency"
-    },
-    {
-     "d": "2026-04-22",
-     "t": "Are We Too Obsessed With AI Predictions? — With Carissa Véliz",
-     "u": "https://www.youtube.com/watch?v=TWbg2HYucZU",
+     "d": "2026-08-19",
+     "t": "Nick Bostrom: Worries About AI Existential Risk Just Became More Concrete",
+     "u": "https://www.youtube.com/watch?v=U_0aPqSAlgo",
      "s": "yt",
      "o": "Alex Kantrowitz"
     },
     {
-     "d": "2026-05-19",
-     "t": "Who controls the future? I Carissa Véliz I RSA REPLAY",
-     "u": "https://www.youtube.com/watch?v=qKy7sDT2MwQ",
-     "s": "yt",
-     "o": "Royal Society of Arts"
-    },
-    {
-     "d": "2026-05-20",
-     "t": "The Limits of Predictive AI - Oxford Philosopher Carissa Véliz | The Most Interesting Thing in AI",
-     "u": "https://www.youtube.com/watch?v=jL-5MR6_oP0",
+     "d": "2026-05-13",
+     "t": "Utopia or Catastrophe? Nick Bostrom on AI’s Risks & Promise | The Most Interesting Thing in AI",
+     "u": "https://www.youtube.com/watch?v=omv-5RlEHT4",
      "s": "yt",
      "o": "Nicholas Thompson"
     },
     {
-     "d": "2026-05-28",
-     "t": "Carissa Véliz on the dangers of predictive AI",
-     "u": "https://www.youtube.com/watch?v=-Utj359k_6M",
+     "d": "2026-08-04",
+     "t": "#83 – Nick Bostrom: Simulation and Superintelligence",
+     "u": "https://www.youtube.com/watch?v=u8nyEiGPjtY",
      "s": "yt",
-     "o": "Sifted"
+     "o": "Zenvora Productions"
+    }
+   ],
+   "pending": [
+    {
+     "d": "2026-07-14",
+     "t": "Joe Rogan Experience #2525 - Nick Bostrom",
+     "u": "https://www.youtube.com/watch?v=8qTZLqY-cnI",
+     "s": "yt",
+     "o": "PowerfulJRE"
     },
     {
-     "d": "2026-05-12",
-     "t": "Prophecy: Prediction, Power and the Future of AI: A Conversation with Associate Prof. Carissa Véliz",
-     "u": "https://www.youtube.com/watch?v=ig6PNYbw4HY",
+     "d": "2026-04-10",
+     "t": "Nick Bostrom: The Terrifying Ways Superintelligence Is Deceiving You!",
+     "u": "https://www.youtube.com/watch?v=o7qZCRKr_oI",
      "s": "yt",
-     "o": "Institute for Ethics in AI Oxford"
-    },
-    {
-     "d": "2026-07-10",
-     "t": "Lawfare Daily: Prophecy, Prediction, and Power with Carissa Véliz",
-     "u": "https://www.youtube.com/watch?v=Ur-UPmjFxFs",
-     "s": "yt",
-     "o": "Lawfare"
-    },
-    {
-     "d": "2026-06-02",
-     "t": "Carissa Véliz and Tim Wu: Why AI is the New Oracle of Delphi",
-     "u": "https://www.youtube.com/watch?v=1zGfbYJ55iw",
-     "s": "yt",
-     "o": "The 92nd Street Y, New York"
-    },
-    {
-     "d": "2026-05-15",
-     "t": "Human Relationships in an Artificial World with Carissa Véliz and Jonathan Zittrain",
-     "u": "https://www.youtube.com/watch?v=tAd5-X-V4JM",
-     "s": "yt",
-     "o": "Edmond & Lily Safra Center for Ethics Harvard"
-    },
-    {
-     "d": "2026-06-17",
-     "t": "Tech & Society. Carissa Véliz",
-     "u": "https://www.youtube.com/watch?v=48oW69sVgw8",
-     "s": "yt",
-     "o": "Espacio Fundación Telefónica Madrid"
-    },
-    {
-     "d": "2026-04-23",
-     "t": "How AI Predictions Can Shape the Future | Carissa Véliz",
-     "u": "https://www.youtube.com/watch?v=O6bNS1bC5Vw",
-     "s": "yt",
-     "o": "AI-Curious"
-    },
-    {
-     "d": "2026-05-19",
-     "t": "Prophecy, Power, and the Algorithm — with Carissa Véliz of Oxford's Institute for Ethics in AI",
-     "u": "https://www.youtube.com/watch?v=lcdzxOeH6Dk",
-     "s": "yt",
-     "o": "Talkin' Politics & Religion W/o Killin' Each Other"
-    },
-    {
-     "d": "2026-06-04",
-     "t": "657. Prophecy and Prediction: Exploring AI’s Future with Carissa Véliz",
-     "u": "https://www.youtube.com/watch?v=qDvQTlOCi4U",
-     "s": "yt",
-     "o": "unSILOed Podcast with Greg LaBlanc"
+     "o": "Young and Profiting"
     },
     {
      "d": "2026-08-19",
-     "t": "The Anxiety of Being Human: Why We Need To Know What’s Next with Oxford Philosopher Carissa Véliz",
-     "u": "https://www.youtube.com/watch?v=G6N_MBfUE9U",
+     "t": "\"WE ARE ENTERING RETIREMENT\": NICK BOSTROM ON AI TAKING OVER | Unreported",
+     "u": "https://www.youtube.com/watch?v=p58YkhjxYgA",
      "s": "yt",
-     "o": "What Could Go Right? Podcast"
+     "o": "NewsNation"
     },
     {
-     "d": "2026-05-06",
-     "t": "Whoever holds our data holds the power with Carissa Véliz | The We Society S10 Ep7",
-     "u": "https://www.youtube.com/watch?v=Flsob3o_N8c",
+     "d": "2026-03-31",
+     "t": "Nick Bostrom   AGI That Saves Room for Us Worthy Successor Series, Episode 1",
+     "u": "https://www.youtube.com/watch?v=1EeAy9Ia2sg",
      "s": "yt",
-     "o": "Academy of Social Sciences"
+     "o": "Motion Craft Production"
     },
     {
-     "d": "2026-08-30",
-     "t": "Carissa Véliz: navigating LLM constraints in the pursuit of AI ethics",
-     "u": "https://www.youtube.com/watch?v=bqA4uPz2x-Y",
+     "d": "2026-08-20",
+     "t": "Nick Bostrom on What Happens If AI Solves All Problems | Odd Lots",
+     "u": "https://www.youtube.com/watch?v=bGR3r7xK21s",
      "s": "yt",
-     "o": "Masters of Privacy"
+     "o": "Bloomberg Podcasts"
     },
     {
-     "d": "2026-06-16",
-     "t": "Carissa Véliz op Media voor Democratie 2026 - interview door Sophie Derkzen",
-     "u": "https://www.youtube.com/watch?v=c5TtlDdxVSs",
+     "d": "2026-04-25",
+     "t": "Oxford Genius: AI Will Become Earth’s Dominant Mind | Nick Bostrom",
+     "u": "https://www.youtube.com/watch?v=ZS3UZhPTzFA",
      "s": "yt",
-     "o": "Stichting Democratie en Media"
+     "o": "This Is The World"
+    },
+    {
+     "d": "2026-03-13",
+     "t": "\"Superintelligence\" by Nick Bostrom Episode 1 - First Principles Podcast",
+     "u": "https://www.youtube.com/watch?v=aVV3PCWbcYk",
+     "s": "yt",
+     "o": "First Principles Podcast"
+    },
+    {
+     "d": "2026-07-21",
+     "t": "Joe Rogan & Nick Bostrom - We Can't Stop Superintelligent AI",
+     "u": "https://www.youtube.com/watch?v=UvSKgVf7eRY",
+     "s": "yt",
+     "o": "The Unfiltered Exchange"
+    },
+    {
+     "d": "2026-07-20",
+     "t": "Joe Rogan & Nick Bostrom: Superintelligence Is Closer Than You Think",
+     "u": "https://www.youtube.com/watch?v=ctmqdLb_7N4",
+     "s": "yt",
+     "o": "The Unfiltered Exchange"
+    },
+    {
+     "d": "2026-07-17",
+     "t": "Joe Rogan & Nick Bostrom: AI Will Redefine Humanity",
+     "u": "https://www.youtube.com/watch?v=tbY4zw5636Y",
+     "s": "yt",
+     "o": "The Unfiltered Exchange"
+    },
+    {
+     "d": "2026-06-27",
+     "t": "#83 – Nick Bostrom: Simulation and Superintelligence",
+     "u": "https://www.youtube.com/watch?v=MZfPU958-Ac",
+     "s": "yt",
+     "o": "MindVoice Production"
+    },
+    {
+     "d": "2026-06-22",
+     "t": "Nick Bostrom Oxford Digital Mind Ethics PKU | Nick Bostrom（牛津大学）：数字心智的伦理道德（英文） - PKU 北大人",
+     "u": "https://www.youtube.com/watch?v=tkpbJ6HmD4Q",
+     "s": "yt",
+     "o": "北大人"
+    },
+    {
+     "d": "2026-08-24",
+     "t": "A Day in the Polis - s260825e06 - James Garner × Nick Bostrom",
+     "u": "https://www.youtube.com/watch?v=sjcImTI6wRU",
+     "s": "yt",
+     "o": "Shared Context Podcast"
+    },
+    {
+     "d": "2026-08-01",
+     "t": "Superintelligence Explained | Will AI Become Smarter Than Humans? | Nick Bostrom Book Summary",
+     "u": "https://www.youtube.com/watch?v=8n0ULPOmrdE",
+     "s": "yt",
+     "o": "LOYAL"
+    },
+    {
+     "d": "2026-07-22",
+     "t": "Will AI Redefine Humanity? - Nick Bostrom & Joe Rogan",
+     "u": "https://www.youtube.com/watch?v=pe3equAPq3w",
+     "s": "yt",
+     "o": "The Unfiltered Exchange"
+    },
+    {
+     "d": "2026-08-22",
+     "t": "A Day in the Polis - s260822e07 - Andrej Karpathy × Nick Bostrom",
+     "u": "https://www.youtube.com/watch?v=lzQx2ymim9s",
+     "s": "yt",
+     "o": "Shared Context Podcast"
+    },
+    {
+     "d": "2026-08-28",
+     "t": "A Day in the Polis - s260904e07 - Nick Bostrom × Watson [Sol]",
+     "u": "https://www.youtube.com/watch?v=vN2TPg80-Ew",
+     "s": "yt",
+     "o": "Shared Context Podcast"
+    },
+    {
+     "d": "2026-08-26",
+     "t": "Can We Control Superintelligence? | Nick Bostrom l",
+     "u": "https://www.youtube.com/watch?v=_JhvBGdc2v0",
+     "s": "yt",
+     "o": "Cosmora HQ "
+    }
+   ]
+  },
+  {
+   "n": "デイヴィッド・チャーマーズ",
+   "ok": true,
+   "count": 1,
+   "dropped": {
+    "題名に氏名が無い": 18,
+    "許可していないチャンネル": 6
+   },
+   "candidates": [
+    {
+     "d": "2026-08-04",
+     "t": "David Chalmers: The Hard Problem of Consciousness",
+     "u": "https://www.youtube.com/watch?v=0I3_v4HEV-U",
+     "s": "yt",
+     "o": "Zenvora Productions"
+    }
+   ],
+   "pending": [
+    {
+     "d": "2026-07-10",
+     "t": "Philosopher David Chalmers asks: When we talk to AI, what are we talking to?",
+     "u": "https://www.youtube.com/watch?v=uUjJOMcNU9w",
+     "s": "yt",
+     "o": "UC Berkeley"
+    },
+    {
+     "d": "2026-04-26",
+     "t": "David Chalmers on the Hard Problem of Consciousness (Tucson 1994)",
+     "u": "https://www.youtube.com/watch?v=3jhRcQ7dGIU",
+     "s": "yt",
+     "o": "𝖀𝖗 𝖁ä𝖘𝖊𝖓 𝕾𝖙𝖚𝖉𝖎𝖔   ᚢ ᚢᚱ ᚹᚨᛊᛖᚾ ᛊᛏᚢᛞᛁᛟ"
+    },
+    {
+     "d": "2026-06-27",
+     "t": "David Chalmers: The Hard Problem of Consciousness",
+     "u": "https://www.youtube.com/watch?v=saIAWGRTPQo",
+     "s": "yt",
+     "o": "MindVoice Production"
+    },
+    {
+     "d": "2026-06-23",
+     "t": "What the scanner cannot see: David Chalmers and the hard problem of Consciousness",
+     "u": "https://www.youtube.com/watch?v=zVA7s5Hx0-g",
+     "s": "yt",
+     "o": "The Observing I Podcast"
     },
     {
      "d": "2026-05-21",
-     "t": "Responsible Tech Book Talk With Carissa Véliz, Author of Prophecy",
-     "u": "https://www.youtube.com/watch?v=C629MRM6WOU",
+     "t": "David Chalmers: Neural and Computational Correlates of Consciousness",
+     "u": "https://www.youtube.com/watch?v=vBUAzGyOAXg",
      "s": "yt",
-     "o": "All Tech Is Human"
-    }
-   ]
-  },
-  {
-   "n": "ヴィンセント・C・ミュラー",
-   "ok": true,
-   "count": 1,
-   "candidates": [
+     "o": "Mathematical Consciousness Science"
+    },
     {
-     "d": "2026-04-24",
-     "t": "Vincent C. Müller - AI Is Accelerating - But Toward What? (Worthy Successor, Episode 28)",
-     "u": "https://www.youtube.com/watch?v=Bci8dcJvUpk",
+     "d": "2026-08-30",
+     "t": "Why Does the Brain Feel? | David Chalmers’ The Conscious Mind",
+     "u": "https://www.youtube.com/watch?v=TiJ3mKeSav0",
      "s": "yt",
-     "o": "The Trajectory with Dan Faggella"
+     "o": "Cosmora HQ "
     }
    ]
   },
   {
-   "n": "ペーター=ポール・フェルベーク",
+   "n": "シャノン・ヴァラー",
    "ok": false,
    "count": 0,
    "dropped": {
-    "題名に氏名が無い": 7
+    "題名に氏名が無い": 7,
+    "許可していないチャンネル": 2
+   },
+   "candidates": [],
+   "pending": [
+    {
+     "d": "2026-08-25",
+     "t": "The AI Mirror & Magnifica Humanitas (feat. Dr. Shannon Vallor & Dr. Thomas Hibbs)",
+     "u": "https://www.youtube.com/watch?v=F7_7l7xdM0I",
+     "s": "yt",
+     "o": "Zaytuna College"
+    },
+    {
+     "d": "2026-05-12",
+     "t": "Episode 5: Metaphors for AI, with Shannon Vallor",
+     "u": "https://www.youtube.com/watch?v=L_f0WS3X17s",
+     "s": "yt",
+     "o": "Dreaming Against The Machine"
+    }
+   ]
+  },
+  {
+   "n": "トマス・メッツィンガー",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 19,
+    "許可していないチャンネル": 6
+   },
+   "candidates": [],
+   "pending": [
+    {
+     "d": "2026-04-27",
+     "t": "Bewusstseinskultur, Insight, and Intellectual Honesty – Prof. Dr. Thomas Metzinger",
+     "u": "https://www.youtube.com/watch?v=EeLZylEHKOs",
+     "s": "yt",
+     "o": "MIND Foundation"
+    },
+    {
+     "d": "2026-03-11",
+     "t": "Karimi trifft Thomas Metzinger",
+     "u": "https://www.youtube.com/watch?v=hEH9Wh4JodA",
+     "s": "yt",
+     "o": "HAUS AM DOM"
+    },
+    {
+     "d": "2026-03-11",
+     "t": "Karimi trifft Thomas Metzinger",
+     "u": "https://www.youtube.com/watch?v=a8ZSM6ND7nk",
+     "s": "yt",
+     "o": "HAUS AM DOM"
+    },
+    {
+     "d": "2026-03-22",
+     "t": "Prof. Thomas Metzinger: Świadomość to kontrolowana halucynacja",
+     "u": "https://www.youtube.com/watch?v=5bpb8NrdCY0",
+     "s": "yt",
+     "o": "Nowe Spojrzenie"
+    },
+    {
+     "d": "2026-03-15",
+     "t": "Hinter dem Ego-Tunnel - Teil 1 - Prof. Thomas Metzinger im Gespräch",
+     "u": "https://www.youtube.com/watch?v=bn9m2CRot-Y",
+     "s": "yt",
+     "o": "Zoomposium"
+    },
+    {
+     "d": "2026-03-22",
+     "t": "Hinter dem Ego-Tunnel - Teil 2 - Prof. Thomas Metzinger im Gespräch",
+     "u": "https://www.youtube.com/watch?v=Ibf2mrZ3uzM",
+     "s": "yt",
+     "o": "Zoomposium"
+    }
+   ]
+  },
+  {
+   "n": "トビー・オード",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 21,
+    "許可していないチャンネル": 4
+   },
+   "candidates": [],
+   "pending": [
+    {
+     "d": "2026-08-06",
+     "t": "Where AGI timelines go wrong | Toby Ord, Oxford University",
+     "u": "https://www.youtube.com/watch?v=zOSptyQ3j9A",
+     "s": "yt",
+     "o": "80,000 Hours"
+    },
+    {
+     "d": "2026-03-27",
+     "t": "Taking longer AI timelines seriously | Toby Ord | EAG San Francisco 2026",
+     "u": "https://www.youtube.com/watch?v=T5OcX6bU31U",
+     "s": "yt",
+     "o": "Effective Altruism"
+    },
+    {
+     "d": "2026-04-25",
+     "t": "The Precipice by Toby Ord | Existential Risk and the Future of Humanity",
+     "u": "https://www.youtube.com/watch?v=wU0mSHgygPI",
+     "s": "yt",
+     "o": "Book Tunez"
+    },
+    {
+     "d": "2026-08-08",
+     "t": "AGI 時程，我們錯在哪裡｜牛津大學 Toby Ord 完整重點整理｜繁體中文",
+     "u": "https://www.youtube.com/watch?v=bjmgvsNFZw4",
+     "s": "yt",
+     "o": "Markluce AI"
+    }
+   ]
+  },
+  {
+   "n": "ジョン・ダナハー",
+   "ok": true,
+   "count": 3,
+   "dropped": {
+    "題名に氏名が無い": 9,
+    "許可していないチャンネル": 13
+   },
+   "candidates": [
+    {
+     "d": "2026-08-07",
+     "t": "#328 – John Danaher: Submission Grappling, ADCC, Animal Combat, and Knives",
+     "u": "https://www.youtube.com/watch?v=8q-9fYyVbFE",
+     "s": "yt",
+     "o": "Zenvora Productions"
+    },
+    {
+     "d": "2026-08-05",
+     "t": "#182 – John Danaher: The Path to Mastery in Jiu Jitsu, Grappling, Judo, and MMA",
+     "u": "https://www.youtube.com/watch?v=5CGDjhsMmS0",
+     "s": "yt",
+     "o": "Zenvora Productions"
+    },
+    {
+     "d": "2026-08-07",
+     "t": "#260 – Georges St-Pierre, John Danaher & Gordon Ryan: The Greatest of All Time",
+     "u": "https://www.youtube.com/watch?v=jI5WSxYLaNQ",
+     "s": "yt",
+     "o": "Zenvora Productions"
+    }
+   ],
+   "pending": [
+    {
+     "d": "2026-07-23",
+     "t": "John Danaher Being Accidentally Hilarious for 34 Minutes Straight",
+     "u": "https://www.youtube.com/watch?v=r1EBNIrgneQ",
+     "s": "yt",
+     "o": "Grappling Archive"
+    },
+    {
+     "d": "2026-03-31",
+     "t": "John Danaher: Your Closed Guard Is All Wrong",
+     "u": "https://www.youtube.com/watch?v=ce7sfWYqBdU",
+     "s": "yt",
+     "o": "Grappling Archive"
+    },
+    {
+     "d": "2026-07-03",
+     "t": "John Danaher and the Logic of Violence",
+     "u": "https://www.youtube.com/watch?v=pwExa0xl8Lc",
+     "s": "yt",
+     "o": "The Greats"
+    },
+    {
+     "d": "2026-07-17",
+     "t": "The Fastest Way To Become An Effective Guard Passer NoGi by John Danaher Part 3",
+     "u": "https://www.youtube.com/watch?v=HfPzOGPjO9w",
+     "s": "yt",
+     "o": "Tyler Sane"
+    },
+    {
+     "d": "2026-05-01",
+     "t": "JOHN DANAHER MASTER THE MOVE KNEE CUT",
+     "u": "https://www.youtube.com/watch?v=ntYt5DqByO8",
+     "s": "yt",
+     "o": "NUNGR"
+    },
+    {
+     "d": "2026-08-21",
+     "t": "JOHN DANAHER MASTER THE MOVE KNEE CUT",
+     "u": "https://www.youtube.com/watch?v=Opyq2Z8I6ig",
+     "s": "yt",
+     "o": "Jose Avilan"
+    },
+    {
+     "d": "2026-06-30",
+     "t": "#182 – John Danaher: The Path to Mastery in Jiu Jitsu, Grappling, Judo, and MMA",
+     "u": "https://www.youtube.com/watch?v=XpUcJKZiygw",
+     "s": "yt",
+     "o": "MindVoice Production"
+    },
+    {
+     "d": "2026-05-08",
+     "t": "John Danaher Teaches Roger Gracie What BJJ Still Gets Wrong",
+     "u": "https://www.youtube.com/watch?v=1sulQqM443c",
+     "s": "yt",
+     "o": "Grappling Archive"
+    },
+    {
+     "d": "2026-07-10",
+     "t": "Kron Gracie, John Danaher, Gordon Ryan & The Jiu-Jitsu AI Conspiracy | Ep.40",
+     "u": "https://www.youtube.com/watch?v=14nxn2fzQEM",
+     "s": "yt",
+     "o": "Unknown Pressures"
+    },
+    {
+     "d": "2026-08-12",
+     "t": "Cutting Through the Morass of Healthcare Information - Dr. John Danaher, Global President of Clin...",
+     "u": "https://www.youtube.com/watch?v=PBvl5kSIqM0",
+     "s": "yt",
+     "o": "Osmosis from Elsevier"
+    },
+    {
+     "d": "2026-07-23",
+     "t": "01 - John Danaher   Go Further Faster   Gi Fundamentals   Escapes Vol 1",
+     "u": "https://www.youtube.com/watch?v=lNKID0GuEUo",
+     "s": "yt",
+     "o": "Saulo Soares"
+    },
+    {
+     "d": "2026-06-30",
+     "t": "#260 – Georges St-Pierre, John Danaher & Gordon Ryan: The Greatest of All Time",
+     "u": "https://www.youtube.com/watch?v=2xvxvcAVsI0",
+     "s": "yt",
+     "o": "MindVoice Production"
+    },
+    {
+     "d": "2026-07-05",
+     "t": "Kron Gracie vs John Danaher : peut-on coacher sans avoir combattu ?",
+     "u": "https://www.youtube.com/watch?v=0JhnqyxKgAc",
+     "s": "yt",
+     "o": "Samuel monin"
+    }
+   ]
+  },
+  {
+   "n": "セス・ラザー",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 1
    },
    "candidates": []
   },
   {
-   "n": "ユク・ホイ",
-   "ok": true,
-   "count": 12,
+   "n": "ウェンデル・ウォラック",
+   "ok": false,
+   "count": 0,
    "dropped": {
-    "題名に氏名が無い": 13
+    "題名に氏名が無い": 7,
+    "許可していないチャンネル": 3
    },
-   "candidates": [
-    {
-     "d": "2026-08-24",
-     "t": "21/05 - Do (curto)circuito entre Vilém Flusser e Yuk Hui | Gabriel Philipson (Unicamp)",
-     "u": "https://www.youtube.com/watch?v=k8mQDc0Sm80",
-     "s": "yt",
-     "o": "Artes e Design PUC-Rio"
-    },
-    {
-     "d": "2026-08-22",
-     "t": "EXISTIR EN INTERNET. OBJETOS DIGITALES Y YUK HUI",
-     "u": "https://www.youtube.com/watch?v=Obtvzbr6MAw",
-     "s": "yt",
-     "o": "Malasombra"
-    },
-    {
-     "d": "2026-04-10",
-     "t": "Introducción a 'Post-Europa' de Yuk Hui [1/5]",
-     "u": "https://www.youtube.com/watch?v=LBm0DgCf0E0",
-     "s": "yt",
-     "o": " 🗡️InDagando📚"
-    },
-    {
-     "d": "2026-03-10",
-     "t": "Lo Inhumano o lo Orgánico No-humano | Recursividad y contingencia ~ Yuk Hui [7/7]",
-     "u": "https://www.youtube.com/watch?v=fPo6FsEJaGQ",
-     "s": "yt",
-     "o": " 🗡️InDagando📚"
-    },
-    {
-     "d": "2026-03-06",
-     "t": "Lo Inorgánico Organizado y lo Inorgánico Organizante | Recursividad y contingencia ~ Yuk Hui [6/7]",
-     "u": "https://www.youtube.com/watch?v=QZsYGiRbykE",
-     "s": "yt",
-     "o": " 🗡️InDagando📚"
-    },
-    {
-     "d": "2026-04-29",
-     "t": "«NOSOTROS Y LAS MÁQUINAS: UNA CONVERSACIÓN CON YUK HUI»",
-     "u": "https://www.youtube.com/watch?v=4nxmaALIj28",
-     "s": "yt",
-     "o": "Contemporánea Condeduque"
-    },
-    {
-     "d": "2026-07-27",
-     "t": "Yuk Hui: Kde domov náš? Tradice v době bezdomovectví",
-     "u": "https://www.youtube.com/watch?v=VF0RRMrDIDU",
-     "s": "yt",
-     "o": "Echo Podcasty"
-    },
-    {
-     "d": "2026-03-09",
-     "t": "55 - HEIDEGGER i YUK HUI. Prometeu Hackejat: el desgavell de la tecnologia.",
-     "u": "https://www.youtube.com/watch?v=7PXbr1wEYPg",
-     "s": "yt",
-     "o": "Filosofía para Pingüinos"
-    },
-    {
-     "d": "2026-06-30",
-     "t": "TAD: Ontología de la fragmentación en Yuk Hui.",
-     "u": "https://www.youtube.com/watch?v=t6mpJ9zHLC8",
-     "s": "yt",
-     "o": "Maestria en Comunicacion y Politica"
-    },
-    {
-     "d": "2026-04-17",
-     "t": "Globalización, Universalismo y Colonialismo Tecnológico | Post-Europa ~ Yuk Hui [3/5]",
-     "u": "https://www.youtube.com/watch?v=BLelFx7YNks",
-     "s": "yt",
-     "o": " 🗡️InDagando📚"
-    },
-    {
-     "d": "2026-04-14",
-     "t": "Europa como Proyecto Metafísico y Tecnológico | Post-Europa ~ Yuk Hui [2/5]",
-     "u": "https://www.youtube.com/watch?v=NfWH-pLgFPU",
-     "s": "yt",
-     "o": " 🗡️InDagando📚"
-    },
-    {
-     "d": "2026-04-24",
-     "t": "Post-Europa: Síntesis entre Oriente y Occidente | Post-Europa ~ Yuk Hui [5/5]",
-     "u": "https://www.youtube.com/watch?v=sm7FgLBztdc",
-     "s": "yt",
-     "o": " 🗡️InDagando📚"
-    }
-   ]
-  },
-  {
-   "n": "ビョンチョル・ハン",
-   "ok": true,
-   "count": 21,
-   "dropped": {
-    "題名に氏名が無い": 4
-   },
-   "candidates": [
-    {
-     "d": "2026-04-30",
-     "t": "Psychopolitics by Byung-Chul Han | Full Book Summary Podcast",
-     "u": "https://www.youtube.com/watch?v=vVjWujSk_gQ",
-     "s": "yt",
-     "o": "Listen & Learn Books"
-    },
-    {
-     "d": "2026-04-19",
-     "t": "BYUNG-CHUL HAN : La société qui nous tue en silence",
-     "u": "https://www.youtube.com/watch?v=GH9KmIAogRg",
-     "s": "yt",
-     "o": "Inspi Vibes"
-    },
-    {
-     "d": "2026-05-16",
-     "t": "Hablando de Dios - Byung-Chul Han",
-     "u": "https://www.youtube.com/watch?v=AqON8Pke4Dw",
-     "s": "yt",
-     "o": "EL CUERVO BLANCO"
-    },
-    {
-     "d": "2026-07-03",
-     "t": "Affability, Attention to the Present, and Cosmic Consciousness: Byung-Chul Han and PWL",
-     "u": "https://www.youtube.com/watch?v=0hEnnsA66y4",
-     "s": "yt",
-     "o": "Palinode Productions"
-    },
-    {
-     "d": "2026-04-02",
-     "t": "SOCIEDADE DO CANSAÇO: A Filosofia de Byung-Chul Han Explicada",
-     "u": "https://www.youtube.com/watch?v=yDVOf_yNm0M",
-     "s": "yt",
-     "o": "A Filosofia Explica"
-    },
-    {
-     "d": "2026-04-10",
-     "t": "Sociedade do Cansaço | Byung-Chul Han Explica o Cansaço Moderno",
-     "u": "https://www.youtube.com/watch?v=xD2RraaY6o0",
-     "s": "yt",
-     "o": "Psi em Áudio | Resumos para Provas e Concursos"
-    },
-    {
-     "d": "2026-06-23",
-     "t": "CRÍTICA DURA AO LIVRO SOCIEDADE DO CANSAÇO (BYUNG-CHUL HAN)",
-     "u": "https://www.youtube.com/watch?v=b0jZ54DJDVI",
-     "s": "yt",
-     "o": "Prof. Daniel Gontijo"
-    },
-    {
-     "d": "2026-04-15",
-     "t": "The Agony of Eros by Byung-chul Han",
-     "u": "https://www.youtube.com/watch?v=Blg18YrFu9Q",
-     "s": "yt",
-     "o": "HETvertellen"
-    },
-    {
-     "d": "2026-06-26",
-     "t": "LA EXPERIENCIA DEL TIEMPO / Byung-Chul Han",
-     "u": "https://www.youtube.com/watch?v=xq4Yk_hvsO0",
-     "s": "yt",
-     "o": "Filosofía del Pórtico"
-    },
-    {
-     "d": "2026-05-12",
-     "t": "\"La Sociedad del Cansancio\" de Byung-Chul Han | Club de Lectura",
-     "u": "https://www.youtube.com/watch?v=dqqbLS57ZWk",
-     "s": "yt",
-     "o": "Mis Propias Finanzas"
-    },
-    {
-     "d": "2026-03-08",
-     "t": "Byung-Chul Han: No Enxame (Projeto Byung-Chul Han)",
-     "u": "https://www.youtube.com/watch?v=392FPFFtNx8",
-     "s": "yt",
-     "o": "À margem da página, por Giselle Lourenço"
-    },
-    {
-     "d": "2026-06-23",
-     "t": "L'inferno dell'Uguale: perché abbiamo smesso di incontrare l'Altro – Byung-Chul Han",
-     "u": "https://www.youtube.com/watch?v=JyhUuc8G3IQ",
-     "s": "yt",
-     "o": "Scorribande Filosofiche - Canale didattico"
-    },
+   "candidates": [],
+   "pending": [
     {
      "d": "2026-03-20",
-     "t": "El dilema de ser buena persona en un mundo que premia lo peor | El aviso de Byung-Chul Han",
-     "u": "https://www.youtube.com/watch?v=8vJLlKbUpEw",
+     "t": "\"A Dangerous Master\" Revisited | Wendell Wallach on AI, Ethics and Governance",
+     "u": "https://www.youtube.com/watch?v=grY6D_HoYG8",
      "s": "yt",
-     "o": "Ensayos de Byung-Chul Han"
-    },
-    {
-     "d": "2026-06-17",
-     "t": "Hablando de Dios, la vida y la muerte | Byung-Chul Han",
-     "u": "https://www.youtube.com/watch?v=LJFrA5ZFWFg",
-     "s": "yt",
-     "o": "EL CUERVO BLANCO"
-    },
-    {
-     "d": "2026-08-27",
-     "t": "SOCIEDADE DO CANSAÇO de Byung-Chul Han (Resumo)",
-     "u": "https://www.youtube.com/watch?v=U6nouW490C4",
-     "s": "yt",
-     "o": "Ek-sistere"
-    },
-    {
-     "d": "2026-03-27",
-     "t": "The Agony of Eros by Byung-Chul Han",
-     "u": "https://www.youtube.com/watch?v=DF7B_IhEF6I",
-     "s": "yt",
-     "o": "History for Thinkers"
-    },
-    {
-     "d": "2026-06-06",
-     "t": "El régimen de la información (Byung-Chul Han)",
-     "u": "https://www.youtube.com/watch?v=AyvZtU7zXrA",
-     "s": "yt",
-     "o": "Sebastian Aros"
-    },
-    {
-     "d": "2026-07-06",
-     "t": "ERREI SOBRE \"SOCIEDADE DO CANSAÇO\" DE BYUNG-CHUL HAN?",
-     "u": "https://www.youtube.com/watch?v=WX6G7dj7S3A",
-     "s": "yt",
-     "o": "Prof. Daniel Gontijo"
-    },
-    {
-     "d": "2026-03-13",
-     "t": "Por qué la cultura del “sé tú mismo” es una trampa perfecta | Byung-Chul Han",
-     "u": "https://www.youtube.com/watch?v=N1snFQMrXyw",
-     "s": "yt",
-     "o": "Worker all4"
+     "o": "United Nations Library & Archives Geneva"
     },
     {
      "d": "2026-03-19",
-     "t": "Por qué Estados Unidos e Irán redefinen el orden mundial con esta crisis | Teoría de Byung-Chul Han",
-     "u": "https://www.youtube.com/watch?v=kiz8zJWwLTw",
+     "t": "Wendell Wallach - Moral Machines",
+     "u": "https://www.youtube.com/watch?v=E7ssZ0USY34",
      "s": "yt",
-     "o": "Ensayos de Byung-Chul Han"
+     "o": "Science, Technology & the Future"
     },
     {
-     "d": "2026-08-27",
-     "t": "La sociedad del cansancio - Byung-Chul Han (Audiolibro)",
-     "u": "https://www.youtube.com/watch?v=tV4tJmBwHbQ",
+     "d": "2026-04-15",
+     "t": "Can AI Be Moral? | Wendell Wallach on Moral Machines, AI Ethics & Governance",
+     "u": "https://www.youtube.com/watch?v=1rgutOqMxrw",
      "s": "yt",
-     "o": "Mi Audioteca"
+     "o": "Science, Technology & the Future"
     }
    ]
   },
   {
-   "n": "ロージ・ブライドッティ",
-   "ok": true,
-   "count": 5,
+   "n": "アンドリュー・フィーンバーグ",
+   "ok": false,
+   "count": 0,
    "dropped": {
-    "題名に氏名が無い": 20
+    "題名に氏名が無い": 3,
+    "許可していないチャンネル": 1
    },
-   "candidates": [
+   "candidates": [],
+   "pending": [
     {
-     "d": "2026-04-28",
-     "t": "Rosi Braidotti: How to Redesign the Future of Humanity",
-     "u": "https://www.youtube.com/watch?v=Yoi7B9PvCIY",
+     "d": "2026-04-19",
+     "t": "TECNOLOGIA e CAPITALISMO - ANDREW FEENBERG e os FUTUROS POSSÍVEIS  com Prof. Cristiano Cordeiro Cruz",
+     "u": "https://www.youtube.com/watch?v=aLpxOQny74A",
      "s": "yt",
-     "o": "Extrapolate with Rob Hof"
-    },
-    {
-     "d": "2026-03-27",
-     "t": "Borders. Rosi Braidotti. Monstruas, máquinas y devenires: ¿El feminismo más allá de lo humano?",
-     "u": "https://www.youtube.com/watch?v=iF4WJ09Kcvc",
-     "s": "yt",
-     "o": "Centro de Investigaciones Interdisciplinarias-UAQ"
-    },
-    {
-     "d": "2026-05-20",
-     "t": "Rosi Braidotti al Salone Internazionale del Libro di Torino intervistata da Daniele Monti 16/5/26",
-     "u": "https://www.youtube.com/watch?v=MSwbspUliTk",
-     "s": "yt",
-     "o": "Grazia De Sensi"
-    },
-    {
-     "d": "2026-04-23",
-     "t": "Ogni desiderio è politico, intervista con Rosi Braidotti |VIVAVOCE",
-     "u": "https://www.youtube.com/watch?v=EjanxU2_fVA",
-     "s": "yt",
-     "o": "Chora Media"
-    },
-    {
-     "d": "2026-05-22",
-     "t": "Mini Lecture Series: Rosi Braidotti's Nomadic Ethics ||",
-     "u": "https://www.youtube.com/watch?v=bo2b2q0eBfA",
-     "s": "yt",
-     "o": "Literature and Theory"
+     "o": "Marcus Bruzzo"
     }
    ]
   },
   {
-   "n": "ダナ・ハラウェイ",
-   "ok": true,
-   "count": 9,
+   "n": "マルクス・ガブリエル",
+   "ok": false,
+   "count": 0,
    "dropped": {
-    "題名に氏名が無い": 16
+    "題名に氏名が無い": 12,
+    "許可していないチャンネル": 13
    },
-   "candidates": [
+   "candidates": [],
+   "pending": [
     {
-     "d": "2026-06-11",
-     "t": "10 años de “Seguir con el problema” | Donna Haraway y Helen Torres. Ciclo “Conversar, lo viviente”",
-     "u": "https://www.youtube.com/watch?v=U34E7UGW8_E",
+     "d": "2026-08-24",
+     "t": "Markus Gabriel: Der Mensch zwischen Gut und Böse",
+     "u": "https://www.youtube.com/watch?v=C8hCt_gofDY",
      "s": "yt",
-     "o": "La Casa Encendida"
-    },
-    {
-     "d": "2026-05-08",
-     "t": "Entrevista a Donna Haraway (Subtitulado ) (2014)",
-     "u": "https://www.youtube.com/watch?v=kxFPZfL8dtI",
-     "s": "yt",
-     "o": "Diffusion Offline"
-    },
-    {
-     "d": "2026-05-01",
-     "t": "Donna Haraway - Storytelling for Earthly Survival  - Legendado (dir. fabrizio teranova, 2016)",
-     "u": "https://www.youtube.com/watch?v=rRuJLR7SUBU",
-     "s": "yt",
-     "o": "Brenno B. Demarchi"
-    },
-    {
-     "d": "2026-08-28",
-     "t": "A Cyborg Manifesto (1985) | Donna Haraway",
-     "u": "https://www.youtube.com/watch?v=yT1j4pETXCo",
-     "s": "yt",
-     "o": "Epistemophilia"
-    },
-    {
-     "d": "2026-06-27",
-     "t": "Donna Haraway's Cyborg Theory",
-     "u": "https://www.youtube.com/watch?v=50Tq0C7J9Z8",
-     "s": "yt",
-     "o": "Literature and Theory"
-    },
-    {
-     "d": "2026-08-23",
-     "t": "Manifiesto cyborg [ DONNA HARAWAY ]",
-     "u": "https://www.youtube.com/watch?v=w1kuJ-Hposo",
-     "s": "yt",
-     "o": "Pienso y no sé nada"
+     "o": "ORF Podcast"
     },
     {
      "d": "2026-05-07",
-     "t": "Il Manifesto Cyborg di Donna Haraway tra scienza e mito politico | Psicologia e Tecnologia",
-     "u": "https://www.youtube.com/watch?v=9zpAxjnVvzk",
+     "t": "Wir denken komplett falsch über KI – scobel im Gespräch: Mit Markus Gabriel",
+     "u": "https://www.youtube.com/watch?v=Hxzfvz1zyos",
      "s": "yt",
-     "o": "PsyMastery"
+     "o": "scobel"
     },
     {
-     "d": "2026-04-14",
-     "t": "Biblioteke 0 Općenito – „Manifest družbeničkih vrsta: Psi, ljudi i značajna drugost“, Donna Haraway",
-     "u": "https://www.youtube.com/watch?v=5k6loEP9Jpc",
+     "d": "2026-05-22",
+     "t": "Prof. Markus Gabriel: Keiner spricht über DIESES Potential in KI",
+     "u": "https://www.youtube.com/watch?v=hnf3zoevBpM",
      "s": "yt",
-     "o": "Biblioteka 0 Općenito"
+     "o": "Human Elevation Podcast "
     },
     {
-     "d": "2026-04-21",
-     "t": "Aula 130 Biotecnopoder   Donna Haraway",
-     "u": "https://www.youtube.com/watch?v=clvlCMaYSMk",
+     "d": "2026-03-12",
+     "t": "Warum der Westen KI völlig falsch versteht – scobel im Gespräch: Mit Markus Gabriel",
+     "u": "https://www.youtube.com/watch?v=75bTvORR2VU",
      "s": "yt",
-     "o": "Leonardo Braga Flores - Filosofia "
+     "o": "scobel"
+    },
+    {
+     "d": "2026-07-17",
+     "t": "Prof. Markus Gabriel: KI hat bereits Bewusstsein entwickelt!",
+     "u": "https://www.youtube.com/watch?v=3jzlmmgBwL0",
+     "s": "yt",
+     "o": "Human Elevation Podcast "
+    },
+    {
+     "d": "2026-06-10",
+     "t": "KI als Stresstest für die freie Marktwirtschaft. - Prof. Dr. Markus Gabriel",
+     "u": "https://www.youtube.com/watch?v=REWMnkUw32Y",
+     "s": "yt",
+     "o": "Petersberger Gespräche"
+    },
+    {
+     "d": "2026-03-11",
+     "t": "Markus Gabriel, warum gibt es die Welt nicht? | Interviewpodcast \"Alles gesagt?\"",
+     "u": "https://www.youtube.com/watch?v=PD0Ye9xu8tY",
+     "s": "yt",
+     "o": "ZEIT Podcast"
+    },
+    {
+     "d": "2026-07-01",
+     "t": "Prof. Dr. Markus Gabriel: Die Auswirkungen künstlicher Intelligenz auf unser Denken.",
+     "u": "https://www.youtube.com/watch?v=j8cgiqsgZ4g",
+     "s": "yt",
+     "o": "IWP  |  Institut für Schweizer Wirtschaftspolitik "
+    },
+    {
+     "d": "2026-06-16",
+     "t": "Ethische Intelligenz – Markus Gabriel über die Chancen der digitalen Revolution",
+     "u": "https://www.youtube.com/watch?v=D-L4peddev8",
+     "s": "yt",
+     "o": "Udo Keller Stiftung Forum Humanum"
+    },
+    {
+     "d": "2026-08-15",
+     "t": "Tondokument: Markus Gabriel – Die Auswirkungen von KI auf unser Denken",
+     "u": "https://www.youtube.com/watch?v=FQ24UPSd3YI",
+     "s": "yt",
+     "o": "Kontrafunk - Die Stimme der Vernunft"
+    },
+    {
+     "d": "2026-06-28",
+     "t": "Markus Gabriel: «Ethische Intelligenz» (Teil 1) – Darstellung & kritische Einordnung",
+     "u": "https://www.youtube.com/watch?v=Papdg8IFI4A",
+     "s": "yt",
+     "o": "RefLab"
+    },
+    {
+     "d": "2026-04-15",
+     "t": "Yo no soy mi cerebro: reflexión sobre la naturalización de la mente en Markus Gabriel",
+     "u": "https://www.youtube.com/watch?v=mXePOwZJ6y0",
+     "s": "yt",
+     "o": "Perspectivas Hermenéuticas"
+    },
+    {
+     "d": "2026-07-12",
+     "t": "Markus Gabriel: «Ethische Intelligenz» (Teil 2) – Kritik & Tiefenbohrung",
+     "u": "https://www.youtube.com/watch?v=GnnZlr8GOV0",
+     "s": "yt",
+     "o": "RefLab"
+    }
+   ]
+  },
+  {
+   "n": "エリック・サダン",
+   "ok": false,
+   "count": 0,
+   "dropped": {
+    "題名に氏名が無い": 13,
+    "許可していないチャンネル": 12
+   },
+   "candidates": [],
+   "pending": [
+    {
+     "d": "2026-05-27",
+     "t": "Intelligence Artificielle : Notre humanité en péril ? Eric Sadin [EN DIRECT]",
+     "u": "https://www.youtube.com/watch?v=R6M1sUzsZUk",
+     "s": "yt",
+     "o": "Thinkerview"
+    },
+    {
+     "d": "2026-06-01",
+     "t": "L'IA générative est-elle en train de détruire la pensée humaine? | Éric Sadin",
+     "u": "https://www.youtube.com/watch?v=RLHAe0iIhDI",
+     "s": "yt",
+     "o": "Université de Lausanne"
+    },
+    {
+     "d": "2026-06-19",
+     "t": "IA génératives: un séisme social, culturel et civilisationnel | Éric Sadin",
+     "u": "https://www.youtube.com/watch?v=Y3wPjDS7yiI",
+     "s": "yt",
+     "o": "Université de Lausanne"
+    },
+    {
+     "d": "2026-08-21",
+     "t": "ERIC SADIN Y EL GIRO INTELECTUAL DE LA INTELIGENCIA ARTIFICIAL | MATI ROSU EN SEGUROLA",
+     "u": "https://www.youtube.com/watch?v=hnVUA5N-OjE",
+     "s": "yt",
+     "o": "Futurock FM"
+    },
+    {
+     "d": "2026-04-06",
+     "t": "Éric Sadin - a inteligência artificial e o desafio do século ",
+     "u": "https://www.youtube.com/watch?v=3FPHkNGjDXA",
+     "s": "yt",
+     "o": "Ex libris dHB"
+    },
+    {
+     "d": "2026-05-29",
+     "t": "\"EL DESIERTO DE NOSOTROS MISMOS\" - Eric Sadin",
+     "u": "https://www.youtube.com/watch?v=4uxs111Op5M",
+     "s": "yt",
+     "o": "Claudio Alvarez Teran"
+    },
+    {
+     "d": "2026-04-05",
+     "t": "Éric Sadin en EL PAÍS, IA apocalíptica y la filosofía sin esperanza.",
+     "u": "https://www.youtube.com/watch?v=jgJOz-VCyZU",
+     "s": "yt",
+     "o": "Simón Cano Le Tiec"
+    },
+    {
+     "d": "2026-05-12",
+     "t": "Eric Sadin - la humanidad aumentada . podcast filosófico",
+     "u": "https://www.youtube.com/watch?v=w_YQR234x2A",
+     "s": "yt",
+     "o": "Filo Errante"
+    },
+    {
+     "d": "2026-06-03",
+     "t": "🔴 La nouvelle dialectique technophobe de ERIC SADIN",
+     "u": "https://www.youtube.com/watch?v=FhowuCzSE5Y",
+     "s": "yt",
+     "o": "Teddyboy RSA"
+    },
+    {
+     "d": "2026-07-29",
+     "t": "Eric Sadin. El desierto de nosotros mismos. Arte e IA",
+     "u": "https://www.youtube.com/watch?v=SUBusaEwT9c",
+     "s": "yt",
+     "o": "Rafael López Borrego"
+    },
+    {
+     "d": "2026-05-23",
+     "t": "IA : Guide de l'action mis entre les mains de tous, Eric SADIN",
+     "u": "https://www.youtube.com/watch?v=jCircsDxsgk",
+     "s": "yt",
+     "o": "Brest Buzz V"
+    },
+    {
+     "d": "2026-05-23",
+     "t": "Lecture à haute voix : Le désert de nous-mêmes, Eric SADIN (extraits choisis)",
+     "u": "https://www.youtube.com/watch?v=k08ZWofHjxI",
+     "s": "yt",
+     "o": "Brest Buzz V"
+    }
+   ]
+  },
+  {
+   "n": "N・キャサリン・ヘイルズ",
+   "ok": true,
+   "count": 1,
+   "dropped": {
+    "題名に氏名が無い": 14,
+    "許可していないチャンネル": 4
+   },
+   "candidates": [
+    {
+     "d": "2026-05-08",
+     "t": "649. Bacteria to AI: Technics, Nonconscious Cognition, and Meaning in LLMs with N. Katherine Hayles",
+     "u": "https://www.youtube.com/watch?v=-jCeItwFenY",
+     "s": "yt",
+     "o": "unSILOed Podcast with Greg LaBlanc"
+    }
+   ],
+   "pending": [
+    {
+     "d": "2026-04-23",
+     "t": "\"Bacteria to AI\": Asijit Datta in conversation with Prof N. Katherine Hayles",
+     "u": "https://www.youtube.com/watch?v=wQgMLrjwZ8o",
+     "s": "yt",
+     "o": "Asijit Datta"
+    },
+    {
+     "d": "2026-06-10",
+     "t": "The Posthuman Mind Uncoupled: From Bacteria to AI with N. Katherine Hayles",
+     "u": "https://www.youtube.com/watch?v=m-Wqsk7stBo",
+     "s": "yt",
+     "o": "See See by Ceci"
+    },
+    {
+     "d": "2026-07-07",
+     "t": "Zona de contacto - Episodio 3: N. Katherine Hayles + Laura Tripaldi. Modera Toni Navarro",
+     "u": "https://www.youtube.com/watch?v=Gj1gpaSRBkc",
+     "s": "yt",
+     "o": "Caja Negra Editora"
+    },
+    {
+     "d": "2026-04-09",
+     "t": "N. katherine Hayles: Electronic Literature #swayamprabha",
+     "u": "https://www.youtube.com/watch?v=rRP-vBCgZZY",
+     "s": "yt",
+     "o": "CH 25: IIT KANPUR 02: Humanities & Social Sciences"
     }
    ]
   }
  ],
- "generated_at": "2026-08-31T22:41:37Z",
- "applied": false,
- "window_start": "2026-03-04T22:41:37Z"
+ "channels_allowed": 50,
+ "generated_at": "2026-09-01T00:06:04Z",
+ "applied": true,
+ "window_start": "2026-03-05T00:06:04Z"
 }
