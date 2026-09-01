@@ -37,13 +37,6 @@
     "o": "Alex Kantrowitz"
    },
    {
-    "d": "2026-08-04",
-    "t": "#83 – Nick Bostrom: Simulation and Superintelligence",
-    "u": "https://www.youtube.com/watch?v=u8nyEiGPjtY",
-    "s": "yt",
-    "o": "Zenvora Productions"
-   },
-   {
     "d": "2026-05-13",
     "t": "Utopia or Catastrophe? Nick Bostrom on AI’s Risks & Promise | The Most Interesting Thing in AI",
     "u": "https://www.youtube.com/watch?v=omv-5RlEHT4",
@@ -112,15 +105,7 @@
     "s": "paper"
    }
   ],
-  "yt": [
-   {
-    "d": "2026-08-04",
-    "t": "David Chalmers: The Hard Problem of Consciousness",
-    "u": "https://www.youtube.com/watch?v=0I3_v4HEV-U",
-    "s": "yt",
-    "o": "Zenvora Productions"
-   }
-  ]
+  "yt": []
  },
  {
   "n": "ピーター・シンガー",
@@ -408,25 +393,22 @@
   ],
   "yt": [
    {
-    "d": "2026-08-07",
-    "t": "#328 – John Danaher: Submission Grappling, ADCC, Animal Combat, and Knives",
-    "u": "https://www.youtube.com/watch?v=8q-9fYyVbFE",
-    "s": "yt",
-    "o": "Zenvora Productions"
+    "d": "2023-12-20",
+    "t": "TITE 10 - Bonus Episode: Audience Q and A",
+    "u": "https://philosophicaldisquisitions.blogspot.com/2023/12/tite-10-bonus-episode-audience-q-and-a.html",
+    "s": "podcast"
    },
    {
-    "d": "2026-08-07",
-    "t": "#260 – Georges St-Pierre, John Danaher & Gordon Ryan: The Greatest of All Time",
-    "u": "https://www.youtube.com/watch?v=jI5WSxYLaNQ",
-    "s": "yt",
-    "o": "Zenvora Productions"
+    "d": "2023-12-20",
+    "t": "TITE 9 - Human-Technology Futures",
+    "u": "https://philosophicaldisquisitions.blogspot.com/2023/12/tite-9-human-technology-futures.html",
+    "s": "podcast"
    },
    {
-    "d": "2026-08-05",
-    "t": "#182 – John Danaher: The Path to Mastery in Jiu Jitsu, Grappling, Judo, and MMA",
-    "u": "https://www.youtube.com/watch?v=5CGDjhsMmS0",
-    "s": "yt",
-    "o": "Zenvora Productions"
+    "d": "2023-12-20",
+    "t": "TITE 8 - Machines as Colleagues, Friends and Lovers",
+    "u": "https://philosophicaldisquisitions.blogspot.com/2023/12/tite-8-machines-as-colleagues-friends.html",
+    "s": "podcast"
    }
   ]
  },

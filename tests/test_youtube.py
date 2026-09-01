@@ -204,7 +204,8 @@ def test_limit_caps_how_many_are_searched():
 
 # --- チャンネル許可リスト(loop_012)-----------------------------------
 
-ALLOW = {"closer to truth", "orbits - luciano floridi"}
+ALLOW = {("Closer To Truth", "スーザン・シュナイダー"),
+         ("ORBITS - Luciano Floridi", "ルチアーノ・フロリディ")}
 
 
 def test_only_allowlisted_channels_are_accepted():
@@ -269,9 +270,41 @@ def test_allowlist_entries_carry_the_evidence_that_admitted_them():
         assert r["for"].strip(), r
 
 
-def test_allowlist_has_no_duplicates():
+def test_allowlist_has_no_duplicate_pairs():
+    """鍵は(チャンネル, 人物)の組。同じチャンネルが複数の人物に出るのは正しい。"""
     from src.youtube import norm_channel
     path = ROOT / "data" / "yt_channels.jsonl"
     rows = [json.loads(l) for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]
-    names = [norm_channel(r["ch"]) for r in rows]
-    assert len(set(names)) == len(names)
+    pairs = [(norm_channel(r["ch"]), r["for"]) for r in rows]
+    assert len(set(pairs)) == len(pairs)
+
+
+def test_allowlist_names_only_people_on_the_roster():
+    """陽性対照: 許可が実在の人物を指していること(名簿の改名で腐らせない)。"""
+    names = {p["n"] for p in json.loads((ROOT / "data" / "people.json").read_text(encoding="utf-8"))}
+    path = ROOT / "data" / "yt_channels.jsonl"
+    rows = [json.loads(l) for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]
+    unknown = {r["for"] for r in rows} - names
+    assert not unknown, f"名簿に無い人物を指している: {unknown}"
+
+
+def test_allowlist_is_per_channel_and_person():
+    """ある人を招く場が、別の人も招くとは限らない。
+
+    実測(loop_012): マッカスキルの回で許可した Zenvora Productions が、
+    **同名の別人**(柔術コーチのジョン・ダナハー)の回を 3 件通した。
+    その局は有名ポッドキャストの非公式再アップを集約するチャンネルだった。
+    """
+    raw = api(("v1", "John Danaher: The Path to Mastery in Jiu Jitsu", "2026-08-05", "Closer To Truth"))
+    people = [person("ジョン・ダナハー", "John Danaher")]
+    out, rep = run_yt(people, "KEY", lambda u: raw, bucket=0, channels=ALLOW)
+    assert out[0]["yt"] == [], "別人物に対して許可が波及している"
+    assert rep["people"][0]["pending"], "審査用に残っていない"
+
+
+def test_allowlist_admits_the_person_it_was_vouched_for():
+    """陰性対照: 同じチャンネルでも、名指しした人物なら通る。"""
+    raw = api(("v1", "The Biggest AI Risks | Susan Schneider", "2026-08-16", "Closer To Truth"))
+    people = [person("スーザン・シュナイダー", "Susan Schneider")]
+    out, _ = run_yt(people, "KEY", lambda u: raw, bucket=0, channels=ALLOW)
+    assert out[0]["yt"]

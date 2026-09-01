@@ -162,13 +162,19 @@ def run_yt(people, key, fetch, bucket: int, published_after: str = "", gate=None
     bucket に該当する人(index % BUCKETS == bucket)だけを検索する。
     gate は robots.txt の関門(None なら確認しない — 単体テスト用)。
 
-    channels を渡すと、**そのチャンネルの動画だけ**を採る。題名の字面では
-    「本人による」と「本人についての」を分けられないことが実測で分かったので、
-    分けられるもの——**場**——で絞る(loop_011 の四つの規則がいずれも届かなかった)。
+    channels は **(チャンネル, 人物)の組**の集合。題名の字面では「本人による」と
+    「本人についての」を分けられないことが実測で分かったので、分けられるもの——**場**——で
+    絞る(loop_011 の四つの規則がいずれも届かなかった)。
+
+    組で持つのは、**ある人を招く場が別の人も招くとは限らない**からである。実測(loop_012):
+    マッカスキルの回で許可した Zenvora Productions が、同名の別人(柔術コーチの
+    ジョン・ダナハー)の回を 3 件通した。その局は有名ポッドキャストの非公式再アップを
+    集約するチャンネルだった。
+
     許可外の候補は捨てずに `pending` へ入れる。許可リストはそこから育てる。
     None を渡すと絞らない(審査モード)。
     """
-    allow = None if channels is None else {norm_channel(c) for c in channels}
+    allow = None if channels is None else {(norm_channel(c), n) for c, n in channels}
     out, status, ok = [], [], 0
     for idx, p in enumerate(people):
         if idx % BUCKETS != bucket or (limit and len(status) >= limit):
@@ -193,7 +199,7 @@ def run_yt(people, key, fetch, bucket: int, published_after: str = "", gate=None
             if i["u"] in seen:
                 continue
             seen.add(i["u"])
-            if allow is not None and norm_channel(i["o"]) not in allow:
+            if allow is not None and (norm_channel(i["o"]), p["n"]) not in allow:
                 dropped["許可していないチャンネル"] = dropped.get("許可していないチャンネル", 0) + 1
                 pending.append(i)
                 continue
@@ -223,12 +229,17 @@ def http_get(url: str) -> bytes:
         return r.read()
 
 
-def load_channels() -> set[str]:
-    """`data/yt_channels.jsonl` の許可チャンネル。無ければ空(=何も通さない)。"""
+def load_channels() -> set[tuple[str, str]]:
+    """`data/yt_channels.jsonl` の許可(チャンネル, 人物)。無ければ空(=何も通さない)。"""
     path = ROOT / "data" / "yt_channels.jsonl"
     if not path.exists():
         return set()
-    return {json.loads(l)["ch"] for l in path.read_text(encoding="utf-8").splitlines() if l.strip()}
+    out = set()
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if line.strip():
+            d = json.loads(line)
+            out.add((d["ch"], d["for"]))
+    return out
 
 
 def read_json(name: str):
