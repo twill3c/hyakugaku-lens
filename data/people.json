@@ -1051,6 +1051,12 @@
   "own": [
    {
     "d": "2026-09-01",
+    "t": "Who values democracy?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/who-values-democracy.html?utm_source=rss&utm_medium=rss&utm_campaign=who-values-democracy",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-01",
     "t": "Tuesday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-584",
     "s": "blog"
@@ -1059,12 +1065,6 @@
     "d": "2026-09-01",
     "t": "More optimistic results on AI and job markets",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/more-optimistic-results-on-ai-and-job-markets.html?utm_source=rss&utm_medium=rss&utm_campaign=more-optimistic-results-on-ai-and-job-markets",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-01",
-    "t": "The Hugging Face hack",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/the-hugging-face-hack.html?utm_source=rss&utm_medium=rss&utm_campaign=the-hugging-face-hack",
     "s": "blog"
    }
   ],
