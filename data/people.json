@@ -383,16 +383,16 @@
     "s": "paper"
    },
    {
+    "d": "2026-01-01",
+    "t": "Suing for Damaged Existence",
+    "u": "https://doi.org/10.2139/ssrn.7374839",
+    "s": "paper"
+   },
+   {
     "d": "2025-12-05",
     "t": "The role of artificial intelligence in enhancing interprofessional education and collaborative practice: a mixed methods scoping review",
     "u": "https://doi.org/10.1080/13561820.2025.2576241",
     "s": "paper"
-   },
-   {
-    "d": "2025-08-25",
-    "t": "The Case for Strong Longtermism",
-    "u": "https://doi.org/10.1093/9780191979972.003.0003",
-    "s": "book"
    }
   ],
   "yt": [
@@ -569,6 +569,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-01",
+    "t": "Organ donation and brain preservation after assisted dying: case report and considerations for a potential pathway",
+    "u": "https://doi.org/10.1186/s12910-026-01586-1",
+    "s": "paper"
+   },
+   {
     "d": "2026-07-07",
     "t": "Listen to Gen Z when it comes to AI in education",
     "u": "https://doi.org/10.1038/d41586-026-02110-6",
@@ -578,12 +584,6 @@
     "d": "2026-01-01",
     "t": "Editorial Note",
     "u": "https://openalex.org/W7164450463",
-    "s": "paper"
-   },
-   {
-    "d": "2025-12-19",
-    "t": "Short‐Term or Long‐Term AI Ethics? A Dilemma for Ethical Singularity Only",
-    "u": "https://doi.org/10.1002/9781394258840.ch21",
     "s": "paper"
    }
   ],
@@ -2300,6 +2300,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-08-30",
+    "t": "Large-Scale Qualitative Research with AI: Infrastructure, Management and Operation of the Socioscope Data Pipeline",
+    "u": "https://doi.org/10.48550/arxiv.2608.29751",
+    "s": "paper"
+   },
+   {
     "d": "2026-06-29",
     "t": "The function of meso-structures in food transition processes",
     "u": "https://doi.org/10.5281/zenodo.22208193",
@@ -2309,12 +2315,6 @@
     "d": "2026-06-02",
     "t": "Wiener Manifest für Digitalen Humanismus",
     "u": "https://doi.org/10.21243/mi-02-26-19",
-    "s": "paper"
-   },
-   {
-    "d": "2025-01-01",
-    "t": "Bringing back friction: Reflections on a humanistic culture of AI interdisciplinarity",
-    "u": "https://doi.org/10.1017/cfc.2025.10005",
     "s": "paper"
    }
   ],
