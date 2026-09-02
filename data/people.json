@@ -74,7 +74,29 @@
     "s": "paper"
    }
   ],
-  "yt": []
+  "yt": [
+   {
+    "d": "2026-08-09",
+    "t": "Luciano Floridi al Libro Possibile 2026",
+    "u": "https://www.youtube.com/watch?v=fFi7MXiJoIo",
+    "s": "yt",
+    "o": "Il Libro Possibile "
+   },
+   {
+    "d": "2026-06-29",
+    "t": "Riscopriamo l'ONTOLOGIA per capire l'IA | FILOSOFIA con Luciano Floridi",
+    "u": "https://www.youtube.com/watch?v=6fFy8RqlSug",
+    "s": "yt",
+    "o": "ORBITS - Luciano Floridi"
+   },
+   {
+    "d": "2026-06-15",
+    "t": "Sul valore della SPERANZA | FILOSOFIA con Luciano Floridi",
+    "u": "https://www.youtube.com/watch?v=bC5DC6BeQEM",
+    "s": "yt",
+    "o": "ORBITS - Luciano Floridi"
+   }
+  ]
  },
  {
   "n": "デイヴィッド・チャーマーズ",
@@ -138,22 +160,24 @@
   ],
   "yt": [
    {
+    "d": "2026-08-25",
+    "t": "Peter Singer: Animal Liberation and the Next Moral Frontier",
+    "u": "https://www.youtube.com/watch?v=d9xg5x4Rp6k",
+    "s": "yt",
+    "o": "Zoe Weil"
+   },
+   {
     "d": "2026-08-20",
     "t": "the hidden dimensions of consciousness with MICHAEL POLLAN",
     "u": "https://shows.acast.com/lives-well-lived/episodes/michael-pollan",
     "s": "podcast"
    },
    {
-    "d": "2026-08-06",
-    "t": "the multiverse with SEAN CARROLL",
-    "u": "https://shows.acast.com/lives-well-lived/episodes/the-multiverse-with-sean-carroll",
-    "s": "podcast"
-   },
-   {
-    "d": "2026-07-23",
-    "t": "Peter Singer turns 80!! 🎂",
-    "u": "https://shows.acast.com/lives-well-lived/episodes/peter-singer-turns-80",
-    "s": "podcast"
+    "d": "2026-08-15",
+    "t": "Peter Singer vs Brian Wong: Evidence and Conviction in Philanthropy | Presented by GiveWise",
+    "u": "https://www.youtube.com/watch?v=HYmmYQ8kHtY",
+    "s": "yt",
+    "o": "Effective Altruism Hong Kong"
    }
   ]
  },
@@ -217,7 +241,15 @@
     "s": "paper"
    }
   ],
-  "yt": []
+  "yt": [
+   {
+    "d": "2026-07-02",
+    "t": "Postdigital Backlash: Past, Present, Future - Keynote Mark Coeckelbergh, University of Vienna",
+    "u": "https://www.youtube.com/watch?v=OTWajIbtKtk",
+    "s": "yt",
+    "o": "TVZ_Multimedija"
+   }
+  ]
  },
  {
   "n": "トマス・メッツィンガー",
@@ -279,7 +311,29 @@
     "s": "paper"
    }
   ],
-  "yt": []
+  "yt": [
+   {
+    "d": "2026-08-16",
+    "t": "The Biggest AI Risks Ahead | Susan Schneider",
+    "u": "https://www.youtube.com/watch?v=SFGrpOE0hEM",
+    "s": "yt",
+    "o": "Closer To Truth"
+   },
+   {
+    "d": "2026-08-03",
+    "t": "Ask Me Anything with Susan Schneider & Robert Lawrence Kuhn: Can You Upload Your Mind? (Part 3)",
+    "u": "https://www.youtube.com/watch?v=9YSLK40AWwY",
+    "s": "yt",
+    "o": "Closer To Truth"
+   },
+   {
+    "d": "2026-07-27",
+    "t": "Ask Me Anything with Susan Schneider & Robert Lawrence Kuhn: Can AI Think Without Feeling? (Part 2)",
+    "u": "https://www.youtube.com/watch?v=PpD3vogm1Ms",
+    "s": "yt",
+    "o": "Closer To Truth"
+   }
+  ]
  },
  {
   "n": "トビー・オード",
@@ -341,7 +395,15 @@
     "s": "book"
    }
   ],
-  "yt": []
+  "yt": [
+   {
+    "d": "2026-05-11",
+    "t": "AI & The Race for Global Power: China vs US | William MacAskill",
+    "u": "https://www.youtube.com/watch?v=KVbw4j__FOc",
+    "s": "yt",
+    "o": "The Rest Is Politics: Leading"
+   }
+  ]
  },
  {
   "n": "ジョン・ダナハー",
@@ -441,7 +503,29 @@
     "s": "paper"
    }
   ],
-  "yt": []
+  "yt": [
+   {
+    "d": "2026-08-30",
+    "t": "Carissa Véliz: navigating LLM constraints in the pursuit of AI ethics",
+    "u": "https://www.youtube.com/watch?v=bqA4uPz2x-Y",
+    "s": "yt",
+    "o": "Masters of Privacy"
+   },
+   {
+    "d": "2026-08-19",
+    "t": "The Anxiety of Being Human: Why We Need To Know What’s Next with Oxford Philosopher Carissa Véliz",
+    "u": "https://www.youtube.com/watch?v=G6N_MBfUE9U",
+    "s": "yt",
+    "o": "What Could Go Right? Podcast"
+   },
+   {
+    "d": "2026-07-22",
+    "t": "Carissa Véliz: Are AI \"Prophecies\" Dictating Your Future? | Lavin Voices",
+    "u": "https://www.youtube.com/watch?v=yqNqGPh1QVQ",
+    "s": "yt",
+    "o": "The Lavin Agency"
+   }
+  ]
  },
  {
   "n": "セス・ラザー",
@@ -665,7 +749,22 @@
     "s": "book"
    }
   ],
-  "yt": []
+  "yt": [
+   {
+    "d": "2026-07-27",
+    "t": "Yuk Hui: Kde domov náš? Tradice v době bezdomovectví",
+    "u": "https://www.youtube.com/watch?v=VF0RRMrDIDU",
+    "s": "yt",
+    "o": "Echo Podcasty"
+   },
+   {
+    "d": "2026-04-29",
+    "t": "«NOSOTROS Y LAS MÁQUINAS: UNA CONVERSACIÓN CON YUK HUI»",
+    "u": "https://www.youtube.com/watch?v=4nxmaALIj28",
+    "s": "yt",
+    "o": "Contemporánea Condeduque"
+   }
+  ]
  },
  {
   "n": "マルクス・ガブリエル",
@@ -751,7 +850,29 @@
     "s": "book"
    }
   ],
-  "yt": []
+  "yt": [
+   {
+    "d": "2026-05-20",
+    "t": "Rosi Braidotti al Salone Internazionale del Libro di Torino intervistata da Daniele Monti 16/5/26",
+    "u": "https://www.youtube.com/watch?v=MSwbspUliTk",
+    "s": "yt",
+    "o": "Grazia De Sensi"
+   },
+   {
+    "d": "2026-04-28",
+    "t": "Rosi Braidotti: How to Redesign the Future of Humanity",
+    "u": "https://www.youtube.com/watch?v=Yoi7B9PvCIY",
+    "s": "yt",
+    "o": "Extrapolate with Rob Hof"
+   },
+   {
+    "d": "2026-04-23",
+    "t": "Ogni desiderio è politico, intervista con Rosi Braidotti |VIVAVOCE",
+    "u": "https://www.youtube.com/watch?v=EjanxU2_fVA",
+    "s": "yt",
+    "o": "Chora Media"
+   }
+  ]
  },
  {
   "n": "N・キャサリン・ヘイルズ",
@@ -821,7 +942,15 @@
     "s": "paper"
    }
   ],
-  "yt": []
+  "yt": [
+   {
+    "d": "2026-06-11",
+    "t": "10 años de “Seguir con el problema” | Donna Haraway y Helen Torres. Ciclo “Conversar, lo viviente”",
+    "u": "https://www.youtube.com/watch?v=U34E7UGW8_E",
+    "s": "yt",
+    "o": "La Casa Encendida"
+   }
+  ]
  },
  {
   "n": "ベンジャミン・ブラットン",
