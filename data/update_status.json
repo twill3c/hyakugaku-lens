@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T04:39:37Z",
+ "generated_at": "2026-09-03T11:23:57Z",
  "ok": 24,
  "fail": 23,
  "sources": [
@@ -194,9 +194,9 @@
    "s": "blog",
    "feed": "https://marginalrevolution.com/feed",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "dropped": {
-    "著者条件に一致せず": 1
+    "著者条件に一致せず": 2
    }
   },
   {
@@ -291,7 +291,7 @@
    "s": "podcast",
    "feed": "https://feeds.acast.com/public/shows/6628460c6b51e80012b834c2",
    "ok": true,
-   "count": 89
+   "count": 90
   },
   {
    "n": "フランシス・フクヤマ",

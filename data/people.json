@@ -160,6 +160,12 @@
   ],
   "yt": [
    {
+    "d": "2026-09-03",
+    "t": "modern stoicism with RYAN HOLIDAY",
+    "u": "https://shows.acast.com/lives-well-lived/episodes/modern-stoicism-with-ryan-holiday",
+    "s": "podcast"
+   },
+   {
     "d": "2026-08-25",
     "t": "Peter Singer: Animal Liberation and the Next Moral Frontier",
     "u": "https://www.youtube.com/watch?v=d9xg5x4Rp6k",
@@ -171,13 +177,6 @@
     "t": "the hidden dimensions of consciousness with MICHAEL POLLAN",
     "u": "https://shows.acast.com/lives-well-lived/episodes/michael-pollan",
     "s": "podcast"
-   },
-   {
-    "d": "2026-08-15",
-    "t": "Peter Singer vs Brian Wong: Evidence and Conviction in Philanthropy | Presented by GiveWise",
-    "u": "https://www.youtube.com/watch?v=HYmmYQ8kHtY",
-    "s": "yt",
-    "o": "Effective Altruism Hong Kong"
    }
   ]
  },
@@ -1179,21 +1178,21 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-09-03",
+    "t": "Thursday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-568",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-03",
+    "t": "My excellent Conversation with Michael Moritz",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-michael-moritz.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-michael-moritz",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-02",
     "t": "Richard Fontaine interviews me about AI",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/richard-fontaine-interviews-me-about-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=richard-fontaine-interviews-me-about-ai",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-02",
-    "t": "Wednesday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-569",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-02",
-    "t": "America is still poised for a data center boom",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/america-is-still-poised-for-a-data-center-boom.html?utm_source=rss&utm_medium=rss&utm_campaign=america-is-still-poised-for-a-data-center-boom",
     "s": "blog"
    }
   ],
