@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T23:32:14Z",
+ "generated_at": "2026-09-03T23:30:25Z",
  "declared": 99,
  "verified": 87,
  "unreachable": 0,
@@ -6846,7 +6846,7 @@
     {
      "id": "A5075965119",
      "display_name": "Amy Webb",
-     "works_count": 200,
+     "works_count": 210,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7155,7 +7155,7 @@
     {
      "id": "A5005533360",
      "display_name": "Takayuki Suzuki",
-     "works_count": 704,
+     "works_count": 705,
      "inst_hit": [
       "University of Tokyo"
      ],
