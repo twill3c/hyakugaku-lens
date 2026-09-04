@@ -2823,6 +2823,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-02",
+    "t": "What Is Worth Representing? Representational Empowerment for Continual Model Construction",
+    "u": "https://doi.org/10.48550/arxiv.2609.02322",
+    "s": "paper"
+   },
+   {
     "d": "2026-06-17",
     "t": "Preschoolers search semantic networks in a broader and more variable way than adults: Implications for hypothesis generation",
     "u": "https://doi.org/10.31234/osf.io/qpj6n_v2",
@@ -2832,12 +2838,6 @@
     "d": "2026-06-04",
     "t": "Human Adults and LLMs as Scientists: Who Benefits from Active Exploration?",
     "u": "https://doi.org/10.48550/arxiv.2606.06464",
-    "s": "paper"
-   },
-   {
-    "d": "2026-05-14",
-    "t": "Empowerment gain and causal model construction: children and adults are sensitive to controllability and variability in their causal interventions",
-    "u": "https://doi.org/10.1098/rsta.2025.0003",
     "s": "paper"
    }
   ],
@@ -3180,15 +3180,15 @@
     "s": "paper"
    },
    {
-    "d": "2024-01-01",
-    "t": "Psychological safety is necessary!",
-    "u": "https://doi.org/10.3327/jaesjb.66.6_310",
+    "d": "2024-06-05",
+    "t": "倫理的理由の分断と崩壊に関する問題領域を横断した検討による社会的議論の再生",
+    "u": "https://openalex.org/W7208072615",
     "s": "paper"
    },
    {
-    "d": "2021-06-15",
-    "t": "倫理を結節点とした都市の学際研究：持続可能性・安全・情報・ウェルビーイングの連環",
-    "u": "https://openalex.org/W7145987146",
+    "d": "2024-01-01",
+    "t": "Psychological safety is necessary!",
+    "u": "https://doi.org/10.3327/jaesjb.66.6_310",
     "s": "paper"
    }
   ],
@@ -3301,6 +3301,12 @@
     "d": "2020-05-01",
     "t": "検索エンシンをめくる表現の自由と人格権 : 平成29年最高裁決定及び同決定以降の検索結果削除に関する裁判例の検討",
     "u": "https://openalex.org/W7145469791",
+    "s": "paper"
+   },
+   {
+    "d": "2016-11-15",
+    "t": "ネット監視・プライバシー・表現の自由",
+    "u": "https://openalex.org/W7208349387",
     "s": "paper"
    }
   ],

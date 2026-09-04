@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T23:30:25Z",
+ "generated_at": "2026-09-04T23:15:57Z",
  "ok": 87,
  "fail": 0,
  "authors": [
@@ -493,7 +493,7 @@
    "n": "成原慧",
    "openalex_id": "A5131574604",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "n": "井上智洋",

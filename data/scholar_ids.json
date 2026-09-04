@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T23:30:25Z",
+ "generated_at": "2026-09-04T23:15:57Z",
  "declared": 99,
  "verified": 87,
  "unreachable": 0,
@@ -6939,14 +6939,6 @@
      "ok": false
     },
     {
-     "id": "A5131261321",
-     "display_name": "Hiroki AZUMA",
-     "works_count": 2,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
      "id": "A5068208166",
      "display_name": "Hiroki AZUMA",
      "works_count": 4,
@@ -6980,7 +6972,7 @@
     {
      "id": "A5062061133",
      "display_name": "Masachi Osawa",
-     "works_count": 8,
+     "works_count": 5,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -7175,7 +7167,7 @@
     {
      "id": "A5033049879",
      "display_name": "Takayuki Suzuki",
-     "works_count": 278,
+     "works_count": 277,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7183,7 +7175,7 @@
     {
      "id": "A5108062903",
      "display_name": "Takayuki Suzuki",
-     "works_count": 110,
+     "works_count": 109,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7287,7 +7279,7 @@
     {
      "id": "A5085562387",
      "display_name": "Hiroshi Toya",
-     "works_count": 37,
+     "works_count": 31,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -7301,17 +7293,9 @@
      "ok": false
     },
     {
-     "id": "A5131658167",
-     "display_name": "Hiroshi Toya",
-     "works_count": 2,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
      "id": "A5002313544",
      "display_name": "Toya Hiroshi",
-     "works_count": 6,
+     "works_count": 4,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -7326,7 +7310,7 @@
     {
      "id": "A5069588895",
      "display_name": "Yuichiro Okamoto",
-     "works_count": 13,
+     "works_count": 11,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
