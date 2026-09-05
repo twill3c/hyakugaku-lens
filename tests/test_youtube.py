@@ -308,3 +308,103 @@ def test_allowlist_admits_the_person_it_was_vouched_for():
     people = [person("スーザン・シュナイダー", "Susan Schneider")]
     out, _ = run_yt(people, "KEY", lambda u: raw, bucket=0, channels=ALLOW)
     assert out[0]["yt"]
+
+
+# --- T-27 審査待ちの持ち越し(loop_014)----------------------------------
+#
+# 期待値の出所: 実測(2026-09-06)。data/yt_review.json は毎日の実行で上書きされ、
+# その日の組(50 名)の候補しか残らない。前日の組の pending は git の履歴にしか無く、
+# 審査の材料が半分見えなくなっていた。
+
+from src.youtube import apply_review, carry_over  # noqa: E402
+
+
+def _report(bucket, people_recs, generated_at):
+    return {"bucket": bucket, "ok": 0, "attempted": len(people_recs), "people": people_recs,
+            "generated_at": generated_at}
+
+
+def test_carry_over_keeps_people_not_searched_today():
+    prev = _report(0, [{"n": "A", "ok": False, "count": 0, "candidates": [], "pending": [{"u": "https://a"}]},
+                       {"n": "B", "ok": False, "count": 0, "candidates": [], "pending": []}],
+                   "2026-09-03T22:00:00Z")
+    new = _report(1, [{"n": "B", "ok": True, "count": 1, "candidates": [{"u": "https://b"}], "pending": []}],
+                  "2026-09-04T22:00:00Z")
+    out = carry_over(prev, new)
+    by = {p["n"]: p for p in out["people"]}
+    assert set(by) == {"A", "B"}
+    assert by["B"]["candidates"] == [{"u": "https://b"}], "今日検索した人は今日の結果で置き換える"
+    assert by["A"]["pending"] == [{"u": "https://a"}], "今日検索しなかった人は前回の結果を残す"
+    assert by["A"]["carried_from"] == "2026-09-03T22:00:00Z"
+    assert "carried_from" not in by["B"]
+    assert out["carried"] == 1
+    assert out["bucket"] == 1 and out["generated_at"] == "2026-09-04T22:00:00Z"
+
+
+def test_carry_over_without_previous_report_is_identity():
+    new = _report(1, [{"n": "B", "ok": False, "count": 0, "candidates": [], "pending": []}], "x")
+    assert carry_over(None, new) == new
+
+
+def test_carry_over_preserves_the_original_carry_date():
+    """二日以上前の結果を持ち越すとき、最初に得た日付を残す(持ち越しのたびに更新しない)。"""
+    old = _report(0, [{"n": "A", "ok": False, "count": 0, "candidates": [], "pending": [],
+                       "carried_from": "2026-09-01T22:00:00Z"}], "2026-09-03T22:00:00Z")
+    new = _report(1, [{"n": "B", "ok": False, "count": 0, "candidates": [], "pending": []}],
+                  "2026-09-04T22:00:00Z")
+    by = {p["n"]: p for p in carry_over(old, new)["people"]}
+    assert by["A"]["carried_from"] == "2026-09-01T22:00:00Z"
+
+
+# --- T-28 審査ファイルから許可リストを当て直す(loop_014)-------------------
+#
+# 許可リストを育てたあと、翌日の検索を待たずに**取得済みの候補**へ同じ関門を当てる。
+# 検索はしない(クォータを使わない)。関門は run_yt と同じ(チャンネル × 人物)の組。
+
+def _cand(v, title, channel, d="2026-08-01"):
+    return {"d": d, "t": title, "u": f"https://www.youtube.com/watch?v={v}", "s": "yt", "o": channel}
+
+
+def test_apply_review_promotes_allowed_pending_into_the_talk_section():
+    people = [person("スーザン・シュナイダー", "Susan Schneider")]
+    report = _report(0, [{"n": "スーザン・シュナイダー", "ok": False, "count": 0, "candidates": [],
+                          "pending": [_cand("v1", "Susan Schneider on AI", "Closer To Truth"),
+                                      _cand("v2", "Susan Schneider explained", "Some Explainer")]}], "t")
+    out, rep = apply_review(people, report, ALLOW)
+    assert [i["u"].endswith("v1") for i in out[0]["yt"]] == [True]
+    r = rep["people"][0]
+    assert [c["u"].endswith("v1") for c in r["candidates"]] == [True]
+    assert [c["o"] for c in r["pending"]] == ["Some Explainer"], "許可外は審査待ちのまま残す"
+    assert r["ok"] is True and r["count"] == 1
+
+
+def test_apply_review_keeps_already_accepted_candidates():
+    """既に通っていた候補を、当て直しで消さない(差し替えは yt 種別の全体に対して行う)。"""
+    people = [person("スーザン・シュナイダー", "Susan Schneider",
+                     yt=[_cand("v0", "Susan Schneider earlier", "Closer To Truth", "2026-07-01")])]
+    report = _report(0, [{"n": "スーザン・シュナイダー", "ok": True, "count": 1,
+                          "candidates": [_cand("v0", "Susan Schneider earlier", "Closer To Truth", "2026-07-01")],
+                          "pending": [_cand("v1", "Susan Schneider on AI", "Closer To Truth")]}], "t")
+    out, _ = apply_review(people, report, ALLOW)
+    assert {i["u"][-2:] for i in out[0]["yt"]} == {"v0", "v1"}
+
+
+def test_apply_review_is_per_channel_and_person():
+    """同じチャンネルでも、名指しした人物でなければ通さない(run_yt と同じ組の関門)。"""
+    people = [person("ジョン・ダナハー", "John Danaher")]
+    report = _report(0, [{"n": "ジョン・ダナハー", "ok": False, "count": 0, "candidates": [],
+                          "pending": [_cand("v1", "John Danaher: Jiu Jitsu", "Closer To Truth")]}], "t")
+    out, rep = apply_review(people, report, ALLOW)
+    assert out[0]["yt"] == []
+    assert len(rep["people"][0]["pending"]) == 1
+
+
+def test_apply_review_leaves_podcast_items_and_input_alone():
+    people = [person("スーザン・シュナイダー", "Susan Schneider",
+                     yt=[{"d": "2026-08-30", "t": "第1回", "u": "https://show", "s": "podcast"}])]
+    snapshot = json.loads(json.dumps(people))
+    report = _report(0, [{"n": "スーザン・シュナイダー", "ok": False, "count": 0, "candidates": [],
+                          "pending": [_cand("v1", "Susan Schneider on AI", "Closer To Truth")]}], "t")
+    out, _ = apply_review(people, report, ALLOW)
+    assert {i["s"] for i in out[0]["yt"]} == {"podcast", "yt"}
+    assert people == snapshot

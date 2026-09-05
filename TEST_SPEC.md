@@ -33,6 +33,8 @@
 | T-12 | 公式サイト URL の検証記録: `h` が非空なら `data/link_status.json` に検証済みとして記録されている(未検証の URL を出荷しない) | F-01 | tests/test_data.py |
 | T-25 | 外向きリンクの候補化: Substack(記事 URL は購読の根へ畳む)/ Medium / note / Mastodon を候補にし、YouTube・X・Threads・TikTok・Substack のトップ・自サイトは候補にしない。候補は重複せず絶対 URL。対照: 他人の Substack は judge が落とす・本人の Substack は item-author で通る(実測の外向きリンクから) | F-12, F-06 | tests/test_discover.py |
 | T-26 | 題名を持たない投稿: `parse_feed` が summary を返す・title の無い項目は本文のタグを剥がした冒頭 80 文字を題名にする・題名も本文も無い項目だけ「題名なし」で落ちる・judge は表題が本人名の題名なしフィードを feed-title で通す。対照(Mastodon 形の例が実際に題名を持たないこと)つき | F-12, F-07 | tests/test_update.py, tests/test_discover.py |
+| T-27 | 審査待ちの持ち越し: 今日検索しなかった人の記録を前回の審査ファイルから残す・今日検索した人は今日の結果で置き換える・持ち越した記録は最初に得た日付(carried_from)を保つ・前回が無ければ恒等 | F-11 | tests/test_youtube.py |
+| T-28 | 審査ファイルへの当て直し: 許可された pending を candidates へ移して yt へ入れる・許可外は pending に残す・既に通っていた候補を消さない・(チャンネル × 人物)の組で別人物には波及しない・ポッドキャストの項目と入力は変えない | F-11 | tests/test_youtube.py |
 
 ## 実行
 

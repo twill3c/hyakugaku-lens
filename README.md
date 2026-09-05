@@ -44,9 +44,14 @@ GitHub Actions が二つの層を回し、差分があるときだけ `data/` + 
 |---|---|---|
 | `collect.yml` | 6 時間ごと | `data/sources.json` の取得元(ブログ / Substack / Mastodon / 寄稿・論説 / ポッドキャスト)から「本人の発信」を差し替える |
 | `scholar.yml` | 毎日 UTC 21:35 | 未同定の著者を引き直し、OpenAlex から「学術発表」を差し替える |
+| `collect-youtube.yml` | 毎日 UTC 20:05 | YouTube Data API で半数(50 名)を検索し、`data/yt_channels.jsonl` の(チャンネル × 人物)許可リストを通った動画だけを「講演・対談」へ入れる。許可外は `data/yt_review.json` に審査待ちとして残す(今日検索しなかった人の分は前回から持ち越す) |
 
-「講演・対談」は本人が主宰するポッドキャストの公開フィードから入る(`collect.yml` と同じ 6 時間ごと)。
-YouTube のチャンネル RSS は robots.txt が禁じているため使っていない。
+「講演・対談」には本人が主宰するポッドキャストの公開フィード(`collect.yml` と同じ 6 時間ごと)も入る。
+YouTube のチャンネル RSS は robots.txt が禁じているため使わず、Data API の鍵で検索している。
+
+```bash
+python -m src.youtube --from-review   # 許可リストを育てたあと、審査待ちの候補に当て直す(検索しない)
+```
 
 `scholar.yml` が未同定分を毎日引き直すのは、**OpenAlex に日次の無料予算がある**ためである。
 初回の同定で予算を使い切り、19 名(日本の学者)が未取得のまま残っている。
