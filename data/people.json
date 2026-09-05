@@ -53,7 +53,26 @@
   "field": "情報哲学・デジタル倫理",
   "h": "https://www.philosophyofinformation.net/",
   "bio": "情報そのものを哲学の第一対象に据える「情報の哲学」を創始し、人間を情報有機体(inforg)、生活空間をオンラインとオフラインが融合したインフォスフィアとして描いた。EUのAI倫理指針づくりに深く関与し、原則の乱立を五原則へ整理した仕事でも知られる。近年は生成AIを「意味を持たない行為主体」と規定する議論を展開している。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-09-04",
+    "t": "Floridi: “AI dovrebbe stare per Agency without Intelligence” - AI4Business https…",
+    "u": "https://mastodon.world/@lucianofloridi/117213281535934811",
+    "s": "mastodon"
+   },
+   {
+    "d": "2026-09-01",
+    "t": "Thanks to FTI Consulting and Bruce Benson for this short and clear paper on \"Flo…",
+    "u": "https://mastodon.world/@lucianofloridi/117193546701093208",
+    "s": "mastodon"
+   },
+   {
+    "d": "2026-08-28",
+    "t": "Notes to Myself: Fourth Edition is now available on Amazon, Kindle, paperback an…",
+    "u": "https://mastodon.world/@lucianofloridi/117175161719061221",
+    "s": "mastodon"
+   }
+  ],
   "pub": [
    {
     "d": "2026-08-25",
@@ -137,7 +156,26 @@
   "field": "応用倫理とAI",
   "h": "https://petersinger.info/",
   "bio": "『動物の解放』で現代の応用倫理学を切り開き、効果的利他主義の思想的源流となった功利主義者。利害の平等な配慮という原理をAIにも適用し、感覚を持つ人工存在の道徳的地位や、AIによる富の再分配・世界の貧困への影響を論じる。自身のポッドキャストやニュースレターでも継続的に発信している。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-07-24",
+    "t": "“KEY OUT”: When a Chimpanzee Asks to Be Free",
+    "u": "https://boldreasoningwithpetersinger.substack.com/p/key-out-when-a-chimpanzee-asks-to",
+    "s": "substack"
+   },
+   {
+    "d": "2026-03-05",
+    "t": "New Podcast Release: Zoe Weil",
+    "u": "https://boldreasoningwithpetersinger.substack.com/p/new-podcast-release-zoe-weil",
+    "s": "substack"
+   },
+   {
+    "d": "2026-02-19",
+    "t": "New Podcast Release: Rebecca Goldstein",
+    "u": "https://boldreasoningwithpetersinger.substack.com/p/new-podcast-release-rebecca-goldstein",
+    "s": "substack"
+   }
+  ],
   "pub": [
    {
     "d": "2026-06-18",
@@ -534,7 +572,14 @@
   "field": "AIの政治哲学",
   "h": "https://sethlazar.org/",
   "bio": "戦争の倫理から出発し、現在はアルゴリズムによる支配・正統性・権力を扱うAIの政治哲学を主導する。MINT Lab を率い、生成AIエージェントが個人の意思決定環境を形づくるときの規範的条件を論じる。オックスフォード大のタナー講義に招かれるなど、この分野の理論的中心のひとり。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-03-17",
+    "t": "Philosophy of Computing in March",
+    "u": "https://philosophyofcomputing.substack.com/p/philosophy-of-computing-in-march",
+    "s": "substack"
+   }
+  ],
   "pub": [
    {
     "d": "2026-01-01",
@@ -1083,7 +1128,26 @@
   "field": "技術と生産性",
   "h": "https://andrewmcafee.org/",
   "bio": "ブリニョルフソンとの共著群でデジタル技術の経済的帰結を論じ、『More from Less』では経済成長と資源消費の脱物質化を主張した。『The Geek Way』では技術企業の組織文化を分析する。楽観的加速主義に近い立場から、AIの拡散が生産性と豊かさを押し上げるという議論を展開している。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-07-13",
+    "t": "Why I Didn't Sign the AI Open Letter",
+    "u": "https://geekway.substack.com/p/why-i-didnt-sign-the-ai-open-letter",
+    "s": "substack"
+   },
+   {
+    "d": "2026-05-15",
+    "t": "This Week in Putting AI to Work (May 15, 2026)",
+    "u": "https://geekway.substack.com/p/this-week-in-putting-ai-to-work-may",
+    "s": "substack"
+   },
+   {
+    "d": "2026-05-08",
+    "t": "This Week in Putting AI to Work (5/8/26)",
+    "u": "https://geekway.substack.com/p/this-week-in-putting-ai-to-work-5826",
+    "s": "substack"
+   }
+  ],
   "pub": [
    {
     "d": "2019-10-01",
@@ -1505,7 +1569,26 @@
   "field": "アルゴリズムの説明責任",
   "h": "https://www.oii.ox.ac.uk/people/profiles/sandra-wachter/",
   "bio": "GDPR に「説明を受ける権利」は書かれていないという法解釈で議論を起こし、代わりに実装可能な「反実仮想説明」を提案した。差別を検出する条件付き人口統計的乖離、生成AIの誤情報を法的害として捉える議論など、法学と技術のあいだで実装可能な基準を作ることに一貫して取り組む。",
-  "own": [],
+  "own": [
+   {
+    "d": "2025-05-15",
+    "t": "Come & work with me at the Hasso Plattner Institute & with Brent Mittelstadt & C…",
+    "u": "https://eupolicy.social/@SandraWachter/114511504130421041",
+    "s": "mastodon"
+   },
+   {
+    "d": "2024-09-09",
+    "t": "My new papers on AI regulation & liability, hallucinations & human rights Limita…",
+    "u": "https://eupolicy.social/@SandraWachter/113106554496324173",
+    "s": "mastodon"
+   },
+   {
+    "d": "2023-11-26",
+    "t": "How can we use LLMs like ChatGPT safely in science, research & education? In our…",
+    "u": "https://eupolicy.social/@SandraWachter/111476431952488101",
+    "s": "mastodon"
+   }
+  ],
   "pub": [
    {
     "d": "2026-05-15",
@@ -2853,21 +2936,21 @@
   "bio": "深層学習だけでは頑健な知能に到達しないと2012年から主張し続ける認知科学者。『Rebooting AI』でニューロシンボリックな路線を説き、幻覚・推論の脆さ・スケーリングの限界を具体的な失敗例で示す。米上院公聴会でサム・アルトマンと並んで証言し、Substack で最も精力的に発信するAI批評家のひとり。",
   "own": [
    {
-    "d": "2026-08-31",
-    "t": "Dwarkesh Patels’s wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-    "u": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+    "d": "2026-09-04",
+    "t": "Pause OpenAI, now",
+    "u": "https://garymarcus.substack.com/p/pause-openai-now",
     "s": "substack"
    },
    {
-    "d": "2026-08-28",
-    "t": "5 lessons from the OpenAI / Hugging Face incident",
-    "u": "https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging",
+    "d": "2026-09-03",
+    "t": "Hot take on GPT-6 Astra",
+    "u": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
     "s": "substack"
    },
    {
-    "d": "2026-08-26",
-    "t": "Excellent new Bill Gates essay on the urgency of having a coherent AI plan",
-    "u": "https://garymarcus.substack.com/p/excellent-new-bill-gates-essay-on",
+    "d": "2026-09-03",
+    "t": "The new Sanders-Casar Ban Artificial Superintelligence Act – and why I oppose it",
+    "u": "https://garymarcus.substack.com/p/the-new-sanders-casar-ban-artificial",
     "s": "substack"
    }
   ],

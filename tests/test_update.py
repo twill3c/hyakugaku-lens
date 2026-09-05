@@ -379,3 +379,42 @@ def test_run_reports_what_each_source_dropped():
            "</channel></rss>").encode()
     _, rep = run(people, [{"n": "P", "s": "blog", "feed": "https://f"}], fetch=lambda u: raw)
     assert rep["sources"][0]["dropped"] == {"CMS の初期投稿": 1}
+
+
+# --- T-26 題名を持たない投稿は本文の冒頭を題名にする(loop_013)------------
+#
+# 期待値の出所: Mastodon の RSS(mastodon.world/@lucianofloridi.rss, 2026-09-06 実測)は
+# item に <title> を持たず <description> に本文 HTML を持つ。捨てると Mastodon の
+# 発信は全滅する。題名は本文のタグを剥がし実体参照を戻した冒頭 80 文字とする。
+
+MASTODON_ITEMS = """<?xml version="1.0"?><rss version="2.0"><channel>
+<title>Luciano Floridi</title><link>https://mastodon.world/@lucianofloridi</link>
+<item><link>https://mastodon.world/@lucianofloridi/1</link>
+ <pubDate>Fri, 04 Sep 2026 14:38:58 +0000</pubDate>
+ <description>&lt;p&gt;Floridi: “AI &amp;amp; Agency” &lt;a href="https://x.example/"&gt;https://x.example/&lt;/a&gt;&lt;/p&gt;</description></item>
+<item><link>https://mastodon.world/@lucianofloridi/2</link>
+ <pubDate>Tue, 01 Sep 2026 03:00:08 +0000</pubDate>
+ <description>&lt;p&gt;""" + ("長い本文 " * 40) + """&lt;/p&gt;</description></item>
+<item><link>https://mastodon.world/@lucianofloridi/3</link>
+ <pubDate>Mon, 31 Aug 2026 03:00:08 +0000</pubDate></item>
+</channel></rss>"""
+
+
+def test_parse_feed_exposes_summary():
+    items = parse_feed(MASTODON_ITEMS.encode())
+    assert items[0]["title"] == ""
+    assert "Floridi" in items[0]["summary"]
+    assert items[2]["summary"] == ""
+
+
+def test_title_less_items_take_their_title_from_the_body():
+    dropped: dict[str, int] = {}
+    got = feed_items(MASTODON_ITEMS.encode(), "mastodon", "https://mastodon.world/", dropped=dropped)
+    assert [i["u"] for i in got] == ["https://mastodon.world/@lucianofloridi/1",
+                                     "https://mastodon.world/@lucianofloridi/2"]
+    # タグを剥がし、実体参照を戻し、本文の URL は残す(短い投稿はそのまま)
+    assert got[0]["t"] == "Floridi: “AI & Agency” https://x.example/"
+    # 長い本文は 80 文字で切って省略記号を付ける
+    assert len(got[1]["t"]) <= 81 and got[1]["t"].endswith("…")
+    # 題名も本文も無い項目だけが「題名なし」で落ちる
+    assert dropped == {"題名なし": 1}, dropped

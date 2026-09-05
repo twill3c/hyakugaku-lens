@@ -47,7 +47,10 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
 from src.feedparse import parse_feed          # noqa: E402
+from src.update import with_titles            # noqa: E402
 from tools.verify_links import fetch, tokens  # noqa: E402
+
+A_HREF_RE = re.compile(r'<a\b[^>]*?href="([^"#]+)"', re.I)
 
 LINK_RE = re.compile(
     r'<link[^>]+(?:type="application/(?:rss|atom)\+xml"[^>]*href="([^"]+)"'
@@ -62,6 +65,12 @@ PATTERNS = [
     ("wordpress.com", ["/feed/"], "blog"),
 ]
 GENERIC = ["/feed", "/feed/", "/rss", "/rss.xml", "/index.xml", "/atom.xml", "/feed.xml"]
+MAX_CANDIDATES = 16
+
+# `https://host/@user` の形をしていても Mastodon ではないホスト(実測 2026-09-06 の外向きリンク:
+# Threads・TikTok・Medium・YouTube・X がこの形で現れた)。フィードの経路が無いか、別扱いにする
+NOT_MASTODON = {"threads.net", "threads.com", "tiktok.com", "medium.com", "youtube.com",
+                "x.com", "twitter.com", "instagram.com", "bsky.app"}
 
 
 # ホストで決まる種別。新聞の署名コラムを「ブログ」と呼ぶと表示が嘘になる
@@ -74,22 +83,77 @@ HOST_KIND = {
 
 def kind_of(url: str) -> str:
     host = urllib.parse.urlparse(url).netloc
+    path = urllib.parse.urlparse(url).path
     for frag, _, kind in PATTERNS:
         if frag in host:
             return kind
     for frag, kind in HOST_KIND.items():
         if host == frag or host.endswith("." + frag):
             return kind
+    if re.fullmatch(r"/@[^/]+\.rss", path):
+        return "mastodon"
     return "blog"
 
 
-def candidates(home: str) -> list[str]:
-    """公式サイトから候補フィード URL を列挙する(自動発見 + 型)。"""
+def _host(u: str) -> str:
+    return urllib.parse.urlparse(u).netloc.lower().removeprefix("www.")
+
+
+def outbound_feed_candidates(html: str, base: str) -> list[str]:
+    """公式サイトが**自分で掲げている**外向きリンクから、購読できる先を候補にする(F-12)。
+
+    公式サイトそのものにフィードが無くても、本人が Substack・Mastodon・note・Medium へ
+    リンクしていることがある(実測 2026-09-06: 94 サイト中 Substack 3・Mastodon 2・note 1)。
+    ここで作るのは**候補**であって採用ではない —— 本人のものかどうかは judge が
+    既存の証拠(item-author / own-domain / feed-title)で決める。他人の Substack への
+    リンク(ブログロール・記事の引用)も候補には入るが、そこで落ちる。
+
+      <sub>.substack.com/...   → https://<sub>.substack.com/feed(記事 URL も購読の根へ畳む)
+      medium.com/@user          → https://medium.com/feed/@user
+      note.com/<user>           → https://note.com/<user>/rss
+      <host>/@user(Mastodon)   → https://<host>/@user.rss(NOT_MASTODON のホストは除く)
+    """
+    out: list[str] = []
+    for m in A_HREF_RE.finditer(html):
+        u = urllib.parse.urljoin(base, m.group(1).strip())
+        pr = urllib.parse.urlparse(u)
+        if pr.scheme not in ("http", "https"):
+            continue
+        host, path = _host(u), pr.path
+        segs = [s for s in path.split("/") if s]
+        if host == _host(base):
+            continue
+        if host.endswith(".substack.com"):
+            out.append(f"https://{host}/feed")
+        elif host == "medium.com" and segs and segs[0].startswith("@"):
+            out.append(f"https://medium.com/feed/{segs[0]}")
+        elif host == "note.com" and len(segs) == 1 and not segs[0].startswith("@"):
+            out.append(f"https://note.com/{segs[0]}/rss")
+        elif (len(segs) == 1 and segs[0].startswith("@") and len(segs[0]) > 1
+              and host not in NOT_MASTODON and not host.endswith(".substack.com")):
+            out.append(f"https://{host}/{segs[0].removesuffix('.rss')}.rss")
+    seen, uniq = set(), []
+    for u in out:
+        if u not in seen:
+            seen.add(u)
+            uniq.append(u)
+    return uniq
+
+
+def candidates(home: str, outbound_only: bool = False) -> list[str]:
+    """公式サイトから候補フィード URL を列挙する(自動発見 + 型 + 外向きリンク)。
+
+    outbound_only=True は外向きリンク由来の候補だけを返す(既存の取得元を残したまま
+    足すための `--outbound-only` 用)。
+    """
     out: list[str] = []
     try:
         _, html, final = fetch(home)
     except Exception:                                       # noqa: BLE001
         html, final = "", home
+    outbound = outbound_feed_candidates(html, final)
+    if outbound_only:
+        return outbound
     for m in LINK_RE.finditer(html):
         href = m.group(1) or m.group(2)
         if href:
@@ -101,6 +165,7 @@ def candidates(home: str) -> list[str]:
         if frag in host:
             for s in sufs:
                 out.append(base + path + s if path else base + s)
+    out += outbound
     for s in GENERIC:
         out.append(base + s)
     seen, uniq = set(), []
@@ -108,7 +173,7 @@ def candidates(home: str) -> list[str]:
         if u not in seen and u.startswith(("http://", "https://")):
             seen.add(u)
             uniq.append(u)
-    return uniq[:12]
+    return uniq[:MAX_CANDIDATES]
 
 
 def feed_title(raw: bytes) -> str:
@@ -128,7 +193,8 @@ def judge(person: dict, home: str, url: str, get=None) -> dict:
     except Exception as e:                                  # noqa: BLE001
         rec["error"] = f"{type(e).__name__}: {e}"[:120]
         return rec
-    items = [i for i in items if i["title"] and i["url"]]
+    # 題名を持たない投稿(Mastodon)は本文の冒頭を題名にして数える(収集側と同じ規則)
+    items = [i for i in with_titles(items) if i["title"] and i["url"]]
     if not items:
         rec["error"] = "title/link のある項目が無い"
         return rec
@@ -205,7 +271,7 @@ def check_declared(people: dict[str, dict], get=None) -> list[dict]:
         p = people[d["n"]]
         try:
             raw = get(d["feed"]) if get else fetch(d["feed"])[1].encode("utf-8")
-            items = [i for i in parse_feed(raw) if i["title"] and i["url"]]
+            items = [i for i in with_titles(parse_feed(raw)) if i["title"] and i["url"]]
         except Exception as e:                              # noqa: BLE001
             print(f"  NG {d['n']:16s} 宣言フィードが取れない: {type(e).__name__}")
             continue
@@ -255,19 +321,31 @@ def main(argv: list[str]) -> int:
         return 0
     extra = extras()
     # --extra-only は data/feed_extra.jsonl の候補だけを試す。公式サイトの自動発見
-    # (1 人あたり最大 12 本)を飛ばすので、候補を足したときの試し直しが速い
+    # (1 人あたり最大 MAX_CANDIDATES 本)を飛ばすので、候補を足したときの試し直しが速い
     only_extra = "--extra-only" in argv
-    keep = ({s["n"] for s in json.loads((ROOT / "data" / "sources.json").read_text(encoding="utf-8"))}
-            if only_extra else set())
+    # --outbound-only は公式サイトの外向きリンク由来の候補だけを試す(F-12)。
+    # 既存の取得元は残し、**本人の発信がいま 0 件の人**にだけ新しく通った分を足す。
+    # 「取得元を持つか」で見ないのは、多著者媒体の常設(standing-author)や更新の止まった
+    # ブログを持つ人が 0 件のまま残るからである(実測 2026-09-06: シンガー・ラザー・フロリディ)
+    only_outbound = "--outbound-only" in argv
+    cur_sources = json.loads((ROOT / "data" / "sources.json").read_text(encoding="utf-8"))
+    keep = ({s["n"] for s in cur_sources} if only_extra else
+            {p["n"] for p in people if p["own"]} if only_outbound else set())
     log, found = [], []
     for p in people:
         if only_extra and (p["n"] in keep or p["n"] not in extra):
             continue
+        if only_outbound and (p["n"] in keep or not p["h"]):
+            continue
         if not p["h"] and p["n"] not in extra:
             continue
         home = p["h"] or ""
-        cand = extra.get(p["n"], []) if only_extra else \
-            extra.get(p["n"], []) + (candidates(home) if home else [])
+        if only_extra:
+            cand = extra.get(p["n"], [])
+        elif only_outbound:
+            cand = candidates(home, outbound_only=True)
+        else:
+            cand = extra.get(p["n"], []) + (candidates(home) if home else [])
         for url in cand:
             rec = judge(p, home or url, url)
             log.append(rec)
@@ -287,7 +365,7 @@ def main(argv: list[str]) -> int:
         json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
     print(f"試行 {len(log)} 本 / 採用 {len(found)} 名")
     if "--apply" in argv:
-        if only_extra:
+        if only_extra or only_outbound:
             # 既存の採用はそのまま残し、新しく通った分だけを足す
             cur = json.loads((ROOT / "data" / "sources.json").read_text(encoding="utf-8"))
             found = cur + [f for f in found if f["feed"] not in {c["feed"] for c in cur}]

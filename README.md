@@ -27,6 +27,7 @@ python src/build.py                  # data/*.json → out/index.html
 python -m src.update                 # 宣言フィードを収集 → own を差し替え → 再ビルド
 python tools/discover_feeds.py --apply       # フィードを探索して sources.json を作り直す
 python tools/discover_feeds.py --declared-only  # 宣言フィードの分だけ入れ直す
+python tools/discover_feeds.py --outbound-only --apply  # 公式サイトの外向きリンク先を、発信 0 件の人にだけ足す
 python -m pytest -q                  # スキーマ検証 + 往復一致オラクル + 決定性 + 字種検査
 python -m pytest -q -m network       # 出荷している取得経路が robots.txt で許可されているか実測
 python tools/inspect_page.py         # 実ブラウザ検品(対照つき・3 つの画面幅)
@@ -41,7 +42,7 @@ GitHub Actions が二つの層を回し、差分があるときだけ `data/` + 
 
 | 層 | 頻度 | 中身 |
 |---|---|---|
-| `collect.yml` | 6 時間ごと | 宣言フィード 21 本から「本人の発信」を差し替える |
+| `collect.yml` | 6 時間ごと | `data/sources.json` の取得元(ブログ / Substack / Mastodon / 寄稿・論説 / ポッドキャスト)から「本人の発信」を差し替える |
 | `scholar.yml` | 毎日 UTC 21:35 | 未同定の著者を引き直し、OpenAlex から「学術発表」を差し替える |
 
 「講演・対談」は本人が主宰するポッドキャストの公開フィードから入る(`collect.yml` と同じ 6 時間ごと)。

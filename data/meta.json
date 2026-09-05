@@ -55,6 +55,7 @@
   "conversation": "The Conversation",
   "lab": "研究機関",
   "podcast": "ポッドキャスト",
+  "mastodon": "Mastodon",
   "media": "寄稿・論説",
   "x": "X",
   "paper": "論文",
@@ -65,8 +66,8 @@
   "walkthrough": "https://claude.ai/code/artifact/528107a6-88cc-41ef-96c7-9eaefcc45d87",
   "blueprint": "https://claude.ai/code/artifact/b74bd664-4e60-4ed9-8bfc-a1667141fe29"
  },
- "updated_at": "2026-09-05T20:28:06Z",
- "feed_updated_at": "2026-09-05T20:28:06Z",
+ "updated_at": "2026-09-05T21:47:07Z",
+ "feed_updated_at": "2026-09-05T21:47:07Z",
  "pub_updated_at": "2026-09-04T23:15:57Z",
  "yt_updated_at": "2026-09-04T22:18:24Z"
 }

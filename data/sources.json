@@ -22,6 +22,16 @@
   "site": "https://www.korinek.com/"
  },
  {
+  "n": "アンドリュー・マカフィー",
+  "s": "substack",
+  "feed": "https://geekway.substack.com/feed",
+  "site": "https://andrewmcafee.org/",
+  "evidence": "item-author",
+  "author": [
+   "Andrew McAfee"
+  ]
+ },
+ {
   "n": "イアン・ゴールディン",
   "s": "blog",
   "feed": "https://iangoldin.org/feed/",
@@ -110,6 +120,13 @@
   "author": [
    "Safiya Noble"
   ]
+ },
+ {
+  "n": "サンドラ・ワクター",
+  "s": "mastodon",
+  "feed": "https://eupolicy.social/@SandraWachter.rss",
+  "site": "https://www.oii.ox.ac.uk/people/profiles/sandra-wachter/",
+  "evidence": "feed-title"
  },
  {
   "n": "ショシャナ・ズボフ",
@@ -201,6 +218,16 @@
   ],
   "note": "多著者の論説媒体で、項目ごとに著者名を持つ。本人の記事が載っている日だけ採り、載っていない日は 0 件になって既存が残る(劣化継続)。誤帰属の危険は無い —— 著者名が一致した項目しか採らないため。実測 2026-08-31: このフィードは全項目に著者名がある",
   "site": "https://sethlazar.org/"
+ },
+ {
+  "n": "セス・ラザー",
+  "s": "substack",
+  "feed": "https://philosophyofcomputing.substack.com/feed",
+  "site": "https://sethlazar.org/",
+  "evidence": "item-author",
+  "author": [
+   "Seth Lazar"
+  ]
  },
  {
   "n": "タイラー・コーエン",
@@ -321,6 +348,16 @@
   "evidence": "declared-host",
   "note": "Lives Well Lived(89話)。Apple の著者欄が Peter Singer & Kasia de Lazari-Radek。実測(2026-09-01)で本人が共同司会する倫理学の対談番組であることを確認した。同姓同名の別人(トロント大の公衆衛生研究者)の番組とは別物",
   "site": "https://petersinger.info/"
+ },
+ {
+  "n": "ピーター・シンガー",
+  "s": "substack",
+  "feed": "https://boldreasoningwithpetersinger.substack.com/feed",
+  "site": "https://petersinger.info/",
+  "evidence": "item-author",
+  "author": [
+   "Peter Singer"
+  ]
  },
  {
   "n": "フランシス・フクヤマ",
@@ -450,6 +487,13 @@
   "evidence": "own-domain",
   "skip": true,
   "skip_reason": "フィードの中身が WordPress 初期投稿 1 件のみで、本人の発信が流れてこない(実測 2026-08-31)"
+ },
+ {
+  "n": "ルチアーノ・フロリディ",
+  "s": "mastodon",
+  "feed": "https://mastodon.world/@lucianofloridi.rss",
+  "site": "https://www.philosophyofinformation.net/",
+  "evidence": "feed-title"
  },
  {
   "n": "ルーシー・サッチマン",

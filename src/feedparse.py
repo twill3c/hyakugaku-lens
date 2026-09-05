@@ -1,10 +1,13 @@
 """RSS1.0(RDF)/ RSS2.0 / Atom 共通フィードパーサ(koho-lens → hyakunin-lens より移植・T-06)。
 
 xml.etree のみ使用。返り値は文書内出現順の
-[{"title": str, "url": str, "date": "YYYY-MM-DD" | "", "author": str}]。
+[{"title": str, "url": str, "date": "YYYY-MM-DD" | "", "author": str, "summary": str}]。
 
 author は共著ブログ(Marginal Revolution・Balkinization など)で本人の記事だけを
 選り分けるために使う。取れないフィードでは空文字になる。
+summary は本文(RSS の description / Atom の summary か content)の生の文字列。
+Mastodon の RSS は item に title を持たない(実測 2026-09-06: 20 件中 20 件)ので、
+呼ぶ側が題名の代わりに本文の冒頭を使うために返す。
 フィードとして解釈できない XML/非 XML は ValueError。
 """
 
@@ -57,6 +60,7 @@ def parse_feed(raw: bytes) -> list[dict]:
                 "url": _text(it.find(f"{{{_NS_RSS10}}}link")),
                 "date": normalize_date(_text(it.find(f"{{{_NS_DC}}}date"))),
                 "author": _text(it.find(f"{{{_NS_DC}}}creator")),
+                "summary": _text(it.find(f"{{{_NS_RSS10}}}description")),
             }
             for it in items
         ]
@@ -69,6 +73,7 @@ def parse_feed(raw: bytes) -> list[dict]:
                     _text(it.find("pubDate")) or _text(it.find(f"{{{_NS_DC}}}date"))
                 ),
                 "author": _text(it.find(f"{{{_NS_DC}}}creator")) or _text(it.find("author")),
+                "summary": _text(it.find("description")),
             }
             for it in root.iter("item")
         ]
@@ -91,6 +96,8 @@ def parse_feed(raw: bytes) -> list[dict]:
                         _text(e.find(f"{{{_NS_ATOM}}}published"))
                         or _text(e.find(f"{{{_NS_ATOM}}}updated"))
                     ),
+                    "summary": (_text(e.find(f"{{{_NS_ATOM}}}summary"))
+                                or _text(e.find(f"{{{_NS_ATOM}}}content"))),
                 }
             )
     else:

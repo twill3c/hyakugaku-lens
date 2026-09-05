@@ -13,7 +13,9 @@ exit code: 全フィード失敗のみ 1(それ以外は劣化継続で 0)。
 
 from __future__ import annotations
 
+import html
 import json
+import re
 import sys
 import urllib.parse
 import urllib.request
@@ -68,6 +70,33 @@ def is_boilerplate(title: str) -> bool:
     return title.strip().lower().rstrip("!！") in {t.rstrip("!！") for t in BOILERPLATE}
 
 
+TITLE_LIMIT = 80
+_TAG = re.compile(r"<[^>]+>")
+
+
+def summary_title(summary: str, limit: int = TITLE_LIMIT) -> str:
+    """題名を持たない投稿(Mastodon など)のために、本文の冒頭を題名にする。
+
+    タグを剥がし、実体参照を戻し、空白を畳む。limit 文字を超えるときだけ切って省略記号を付ける。
+    本文の URL はそのまま残す —— 投稿の中身がリンク一つだけのことがある。
+    """
+    text = html.unescape(_TAG.sub(" ", html.unescape(summary)))
+    text = " ".join(text.split())
+    if len(text) > limit:
+        text = text[:limit].rstrip() + "…"
+    return text
+
+
+def with_titles(items: list[dict]) -> list[dict]:
+    """title が空の項目は summary から題名を作って返す(どちらも無い項目は空のまま)。"""
+    out = []
+    for e in items:
+        if not e.get("title") and e.get("summary"):
+            e = dict(e, title=summary_title(e["summary"]))
+        out.append(e)
+    return out
+
+
 def feed_items(raw: bytes, s: str, base: str = "", authors: list[str] | None = None,
                dropped: dict[str, int] | None = None) -> list[dict]:
     """フィードを本文項目に整形する。authors が指定されたら著者一致のものだけを残す。
@@ -85,7 +114,8 @@ def feed_items(raw: bytes, s: str, base: str = "", authors: list[str] | None = N
     # 捨てると**新しい回だけが落ちて、更新が止まった番組に見える**ので、番組ページへ退避する
     fallback = channel_link(raw)
     items = []
-    for e in parse_feed(raw):
+    # 題名を持たない投稿(Mastodon)は本文の冒頭を題名にする。捨てるとその媒体は全滅する
+    for e in with_titles(parse_feed(raw)):
         if not e["title"]:
             drop("題名なし")
             continue

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-05T20:28:06Z",
- "ok": 20,
- "fail": 27,
+ "generated_at": "2026-09-05T21:47:07Z",
+ "ok": 30,
+ "fail": 22,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -26,12 +26,18 @@
    "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
+   "n": "アンドリュー・マカフィー",
+   "s": "substack",
+   "feed": "https://geekway.substack.com/feed",
+   "ok": true,
+   "count": 20
+  },
+  {
    "n": "イアン・ゴールディン",
    "s": "blog",
    "feed": "https://iangoldin.org/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 401: Unauthorized"
+   "ok": true,
+   "count": 10
   },
   {
    "n": "イアン・ゴールディン",
@@ -94,9 +100,8 @@
    "n": "ゲアリー・マーカス",
    "s": "substack",
    "feed": "https://garymarcus.substack.com/feed",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 20
   },
   {
    "n": "サフィヤ・ノーブル",
@@ -104,6 +109,13 @@
    "feed": "https://safiyaunoble.com/feed/",
    "ok": true,
    "count": 10
+  },
+  {
+   "n": "サンドラ・ワクター",
+   "s": "mastodon",
+   "feed": "https://eupolicy.social/@SandraWachter.rss",
+   "ok": true,
+   "count": 15
   },
   {
    "n": "ショシャナ・ズボフ",
@@ -189,6 +201,16 @@
     "著者条件に一致せず": 20
    },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "セス・ラザー",
+   "s": "substack",
+   "feed": "https://philosophyofcomputing.substack.com/feed",
+   "ok": true,
+   "count": 1,
+   "dropped": {
+    "著者条件に一致せず": 19
+   }
   },
   {
    "n": "タイラー・コーエン",
@@ -295,6 +317,16 @@
    "count": 90
   },
   {
+   "n": "ピーター・シンガー",
+   "s": "substack",
+   "feed": "https://boldreasoningwithpetersinger.substack.com/feed",
+   "ok": true,
+   "count": 13,
+   "dropped": {
+    "著者条件に一致せず": 7
+   }
+  },
+  {
    "n": "フランシス・フクヤマ",
    "s": "media",
    "feed": "https://www.project-syndicate.org/rss",
@@ -309,9 +341,8 @@
    "n": "フランシス・フクヤマ",
    "s": "podcast",
    "feed": "https://api.substack.com/feed/podcast/61579/s/137248.rss",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 23
   },
   {
    "n": "ヘンリー・ファレル",
@@ -371,9 +402,8 @@
    "n": "ユク・ホイ",
    "s": "blog",
    "feed": "https://digitalmilieu.net/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 10
   },
   {
    "n": "ユク・ホイ",
@@ -390,9 +420,8 @@
    "n": "ユヴァル・ノア・ハラリ",
    "s": "blog",
    "feed": "https://www.ynharari.com/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
+   "ok": true,
+   "count": 20
   },
   {
    "n": "リチャード・ボールドウィン",
@@ -404,6 +433,13 @@
     "著者条件に一致せず": 20
    },
    "note": "常設の取得元・この時点で本人の記事が載っていない"
+  },
+  {
+   "n": "ルチアーノ・フロリディ",
+   "s": "mastodon",
+   "feed": "https://mastodon.world/@lucianofloridi.rss",
+   "ok": true,
+   "count": 20
   },
   {
    "n": "ルーシー・サッチマン",
