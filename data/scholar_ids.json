@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T23:15:57Z",
+ "generated_at": "2026-09-05T23:14:26Z",
  "declared": 99,
  "verified": 87,
  "unreachable": 0,
@@ -6681,7 +6681,7 @@
     {
      "id": "A5110092412",
      "display_name": "M. J. Rees",
-     "works_count": 885,
+     "works_count": 888,
      "inst_hit": [
       "Cambridge"
      ],
@@ -6917,7 +6917,7 @@
     {
      "id": "A5110570423",
      "display_name": "Hiroki Azuma",
-     "works_count": 35,
+     "works_count": 37,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -6972,7 +6972,7 @@
     {
      "id": "A5062061133",
      "display_name": "Masachi Osawa",
-     "works_count": 5,
+     "works_count": 6,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -7147,7 +7147,7 @@
     {
      "id": "A5005533360",
      "display_name": "Takayuki Suzuki",
-     "works_count": 705,
+     "works_count": 706,
      "inst_hit": [
       "University of Tokyo"
      ],
@@ -7167,7 +7167,7 @@
     {
      "id": "A5033049879",
      "display_name": "Takayuki Suzuki",
-     "works_count": 277,
+     "works_count": 278,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7175,7 +7175,7 @@
     {
      "id": "A5108062903",
      "display_name": "Takayuki Suzuki",
-     "works_count": 109,
+     "works_count": 110,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7202,7 +7202,7 @@
     {
      "id": "A5103417574",
      "display_name": "Takayuki SUZUKI",
-     "works_count": 3,
+     "works_count": 4,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7295,7 +7295,15 @@
     {
      "id": "A5002313544",
      "display_name": "Toya Hiroshi",
-     "works_count": 4,
+     "works_count": 6,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5149922690",
+     "display_name": "Hiroshi Toya",
+     "works_count": 20,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -7310,7 +7318,7 @@
     {
      "id": "A5069588895",
      "display_name": "Yuichiro Okamoto",
-     "works_count": 11,
+     "works_count": 13,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false

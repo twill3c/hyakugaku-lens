@@ -656,6 +656,12 @@
   ],
   "pub": [
    {
+    "d": "2026-07-15",
+    "t": "Discerning What Matters: A Multi-Dimensional Assessment of Moral Competence in LLMs",
+    "u": "https://doi.org/10.1609/iaseai.v2i1.43035",
+    "s": "paper"
+   },
+   {
     "d": "2026-01-01",
     "t": "Legal Alignment for Safe and Ethical AI",
     "u": "https://doi.org/10.2139/ssrn.6036657",
@@ -665,12 +671,6 @@
     "d": "2025-10-15",
     "t": "The AI Power Disparity Index: Toward a Compound Measure of AI Actors’ Power to Shape the AI Ecosystem",
     "u": "https://doi.org/10.1609/aies.v8i2.36645",
-    "s": "paper"
-   },
-   {
-    "d": "2025-06-16",
-    "t": "Discerning What Matters: A Multi-Dimensional Assessment of Moral Competence in LLMs",
-    "u": "https://doi.org/10.48550/arxiv.2506.13082",
     "s": "paper"
    }
   ],
@@ -3145,15 +3145,15 @@
     "s": "paper"
    },
    {
-    "d": "2025-12-01",
-    "t": "Desempeñando para la democracia: por qué los resultados importan",
-    "u": "https://doi.org/10.53557/elecciones.2025.v24n30.01",
+    "d": "2026-01-01",
+    "t": "Der letzte Mensch wohin steuert die Welt?",
+    "u": "https://openalex.org/W7208795342",
     "s": "paper"
    },
    {
-    "d": "2025-07-01",
-    "t": "Effect of viscosity of the dispersed media on the bi-axial orientation degrees in magnetically aligned Y123 powder",
-    "u": "https://doi.org/10.1088/1742-6596/3054/1/012013",
+    "d": "2025-12-01",
+    "t": "Desempeñando para la democracia: por qué los resultados importan",
+    "u": "https://doi.org/10.53557/elecciones.2025.v24n30.01",
     "s": "paper"
    }
   ],
