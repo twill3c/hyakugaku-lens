@@ -244,35 +244,41 @@ def apply_review(people, report: dict, channels: set[tuple[str, str]]):
     """審査ファイルの候補に許可リストを**当て直す**(検索しない・クォータを使わない)。
 
     許可リストを育てたあと、翌日の検索を待たずに取得済みの候補へ同じ関門を通すための経路。
-    関門は run_yt と同じ(チャンネル × 人物)の組。通った候補は candidates へ移し、
-    既に通っていた候補と合わせて yt 種別を差し替える(ポッドキャストは別種別なので残る)。
-    (people, report) を返し、入力は書き換えない。
+    関門は run_yt と同じ(チャンネル × 人物)の組。通った候補は candidates へ移す。
+
+    これは審査ファイルからの**再構成**であって差分の適用ではない —— candidates を持つ人は
+    新しく通る候補が無くても yt 種別を candidates で差し替える(冪等)。実測(2026-09-06):
+    新しく通った人だけを書いていたところ、定期ジョブが別の組の結果で people.json を
+    更新したあとの当て直しで、もう一方の組で前日に通した候補が消えた(70 → 46 名)。
+    ポッドキャストは別種別なので残る。(people, report) を返し、入力は書き換えない。
     """
     allow = {(norm_channel(c), n) for c, n in channels}
-    by_name = {p["n"]: p for p in people}
-    recs, promoted = [], {}
+    recs, materialise, promoted = [], {}, 0
     for rec in report.get("people", []):
         r = dict(rec)
         newly = [i for i in rec.get("pending", []) if (norm_channel(i["o"]), rec["n"]) in allow]
         if newly:
+            promoted += 1
             r["candidates"] = list(rec.get("candidates", [])) + newly
             r["pending"] = [i for i in rec.get("pending", []) if i not in newly]
             if not r["pending"]:
                 r.pop("pending", None)
+        if r.get("candidates"):
             r["ok"], r["count"] = True, len(r["candidates"])
-            promoted[rec["n"]] = r["candidates"]
+            materialise[rec["n"]] = r["candidates"]
         recs.append(r)
     out = []
     for p in people:
-        if p["n"] in promoted and p["n"] in by_name:
+        if p["n"] in materialise:
             q = dict(p)
-            q["yt"] = merge_section(p["yt"], promoted[p["n"]], {"yt"})
+            q["yt"] = merge_section(p["yt"], materialise[p["n"]], {"yt"})
             out.append(q)
         else:
             out.append(p)
     new_report = dict(report)
     new_report["people"] = recs
-    new_report["promoted"] = len(promoted)
+    new_report["promoted"] = promoted
+    new_report["applied"] = len(materialise)
     return out, new_report
 
 
@@ -315,8 +321,9 @@ def main_from_review() -> int:
     new_report["reapplied_at"] = now
     new_report["channels_allowed"] = len(load_channels())
     write_json("yt_review.json", new_report)
-    print(f"youtube --from-review: 許可リストを当て直して {new_report['promoted']} 名の候補が通った")
-    if new_report["promoted"]:
+    print(f"youtube --from-review: 許可リストを当て直して {new_report['promoted']} 名に新しく通った候補 / "
+          f"{new_report['applied']} 名の候補を yt へ再構成")
+    if new_report["applied"]:
         write_json("people.json", new_people)
         meta["updated_at"] = meta["yt_updated_at"] = now
         write_json("meta.json", meta)

@@ -5149,9 +5149,9 @@
  ],
  "channels_allowed": 288,
  "generated_at": "2026-09-05T22:01:15Z",
- "applied": true,
+ "applied": 68,
  "window_start": "2026-03-09T22:01:15Z",
  "carried": 50,
- "promoted": 34,
- "reapplied_at": "2026-09-05T22:08:40Z"
+ "promoted": 0,
+ "reapplied_at": "2026-09-05T22:11:43Z"
 }

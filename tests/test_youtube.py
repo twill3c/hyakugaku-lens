@@ -408,3 +408,21 @@ def test_apply_review_leaves_podcast_items_and_input_alone():
     out, _ = apply_review(people, report, ALLOW)
     assert {i["s"] for i in out[0]["yt"]} == {"podcast", "yt"}
     assert people == snapshot
+
+
+def test_apply_review_rematerialises_candidates_even_without_new_promotions():
+    """当て直しは審査ファイルからの**再構成**である。新しく通る候補が無くても、
+    既に通っている候補は yt へ入る(冪等)。
+
+    実測(2026-09-06): 定期ジョブが people.json を別の組の結果で更新したあとに当て直したところ、
+    「新しく通った候補がある人」だけを書いていたため、もう一方の組で前日に通していた
+    候補が people.json から消えた(講演・対談が 1 件以上ある人 70 → 46 名)。
+    """
+    people = [person("スーザン・シュナイダー", "Susan Schneider")]
+    report = _report(0, [{"n": "スーザン・シュナイダー", "ok": True, "count": 1,
+                          "candidates": [_cand("v0", "Susan Schneider earlier", "Closer To Truth")],
+                          "pending": []}], "t")
+    out, rep = apply_review(people, report, ALLOW)
+    assert [i["u"].endswith("v0") for i in out[0]["yt"]] == [True]
+    assert rep["promoted"] == 0
+    assert rep["applied"] == 1
