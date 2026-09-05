@@ -50,7 +50,7 @@ def test_roundtrip_meta(html):
 PLACEHOLDERS = [
     "__PEOPLE__", "__CAT_LABEL__", "__SRC__", "__CATS__", "__COUNTS__",
     "__CAT_CHIPS__", "__UPDATED__", "__FEED_UPDATED__", "__PUB_UPDATED__",
-    "__WALKTHROUGH_URL__", "__BLUEPRINT_URL__",
+    "__WALKTHROUGH_URL__", "__BLUEPRINT_URL__", "__WHY__",
 ]
 
 
@@ -143,3 +143,126 @@ def test_no_raw_angle_brackets_in_embedded_json(html):
     body = html.split("const P = ", 1)[1]
     assert "</script>" not in body.split("</script>")[0] + ""
     assert html.count("</script>") == 1
+
+
+# --- T-29 0 件の理由(loop_015)-------------------------------------------
+#
+# 「確認できず」は三つの違う状態を一語で潰していた —— 取得元が無い / 取得元はあるが
+# 現在 0 件 / 取得に失敗。理由は表示用の文ではなく、収集の記録(sources.json・
+# update_status.json・scholar_ids.json・scholar_status.json・yt_review.json)から
+# 導いた述語に対応させる(HC-079: 判定を表に出す記号は、仕様のどの述語かを言えること)。
+# 期待値の出所: 各記録ファイルの実際の形(2026-09-06 に data/ を読んで確認)。
+
+from src.build import REASONS, load_context, reasons  # noqa: E402
+
+
+def _p(n, h="", **kw):
+    base = {"n": n, "en": n, "h": h, "own": [], "pub": [], "yt": []}
+    base.update(kw)
+    return base
+
+
+def _ctx(sources=(), update=(), ids=(), status=(), review=()):
+    return {"sources": list(sources),
+            "update_status": {"sources": list(update)},
+            "scholar_ids": {"results": list(ids)},
+            "scholar_status": {"authors": list(status)},
+            "yt_review": {"people": list(review)}}
+
+
+def test_reasons_cover_every_empty_section_and_only_those():
+    """実データ: 空の欄には必ず理由が付き、項目のある欄には付かない。"""
+    people = json.loads((ROOT / "data" / "people.json").read_text(encoding="utf-8"))
+    why = reasons(people, load_context())
+    for p in people:
+        for sec in ("own", "pub", "yt"):
+            if p[sec]:
+                assert sec not in why.get(p["n"], {}), f"{p['n']}/{sec}: 項目があるのに理由が付いた"
+            else:
+                assert why[p["n"]][sec].strip(), f"{p['n']}/{sec}: 空の欄に理由が無い"
+
+
+def test_reason_texts_come_from_the_vocabulary():
+    """理由は語彙表(REASONS)の型から作る。自由文を返さない。"""
+    import re as _re
+    people = json.loads((ROOT / "data" / "people.json").read_text(encoding="utf-8"))
+    why = reasons(people, load_context())
+    patterns = [_re.compile("^" + _re.escape(t).replace(r"\{n\}", r"\d+") + "$") for t in REASONS.values()]
+    for n, secs in why.items():
+        for sec, text in secs.items():
+            assert any(pt.match(text) for pt in patterns), f"{n}/{sec}: 語彙表に無い理由 {text!r}"
+
+
+def test_own_reasons_distinguish_no_source_zero_and_error():
+    people = [_p("A"), _p("B", h="https://b.example/"),
+              _p("C", h="https://c.example/"), _p("D", h="https://d.example/")]
+    ctx = _ctx(
+        sources=[{"n": "C", "s": "media", "feed": "https://ps/rss", "evidence": "standing-author"},
+                 {"n": "C", "s": "media", "feed": "https://aeon/rss", "evidence": "standing-author"},
+                 {"n": "D", "s": "blog", "feed": "https://d.example/feed", "evidence": "own-domain"}],
+        update=[{"n": "C", "feed": "https://ps/rss", "ok": False, "count": 0},
+                {"n": "C", "feed": "https://aeon/rss", "ok": False, "count": 0},
+                {"n": "D", "feed": "https://d.example/feed", "ok": False, "count": 0,
+                 "error": "HTTPError: HTTP Error 404"}])
+    why = reasons(people, ctx)
+    assert why["A"]["own"] == REASONS["own_no_site"]
+    assert why["B"]["own"] == REASONS["own_no_source"]
+    assert why["C"]["own"] == REASONS["own_zero"].format(n=2)
+    assert why["D"]["own"] == REASONS["own_error"].format(n=1)
+
+
+def test_own_reason_ignores_skipped_sources_and_talk_sources():
+    """skip した取得元と、講演・対談(sec=yt)へ入れる取得元は、本人の発信の取得元に数えない。"""
+    people = [_p("E", h="https://e.example/")]
+    ctx = _ctx(sources=[{"n": "E", "s": "blog", "feed": "https://e/feed", "evidence": "own-domain", "skip": True},
+                        {"n": "E", "s": "podcast", "feed": "https://e/pod", "evidence": "declared-host", "sec": "yt"}])
+    assert reasons(people, ctx)["E"]["own"] == REASONS["own_no_source"]
+
+
+def test_pub_reasons_distinguish_excluded_no_match_zero_and_error():
+    people = [_p("E"), _p("F"), _p("G"), _p("H"), _p("I")]
+    ctx = _ctx(
+        ids=[{"n": "F", "verified": False},
+             {"n": "G", "verified": False, "error": "HTTPError: 429"},
+             {"n": "H", "verified": True, "openalex_id": "A1"},
+             {"n": "I", "verified": True, "openalex_id": "A2"}],
+        status=[{"n": "H", "openalex_id": "A1", "ok": False, "count": 0},
+                {"n": "I", "openalex_id": "A2", "ok": False, "count": 0, "error": "URLError"}])
+    why = reasons(people, ctx)
+    assert why["E"]["pub"] == REASONS["pub_excluded"]
+    assert why["F"]["pub"] == REASONS["pub_no_match"]
+    assert why["G"]["pub"] == REASONS["pub_unreachable"]
+    assert why["H"]["pub"] == REASONS["pub_zero"]
+    assert why["I"]["pub"] == REASONS["pub_error"]
+
+
+def test_yt_reasons_distinguish_pending_none_unsearched_and_error():
+    people = [_p("J"), _p("K"), _p("L"), _p("M")]
+    ctx = _ctx(review=[{"n": "J", "ok": False, "count": 0, "candidates": [],
+                        "pending": [{"u": "https://1"}, {"u": "https://2"}, {"u": "https://3"}]},
+                       {"n": "K", "ok": False, "count": 0, "candidates": []},
+                       {"n": "M", "ok": False, "count": 0, "error": "HTTPError: 403"}])
+    why = reasons(people, ctx)
+    assert why["J"]["yt"] == REASONS["yt_pending"].format(n=3)
+    assert why["K"]["yt"] == REASONS["yt_none"]
+    assert why["L"]["yt"] == REASONS["yt_unsearched"]
+    assert why["M"]["yt"] == REASONS["yt_error"]
+
+
+def test_reasons_do_not_mutate_input():
+    people = [_p("A")]
+    snapshot = json.loads(json.dumps(people))
+    reasons(people, _ctx())
+    assert people == snapshot
+
+
+def test_why_roundtrip(html):
+    """往復一致: 出力に埋めた WHY は、データから導いた理由と完全一致する。"""
+    people = json.loads((ROOT / "data" / "people.json").read_text(encoding="utf-8"))
+    assert _grab(html, "WHY") == reasons(people, load_context())
+
+
+def test_template_renders_the_reason_instead_of_a_fixed_phrase():
+    tpl = (ROOT / "src" / "template.html").read_text(encoding="utf-8")
+    assert "WHY[p.n]" in tpl, "カードが理由表を参照していない"
+    assert '<div class="none">確認できず</div>' not in tpl, "固定文のままになっている"
