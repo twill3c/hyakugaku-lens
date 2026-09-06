@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-05T21:47:07Z",
- "ok": 30,
- "fail": 22,
+ "generated_at": "2026-09-06T04:48:22Z",
+ "ok": 25,
+ "fail": 27,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -29,8 +29,9 @@
    "n": "アンドリュー・マカフィー",
    "s": "substack",
    "feed": "https://geekway.substack.com/feed",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "n": "イアン・ゴールディン",
@@ -100,8 +101,9 @@
    "n": "ゲアリー・マーカス",
    "s": "substack",
    "feed": "https://garymarcus.substack.com/feed",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "n": "サフィヤ・ノーブル",
@@ -206,11 +208,9 @@
    "n": "セス・ラザー",
    "s": "substack",
    "feed": "https://philosophyofcomputing.substack.com/feed",
-   "ok": true,
-   "count": 1,
-   "dropped": {
-    "著者条件に一致せず": 19
-   }
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "n": "タイラー・コーエン",
@@ -320,11 +320,9 @@
    "n": "ピーター・シンガー",
    "s": "substack",
    "feed": "https://boldreasoningwithpetersinger.substack.com/feed",
-   "ok": true,
-   "count": 13,
-   "dropped": {
-    "著者条件に一致せず": 7
-   }
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "n": "フランシス・フクヤマ",
@@ -341,8 +339,9 @@
    "n": "フランシス・フクヤマ",
    "s": "podcast",
    "feed": "https://api.substack.com/feed/podcast/61579/s/137248.rss",
-   "ok": true,
-   "count": 23
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "n": "ヘンリー・ファレル",
