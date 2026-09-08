@@ -1530,21 +1530,21 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-09-08",
+    "t": "Ed Elson and Scott Galloway interview me on AI",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/ed-elson-and-scott-galloway-interview-me-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=ed-elson-and-scott-galloway-interview-me-on-ai",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-08",
+    "t": "Will new transportation technologies increase urban density?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/will-new-transportation-technologies-increase-urban-density.html?utm_source=rss&utm_medium=rss&utm_campaign=will-new-transportation-technologies-increase-urban-density",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-07",
     "t": "South Korean aspirational markets in everything",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/south-korean-aspirational-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=south-korean-aspirational-markets-in-everything",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-07",
-    "t": "Monday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-576",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-07",
-    "t": "Capital gains vs. wealth taxes",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/capital-gains-vs-wealth-taxes.html?utm_source=rss&utm_medium=rss&utm_campaign=capital-gains-vs-wealth-taxes",
     "s": "blog"
    }
   ],
@@ -1648,6 +1648,12 @@
   "bio": "『GDP —— 小さくて大きな数字の歴史』で経済統計の政治性を明らかにし、『Cogs and Monsters』ではデジタル経済に経済学の道具立てが追いついていないことを論じた。無料のデジタル財や規模の経済をどう測るかという計測問題を専門とし、AIの生産性効果をめぐる統計上の空白を指摘する。",
   "own": [
    {
+    "d": "2026-09-08",
+    "t": "Unpaid Work in the AI Age",
+    "u": "https://www.project-syndicate.org/commentary/ai-can-expand-leisure-time-by-increasing-productivity-in-unpaid-work-by-diane-coyle-2026-09",
+    "s": "media"
+   },
+   {
     "d": "2026-08-30",
     "t": "Summertime reading",
     "u": "http://www.enlightenmenteconomics.com/blog/index.php/2026/08/summertime-reading/",
@@ -1657,12 +1663,6 @@
     "d": "2026-07-31",
     "t": "July – monthly reading round-up",
     "u": "http://www.enlightenmenteconomics.com/blog/index.php/2026/07/july-monthly-reading-round-up/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-06-28",
-    "t": "June books",
-    "u": "http://www.enlightenmenteconomics.com/blog/index.php/2026/06/june-books/",
     "s": "blog"
    }
   ],
