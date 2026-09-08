@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-08T11:27:13Z",
- "ok": 26,
- "fail": 26,
+ "generated_at": "2026-09-08T16:43:04Z",
+ "ok": 27,
+ "fail": 25,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -55,10 +55,10 @@
    "n": "イアン・ブレマー",
    "s": "blog",
    "feed": "https://www.gzeromedia.com/feeds/feed.rss",
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 1,
    "dropped": {
-    "著者条件に一致せず": 30
+    "著者条件に一致せず": 29
    }
   },
   {
