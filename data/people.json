@@ -1531,6 +1531,12 @@
   "own": [
    {
     "d": "2026-09-09",
+    "t": "Reading sentences to ponder",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/sentences-to-ponder-141.html?utm_source=rss&utm_medium=rss&utm_campaign=sentences-to-ponder-141",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-09",
     "t": "Reasons to go to college",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/reasons-to-go-to-college.html?utm_source=rss&utm_medium=rss&utm_campaign=reasons-to-go-to-college",
     "s": "blog"
@@ -1539,12 +1545,6 @@
     "d": "2026-09-08",
     "t": "Tuesday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-585",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-08",
-    "t": "Some Navier-Stokes updates",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/some-navier-stokes-updates.html?utm_source=rss&utm_medium=rss&utm_campaign=some-navier-stokes-updates",
     "s": "blog"
    }
   ],
@@ -3369,6 +3369,12 @@
   ],
   "yt": [
    {
+    "d": "2026-09-09",
+    "t": "Now & Then with Robert Saunders: Gladstone vs Disraeli Part 2 (Burnham vs Badenoch)",
+    "u": "https://www.ppfideas.com/",
+    "s": "podcast"
+   },
+   {
     "d": "2026-09-06",
     "t": "Now & Then with Robert Saunders: Gladstone vs Disraeli – The Bulgarian Horrors",
     "u": "https://www.ppfideas.com/",
@@ -3377,12 +3383,6 @@
    {
     "d": "2026-09-02",
     "t": "The Lives of the Philosophers: Jean-Paul Sartre",
-    "u": "https://www.ppfideas.com/",
-    "s": "podcast"
-   },
-   {
-    "d": "2026-08-30",
-    "t": "The Lives of the Philosophers: J. L. Austin",
     "u": "https://www.ppfideas.com/",
     "s": "podcast"
    }

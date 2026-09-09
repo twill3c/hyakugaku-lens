@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-09T04:50:54Z",
- "ok": 26,
- "fail": 26,
+ "generated_at": "2026-09-09T11:32:51Z",
+ "ok": 27,
+ "fail": 25,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -217,9 +217,9 @@
    "s": "blog",
    "feed": "https://marginalrevolution.com/feed",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "dropped": {
-    "著者条件に一致せず": 1
+    "著者条件に一致せず": 2
    }
   },
   {
@@ -284,7 +284,7 @@
    "s": "podcast",
    "feed": "https://feeds.megaphone.fm/ARML2708405200",
    "ok": true,
-   "count": 338
+   "count": 339
   },
   {
    "n": "ニック・クドリー",
@@ -418,9 +418,8 @@
    "n": "ユヴァル・ノア・ハラリ",
    "s": "blog",
    "feed": "https://www.ynharari.com/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
+   "ok": true,
+   "count": 20
   },
   {
    "n": "リチャード・ボールドウィン",
