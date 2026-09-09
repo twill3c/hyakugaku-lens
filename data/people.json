@@ -91,7 +91,7 @@
     "d": "2026-08-01",
     "t": "Regulating Next-Generation Implantable Brain-Computer Interfaces: Recommendations for Ethical Development and Implementation",
     "u": "https://doi.org/10.1007/s12152-026-09653-5",
-    "s": "paper"
+    "s": "book"
    },
    {
     "d": "2026-07-20",
@@ -925,6 +925,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-08",
+    "t": "891 Why the World Still Does Not Exist",
+    "u": "https://doi.org/10.1515/9783112257432-002",
+    "s": "book"
+   },
+   {
     "d": "2026-07-09",
     "t": "Réflexions sur l’ontologie dans Émergences de Maurizio Ferraris",
     "u": "https://openalex.org/W7168115755",
@@ -935,12 +941,6 @@
     "t": "Default-mode network activity is retained in the isolated hemisphere of people after hemispherotomy",
     "u": "https://doi.org/10.1093/braincomms/fcag211",
     "s": "paper"
-   },
-   {
-    "d": "2025-01-01",
-    "t": "IV Die Verdunkelung und die Neue Aufklärung",
-    "u": "https://doi.org/10.17104/9783406837494-293",
-    "s": "book"
    }
   ],
   "yt": [
@@ -1794,6 +1794,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-08",
+    "t": "Effects of oxygenated biofuel blends on fuel-air mixture preparation, combustion and soot formation at diesel-like ambient conditions",
+    "u": "https://doi.org/10.1016/j.fuel.2026.141184",
+    "s": "paper"
+   },
+   {
     "d": "2026-01-01",
     "t": "The Economics of Transformative AI",
     "u": "https://doi.org/10.7208/chicago/9780226854090.001.0001",
@@ -1803,12 +1809,6 @@
     "d": "2026-01-01",
     "t": "Enhancing Worker Productivity Without Automating Tasks: A Different Approach to AI and the Task-Based Model",
     "u": "https://doi.org/10.2139/ssrn.6167292",
-    "s": "paper"
-   },
-   {
-    "d": "2025-10-01",
-    "t": "Genius on Demand: The Value of Transformative Artificial Intelligence",
-    "u": "https://doi.org/10.3386/w34316",
     "s": "paper"
    }
   ],
@@ -4264,6 +4264,12 @@
   "bio": "『表現の自由とアーキテクチャ』で、コードによる規制が言論空間に及ぼす影響を憲法学の枠組みで分析した。フィルタリング、AIによるコンテンツモデレーション、生成AIと著作権・人格権といった論点を扱い、若手の情報法研究者として政府の検討会にも参加する。技術の細部に踏み込む議論の書き手。",
   "own": [],
   "pub": [
+   {
+    "d": "2026-09-03",
+    "t": "AI活⽤による児童虐待リスク判定をめぐる課題",
+    "u": "https://doi.org/10.18910/106352",
+    "s": "paper"
+   },
    {
     "d": "2020-05-01",
     "t": "検索エンシンをめくる表現の自由と人格権 : 平成29年最高裁決定及び同決定以降の検索結果削除に関する裁判例の検討",

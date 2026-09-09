@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T23:39:01Z",
+ "generated_at": "2026-09-09T23:29:22Z",
  "declared": 99,
  "verified": 87,
  "unreachable": 0,
@@ -2997,7 +2997,7 @@
     {
      "id": "A5129602163",
      "display_name": "Richard Baldwin",
-     "works_count": 5,
+     "works_count": 4,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
