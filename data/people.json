@@ -1531,6 +1531,12 @@
   "own": [
    {
     "d": "2026-09-09",
+    "t": "What should I ask Kevin Roose?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-kevin-roose.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-kevin-roose",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-09",
     "t": "Wednesday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-570",
     "s": "blog"
@@ -1539,12 +1545,6 @@
     "d": "2026-09-09",
     "t": "Reading sentences to ponder",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/sentences-to-ponder-141.html?utm_source=rss&utm_medium=rss&utm_campaign=sentences-to-ponder-141",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-09",
-    "t": "Reasons to go to college",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/reasons-to-go-to-college.html?utm_source=rss&utm_medium=rss&utm_campaign=reasons-to-go-to-college",
     "s": "blog"
    }
   ],
@@ -3182,6 +3182,12 @@
   "h": "https://www.gzeromedia.com/",
   "bio": "政治リスク分析会社ユーラシア・グループの創業者。国家に代わりテック企業が地政学的アクターになる「技術極(technopolar)世界」という概念を提示し、国連の AI 諮問機関にも加わった。年頭のトップリスク・レポートは各国の政策担当者に読まれ、GZERO メディアを通じて発信を続ける。",
   "own": [
+   {
+    "d": "2026-09-09",
+    "t": "The world rebuilds its armies... without the US",
+    "u": "https://www.gzeromedia.com/by-ian-bremmer/the-world-rebuilds-its-armies-without-the-us",
+    "s": "blog"
+   },
    {
     "d": "2026-09-08",
     "t": "How the AfD's rise could reshape German politics",
