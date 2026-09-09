@@ -1530,6 +1530,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-09-09",
+    "t": "Reasons to go to college",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/reasons-to-go-to-college.html?utm_source=rss&utm_medium=rss&utm_campaign=reasons-to-go-to-college",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-08",
     "t": "Tuesday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-585",
@@ -1539,12 +1545,6 @@
     "d": "2026-09-08",
     "t": "Some Navier-Stokes updates",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/some-navier-stokes-updates.html?utm_source=rss&utm_medium=rss&utm_campaign=some-navier-stokes-updates",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-08",
-    "t": "Ed Elson and Scott Galloway interview me on AI",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/ed-elson-and-scott-galloway-interview-me-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=ed-elson-and-scott-galloway-interview-me-on-ai",
     "s": "blog"
    }
   ],
