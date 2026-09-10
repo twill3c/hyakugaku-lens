@@ -91,7 +91,7 @@
     "d": "2026-08-01",
     "t": "Regulating Next-Generation Implantable Brain-Computer Interfaces: Recommendations for Ethical Development and Implementation",
     "u": "https://doi.org/10.1007/s12152-026-09653-5",
-    "s": "book"
+    "s": "paper"
    },
    {
     "d": "2026-07-20",
@@ -701,7 +701,7 @@
    {
     "d": "2026-01-01",
     "t": "Editorial Note",
-    "u": "https://openalex.org/W7164450463",
+    "u": "https://openalex.org/W7164452138",
     "s": "paper"
    }
   ],
@@ -1478,6 +1478,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-09",
+    "t": "Why we need an International Panel on Inequality",
+    "u": "https://doi.org/10.1038/d41586-026-02806-9",
+    "s": "paper"
+   },
+   {
     "d": "2026-07-29",
     "t": "The Inequality–Pandemic Cycle — Rethinking Preparedness",
     "u": "https://doi.org/10.1056/nejmp2607839",
@@ -1488,12 +1494,6 @@
     "t": "Introduction and Overview of the Book",
     "u": "https://doi.org/10.7312/jaya22033-001",
     "s": "book"
-   },
-   {
-    "d": "2026-01-01",
-    "t": "Employment Impacts of the CHIPS Act",
-    "u": "https://doi.org/10.2139/ssrn.6019664",
-    "s": "paper"
    }
   ],
   "yt": [
@@ -4265,7 +4265,7 @@
   "pub": [
    {
     "d": "2026-09-03",
-    "t": "AI活⽤による児童虐待リスク判定をめぐる課題",
+    "t": "AI カツヨウ ニ ヨル ジドウ ギャクタイ リスク ハンテイ ヲ メグル カダイ",
     "u": "https://doi.org/10.18910/106352",
     "s": "paper"
    },
