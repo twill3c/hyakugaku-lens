@@ -1531,6 +1531,12 @@
   "own": [
    {
     "d": "2026-09-11",
+    "t": "The Allocative Cost of War",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/the-allocative-cost-of-war.html?utm_source=rss&utm_medium=rss&utm_campaign=the-allocative-cost-of-war",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-11",
     "t": "Friday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-590.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-590",
     "s": "blog"
@@ -1539,12 +1545,6 @@
     "d": "2026-09-11",
     "t": "My AI podcast with James Pethokoukis",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/my-ai-podcast-with-james-pethokoukis.html?utm_source=rss&utm_medium=rss&utm_campaign=my-ai-podcast-with-james-pethokoukis",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-11",
-    "t": "Markets do respond to AGI news",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/markets-do-respond-to-agi-news.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-do-respond-to-agi-news",
     "s": "blog"
    }
   ],
@@ -3176,6 +3176,12 @@
   "bio": "政治リスク分析会社ユーラシア・グループの創業者。国家に代わりテック企業が地政学的アクターになる「技術極(technopolar)世界」という概念を提示し、国連の AI 諮問機関にも加わった。年頭のトップリスク・レポートは各国の政策担当者に読まれ、GZERO メディアを通じて発信を続ける。",
   "own": [
    {
+    "d": "2026-09-11",
+    "t": "25 years after 9/11, how much has changed?",
+    "u": "https://www.gzeromedia.com/video/ian-explains/911-anniversary-how-much-changed",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-10",
     "t": "The lasting impact of 9/11 on US leadership",
     "u": "https://www.gzeromedia.com/video/ask-ian/the-lasting-impact-of-9-11-on-us-leadership",
@@ -3185,12 +3191,6 @@
     "d": "2026-09-09",
     "t": "The world rebuilds its armies... without the US",
     "u": "https://www.gzeromedia.com/by-ian-bremmer/the-world-rebuilds-its-armies-without-the-us",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-08",
-    "t": "How the AfD's rise could reshape German politics",
-    "u": "https://www.gzeromedia.com/video/quick-take/how-the-afd-s-rise-could-reshape-german-politics",
     "s": "blog"
    }
   ],
