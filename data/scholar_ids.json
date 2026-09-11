@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T23:22:24Z",
+ "generated_at": "2026-09-11T23:30:56Z",
  "declared": 99,
  "verified": 87,
  "unreachable": 0,
@@ -2997,7 +2997,7 @@
     {
      "id": "A5129602163",
      "display_name": "Richard Baldwin",
-     "works_count": 4,
+     "works_count": 5,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -5790,7 +5790,7 @@
     {
      "id": "A5017243791",
      "display_name": "Ian Bremmer",
-     "works_count": 119,
+     "works_count": 118,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
