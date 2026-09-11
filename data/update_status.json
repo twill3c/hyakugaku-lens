@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-11T11:31:14Z",
- "ok": 27,
- "fail": 25,
+ "generated_at": "2026-09-11T16:35:06Z",
+ "ok": 25,
+ "fail": 27,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -233,11 +233,12 @@
    "n": "ダイアン・コイル",
    "s": "media",
    "feed": "https://www.project-syndicate.org/rss",
-   "ok": true,
-   "count": 1,
+   "ok": false,
+   "count": 0,
    "dropped": {
-    "著者条件に一致せず": 19
-   }
+    "著者条件に一致せず": 20
+   },
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
    "n": "ダナ・ボイド",
@@ -418,8 +419,9 @@
    "n": "ユヴァル・ノア・ハラリ",
    "s": "blog",
    "feed": "https://www.ynharari.com/feed/",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "count": 0,
+   "error": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
    "n": "リチャード・ボールドウィン",
