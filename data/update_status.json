@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-12T15:36:48Z",
- "ok": 25,
- "fail": 27,
+ "generated_at": "2026-09-12T20:39:22Z",
+ "ok": 26,
+ "fail": 26,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -217,9 +217,9 @@
    "s": "blog",
    "feed": "https://marginalrevolution.com/feed",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "dropped": {
-    "著者条件に一致せず": 1
+    "著者条件に一致せず": 2
    }
   },
   {
@@ -419,9 +419,8 @@
    "n": "ユヴァル・ノア・ハラリ",
    "s": "blog",
    "feed": "https://www.ynharari.com/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
+   "ok": true,
+   "count": 20
   },
   {
    "n": "リチャード・ボールドウィン",
