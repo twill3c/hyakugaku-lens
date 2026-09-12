@@ -1531,6 +1531,12 @@
   "own": [
    {
     "d": "2026-09-12",
+    "t": "Labor reallocation during the Industrial Revolution",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/labor-reallocation-during-the-industrial-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=labor-reallocation-during-the-industrial-revolution",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-12",
     "t": "The excess pessimism of early nuclear bomb designers",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/the-excess-pessimism-of-early-nuclear-bomb-designers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-excess-pessimism-of-early-nuclear-bomb-designers",
     "s": "blog"
@@ -1539,12 +1545,6 @@
     "d": "2026-09-11",
     "t": "The Allocative Cost of War",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/the-allocative-cost-of-war.html?utm_source=rss&utm_medium=rss&utm_campaign=the-allocative-cost-of-war",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-11",
-    "t": "Friday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-590.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-590",
     "s": "blog"
    }
   ],
@@ -3197,6 +3197,12 @@
   "pub": [],
   "yt": [
    {
+    "d": "2026-09-12",
+    "t": "The enduring legacy of 9/11, with former Defense Secretary Mark Esper",
+    "u": "https://gzeroworld.simplecast.com/episodes/the-enduring-legacy-of-9-11-with-former-defense-secretary-mark-esper-ivVcqpgw",
+    "s": "podcast"
+   },
+   {
     "d": "2026-08-29",
     "t": "The race to build humanity's future in space, with Chris Hadfield",
     "u": "https://gzeroworld.simplecast.com/episodes/the-race-to-build-humanitys-future-in-space-with-chris-hadfield-j_EjShpA",
@@ -3208,12 +3214,6 @@
     "u": "https://www.youtube.com/watch?v=xre8b1Ly5sA",
     "s": "yt",
     "o": "GZERO Media"
-   },
-   {
-    "d": "2026-08-15",
-    "t": "The global aid crisis, with David Miliband",
-    "u": "https://gzeroworld.simplecast.com/episodes/the-global-aid-crisis-with-david-miliband-P8wFvNiV",
-    "s": "podcast"
    }
   ]
  },
