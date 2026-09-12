@@ -1531,6 +1531,12 @@
   "own": [
    {
     "d": "2026-09-12",
+    "t": "UK fact of the day",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/uk-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-fact-of-the-day-8",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-12",
     "t": "Labor reallocation during the Industrial Revolution",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/labor-reallocation-during-the-industrial-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=labor-reallocation-during-the-industrial-revolution",
     "s": "blog"
@@ -1539,12 +1545,6 @@
     "d": "2026-09-12",
     "t": "The excess pessimism of early nuclear bomb designers",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/the-excess-pessimism-of-early-nuclear-bomb-designers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-excess-pessimism-of-early-nuclear-bomb-designers",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-11",
-    "t": "The Allocative Cost of War",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/the-allocative-cost-of-war.html?utm_source=rss&utm_medium=rss&utm_campaign=the-allocative-cost-of-war",
     "s": "blog"
    }
   ],
