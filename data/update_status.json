@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T04:56:16Z",
+ "generated_at": "2026-09-13T12:00:37Z",
  "ok": 26,
  "fail": 26,
  "sources": [
@@ -217,9 +217,9 @@
    "s": "blog",
    "feed": "https://marginalrevolution.com/feed",
    "ok": true,
-   "count": 13,
+   "count": 12,
    "dropped": {
-    "著者条件に一致せず": 2
+    "著者条件に一致せず": 3
    }
   },
   {
@@ -285,7 +285,7 @@
    "s": "podcast",
    "feed": "https://feeds.megaphone.fm/ARML2708405200",
    "ok": true,
-   "count": 339
+   "count": 340
   },
   {
    "n": "ニック・クドリー",

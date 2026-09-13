@@ -1530,6 +1530,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-09-13",
+    "t": "A simple model of AI-aided economic growth",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/a-simple-model-of-ai-aided-economic-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-model-of-ai-aided-economic-growth",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-12",
     "t": "The mathematicians rebel against AI",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/the-mathematicians-rebel-against-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mathematicians-rebel-against-ai",
@@ -1539,12 +1545,6 @@
     "d": "2026-09-12",
     "t": "UK fact of the day",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/uk-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-fact-of-the-day-8",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-12",
-    "t": "Labor reallocation during the Industrial Revolution",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/labor-reallocation-during-the-industrial-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=labor-reallocation-during-the-industrial-revolution",
     "s": "blog"
    }
   ],
@@ -3373,6 +3373,12 @@
   ],
   "yt": [
    {
+    "d": "2026-09-13",
+    "t": "The Lives of the Philosophers: Elizabeth Anscombe",
+    "u": "https://www.ppfideas.com/",
+    "s": "podcast"
+   },
+   {
     "d": "2026-09-09",
     "t": "Now & Then with Robert Saunders: Gladstone vs Disraeli Part 2 (Burnham vs Badenoch)",
     "u": "https://www.ppfideas.com/",
@@ -3381,12 +3387,6 @@
    {
     "d": "2026-09-06",
     "t": "Now & Then with Robert Saunders: Gladstone vs Disraeli – The Bulgarian Horrors",
-    "u": "https://www.ppfideas.com/",
-    "s": "podcast"
-   },
-   {
-    "d": "2026-09-02",
-    "t": "The Lives of the Philosophers: Jean-Paul Sartre",
     "u": "https://www.ppfideas.com/",
     "s": "podcast"
    }
