@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T23:16:59Z",
+ "generated_at": "2026-09-13T23:27:34Z",
  "declared": 99,
  "verified": 87,
  "unreachable": 0,
@@ -2941,7 +2941,7 @@
     {
      "id": "A5074481124",
      "display_name": "Richard Baldwin",
-     "works_count": 753,
+     "works_count": 752,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -2973,7 +2973,7 @@
     {
      "id": "A5042820256",
      "display_name": "Richard Baldwin",
-     "works_count": 61,
+     "works_count": 60,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -2995,11 +2995,11 @@
      "ok": false
     },
     {
-     "id": "A5129602163",
-     "display_name": "Richard Baldwin",
-     "works_count": 5,
+     "id": "A5058474194",
+     "display_name": "R. Madey",
+     "works_count": 395,
      "inst_hit": [],
-     "domain_ok": true,
+     "domain_ok": false,
      "ok": false
     }
    ]
@@ -6691,7 +6691,7 @@
     {
      "id": "A5090248780",
      "display_name": "Robert M. Rees",
-     "works_count": 360,
+     "works_count": 358,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6846,7 +6846,7 @@
     {
      "id": "A5075965119",
      "display_name": "Amy Webb",
-     "works_count": 210,
+     "works_count": 209,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6854,7 +6854,7 @@
     {
      "id": "A5037194368",
      "display_name": "Amy Girard",
-     "works_count": 284,
+     "works_count": 283,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -6870,7 +6870,7 @@
     {
      "id": "A5016960273",
      "display_name": "A. Alexander G. Webb",
-     "works_count": 142,
+     "works_count": 140,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6878,7 +6878,7 @@
     {
      "id": "A5113805471",
      "display_name": "Amy Girard",
-     "works_count": 48,
+     "works_count": 47,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -7139,7 +7139,7 @@
     {
      "id": "A5013833262",
      "display_name": "Takayuki Suzuki",
-     "works_count": 149,
+     "works_count": 148,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7147,7 +7147,7 @@
     {
      "id": "A5005533360",
      "display_name": "Takayuki Suzuki",
-     "works_count": 706,
+     "works_count": 700,
      "inst_hit": [
       "University of Tokyo"
      ],
@@ -7157,7 +7157,7 @@
     {
      "id": "A5068717853",
      "display_name": "Takayuki Suzuki",
-     "works_count": 305,
+     "works_count": 302,
      "inst_hit": [
       "University of Tokyo"
      ],
@@ -7167,7 +7167,7 @@
     {
      "id": "A5033049879",
      "display_name": "Takayuki Suzuki",
-     "works_count": 278,
+     "works_count": 273,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
