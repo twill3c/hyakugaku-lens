@@ -1429,7 +1429,14 @@
   "field": "雇用の自動化予測研究",
   "h": "https://www.carlbenediktfrey.com/",
   "bio": "オズボーンとの2013年論文で「米国の雇用の47%が自動化リスクにさらされる」と推計し、この分野の議論の出発点を作った。『The Technology Trap』では産業革命期の抵抗と調整の歴史からAI時代を照らす。近年は『How Progress Ends』で、技術の集中が停滞を招く可能性を論じている。",
-  "own": [],
+  "own": [
+   {
+    "d": "2026-09-14",
+    "t": "Who Owns What AI Learns?",
+    "u": "https://www.project-syndicate.org/magazine/ai-economy-who-owns-tacit-and-other-valuable-knowledge-by-carl-benedikt-frey-2026-09",
+    "s": "media"
+   }
+  ],
   "pub": [
    {
     "d": "2025-01-01",
@@ -1531,6 +1538,12 @@
   "own": [
    {
     "d": "2026-09-14",
+    "t": "Is it the screens? Or education systems?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/is-it-the-screens-or-education-systems.html?utm_source=rss&utm_medium=rss&utm_campaign=is-it-the-screens-or-education-systems",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-14",
     "t": "Does AI assistance enhance or erode expertise?",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html?utm_source=rss&utm_medium=rss&utm_campaign=does-ai-assistance-enhance-or-erode-expertise",
     "s": "blog"
@@ -1539,12 +1552,6 @@
     "d": "2026-09-13",
     "t": "Sunday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-578",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-13",
-    "t": "A simple model of AI-aided economic growth",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/a-simple-model-of-ai-aided-economic-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-model-of-ai-aided-economic-growth",
     "s": "blog"
    }
   ],
@@ -1648,9 +1655,9 @@
   "bio": "『GDP —— 小さくて大きな数字の歴史』で経済統計の政治性を明らかにし、『Cogs and Monsters』ではデジタル経済に経済学の道具立てが追いついていないことを論じた。無料のデジタル財や規模の経済をどう測るかという計測問題を専門とし、AIの生産性効果をめぐる統計上の空白を指摘する。",
   "own": [
    {
-    "d": "2026-09-08",
-    "t": "Unpaid Work in the AI Age",
-    "u": "https://www.project-syndicate.org/commentary/ai-can-expand-leisure-time-by-increasing-productivity-in-unpaid-work-by-diane-coyle-2026-09",
+    "d": "2026-09-14",
+    "t": "Economics, Disrupted",
+    "u": "https://www.project-syndicate.org/magazine/economics-disrupted-by-diane-coyle-2026-09",
     "s": "media"
    },
    {
