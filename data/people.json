@@ -1538,6 +1538,12 @@
   "own": [
    {
     "d": "2026-09-14",
+    "t": "Monday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-577",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-14",
     "t": "Is it the screens? Or education systems?",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/is-it-the-screens-or-education-systems.html?utm_source=rss&utm_medium=rss&utm_campaign=is-it-the-screens-or-education-systems",
     "s": "blog"
@@ -1546,12 +1552,6 @@
     "d": "2026-09-14",
     "t": "Does AI assistance enhance or erode expertise?",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html?utm_source=rss&utm_medium=rss&utm_campaign=does-ai-assistance-enhance-or-erode-expertise",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-13",
-    "t": "Sunday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-578",
     "s": "blog"
    }
   ],
@@ -2116,8 +2116,14 @@
   "bio": "プラットフォームを利用者に対する受託者(information fiduciary)とみなす理論を提唱し、米国のプラットフォーム規制論に強い影響を与えた。「アルゴリズム社会」における言論の自由の三角構造(政府・プラットフォーム・利用者)の分析でも知られる。ブログ Balkinization を長年運営している。",
   "own": [
    {
+    "d": "2026-09-14",
+    "t": "Stuck in the Middle With You: The Constitution Between Regimes",
+    "u": "https://balkin.blogspot.com/2026/09/stuck-in-middle-with-you-constitution.html",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-02",
-    "t": "Balkinization symposium on Mark Tushnet and Bojan Bugaric, Constitutionalism and its Discontents",
+    "t": "Balkinization Symposium on Mark Tushnet and Bojan Bugaric, Constitutionalism and its Discontents",
     "u": "https://balkin.blogspot.com/2026/09/balkinization-symposium-on-mark-tushnet.html",
     "s": "blog"
    },
@@ -2125,12 +2131,6 @@
     "d": "2026-08-29",
     "t": "Balkinization Symposium on the Global Political Economy of Artificial Intelligence",
     "u": "https://balkin.blogspot.com/2026/08/balkinization-symposium-on-global.html",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-16",
-    "t": "Technology and Constitutional Rot",
-    "u": "https://balkin.blogspot.com/2026/08/technology-and-constitutional-rot.html",
     "s": "blog"
    }
   ],
@@ -3183,6 +3183,12 @@
   "bio": "政治リスク分析会社ユーラシア・グループの創業者。国家に代わりテック企業が地政学的アクターになる「技術極(technopolar)世界」という概念を提示し、国連の AI 諮問機関にも加わった。年頭のトップリスク・レポートは各国の政策担当者に読まれ、GZERO メディアを通じて発信を続ける。",
   "own": [
    {
+    "d": "2026-09-14",
+    "t": "The AI risks being ignored",
+    "u": "https://www.gzeromedia.com/video/quick-take/the-ai-risks-being-ignored",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-11",
     "t": "25 years after 9/11, how much has changed?",
     "u": "https://www.gzeromedia.com/video/ian-explains/911-anniversary-how-much-changed",
@@ -3192,12 +3198,6 @@
     "d": "2026-09-10",
     "t": "The lasting impact of 9/11 on US leadership",
     "u": "https://www.gzeromedia.com/video/ask-ian/the-lasting-impact-of-9-11-on-us-leadership",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-09",
-    "t": "The world rebuilds its armies... without the US",
-    "u": "https://www.gzeromedia.com/by-ian-bremmer/the-world-rebuilds-its-armies-without-the-us",
     "s": "blog"
    }
   ],
