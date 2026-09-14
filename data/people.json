@@ -62,6 +62,12 @@
   "bio": "情報そのものを哲学の第一対象に据える「情報の哲学」を創始し、人間を情報有機体(inforg)、生活空間をオンラインとオフラインが融合したインフォスフィアとして描いた。EUのAI倫理指針づくりに深く関与し、原則の乱立を五原則へ整理した仕事でも知られる。近年は生成AIを「意味を持たない行為主体」と規定する議論を展開している。",
   "own": [
    {
+    "d": "2026-09-14",
+    "t": "\"Not Even Wrong 2: An Audit of Public AGI Prediction, 1950-2026\" new reseach pap…",
+    "u": "https://mastodon.world/@lucianofloridi/117266682988830580",
+    "s": "mastodon"
+   },
+   {
     "d": "2026-09-04",
     "t": "Floridi: “AI dovrebbe stare per Agency without Intelligence” - AI4Business https…",
     "u": "https://mastodon.world/@lucianofloridi/117213281535934811",
@@ -71,12 +77,6 @@
     "d": "2026-09-01",
     "t": "Thanks to FTI Consulting and Bruce Benson for this short and clear paper on \"Flo…",
     "u": "https://mastodon.world/@lucianofloridi/117193546701093208",
-    "s": "mastodon"
-   },
-   {
-    "d": "2026-08-28",
-    "t": "Notes to Myself: Fourth Edition is now available on Amazon, Kindle, paperback an…",
-    "u": "https://mastodon.world/@lucianofloridi/117175161719061221",
     "s": "mastodon"
    }
   ],
@@ -1530,6 +1530,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-09-14",
+    "t": "Does AI assistance enhance or erode expertise?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html?utm_source=rss&utm_medium=rss&utm_campaign=does-ai-assistance-enhance-or-erode-expertise",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-13",
     "t": "Sunday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-578",
@@ -1539,12 +1545,6 @@
     "d": "2026-09-13",
     "t": "A simple model of AI-aided economic growth",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/a-simple-model-of-ai-aided-economic-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-model-of-ai-aided-economic-growth",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-12",
-    "t": "The mathematicians rebel against AI",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/the-mathematicians-rebel-against-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mathematicians-rebel-against-ai",
     "s": "blog"
    }
   ],
