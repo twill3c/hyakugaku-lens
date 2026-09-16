@@ -3713,6 +3713,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-14",
+    "t": "Spook the Machine: Gamified Exploration of Human Imagination of Machine Fear",
+    "u": "https://doi.org/10.48550/arxiv.2609.15472",
+    "s": "paper"
+   },
+   {
     "d": "2026-08-18",
     "t": "Propagation and preservation of AI-discovered problem-solving strategies in human culture",
     "u": "https://doi.org/10.1038/s41467-026-76113-2",
@@ -3722,12 +3728,6 @@
     "d": "2026-06-25",
     "t": "Recognising and mitigating LLM Pollution in online behavioural research",
     "u": "https://doi.org/10.1038/s41467-026-74621-9",
-    "s": "paper"
-   },
-   {
-    "d": "2026-05-18",
-    "t": "Expertise Elevates AI Usage: Experimental Evidence Comparing Laypeople and Professional Artists",
-    "u": "https://doi.org/10.1080/10447318.2026.2669041",
     "s": "paper"
    }
   ],
