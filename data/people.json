@@ -1530,21 +1530,21 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-09-16",
+    "t": "The economics of cyber risk",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-cyber-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-cyber-risk",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-16",
+    "t": "When discussing AI policy, start with China",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/when-discussing-ai-policy-start-with-china.html?utm_source=rss&utm_medium=rss&utm_campaign=when-discussing-ai-policy-start-with-china",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-15",
     "t": "Callum Williams on cybersecurity prices",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/callum-williams-on-cybersecurity-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=callum-williams-on-cybersecurity-prices",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-15",
-    "t": "Tuesday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-586",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-15",
-    "t": "Those new service sector jobs",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/those-new-service-sector-jobs-17.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-17",
     "s": "blog"
    }
   ],
@@ -3373,6 +3373,12 @@
   ],
   "yt": [
    {
+    "d": "2026-09-16",
+    "t": "The Lives of the Philosophers: Hannah Arendt",
+    "u": "https://www.ppfideas.com/",
+    "s": "podcast"
+   },
+   {
     "d": "2026-09-13",
     "t": "The Lives of the Philosophers: Elizabeth Anscombe",
     "u": "https://www.ppfideas.com/",
@@ -3381,12 +3387,6 @@
    {
     "d": "2026-09-09",
     "t": "Now & Then with Robert Saunders: Gladstone vs Disraeli Part 2 (Burnham vs Badenoch)",
-    "u": "https://www.ppfideas.com/",
-    "s": "podcast"
-   },
-   {
-    "d": "2026-09-06",
-    "t": "Now & Then with Robert Saunders: Gladstone vs Disraeli – The Bulgarian Horrors",
     "u": "https://www.ppfideas.com/",
     "s": "podcast"
    }
