@@ -864,6 +864,12 @@
   ],
   "pub": [
    {
+    "d": "2026-08-20",
+    "t": "Lyotard and the 21st Century",
+    "u": "https://doi.org/10.54195/technophany.28330",
+    "s": "paper"
+   },
+   {
     "d": "2026-03-26",
     "t": "The University Within the Limits of Automated Knowledge",
     "u": "https://openalex.org/W7162833666",
@@ -874,12 +880,6 @@
     "t": "Post-Europe",
     "u": "https://openalex.org/W7131340238",
     "s": "book"
-   },
-   {
-    "d": "2026-01-01",
-    "t": "Lyotard and the 21st Century",
-    "u": "https://doi.org/10.54195/technophany.28330",
-    "s": "paper"
    }
   ],
   "yt": [
