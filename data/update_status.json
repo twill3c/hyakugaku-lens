@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-16T21:23:42Z",
- "ok": 27,
- "fail": 25,
+ "generated_at": "2026-09-17T04:59:19Z",
+ "ok": 24,
+ "fail": 28,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -37,8 +37,9 @@
    "n": "イアン・ゴールディン",
    "s": "blog",
    "feed": "https://iangoldin.org/feed/",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 401: Unauthorized"
   },
   {
    "n": "イアン・ゴールディン",
@@ -400,8 +401,9 @@
    "n": "ユク・ホイ",
    "s": "blog",
    "feed": "https://digitalmilieu.net/feed/",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ユク・ホイ",
@@ -418,8 +420,9 @@
    "n": "ユヴァル・ノア・ハラリ",
    "s": "blog",
    "feed": "https://www.ynharari.com/feed/",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
   },
   {
    "n": "リチャード・ボールドウィン",
