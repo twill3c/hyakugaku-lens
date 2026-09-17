@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-17T04:59:19Z",
- "ok": 24,
- "fail": 28,
+ "generated_at": "2026-09-17T11:50:26Z",
+ "ok": 26,
+ "fail": 26,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -37,9 +37,8 @@
    "n": "イアン・ゴールディン",
    "s": "blog",
    "feed": "https://iangoldin.org/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 401: Unauthorized"
+   "ok": true,
+   "count": 10
   },
   {
    "n": "イアン・ゴールディン",
@@ -314,7 +313,7 @@
    "s": "podcast",
    "feed": "https://feeds.acast.com/public/shows/6628460c6b51e80012b834c2",
    "ok": true,
-   "count": 90
+   "count": 91
   },
   {
    "n": "ピーター・シンガー",
@@ -401,9 +400,8 @@
    "n": "ユク・ホイ",
    "s": "blog",
    "feed": "https://digitalmilieu.net/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 10
   },
   {
    "n": "ユク・ホイ",
