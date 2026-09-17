@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T11:50:26Z",
+ "generated_at": "2026-09-17T17:07:04Z",
  "ok": 26,
  "fail": 26,
  "sources": [
@@ -79,11 +79,12 @@
    "n": "カール・ベネディクト・フレイ",
    "s": "media",
    "feed": "https://www.project-syndicate.org/rss",
-   "ok": true,
-   "count": 1,
+   "ok": false,
+   "count": 0,
    "dropped": {
-    "著者条件に一致せず": 19
-   }
+    "著者条件に一致せず": 20
+   },
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
    "n": "ケイト・クロフォード",
@@ -133,9 +134,9 @@
    "s": "blog",
    "feed": "https://balkin.blogspot.com/feeds/posts/default",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "dropped": {
-    "著者条件に一致せず": 22
+    "著者条件に一致せず": 21
    }
   },
   {
@@ -418,9 +419,8 @@
    "n": "ユヴァル・ノア・ハラリ",
    "s": "blog",
    "feed": "https://www.ynharari.com/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
+   "ok": true,
+   "count": 20
   },
   {
    "n": "リチャード・ボールドウィン",
