@@ -62,6 +62,12 @@
   "bio": "情報そのものを哲学の第一対象に据える「情報の哲学」を創始し、人間を情報有機体(inforg)、生活空間をオンラインとオフラインが融合したインフォスフィアとして描いた。EUのAI倫理指針づくりに深く関与し、原則の乱立を五原則へ整理した仕事でも知られる。近年は生成AIを「意味を持たない行為主体」と規定する議論を展開している。",
   "own": [
    {
+    "d": "2026-09-18",
+    "t": "AI and the Not Even Wrong Series 🤓 Not Even Wrong 1: AI and the Labour Market, F…",
+    "u": "https://mastodon.world/@lucianofloridi/117292702116585118",
+    "s": "mastodon"
+   },
+   {
     "d": "2026-09-17",
     "t": "The Certainty–Scope Conjecture made simple and short (or at least simpler and sh…",
     "u": "https://mastodon.world/@lucianofloridi/117289058808638586",
@@ -71,12 +77,6 @@
     "d": "2026-09-15",
     "t": "Research from Yale's digital Ethics Center Not Even Wrong 1: AI and the Labour M…",
     "u": "https://mastodon.world/@lucianofloridi/117272621701494441",
-    "s": "mastodon"
-   },
-   {
-    "d": "2026-09-14",
-    "t": "\"Not Even Wrong 2: An Audit of Public AGI Prediction, 1950-2026\" new reseach pap…",
-    "u": "https://mastodon.world/@lucianofloridi/117266682988830580",
     "s": "mastodon"
    }
   ],
@@ -1523,6 +1523,12 @@
   "own": [
    {
     "d": "2026-09-18",
+    "t": "Friday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-591",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-18",
     "t": "Reimagining research papers as interactive and reliable AI agents",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/reimagining-research-papers-as-interactive-and-reliable-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-research-papers-as-interactive-and-reliable-ai-agents",
     "s": "blog"
@@ -1531,12 +1537,6 @@
     "d": "2026-09-18",
     "t": "Why Papua New Guinea is so interesting",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/why-papua-new-guinea-is-so-interesting.html?utm_source=rss&utm_medium=rss&utm_campaign=why-papua-new-guinea-is-so-interesting",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-17",
-    "t": "Thursday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-570",
     "s": "blog"
    }
   ],
