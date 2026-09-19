@@ -3463,21 +3463,21 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-01",
+    "t": "Expert Survey on the Global Information Environment 2026: Under Pressure",
+    "u": "https://doi.org/10.61452/ormu3913",
+    "s": "paper"
+   },
+   {
+    "d": "2026-09-01",
+    "t": "Trends in the Information Environment: 2026 Expert Survey Results",
+    "u": "https://doi.org/10.61452/mema1194",
+    "s": "paper"
+   },
+   {
     "d": "2026-06-01",
     "t": "Resilience and Vulnerability to Misinformation and Disinformation in Political Information Environments: A Comparative Review of Ten Indexes",
     "u": "https://doi.org/10.61452/mbpe3349",
-    "s": "paper"
-   },
-   {
-    "d": "2026-01-01",
-    "t": "Répondre à la désinformation générée par l’IA générative: Résultats d’une méta-analyse des données scientifiques",
-    "u": "https://doi.org/10.61452/ridt4296",
-    "s": "paper"
-   },
-   {
-    "d": "2026-01-01",
-    "t": "التصدي للمعلومات المضللة المنشأة بواسطة الذكاء الاصطناعي التوليدي: نتائج تحليل تجميعي للأدلة العلمية",
-    "u": "https://doi.org/10.61452/zkhb1792",
     "s": "paper"
    }
   ],
@@ -3691,6 +3691,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-18",
+    "t": "Large language models as human proxies",
+    "u": "https://doi.org/10.1038/s43588-026-01060-3",
+    "s": "paper"
+   },
+   {
     "d": "2026-09-14",
     "t": "Spook the Machine: Gamified Exploration of Human Imagination of Machine Fear",
     "u": "https://doi.org/10.48550/arxiv.2609.15472",
@@ -3700,12 +3706,6 @@
     "d": "2026-08-18",
     "t": "Propagation and preservation of AI-discovered problem-solving strategies in human culture",
     "u": "https://doi.org/10.1038/s41467-026-76113-2",
-    "s": "paper"
-   },
-   {
-    "d": "2026-06-25",
-    "t": "Recognising and mitigating LLM Pollution in online behavioural research",
-    "u": "https://doi.org/10.1038/s41467-026-74621-9",
     "s": "paper"
    }
   ],
