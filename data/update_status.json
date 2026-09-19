@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T15:56:26Z",
+ "generated_at": "2026-09-19T20:48:38Z",
  "ok": 26,
  "fail": 26,
  "sources": [
@@ -56,9 +56,9 @@
    "s": "blog",
    "feed": "https://www.gzeromedia.com/feeds/feed.rss",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "dropped": {
-    "著者条件に一致せず": 25
+    "著者条件に一致せず": 26
    }
   },
   {
@@ -217,9 +217,9 @@
    "s": "blog",
    "feed": "https://marginalrevolution.com/feed",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "dropped": {
-    "著者条件に一致せず": 3
+    "著者条件に一致せず": 2
    }
   },
   {
@@ -459,7 +459,7 @@
    "s": "podcast",
    "feed": "https://feeds.simplecast.com/oibbcLXn",
    "ok": true,
-   "count": 166
+   "count": 167
   },
   {
    "n": "ヴァージニア・ユーバンクス",
