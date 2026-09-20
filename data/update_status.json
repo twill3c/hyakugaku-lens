@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T20:48:38Z",
+ "generated_at": "2026-09-20T05:00:18Z",
  "ok": 26,
  "fail": 26,
  "sources": [
@@ -285,7 +285,7 @@
    "s": "podcast",
    "feed": "https://feeds.megaphone.fm/ARML2708405200",
    "ok": true,
-   "count": 341
+   "count": 342
   },
   {
    "n": "ニック・クドリー",
