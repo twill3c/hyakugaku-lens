@@ -62,21 +62,21 @@
   "bio": "情報そのものを哲学の第一対象に据える「情報の哲学」を創始し、人間を情報有機体(inforg)、生活空間をオンラインとオフラインが融合したインフォスフィアとして描いた。EUのAI倫理指針づくりに深く関与し、原則の乱立を五原則へ整理した仕事でも知られる。近年は生成AIを「意味を持たない行為主体」と規定する議論を展開している。",
   "own": [
    {
+    "d": "2026-09-20",
+    "t": "The Certainy/Scope conjecture in AI - What Generality Costs in AI https:// paper…",
+    "u": "https://mastodon.world/@lucianofloridi/117305063761299053",
+    "s": "mastodon"
+   },
+   {
+    "d": "2026-09-20",
+    "t": "Obama on AI and the right perspective, informed, intelligent, responsible: \"My C…",
+    "u": "https://mastodon.world/@lucianofloridi/117304914219870107",
+    "s": "mastodon"
+   },
+   {
     "d": "2026-09-19",
     "t": "What could journals be like in a post-AI society? \"Everything but the Signature:…",
     "u": "https://mastodon.world/@lucianofloridi/117294925724767192",
-    "s": "mastodon"
-   },
-   {
-    "d": "2026-09-18",
-    "t": "AI and the Not Even Wrong Series 🤓 Not Even Wrong 1: AI and the Labour Market, F…",
-    "u": "https://mastodon.world/@lucianofloridi/117292702116585118",
-    "s": "mastodon"
-   },
-   {
-    "d": "2026-09-17",
-    "t": "The Certainty–Scope Conjecture made simple and short (or at least simpler and sh…",
-    "u": "https://mastodon.world/@lucianofloridi/117289058808638586",
     "s": "mastodon"
    }
   ],
@@ -1509,6 +1509,12 @@
   "own": [
    {
     "d": "2026-09-20",
+    "t": "Sunday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-583",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-20",
     "t": "Muse",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/muse.html?utm_source=rss&utm_medium=rss&utm_campaign=muse",
     "s": "blog"
@@ -1517,12 +1523,6 @@
     "d": "2026-09-20",
     "t": "Empathy gaps",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/empathy-gaps.html?utm_source=rss&utm_medium=rss&utm_campaign=empathy-gaps",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-20",
-    "t": "UK productivity higher than we had thought",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/uk-productivity-higher-than-we-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-higher-than-we-had-thought",
     "s": "blog"
    }
   ],
