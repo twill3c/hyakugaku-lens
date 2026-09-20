@@ -1509,6 +1509,12 @@
   "own": [
    {
     "d": "2026-09-20",
+    "t": "Muse",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/muse.html?utm_source=rss&utm_medium=rss&utm_campaign=muse",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-20",
     "t": "Empathy gaps",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/empathy-gaps.html?utm_source=rss&utm_medium=rss&utm_campaign=empathy-gaps",
     "s": "blog"
@@ -1517,12 +1523,6 @@
     "d": "2026-09-20",
     "t": "UK productivity higher than we had thought",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/uk-productivity-higher-than-we-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-higher-than-we-had-thought",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-20",
-    "t": "The polity that is Singapore",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-2.html?utm_source=rss&utm_medium=rss&utm_campaign=the-polity-that-is-singapore-2",
     "s": "blog"
    }
   ],
@@ -3198,6 +3198,12 @@
   "bio": "エイブラハム・ニューマンとの『Underground Empire』で、金融・通信のネットワークの結節点を握る米国が経済を武器化する構図(weaponized interdependence)を描いた。コスマ・シャリツィとの共著論考ではAIを市場や官僚制と並ぶ社会的情報処理装置として位置づける。Programmable Mutter で発信する。",
   "own": [
    {
+    "d": "2026-09-20",
+    "t": "International relations has a problem with the future",
+    "u": "https://www.programmablemutter.com/p/international-relations-has-a-problem",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-15",
     "t": "Canada is cosying up to Europe",
     "u": "https://www.programmablemutter.com/p/canada-is-cosying-up-to-europe",
@@ -3207,12 +3213,6 @@
     "d": "2026-09-12",
     "t": "How should social science think about AI?",
     "u": "https://www.programmablemutter.com/p/how-should-social-science-think-about",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-27",
-    "t": "The Acemoglu Wars Are All About AI",
-    "u": "https://www.programmablemutter.com/p/the-acemoglu-wars-are-all-about-ai",
     "s": "blog"
    }
   ],
