@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T11:48:27Z",
+ "generated_at": "2026-09-22T17:02:28Z",
  "ok": 25,
  "fail": 27,
  "sources": [
@@ -56,9 +56,9 @@
    "s": "blog",
    "feed": "https://www.gzeromedia.com/feeds/feed.rss",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "dropped": {
-    "著者条件に一致せず": 26
+    "著者条件に一致せず": 27
    }
   },
   {
@@ -134,9 +134,9 @@
    "s": "blog",
    "feed": "https://balkin.blogspot.com/feeds/posts/default",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "dropped": {
-    "著者条件に一致せず": 21
+    "著者条件に一致せず": 20
    }
   },
   {
