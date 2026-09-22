@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-22T05:07:34Z",
- "ok": 26,
- "fail": 26,
+ "generated_at": "2026-09-22T11:48:27Z",
+ "ok": 25,
+ "fail": 27,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -394,8 +394,9 @@
    "n": "ミレイユ・ヒルデブラント",
    "s": "blog",
    "feed": "https://www.cohubicol.com/feed.xml",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "n": "ユク・ホイ",
