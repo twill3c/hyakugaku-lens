@@ -297,6 +297,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-22",
+    "t": "Does AI undermine democratic deliberation? How engagement algorithms hijack epistemic agency",
+    "u": "https://doi.org/10.1007/s11229-026-05820-6",
+    "s": "paper"
+   },
+   {
     "d": "2026-01-01",
     "t": "(How) Do Artefacts Have Politics? (Re-)Tracing the Ontic and the Ontological in Winner’s Legacy",
     "u": "https://doi.org/10.1007/978-3-032-17371-3_1",
@@ -307,12 +313,6 @@
     "t": "Artificial Intelligence and the Common Good: A Cross-Cultural and Intercultural Exploration",
     "u": "https://doi.org/10.1007/978-981-95-8023-1_2",
     "s": "book"
-   },
-   {
-    "d": "2026-01-01",
-    "t": "I. Une histoire pas si démocratique",
-    "u": "https://openalex.org/W7212334160",
-    "s": "paper"
    }
   ],
   "yt": [
