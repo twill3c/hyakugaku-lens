@@ -1508,6 +1508,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-09-22",
+    "t": "Banning self-recursive improvement in AI models?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/banning-self-recursive-improvement-in-ai-models.html?utm_source=rss&utm_medium=rss&utm_campaign=banning-self-recursive-improvement-in-ai-models",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-21",
     "t": "Further results on AI and labor market reallocation",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/further-results-on-ai-and-labor-market-reallocation.html?utm_source=rss&utm_medium=rss&utm_campaign=further-results-on-ai-and-labor-market-reallocation",
@@ -1517,12 +1523,6 @@
     "d": "2026-09-21",
     "t": "Monday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-578",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-21",
-    "t": "Obama on agentic AI",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/obama-on-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=obama-on-agentic-ai",
     "s": "blog"
    }
   ],
