@@ -453,13 +453,6 @@
     "u": "https://www.youtube.com/watch?v=zOSptyQ3j9A",
     "s": "yt",
     "o": "80,000 Hours"
-   },
-   {
-    "d": "2026-03-27",
-    "t": "Taking longer AI timelines seriously | Toby Ord | EAG San Francisco 2026",
-    "u": "https://www.youtube.com/watch?v=T5OcX6bU31U",
-    "s": "yt",
-    "o": "Effective Altruism"
    }
   ]
  },
@@ -1383,13 +1376,6 @@
     "u": "https://www.youtube.com/watch?v=ONoPxqkGfkY",
     "s": "yt",
     "o": "Stacking Benjamins Podcast Audio"
-   },
-   {
-    "d": "2026-03-26",
-    "t": "The future of innovation, with Andrew McAfee",
-    "u": "https://www.youtube.com/watch?v=Iv8En743EYU",
-    "s": "yt",
-    "o": "Niskanen Center"
    }
   ]
  },
@@ -1871,6 +1857,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-22",
+    "t": "The Future of Creativity - Daniel Susskind",
+    "u": "https://www.youtube.com/watch?v=ia0U-Ju9ifI",
+    "s": "yt",
+    "o": "Gresham College"
+   },
+   {
     "d": "2026-07-31",
     "t": "Education – And Its Limits - Daniel Susskind",
     "u": "https://www.youtube.com/watch?v=Bni42PX7C-Y",
@@ -1883,13 +1876,6 @@
     "u": "https://www.youtube.com/watch?v=iqf2LAt9jRQ",
     "s": "yt",
     "o": "ACCIÓ"
-   },
-   {
-    "d": "2026-06-10",
-    "t": "The Future of Work in the Age of AI. - Prof. Dr. Daniel Susskind",
-    "u": "https://www.youtube.com/watch?v=KfIY-01GyJs",
-    "s": "yt",
-    "o": "Petersberger Gespräche"
    }
   ]
  },
@@ -3182,10 +3168,11 @@
     "s": "podcast"
    },
    {
-    "d": "2026-09-12",
-    "t": "The enduring legacy of 9/11, with former Defense Secretary Mark Esper",
-    "u": "https://gzeroworld.simplecast.com/episodes/the-enduring-legacy-of-9-11-with-former-defense-secretary-mark-esper-ivVcqpgw",
-    "s": "podcast"
+    "d": "2026-09-16",
+    "t": "Ian Bremmer Decodes BRICS Declaration, Modi-Xi Reset & Trump's Midterm Polls Bid",
+    "u": "https://www.youtube.com/watch?v=6aviGj9fmtw",
+    "s": "yt",
+    "o": "CNBC-TV18"
    }
   ]
  },
@@ -3886,6 +3873,13 @@
   "pub": [],
   "yt": [
    {
+    "d": "2026-09-23",
+    "t": "今野忍×石戸諭×東浩紀　政治の現場はどこにあるのか──新党、SNS、沖縄 @shinobukonno @satoruishido @hazuma #ゲンロン",
+    "u": "https://www.youtube.com/watch?v=hCd7ALpjE98",
+    "s": "yt",
+    "o": "ゲンロン【公式】"
+   },
+   {
     "d": "2026-09-17",
     "t": "菊地成孔×東浩紀　炎上する政治、炎上しない音楽2 @SHIN_ON_GAK @hazuma #ゲンロン",
     "u": "https://www.youtube.com/watch?v=ub_Y6Xrb13s",
@@ -3896,13 +3890,6 @@
     "d": "2026-09-11",
     "t": "東浩紀またまた無料雑談突発　Christopher Nolan The Odyssey すごかった！＆上田さんと喧嘩したので和解放送",
     "u": "https://www.youtube.com/watch?v=8uPOukahwp0",
-    "s": "yt",
-    "o": "ゲンロン【公式】"
-   },
-   {
-    "d": "2026-09-08",
-    "t": "東浩紀の恒例無料突発雑談配信 9月8日編",
-    "u": "https://www.youtube.com/watch?v=gmi-Plczlts",
     "s": "yt",
     "o": "ゲンロン【公式】"
    }
