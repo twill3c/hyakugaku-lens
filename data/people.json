@@ -63,6 +63,12 @@
   "own": [
    {
     "d": "2026-09-23",
+    "t": "Luciano Floridi | ISSNAF https://www. issnaf.org/membersinaction/luc iano-florid…",
+    "u": "https://mastodon.world/@lucianofloridi/117322646444757021",
+    "s": "mastodon"
+   },
+   {
+    "d": "2026-09-23",
     "t": "My new book on AI, literature and distant writing is now available from Columbia…",
     "u": "https://mastodon.world/@lucianofloridi/117317730387512396",
     "s": "mastodon"
@@ -71,12 +77,6 @@
     "d": "2026-09-23",
     "t": "My new book on AI, literature and distant writing is now available from Columbia…",
     "u": "https://mastodon.world/@lucianofloridi/117317730350481682",
-    "s": "mastodon"
-   },
-   {
-    "d": "2026-09-20",
-    "t": "The Certainy/Scope conjecture in AI - What Generality Costs in AI https:// paper…",
-    "u": "https://mastodon.world/@lucianofloridi/117305063761299053",
     "s": "mastodon"
    }
   ],
@@ -1495,21 +1495,21 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-09-24",
+    "t": "My economics-rich Conversation with Gita Gopinath",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/my-economics-rich-conversation-with-gita-gopinath.html?utm_source=rss&utm_medium=rss&utm_campaign=my-economics-rich-conversation-with-gita-gopinath",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-23",
+    "t": "From the Master of Industrial Organization",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/from-the-master-of-industrial-organization.html?utm_source=rss&utm_medium=rss&utm_campaign=from-the-master-of-industrial-organization",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-23",
     "t": "Optimal liability for offensive and defensive AI",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/optimal-liability-for-offensive-and-defensive-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=optimal-liability-for-offensive-and-defensive-ai",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-23",
-    "t": "Wednesday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-572",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-23",
-    "t": "What I’ve been reading",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-295",
     "s": "blog"
    }
   ],
