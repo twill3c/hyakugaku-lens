@@ -1272,21 +1272,21 @@
   "own": [],
   "pub": [
    {
-    "d": "2025-11-25",
-    "t": "The Consumer Welfare Effects of Online Ads: Evidence from a Nine-Year Experiment",
-    "u": "https://doi.org/10.1257/aeri.20240452",
+    "d": "2026-08-07",
+    "t": "A Field Experiment on the Future of Software Development",
+    "u": "https://doi.org/10.1257/rct.19333",
     "s": "paper"
    },
    {
-    "d": "2025-10-28",
-    "t": "How Many Americans Work Remotely? A Survey of Surveys and Their Measurement Issues",
-    "u": "https://doi.org/10.1111/roiw.70029",
+    "d": "2026-05-01",
+    "t": "The Adoption of Industrial AI in America",
+    "u": "https://doi.org/10.1257/pandp.20261033",
     "s": "paper"
    },
    {
-    "d": "2025-10-21",
-    "t": "A Definition of AGI",
-    "u": "https://doi.org/10.48550/arxiv.2510.18212",
+    "d": "2026-02-01",
+    "t": "Minimum Wages and Rise of the Robots",
+    "u": "https://doi.org/10.3386/w34895",
     "s": "paper"
    }
   ],
@@ -1397,6 +1397,12 @@
   ],
   "pub": [
    {
+    "d": "2026-07-30",
+    "t": "Investment and the AI bubble: risk, innovation, and productivity",
+    "u": "https://doi.org/10.69645/xwma8846",
+    "s": "paper"
+   },
+   {
     "d": "2025-01-01",
     "t": "Institutions, Innovation, and the Fragility of Technological Progress",
     "u": "https://doi.org/10.64240/a5ad9fe38a",
@@ -1406,12 +1412,6 @@
     "d": "2024-04-02",
     "t": "Robots and reshoring: a comparative study of automation, trade, and employment in Europe",
     "u": "https://doi.org/10.1093/icc/dtae012",
-    "s": "paper"
-   },
-   {
-    "d": "2024-03-04",
-    "t": "Privacy regulation and firm performance: Estimating the GDPR effect globally",
-    "u": "https://doi.org/10.1111/ecin.13213",
     "s": "paper"
    }
   ],
@@ -1580,9 +1580,9 @@
     "s": "paper"
    },
    {
-    "d": "2026-01-01",
+    "d": "2026-03-01",
     "t": "Steering Technological Progress",
-    "u": "https://doi.org/10.2139/ssrn.6493140",
+    "u": "https://doi.org/10.3386/w34994",
     "s": "paper"
    }
   ],
@@ -1706,21 +1706,21 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-01-01",
-    "t": "Resolving the Automation Paradox: Falling Labor Share, Rising Wages",
-    "u": "https://doi.org/10.2139/ssrn.6053214",
+    "d": "2026-07-01",
+    "t": "Baby Busts and Growth Booms: Demographic Change and the Macroeconomy",
+    "u": "https://doi.org/10.3386/w35401",
     "s": "paper"
    },
    {
-    "d": "2026-01-01",
-    "t": "Building Pro-Worker Artificial Intelligence",
-    "u": "https://doi.org/10.2139/ssrn.6290347",
+    "d": "2026-05-29",
+    "t": "Kasy, Maximilian. The Means of Prediction: How AI Really Works (and Who Benefits)",
+    "u": "https://doi.org/10.1257/jel.64.2.698.r8",
     "s": "paper"
    },
    {
-    "d": "2026-01-01",
+    "d": "2026-03-01",
     "t": "What Makes New Work Different from More Work?",
-    "u": "https://doi.org/10.2139/ssrn.6456972",
+    "u": "https://doi.org/10.3386/w34986",
     "s": "paper"
    }
   ],
@@ -2093,15 +2093,15 @@
     "s": "paper"
    },
    {
-    "d": "2025-06-01",
-    "t": "Moody v. NetChoice: The Supreme Court Meets the Free Speech Triangle",
-    "u": "https://doi.org/10.1086/735007",
+    "d": "2025-06-06",
+    "t": "O que os juristas querem da história",
+    "u": "https://doi.org/10.21708/issn2526-9488.v9.n17.p1-11.2025",
     "s": "paper"
    },
    {
-    "d": "2025-01-01",
-    "t": "How the Modalities Work: Constitutional Interpretation as Problem Solving",
-    "u": "https://doi.org/10.2139/ssrn.5358372",
+    "d": "2025-06-01",
+    "t": "Moody v. NetChoice: The Supreme Court Meets the Free Speech Triangle",
+    "u": "https://doi.org/10.1086/735007",
     "s": "paper"
    }
   ],
@@ -2522,6 +2522,12 @@
   ],
   "pub": [
    {
+    "d": "2026-07-30",
+    "t": "Intersectionality and the Internet: Race, Class, Gender, Sexuality, and the Digital",
+    "u": "https://doi.org/10.1146/annurev-soc-090325-023632",
+    "s": "paper"
+   },
+   {
     "d": "2026-02-23",
     "t": "科技领域交叉性分析指南：应用与核查清单",
     "u": "https://doi.org/10.3897/ese.2025.e162102.cn",
@@ -2531,12 +2537,6 @@
     "d": "2026-02-23",
     "t": "科学技術における交差性分析ガイドライン (GIST)： 実施とチェックリストの開発",
     "u": "https://doi.org/10.3897/ese.2025.e162102.jp",
-    "s": "paper"
-   },
-   {
-    "d": "2026-02-23",
-    "t": "과학 기술 분야의 교차성 분석 가이드라인: 시행과 점검표 개발",
-    "u": "https://doi.org/10.3897/ese.2025.e162102.kr",
     "s": "paper"
    }
   ],
@@ -2861,9 +2861,9 @@
     "s": "paper"
    },
    {
-    "d": "2025-05-21",
-    "t": "A Reset for Bioethics: A Statement from the Global Observatory for Genome Editing",
-    "u": "https://doi.org/10.1089/crispr.2025.0058",
+    "d": "2025-06-01",
+    "t": "Unmuting the message: Climate communication in a complex world",
+    "u": "https://doi.org/10.1016/j.oneear.2025.101343",
     "s": "paper"
    }
   ],
@@ -3686,14 +3686,14 @@
    },
    {
     "d": "2026-09-14",
-    "t": "Spook the Machine: Gamified Exploration of Human Imagination of Machine Fear",
-    "u": "https://doi.org/10.48550/arxiv.2609.15472",
+    "t": "Time Machine Experiments: Using Historically-Bounded AI for Inquiry into the Human Mind",
+    "u": "https://doi.org/10.48550/arxiv.2609.15468",
     "s": "paper"
    },
    {
-    "d": "2026-08-18",
-    "t": "Propagation and preservation of AI-discovered problem-solving strategies in human culture",
-    "u": "https://doi.org/10.1038/s41467-026-76113-2",
+    "d": "2026-09-14",
+    "t": "Spook the Machine: Gamified Exploration of Human Imagination of Machine Fear",
+    "u": "https://doi.org/10.48550/arxiv.2609.15472",
     "s": "paper"
    }
   ],
@@ -4359,6 +4359,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-23",
+    "t": "Keeping Societies in the Loop: Citizen Dialogues on Facial Processing Technologies in Bolivia, India, Nigeria, Japan, and Germany",
+    "u": "https://doi.org/10.1145/3816960",
+    "s": "paper"
+   },
+   {
     "d": "2026-06-09",
     "t": "Japan's Hiroshima AI Process: a third way in global AI governance",
     "u": "https://doi.org/10.4337/9781035338580.00021",
@@ -4368,12 +4374,6 @@
     "d": "2026-04-03",
     "t": "Red teaming for culturally grounded LLM evaluation: lessons learned from a Japanese team’s engagement with stereotype risks",
     "u": "https://doi.org/10.1007/s00146-026-02996-w",
-    "s": "paper"
-   },
-   {
-    "d": "2026-03-23",
-    "t": "Two Tales of Long-term Collaboration: Social Scientific Involvement in Artificial Intelligence in Japan and Synthetic Biology in the UK",
-    "u": "https://doi.org/10.1080/18752160.2026.2625589",
     "s": "paper"
    }
   ],
