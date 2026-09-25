@@ -1496,6 +1496,12 @@
   "own": [
    {
     "d": "2026-09-25",
+    "t": "*My Dreadful Body*",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/my-dreadful-body.html?utm_source=rss&utm_medium=rss&utm_campaign=my-dreadful-body",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-25",
     "t": "Armenia notes",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/armenia-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=armenia-notes",
     "s": "blog"
@@ -1504,12 +1510,6 @@
     "d": "2026-09-24",
     "t": "Peter Thiel on AI and tech stagnation and democracy",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/peter-thiel-on-ai-and-tech-stagnation.html?utm_source=rss&utm_medium=rss&utm_campaign=peter-thiel-on-ai-and-tech-stagnation",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-24",
-    "t": "Earth fact of the day",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2",
     "s": "blog"
    }
   ],
