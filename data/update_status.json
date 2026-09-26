@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T05:07:56Z",
+ "generated_at": "2026-09-26T11:32:57Z",
  "ok": 26,
  "fail": 26,
  "sources": [
@@ -66,7 +66,7 @@
    "s": "podcast",
    "feed": "https://feeds.simplecast.com/ibBxsiVV",
    "ok": true,
-   "count": 444
+   "count": 445
   },
   {
    "n": "イーサン・モリック",
@@ -217,9 +217,9 @@
    "s": "blog",
    "feed": "https://marginalrevolution.com/feed",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "dropped": {
-    "著者条件に一致せず": 2
+    "著者条件に一致せず": 1
    }
   },
   {

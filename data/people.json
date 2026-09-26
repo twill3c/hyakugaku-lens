@@ -1496,6 +1496,12 @@
   "own": [
    {
     "d": "2026-09-26",
+    "t": "Should you text more?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-text-more",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-26",
     "t": "A doomsday scenario for American AI",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/a-doomsday-scenario-for-american-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-doomsday-scenario-for-american-ai",
     "s": "blog"
@@ -1504,12 +1510,6 @@
     "d": "2026-09-25",
     "t": "Good points from James Gilliland",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/good-points-from-james-gilliland.html?utm_source=rss&utm_medium=rss&utm_campaign=good-points-from-james-gilliland",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-25",
-    "t": "Friday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-592.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-592",
     "s": "blog"
    }
   ],
@@ -3155,6 +3155,12 @@
   "pub": [],
   "yt": [
    {
+    "d": "2026-09-26",
+    "t": "The UN at a crossroads, with Secretary-General António Guterres",
+    "u": "https://gzeroworld.simplecast.com/episodes/the-un-at-a-crossroads-with-secretary-general-antonio-guterres-88ZhfX3q",
+    "s": "podcast"
+   },
+   {
     "d": "2026-09-20",
     "t": "How AI could make the next global catastrophe easier | GZERO World with Ian Bremmer",
     "u": "https://www.youtube.com/watch?v=9Zd932hFQSk",
@@ -3166,13 +3172,6 @@
     "t": "Bioweapons, AI, and the end of the world, with Annie Jacobsen",
     "u": "https://gzeroworld.simplecast.com/episodes/bioweapons-ai-and-the-end-of-the-world-with-annie-jacobsen-161daLsy",
     "s": "podcast"
-   },
-   {
-    "d": "2026-09-16",
-    "t": "Ian Bremmer Decodes BRICS Declaration, Modi-Xi Reset & Trump's Midterm Polls Bid",
-    "u": "https://www.youtube.com/watch?v=6aviGj9fmtw",
-    "s": "yt",
-    "o": "CNBC-TV18"
    }
   ]
  },
