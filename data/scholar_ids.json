@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T00:07:56Z",
+ "generated_at": "2026-09-26T23:50:59Z",
  "declared": 99,
  "verified": 87,
  "unreachable": 0,
@@ -1651,9 +1651,9 @@
     {
      "id": "A5111726217",
      "display_name": "Byung-Ho Song",
-     "works_count": 55,
+     "works_count": 78,
      "inst_hit": [],
-     "domain_ok": true,
+     "domain_ok": false,
      "ok": false
     },
     {
@@ -2941,7 +2941,7 @@
     {
      "id": "A5074481124",
      "display_name": "Richard Baldwin",
-     "works_count": 752,
+     "works_count": 717,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -2965,7 +2965,7 @@
     {
      "id": "A5056783460",
      "display_name": "Richard Baldwin",
-     "works_count": 19,
+     "works_count": 18,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -6681,7 +6681,7 @@
     {
      "id": "A5110092412",
      "display_name": "Martin John Rees",
-     "works_count": 889,
+     "works_count": 911,
      "inst_hit": [
       "Cambridge"
      ],
@@ -6691,7 +6691,7 @@
     {
      "id": "A5090248780",
      "display_name": "Robert Martin Rees",
-     "works_count": 358,
+     "works_count": 357,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6739,9 +6739,9 @@
      "ok": false
     },
     {
-     "id": "A5041861902",
-     "display_name": "MARTIN REES",
-     "works_count": 1,
+     "id": "A5017831641",
+     "display_name": "Martin Rees-Milton",
+     "works_count": 2,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6854,7 +6854,7 @@
     {
      "id": "A5075965119",
      "display_name": "Amy Webb",
-     "works_count": 209,
+     "works_count": 207,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6917,7 +6917,7 @@
     {
      "id": "A5110570423",
      "display_name": "Hiroki Azuma",
-     "works_count": 37,
+     "works_count": 36,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -7147,7 +7147,7 @@
     {
      "id": "A5005533360",
      "display_name": "Takayuki Suzuki",
-     "works_count": 700,
+     "works_count": 697,
      "inst_hit": [
       "University of Tokyo"
      ],
@@ -7279,7 +7279,7 @@
     {
      "id": "A5085562387",
      "display_name": "Hiroshi Toya",
-     "works_count": 31,
+     "works_count": 30,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -7303,7 +7303,15 @@
     {
      "id": "A5149922690",
      "display_name": "Hiroshi Toya",
-     "works_count": 20,
+     "works_count": 22,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5152692980",
+     "display_name": "Hiroshi Toya",
+     "works_count": 2,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false

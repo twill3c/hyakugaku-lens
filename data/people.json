@@ -342,15 +342,15 @@
     "s": "paper"
    },
    {
+    "d": "2025-04-10",
+    "t": "Kultura świadomości",
+    "u": "https://doi.org/10.18778/8331-548-5",
+    "s": "book"
+   },
+   {
     "d": "2025-02-18",
     "t": "The Elephant and the Blind: The Experience of Pure Consciousness—Philosophy, Science, and 500+ Experiential Reports",
     "u": "https://doi.org/10.56315/pscf3-25metzinger",
-    "s": "paper"
-   },
-   {
-    "d": "2024-11-18",
-    "t": "Correction: The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of “pure awareness” experiences in meditators",
-    "u": "https://doi.org/10.1371/journal.pone.0314290",
     "s": "paper"
    }
   ],
@@ -666,6 +666,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-23",
+    "t": "Training Object Permanence in World Models",
+    "u": "https://doi.org/10.48550/arxiv.2609.28654",
+    "s": "paper"
+   },
+   {
     "d": "2026-09-01",
     "t": "Organ donation and brain preservation after assisted dying: case report and considerations for a potential pathway",
     "u": "https://doi.org/10.1186/s12910-026-01586-1",
@@ -675,12 +681,6 @@
     "d": "2026-08-26",
     "t": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
     "u": "https://doi.org/10.48550/arxiv.2608.26105",
-    "s": "paper"
-   },
-   {
-    "d": "2026-07-07",
-    "t": "Listen to Gen Z when it comes to AI in education",
-    "u": "https://doi.org/10.1038/d41586-026-02110-6",
     "s": "paper"
    }
   ],
@@ -794,21 +794,21 @@
   "own": [],
   "pub": [
    {
-    "d": "2024-01-01",
-    "t": "An Interview with Andrew Feenberg",
-    "u": "https://doi.org/10.5840/harvardreview2024313",
-    "s": "paper"
+    "d": "2026-09-18",
+    "t": "Marcuse on science and experience",
+    "u": "https://doi.org/10.4337/9781800373761.00026",
+    "s": "book"
    },
    {
-    "d": "2023-12-18",
-    "t": "Marx según Marcuse",
-    "u": "https://doi.org/10.26754/ojs_arif/arif.202329925",
-    "s": "paper"
+    "d": "2024-09-02",
+    "t": "Marcuse's Critique of Technology Today1",
+    "u": "https://doi.org/10.4324/9781003381020-7",
+    "s": "book"
    },
    {
-    "d": "2023-06-01",
-    "t": "Marxism and formalism: On Ian Angus’s Groundwork of Phenomenological Marxism",
-    "u": "https://doi.org/10.1177/07255136231182221",
+    "d": "2024-06-21",
+    "t": "Sobre ciência e experiência, em Marcuse",
+    "u": "https://doi.org/10.69640/raf.v19i35.7411",
     "s": "paper"
    }
   ],
@@ -989,22 +989,22 @@
   "own": [],
   "pub": [
    {
-    "d": "2025-12-31",
-    "t": "Reading Spinoza Now: An Exchange with Genevieve Lloyd",
-    "u": "https://doi.org/10.21827/jss.4.2.43181",
-    "s": "paper"
-   },
-   {
-    "d": "2025-08-04",
-    "t": "Posthuman Ethics for AI",
-    "u": "https://doi.org/10.1007/s11673-025-10447-2",
-    "s": "paper"
-   },
-   {
-    "d": "2025-06-20",
-    "t": "Conclusion: (Infra)Structures for the Convergences",
-    "u": "https://doi.org/10.1515/9781399512688-019",
+    "d": "2026-08-14",
+    "t": "Posthuman Feminism",
+    "u": "https://doi.org/10.4324/9781003783862-3",
     "s": "book"
+   },
+   {
+    "d": "2026-01-09",
+    "t": "Introduction: Dutch Treats and Other Strangers",
+    "u": "https://doi.org/10.4324/9781003737254-1",
+    "s": "book"
+   },
+   {
+    "d": "2026-01-01",
+    "t": "Posthuman Humanities: Life beyond Theory",
+    "u": "https://doi.org/10.5040/9781839026607.ch-21",
+    "s": "paper"
    }
   ],
   "yt": [
@@ -1048,15 +1048,15 @@
     "s": "paper"
    },
    {
-    "d": "2025-11-19",
-    "t": "Planetary Sapience Symposium",
-    "u": "https://doi.org/10.1162/anti.5d0a",
+    "d": "2026-06-04",
+    "t": "Review of: \"Knowledge and Communication with AI\"",
+    "u": "https://doi.org/10.32388/wu1nu2",
     "s": "paper"
    },
    {
-    "d": "2025-05-04",
-    "t": "Modes of Cognition: Implications for Large Language Models",
-    "u": "https://doi.org/10.1162/anti.5czf",
+    "d": "2026-03-05",
+    "t": "»When Your Democracy Is on Fire, It’s All Hands on Deck«",
+    "u": "https://doi.org/10.1515/jlt-2026-2004",
     "s": "paper"
    }
   ],
@@ -1109,7 +1109,7 @@
    {
     "d": "2025-01-02",
     "t": "Pourquoi diable n’es‑tu plus là, Bruno ?",
-    "u": "https://doi.org/10.3917/mult.097.sa16.art16",
+    "u": "https://doi.org/10.3917/mult.id3663322127762.pu2024-04s.sa16.art16",
     "s": "paper"
    }
   ],
@@ -1219,21 +1219,21 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-08-23",
+    "t": "Replication data for: The Colonial Origins of Comparative Development: An Empirical Investigation: Reply",
+    "u": "https://doi.org/10.3886/e112564v1-208961",
+    "s": "paper"
+   },
+   {
     "d": "2026-08-21",
     "t": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
     "u": "https://doi.org/10.1038/d41586-026-02566-6",
     "s": "paper"
    },
    {
-    "d": "2026-06-29",
-    "t": "AI’s biggest secret: we can shape it",
-    "u": "https://doi.org/10.18559/ebr.2026.2.4267",
-    "s": "paper"
-   },
-   {
-    "d": "2026-06-15",
-    "t": "Online Business Models, Digital Ads, and User Welfare",
-    "u": "https://doi.org/10.1086/742715",
+    "d": "2026-08-01",
+    "t": "Where the Grass Seems Greener: Economic Misperceptions and Support for Democracy",
+    "u": "https://doi.org/10.3386/w35644",
     "s": "paper"
    }
   ],
@@ -1403,15 +1403,15 @@
     "s": "paper"
    },
    {
-    "d": "2025-01-01",
-    "t": "Institutions, Innovation, and the Fragility of Technological Progress",
-    "u": "https://doi.org/10.64240/a5ad9fe38a",
+    "d": "2026-01-28",
+    "t": "Death of distance? Remote collaboration and scientific breakthroughs",
+    "u": "https://doi.org/10.1093/icc/dtag012",
     "s": "paper"
    },
    {
-    "d": "2024-04-02",
-    "t": "Robots and reshoring: a comparative study of automation, trade, and employment in Europe",
-    "u": "https://doi.org/10.1093/icc/dtae012",
+    "d": "2025-01-01",
+    "t": "Institutions, Innovation, and the Fragility of Technological Progress",
+    "u": "https://doi.org/10.64240/a5ad9fe38a",
     "s": "paper"
    }
   ],
@@ -1633,22 +1633,22 @@
   ],
   "pub": [
    {
+    "d": "2026-07-30",
+    "t": "The Myth of Treasury Control:Understanding the UK’s Public Spending System (and How to Fix It)",
+    "u": "https://doi.org/10.17863/cam.132051",
+    "s": "paper"
+   },
+   {
+    "d": "2026-07-30",
+    "t": "The Myth of Treasury Control:: What’s Wrong with the UK’s Public Spending System and How to Fix It",
+    "u": "https://openalex.org/W7212095938",
+    "s": "paper"
+   },
+   {
     "d": "2026-07-20",
     "t": "Code, capital, and clusters: understanding firm performance in the UK AI economy",
     "u": "https://doi.org/10.1038/s44387-026-00140-z",
     "s": "paper"
-   },
-   {
-    "d": "2026-06-15",
-    "t": "The Inefficiency of Treasury ‘Input Control’ in Performance Budgeting",
-    "u": "https://doi.org/10.1093/9780198937784.003.0008",
-    "s": "book"
-   },
-   {
-    "d": "2026-06-15",
-    "t": "Treasury Control, Fragmented Governance, and the Incoherent State",
-    "u": "https://doi.org/10.1093/9780198937784.003.0003",
-    "s": "book"
    }
   ],
   "yt": [
@@ -1718,9 +1718,9 @@
     "s": "paper"
    },
    {
-    "d": "2026-03-01",
+    "d": "2026-03-25",
     "t": "What Makes New Work Different from More Work?",
-    "u": "https://doi.org/10.3386/w34986",
+    "u": "https://doi.org/10.65864/lz4ksl67lj",
     "s": "paper"
    }
   ],
@@ -2093,15 +2093,15 @@
     "s": "paper"
    },
    {
-    "d": "2025-06-06",
-    "t": "O que os juristas querem da história",
-    "u": "https://doi.org/10.21708/issn2526-9488.v9.n17.p1-11.2025",
+    "d": "2026-01-01",
+    "t": "From Off the Wall to On the Wall: How Social Power Shapes Legal Reason",
+    "u": "https://doi.org/10.2139/ssrn.7174099",
     "s": "paper"
    },
    {
-    "d": "2025-06-01",
-    "t": "Moody v. NetChoice: The Supreme Court Meets the Free Speech Triangle",
-    "u": "https://doi.org/10.1086/735007",
+    "d": "2026-01-01",
+    "t": "Technology and Constitutional Rot",
+    "u": "https://doi.org/10.2139/ssrn.7292138",
     "s": "paper"
    }
   ],
@@ -2472,22 +2472,22 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-04-01",
+    "t": "“Be Careful With Each Other,” and Other Lessons for Liberation",
+    "u": "https://doi.org/10.4324/9781003615651-33",
+    "s": "book"
+   },
+   {
+    "d": "2026-02-10",
+    "t": "Imagining, Critiquing, and Doing: An Interview with Ruha Benjamin",
+    "u": "https://doi.org/10.60923/issn.2038-3460/23219",
+    "s": "paper"
+   },
+   {
     "d": "2022-08-18",
     "t": "Automating Racial Alibis",
     "u": "https://doi.org/10.1093/oxfordhb/9780190947385.013.43",
     "s": "book"
-   },
-   {
-    "d": "2016-06-17",
-    "t": "Racial Fictions, Biological Facts: Expanding the Sociological Imagination through Speculative Methods",
-    "u": "https://doi.org/10.28968/cftt.v2i2.28798",
-    "s": "paper"
-   },
-   {
-    "d": "2015-12-15",
-    "t": "Book Review: Body and Soul: The Black Panther Party and the Fight against Medical Discrimination",
-    "u": "https://doi.org/10.1177/0160597615621597",
-    "s": "paper"
    }
   ],
   "yt": []
@@ -2742,8 +2742,8 @@
    },
    {
     "d": "2025-10-01",
-    "t": "Decentralized Online Social Networks: Technological and Organizational Choices and Their Public Value Tradeoffs",
-    "u": "https://doi.org/10.5117/9789048562718-1",
+    "t": "YouTube beyond technology and cultural form",
+    "u": "https://doi.org/10.4324/9781003690559-13",
     "s": "book"
    }
   ],
@@ -3419,6 +3419,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2025-08-26",
+    "t": "“Technology, Pluralism, and Cosmopolitanism: Amidst the Return of Tribalism”",
+    "u": "https://doi.org/10.1515/9783111674988-025",
+    "s": "book"
+   },
+   {
     "d": "2025-03-06",
     "t": "DOGE threat: How government data would give an AI company extraordinary power",
     "u": "https://doi.org/10.64628/aai.cfp4694r9",
@@ -3428,12 +3434,6 @@
     "d": "2025-02-07",
     "t": "Efficiency − or empire? How Elon Musk’s hostile takeover could end government as we know it",
     "u": "https://doi.org/10.64628/aai.scqed6kj4",
-    "s": "paper"
-   },
-   {
-    "d": "2025-01-28",
-    "t": "A roadmap for governing AI: technology governance and power-sharing liberalism",
-    "u": "https://doi.org/10.1007/s43681-024-00635-y",
     "s": "paper"
    }
   ],
