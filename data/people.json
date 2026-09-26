@@ -575,6 +575,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-08-20",
+    "t": "Technology is not a replacement for democracy The Rise and Fall of the Artificial State Jill Lepore Liveright, 2026. 336 pp.",
+    "u": "https://doi.org/10.1126/science.aej1046",
+    "s": "paper"
+   },
+   {
     "d": "2026-07-29",
     "t": "Is a new world order taking shape in the age of AI? Mapping the global distribution of AI readiness and its implications for diplomacy and global order",
     "u": "https://doi.org/10.3389/fpos.2026.1888614",
@@ -584,12 +590,6 @@
     "d": "2026-04-13",
     "t": "The Accuracy-Explainability Trade-off, the Right to Explanation, and the Implications for Organisations",
     "u": "https://doi.org/10.1007/s10551-026-06305-9",
-    "s": "paper"
-   },
-   {
-    "d": "2025-10-24",
-    "t": "Zumbis morais",
-    "u": "https://doi.org/10.65253/conexoes.2.2025",
     "s": "paper"
    }
   ],
@@ -635,21 +635,21 @@
   ],
   "pub": [
    {
+    "d": "2026-07-29",
+    "t": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+    "u": "https://doi.org/10.48550/arxiv.2607.27191",
+    "s": "paper"
+   },
+   {
     "d": "2026-07-15",
     "t": "Discerning What Matters: A Multi-Dimensional Assessment of Moral Competence in LLMs",
     "u": "https://doi.org/10.1609/iaseai.v2i1.43035",
     "s": "paper"
    },
    {
-    "d": "2026-01-01",
-    "t": "Legal Alignment for Safe and Ethical AI",
-    "u": "https://doi.org/10.2139/ssrn.6036657",
-    "s": "paper"
-   },
-   {
-    "d": "2025-10-15",
-    "t": "The AI Power Disparity Index: Toward a Compound Measure of AI Actors’ Power to Shape the AI Ecosystem",
-    "u": "https://doi.org/10.1609/aies.v8i2.36645",
+    "d": "2026-07-09",
+    "t": "Artificial Persons",
+    "u": "https://doi.org/10.48550/arxiv.2607.08695",
     "s": "paper"
    }
   ],
@@ -672,15 +672,15 @@
     "s": "paper"
    },
    {
-    "d": "2026-07-07",
-    "t": "Listen to Gen Z when it comes to AI in education",
-    "u": "https://doi.org/10.1038/d41586-026-02110-6",
+    "d": "2026-08-26",
+    "t": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+    "u": "https://doi.org/10.48550/arxiv.2608.26105",
     "s": "paper"
    },
    {
-    "d": "2026-01-01",
-    "t": "Editorial Note",
-    "u": "https://openalex.org/W7164452138",
+    "d": "2026-07-07",
+    "t": "Listen to Gen Z when it comes to AI in education",
+    "u": "https://doi.org/10.1038/d41586-026-02110-6",
     "s": "paper"
    }
   ],
@@ -896,15 +896,15 @@
     "s": "book"
    },
    {
-    "d": "2026-07-09",
-    "t": "Réflexions sur l’ontologie dans Émergences de Maurizio Ferraris",
-    "u": "https://openalex.org/W7168115755",
+    "d": "2026-01-01",
+    "t": "Default-mode network activity is retained in the isolated hemisphere of people after hemispherotomy",
+    "u": "https://doi.org/10.1093/braincomms/fcag211",
     "s": "paper"
    },
    {
     "d": "2026-01-01",
-    "t": "Default-mode network activity is retained in the isolated hemisphere of people after hemispherotomy",
-    "u": "https://doi.org/10.1093/braincomms/fcag211",
+    "t": "Réflexions sur l’ontologie dans Émergences de Maurizio Ferraris",
+    "u": "https://doi.org/10.4000/16jh6",
     "s": "paper"
    }
   ],
@@ -1001,9 +1001,9 @@
     "s": "paper"
    },
    {
-    "d": "2024-02-29",
-    "t": "Foreword: A Becoming-world of Collective Knowledge Practices",
-    "u": "https://doi.org/10.1515/9781399530071-002",
+    "d": "2025-06-20",
+    "t": "Conclusion: (Infra)Structures for the Convergences",
+    "u": "https://doi.org/10.1515/9781399512688-019",
     "s": "book"
    }
   ],
@@ -1134,9 +1134,9 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-03-19",
+    "d": "2026-03-21",
     "t": "Agentic AI and the next intelligence explosion",
-    "u": "https://doi.org/10.1126/science.aeg1895",
+    "u": "https://doi.org/10.48550/arxiv.2603.20639",
     "s": "paper"
    },
    {
@@ -1806,7 +1806,7 @@
    {
     "d": "2026-01-01",
     "t": "O-Ring Automation",
-    "u": "https://doi.org/10.2139/ssrn.6019718",
+    "u": "https://doi.org/10.3386/w34639",
     "s": "paper"
    },
    {
@@ -2157,10 +2157,10 @@
     "s": "paper"
    },
    {
-    "d": "2024-02-09",
-    "t": "1 A Coup in Search of a Legal Theory",
-    "u": "https://doi.org/10.12987/9780300277524-002",
-    "s": "book"
+    "d": "2025-04-01",
+    "t": "Deliberative Approaches to Inclusive Governance: An Essay Series",
+    "u": "https://doi.org/10.66536/deliberative-governance_2025",
+    "s": "paper"
    }
   ],
   "yt": [
@@ -2259,21 +2259,21 @@
   "own": [],
   "pub": [
    {
-    "d": "2025-11-13",
-    "t": "On Law’s Governance of Technology",
-    "u": "https://doi.org/10.1017/9781009522519.005",
+    "d": "2026-01-01",
+    "t": "Positive Thinking",
+    "u": "https://doi.org/10.1007/978-3-032-10771-8_8",
     "s": "book"
    },
    {
-    "d": "2025-09-05",
-    "t": "Just Hallucinations? The Problem of AI Literacy with a New Digital Divide",
-    "u": "https://doi.org/10.1007/978-3-032-01429-0_18",
-    "s": "paper"
+    "d": "2026-01-01",
+    "t": "Paths to Rebellion",
+    "u": "https://doi.org/10.1007/978-3-032-10771-8_10",
+    "s": "book"
    },
    {
-    "d": "2025-07-17",
-    "t": "1Introduction",
-    "u": "https://doi.org/10.1515/9783111346632-001",
+    "d": "2026-01-01",
+    "t": "A Legal Death",
+    "u": "https://doi.org/10.1007/978-3-032-10771-8_4",
     "s": "book"
    }
   ],
@@ -2572,6 +2572,12 @@
   ],
   "pub": [
    {
+    "d": "2025-11-18",
+    "t": "AI has a democracy problem — here’s why",
+    "u": "https://doi.org/10.1038/d41586-025-03718-w",
+    "s": "paper"
+   },
+   {
     "d": "2020-08-14",
     "t": "Policy Analysis: Participatory Policy Analysis",
     "u": "https://doi.org/10.1081/e-epap3-464",
@@ -2582,12 +2588,6 @@
     "t": "La automatización de los prejuicios",
     "u": "https://openalex.org/W2949618863",
     "s": "paper"
-   },
-   {
-    "d": "2018-06-15",
-    "t": "Reclaiming our data: interim report, Detroit",
-    "u": "https://openalex.org/W2887275346",
-    "s": "book"
    }
   ],
   "yt": [
@@ -3554,6 +3554,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-24",
+    "t": "The Great and Good John Flavell",
+    "u": "https://doi.org/10.1080/15248372.2026.2735255",
+    "s": "paper"
+   },
+   {
     "d": "2026-09-02",
     "t": "What Is Worth Representing? Representational Empowerment for Continual Model Construction",
     "u": "https://doi.org/10.48550/arxiv.2609.02322",
@@ -3563,12 +3569,6 @@
     "d": "2026-06-17",
     "t": "Preschoolers search semantic networks in a broader and more variable way than adults: Implications for hypothesis generation",
     "u": "https://doi.org/10.31234/osf.io/qpj6n_v2",
-    "s": "paper"
-   },
-   {
-    "d": "2026-06-04",
-    "t": "Human Adults and LLMs as Scientists: Who Benefits from Active Exploration?",
-    "u": "https://doi.org/10.48550/arxiv.2606.06464",
     "s": "paper"
    }
   ],
@@ -4153,21 +4153,21 @@
   "own": [],
   "pub": [
    {
-    "d": "2008-12-01",
-    "t": "Twisted Diet: A Failure in Legislating Politics in Japan",
-    "u": "https://doi.org/10.1080/17521467.2008.11424681",
+    "d": "2024-01-25",
+    "t": "AI and Judiciary Decisions",
+    "u": "https://doi.org/10.1201/9781003320791-16",
+    "s": "book"
+   },
+   {
+    "d": "2024-01-01",
+    "t": "イノベーションガバナンスにおける法理論の再構築 : 消費者・競争・情報政策の交錯",
+    "u": "https://openalex.org/W7208526409",
     "s": "paper"
    },
    {
-    "d": "2008-09-01",
-    "t": "On the scarcity of civil litigation in Japan: Two different approaches and more",
-    "u": "https://doi.org/10.1556/ajur.49.2008.3.9",
-    "s": "paper"
-   },
-   {
-    "d": "2006-01-01",
-    "t": "Flaming, balkanization, and \"Burning-up\": The modern bandits haunting the Internet",
-    "u": "https://openalex.org/W2597136736",
+    "d": "2018-01-01",
+    "t": "法システムの変容と統治機構論への影響",
+    "u": "https://openalex.org/W7139407321",
     "s": "paper"
    }
   ],
@@ -4221,15 +4221,15 @@
     "s": "paper"
    },
    {
-    "d": "2020-05-01",
-    "t": "検索エンシンをめくる表現の自由と人格権 : 平成29年最高裁決定及び同決定以降の検索結果削除に関する裁判例の検討",
-    "u": "https://openalex.org/W7145469791",
+    "d": "2024-06-01",
+    "t": "2023年度メディア判例回顧 価値観の変容と報道をめぐる裁判 : 差別・宗教・SNSに関わる事件",
+    "u": "https://openalex.org/W7208274430",
     "s": "paper"
    },
    {
-    "d": "2016-11-15",
-    "t": "ネット監視・プライバシー・表現の自由",
-    "u": "https://openalex.org/W7208349387",
+    "d": "2020-05-01",
+    "t": "検索エンシンをめくる表現の自由と人格権 : 平成29年最高裁決定及び同決定以降の検索結果削除に関する裁判例の検討",
+    "u": "https://openalex.org/W7145469791",
     "s": "paper"
    }
   ],
