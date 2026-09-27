@@ -1752,12 +1752,6 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-09-08",
-    "t": "Effects of oxygenated biofuel blends on fuel-air mixture preparation, combustion and soot formation at diesel-like ambient conditions",
-    "u": "https://doi.org/10.1016/j.fuel.2026.141184",
-    "s": "paper"
-   },
-   {
     "d": "2026-01-01",
     "t": "The Economics of Transformative AI",
     "u": "https://doi.org/10.7208/chicago/9780226854090.001.0001",
@@ -1767,6 +1761,12 @@
     "d": "2026-01-01",
     "t": "Enhancing Worker Productivity Without Automating Tasks: A Different Approach to AI and the Task-Based Model",
     "u": "https://doi.org/10.2139/ssrn.6167292",
+    "s": "paper"
+   },
+   {
+    "d": "2025-10-01",
+    "t": "Genius on Demand: The Value of Transformative Artificial Intelligence",
+    "u": "https://doi.org/10.3386/w34316",
     "s": "paper"
    }
   ],
@@ -2291,21 +2291,21 @@
   "own": [],
   "pub": [
    {
-    "d": "2025-03-20",
-    "t": "Process-Thinking and Outcome-Thinking",
-    "u": "https://doi.org/10.1093/oso/9780198941927.003.0004",
+    "d": "2026-08-17",
+    "t": "Law’s Future",
+    "u": "https://doi.org/10.1093/9780197919118.003.0013",
     "s": "book"
    },
    {
-    "d": "2025-03-20",
-    "t": "Automation, Innovation, Elimination",
-    "u": "https://doi.org/10.1093/oso/9780198941927.003.0007",
-    "s": "book"
+    "d": "2026-08-17",
+    "t": "Preface to 30th Anniversary Edition",
+    "u": "https://doi.org/10.1093/9780197919118.002.0006",
+    "s": "paper"
    },
    {
-    "d": "2023-02-23",
-    "t": "Introduction",
-    "u": "https://doi.org/10.1093/9780192864727.003.0001",
+    "d": "2026-08-17",
+    "t": "Law as Information",
+    "u": "https://doi.org/10.1093/9780197919118.003.0005",
     "s": "book"
    }
   ],
@@ -3023,21 +3023,21 @@
   ],
   "pub": [
    {
+    "d": "2025-12-16",
+    "t": "The Politics of Consciousness",
+    "u": "https://doi.org/10.7551/mitpress/14600.003.0009",
+    "s": "book"
+   },
+   {
     "d": "2025-10-14",
     "t": "The Legend of Peugeot (From Sapiens: A Brief History of Humankind)",
     "u": "https://doi.org/10.4324/9781003440987-13",
     "s": "book"
    },
    {
-    "d": "2025-01-01",
-    "t": "How to Write an Amulet: The Book of Amulets by R. Moses Zacuto",
-    "u": "https://doi.org/10.13173/9783447124782.185",
-    "s": "book"
-   },
-   {
-    "d": "2024-05-20",
-    "t": "Managing extreme AI risks amid rapid progress",
-    "u": "https://doi.org/10.1126/science.adn0117",
+    "d": "2025-03-14",
+    "t": "Nexus",
+    "u": "https://doi.org/10.3917/riges.501.0112",
     "s": "paper"
    }
   ],

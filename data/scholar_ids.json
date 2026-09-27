@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T23:50:59Z",
+ "generated_at": "2026-09-27T23:55:58Z",
  "declared": 99,
  "verified": 87,
  "unreachable": 0,
@@ -1627,23 +1627,7 @@
     {
      "id": "A5012747203",
      "display_name": "Byung-Chul Han",
-     "works_count": 58,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
-     "id": "A5038291668",
-     "display_name": "Byung-Chul Han",
-     "works_count": 6,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
-     "id": "A5061191853",
-     "display_name": "Byung-Chul Han",
-     "works_count": 2,
+     "works_count": 74,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -1686,6 +1670,22 @@
      "works_count": 17,
      "inst_hit": [],
      "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5129498885",
+     "display_name": "Byung-Chul Han",
+     "works_count": 23,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5100040800",
+     "display_name": "Olivier Mannoni Byung-Chul Han",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": true,
      "ok": false
     }
    ]
@@ -2941,7 +2941,7 @@
     {
      "id": "A5074481124",
      "display_name": "Richard Baldwin",
-     "works_count": 717,
+     "works_count": 719,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -2997,7 +2997,7 @@
     {
      "id": "A5058474194",
      "display_name": "R. Madey",
-     "works_count": 395,
+     "works_count": 402,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6838,7 +6838,7 @@
     {
      "id": "A5037194368",
      "display_name": "Amy Webb Girard",
-     "works_count": 283,
+     "works_count": 330,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -6876,17 +6876,17 @@
      "ok": false
     },
     {
-     "id": "A5113805471",
-     "display_name": "Amy Webb Girard",
-     "works_count": 47,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
      "id": "A5019144889",
      "display_name": "Amy Webb",
      "works_count": 5,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5149570051",
+     "display_name": "Aaron Webb",
+     "works_count": 38,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7285,6 +7285,14 @@
      "ok": false
     },
     {
+     "id": "A5152692980",
+     "display_name": "Hiroshi Toya",
+     "works_count": 2,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
      "id": "A5084596764",
      "display_name": "Hiroshi Toya",
      "works_count": 2,
@@ -7304,14 +7312,6 @@
      "id": "A5149922690",
      "display_name": "Hiroshi Toya",
      "works_count": 22,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
-     "id": "A5152692980",
-     "display_name": "Hiroshi Toya",
-     "works_count": 2,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
