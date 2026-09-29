@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-29T13:03:26Z",
- "ok": 26,
- "fail": 26,
+ "generated_at": "2026-09-29T22:22:28Z",
+ "ok": 27,
+ "fail": 25,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -37,9 +37,8 @@
    "n": "イアン・ゴールディン",
    "s": "blog",
    "feed": "https://iangoldin.org/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 10
   },
   {
    "n": "イアン・ゴールディン",
@@ -57,9 +56,9 @@
    "s": "blog",
    "feed": "https://www.gzeromedia.com/feeds/feed.rss",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "dropped": {
-    "著者条件に一致せず": 27
+    "著者条件に一致せず": 28
    }
   },
   {
