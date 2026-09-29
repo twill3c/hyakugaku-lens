@@ -94,9 +94,9 @@
     "s": "paper"
    },
    {
-    "d": "2026-07-20",
-    "t": "Microtransactions and cybercrime: How to improve video game ecosystem security",
-    "u": "https://doi.org/10.1016/j.cose.2026.105071",
+    "d": "2026-07-31",
+    "t": "Digital Vulnerabilities in the Age of AI: A Multi-Level Analysis",
+    "u": "https://doi.org/10.1007/s13347-026-01150-0",
     "s": "paper"
    }
   ],
@@ -310,9 +310,9 @@
    },
    {
     "d": "2026-01-01",
-    "t": "Prophetic memory: AI intermediaries and the end of the world",
-    "u": "https://doi.org/10.1017/mem.2026.10028",
-    "s": "paper"
+    "t": "Cultural Robotics or Robocolonialism? Meaning, Narrative, and Power with Social Robots",
+    "u": "https://doi.org/10.1007/978-3-031-99290-2_4",
+    "s": "book"
    }
   ],
   "yt": [
@@ -769,15 +769,15 @@
     "s": "paper"
    },
    {
-    "d": "2025-06-27",
-    "t": "Appropriation of SMART Glasses",
-    "u": "https://doi.org/10.46364/ejwi.v10i1.1453",
+    "d": "2025-12-01",
+    "t": "Animal Technics: A Tribute to Don Ihde",
+    "u": "https://doi.org/10.1007/s13347-025-01002-3",
     "s": "paper"
    },
    {
-    "d": "2025-02-11",
-    "t": "Social Acceptance of Smart Glasses in Health Care: Model Evaluation Study of Anticipated Adoption and Social Interaction",
-    "u": "https://doi.org/10.2196/49610",
+    "d": "2025-06-27",
+    "t": "Appropriation of SMART Glasses",
+    "u": "https://doi.org/10.46364/ejwi.v10i1.1453",
     "s": "paper"
    }
   ],
@@ -941,7 +941,26 @@
   "h": "",
   "bio": "『疲労社会』『透明社会』で、規律社会から自己搾取する成果社会への移行を診断した哲学者。『Psychopolitics』ではビッグデータによる支配を、外からの規律ではなく自由を装った心理的操作として描く。『Infocracy』では情報体制が民主主義を侵食する構図を論じる。公的な露出を意図的に避けることで知られる。",
   "own": [],
-  "pub": [],
+  "pub": [
+   {
+    "d": "2023-01-01",
+    "t": "Nie(do)rzeczy",
+    "u": "https://doi.org/10.18778/8331-262-0",
+    "s": "book"
+   },
+   {
+    "d": "2022-10-05",
+    "t": "Pour un tournant radical",
+    "u": "https://doi.org/10.3917/soci.vion.2022.01.0132",
+    "s": "book"
+   },
+   {
+    "d": "2020-08-26",
+    "t": "The Society of Control",
+    "u": "https://doi.org/10.1515/9780804797511-010",
+    "s": "book"
+   }
+  ],
   "yt": []
  },
  {
@@ -3152,7 +3171,26 @@
     "s": "blog"
    }
   ],
-  "pub": [],
+  "pub": [
+   {
+    "d": "2025-12-07",
+    "t": "NO END IN SIGHT",
+    "u": "https://doi.org/10.21557/dsp.112168161",
+    "s": "paper"
+   },
+   {
+    "d": "2020-01-01",
+    "t": "¿Cuán diferente será el mundo tras la COVID-19?",
+    "u": "https://openalex.org/W3103310867",
+    "s": "paper"
+   },
+   {
+    "d": "2019-08-21",
+    "t": "South Africa’s Troubled Success Story",
+    "u": "https://doi.org/10.4324/9780429333149-1",
+    "s": "book"
+   }
+  ],
   "yt": [
    {
     "d": "2026-09-26",
@@ -3790,15 +3828,15 @@
     "s": "paper"
    },
    {
-    "d": "2026-03-01",
-    "t": "Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of Artificial Intelligence on Knowledge Worker Productivity and Quality",
-    "u": "https://doi.org/10.1287/orsc.2025.21838",
+    "d": "2026-07-22",
+    "t": "Artificial intelligence and its impact on creativity and diversity: An empirical study of large language model-generated product ideas",
+    "u": "https://doi.org/10.1177/10591478261474243",
     "s": "paper"
    },
    {
-    "d": "2026-01-01",
-    "t": "Prompting Science Report 5: This is an Excellent Paper: The Effects of Prompt Injection on Grading",
-    "u": "https://doi.org/10.2139/ssrn.6510758",
+    "d": "2026-06-12",
+    "t": "The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork",
+    "u": "https://doi.org/10.1287/orsc.2025.20702",
     "s": "paper"
    }
   ],
@@ -3903,7 +3941,26 @@
   "h": "https://researchmap.jp/read0053619",
   "bio": "『不可能性の時代』『資本主義の〈その先〉へ』などで、社会システムを第三者の審級という概念から一貫して読み解いてきた社会学者。AIについては、資本主義と技術が人間の主体性をどう再編するかという大きな理論枠のなかで論じ、シンギュラリティ論の宗教的な構造にも批評の目を向ける。",
   "own": [],
-  "pub": [],
+  "pub": [
+   {
+    "d": "2025-03-05",
+    "t": "現代の社会学者が親鸞を読む──〈信楽〉の実践的含意──",
+    "u": "https://openalex.org/W7207978527",
+    "s": "paper"
+   },
+   {
+    "d": "2022-01-01",
+    "t": "【インタヴュー】大澤真幸「人間とAIの関係は神学的に規定されている」",
+    "u": "https://openalex.org/W7144500536",
+    "s": "paper"
+   },
+   {
+    "d": "2006-01-01",
+    "t": "The Otaku Enigma",
+    "u": "https://openalex.org/W2782662849",
+    "s": "paper"
+   }
+  ],
   "yt": [
    {
     "d": "2026-07-30",

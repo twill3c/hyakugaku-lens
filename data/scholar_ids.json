@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-27T23:55:58Z",
+ "generated_at": "2026-09-29T01:13:49Z",
  "declared": 99,
- "verified": 87,
+ "verified": 90,
  "unreachable": 0,
- "no_match": 12,
+ "no_match": 9,
  "results": [
   {
    "n": "ニック・ボストロム",
@@ -1622,20 +1622,22 @@
   {
    "n": "ビョンチョル・ハン",
    "q": "Byung-Chul Han",
-   "verified": false,
+   "verified": true,
    "tried": [
     {
      "id": "A5012747203",
      "display_name": "Byung-Chul Han",
      "works_count": 74,
-     "inst_hit": [],
+     "inst_hit": [
+      "Berlin"
+     ],
      "domain_ok": true,
-     "ok": false
+     "ok": true
     },
     {
      "id": "A5111726217",
      "display_name": "Byung-Ho Song",
-     "works_count": 78,
+     "works_count": 76,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -1643,7 +1645,7 @@
     {
      "id": "A5102819014",
      "display_name": "Byoung-Chul Kim",
-     "works_count": 91,
+     "works_count": 88,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -1651,7 +1653,7 @@
     {
      "id": "A5083968555",
      "display_name": "Chan-Jung Kim",
-     "works_count": 122,
+     "works_count": 118,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -1675,7 +1677,7 @@
     {
      "id": "A5129498885",
      "display_name": "Byung-Chul Han",
-     "works_count": 23,
+     "works_count": 17,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -1688,7 +1690,25 @@
      "domain_ok": true,
      "ok": false
     }
-   ]
+   ],
+   "openalex_id": "A5012747203",
+   "matched": {
+    "id": "A5012747203",
+    "display_name": "Byung-Chul Han",
+    "works_count": 74,
+    "institutions": [
+     "Berlin University of the Arts"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Berlin"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
   },
   {
    "n": "ロージ・ブライドッティ",
@@ -2941,7 +2961,7 @@
     {
      "id": "A5074481124",
      "display_name": "Richard Baldwin",
-     "works_count": 719,
+     "works_count": 705,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -2965,7 +2985,7 @@
     {
      "id": "A5056783460",
      "display_name": "Richard Baldwin",
-     "works_count": 18,
+     "works_count": 16,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -2989,7 +3009,7 @@
     {
      "id": "A5113838514",
      "display_name": "Robert Baldwin",
-     "works_count": 44,
+     "works_count": 43,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -2997,7 +3017,7 @@
     {
      "id": "A5058474194",
      "display_name": "R. Madey",
-     "works_count": 402,
+     "works_count": 401,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -5785,15 +5805,17 @@
   {
    "n": "イアン・ブレマー",
    "q": "Ian Bremmer",
-   "verified": false,
+   "verified": true,
    "tried": [
     {
      "id": "A5017243791",
      "display_name": "Ian Bremmer",
      "works_count": 118,
-     "inst_hit": [],
+     "inst_hit": [
+      "Columbia"
+     ],
      "domain_ok": true,
-     "ok": false
+     "ok": true
     },
     {
      "id": "A5082924077",
@@ -5803,7 +5825,28 @@
      "domain_ok": true,
      "ok": false
     }
-   ]
+   ],
+   "openalex_id": "A5017243791",
+   "matched": {
+    "id": "A5017243791",
+    "display_name": "Ian Bremmer",
+    "works_count": 118,
+    "institutions": [
+     "Hoover Institution",
+     "World Policy Institute",
+     "Columbia University",
+     "Stanford University"
+    ],
+    "domains": [
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Columbia"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
   },
   {
    "n": "ヘンリー・ファレル",
@@ -6681,7 +6724,7 @@
     {
      "id": "A5110092412",
      "display_name": "Martin John Rees",
-     "works_count": 911,
+     "works_count": 887,
      "inst_hit": [
       "Cambridge"
      ],
@@ -6691,7 +6734,7 @@
     {
      "id": "A5090248780",
      "display_name": "Robert Martin Rees",
-     "works_count": 357,
+     "works_count": 342,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6838,7 +6881,7 @@
     {
      "id": "A5037194368",
      "display_name": "Amy Webb Girard",
-     "works_count": 330,
+     "works_count": 329,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -6846,7 +6889,7 @@
     {
      "id": "A5111630906",
      "display_name": "Amy Webb",
-     "works_count": 22,
+     "works_count": 20,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6854,7 +6897,7 @@
     {
      "id": "A5075965119",
      "display_name": "Amy Webb",
-     "works_count": 207,
+     "works_count": 205,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6862,15 +6905,7 @@
     {
      "id": "A5082175645",
      "display_name": "Amy K. Webb",
-     "works_count": 19,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5016960273",
-     "display_name": "A. Alexander G. Webb",
-     "works_count": 140,
+     "works_count": 16,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6884,17 +6919,25 @@
      "ok": false
     },
     {
-     "id": "A5149570051",
-     "display_name": "Aaron Webb",
-     "works_count": 38,
+     "id": "A5028034749",
+     "display_name": "Amy Pieper Webb",
+     "works_count": 7,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5113077482",
+     "display_name": "Amy Caitlin Webb",
+     "works_count": 1,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
     },
     {
-     "id": "A5028034749",
-     "display_name": "Amy Pieper Webb",
-     "works_count": 7,
+     "id": "A5062634856",
+     "display_name": "A. E. H. Webb",
+     "works_count": 2,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -6917,7 +6960,7 @@
     {
      "id": "A5110570423",
      "display_name": "Hiroki Azuma",
-     "works_count": 36,
+     "works_count": 35,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -6967,17 +7010,39 @@
   {
    "n": "大澤真幸",
    "q": "Masachi Osawa",
-   "verified": false,
+   "verified": true,
    "tried": [
     {
      "id": "A5062061133",
      "display_name": "Masachi Osawa",
      "works_count": 6,
-     "inst_hit": [],
+     "inst_hit": [
+      "Chiba"
+     ],
      "domain_ok": true,
-     "ok": false
+     "ok": true
     }
-   ]
+   ],
+   "openalex_id": "A5062061133",
+   "matched": {
+    "id": "A5062061133",
+    "display_name": "Masachi Osawa",
+    "works_count": 6,
+    "institutions": [
+     "Chiba University",
+     "The University of Tokyo"
+    ],
+    "domains": [
+     "Physical Sciences",
+     "Social Sciences"
+    ],
+    "inst_hit": [
+     "Chiba"
+    ],
+    "domain_ok": true,
+    "ok": true
+   },
+   "ambiguous": false
   },
   {
    "n": "稲葉振一郎",
@@ -7139,25 +7204,15 @@
     {
      "id": "A5013833262",
      "display_name": "Takayuki Suzuki",
-     "works_count": 148,
+     "works_count": 146,
      "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5005533360",
-     "display_name": "Takayuki Suzuki",
-     "works_count": 697,
-     "inst_hit": [
-      "University of Tokyo"
-     ],
      "domain_ok": false,
      "ok": false
     },
     {
      "id": "A5068717853",
      "display_name": "Takayuki Suzuki",
-     "works_count": 302,
+     "works_count": 297,
      "inst_hit": [
       "University of Tokyo"
      ],
@@ -7167,15 +7222,25 @@
     {
      "id": "A5033049879",
      "display_name": "Takayuki Suzuki",
-     "works_count": 274,
+     "works_count": 264,
      "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5005533360",
+     "display_name": "Takayuki Suzuki",
+     "works_count": 670,
+     "inst_hit": [
+      "University of Tokyo"
+     ],
      "domain_ok": false,
      "ok": false
     },
     {
      "id": "A5108062903",
      "display_name": "Takayuki Suzuki",
-     "works_count": 110,
+     "works_count": 105,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7183,7 +7248,7 @@
     {
      "id": "A5057568759",
      "display_name": "Takayuki Suzuki",
-     "works_count": 82,
+     "works_count": 81,
      "inst_hit": [
       "University of Tokyo",
       "Nanzan"
@@ -7194,7 +7259,7 @@
     {
      "id": "A5103139019",
      "display_name": "Takayuki Suzuki",
-     "works_count": 58,
+     "works_count": 56,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7326,7 +7391,7 @@
     {
      "id": "A5069588895",
      "display_name": "Yuichiro Okamoto",
-     "works_count": 13,
+     "works_count": 11,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
