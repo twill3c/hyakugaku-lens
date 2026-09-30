@@ -102,6 +102,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-28",
+    "t": "Non esiste AI senza CAPITALE SEMANTICO | FILOSOFIA con Luciano Floridi",
+    "u": "https://www.youtube.com/watch?v=zdv9JLouC64",
+    "s": "yt",
+    "o": "ORBITS - Luciano Floridi"
+   },
+   {
     "d": "2026-09-14",
     "t": "A che cosa serve l'AI? | FILOSOFIA con Luciano Floridi",
     "u": "https://www.youtube.com/watch?v=2OrZ5FyjCVc",
@@ -114,13 +121,6 @@
     "u": "https://www.youtube.com/watch?v=fFi7MXiJoIo",
     "s": "yt",
     "o": "Il Libro Possibile "
-   },
-   {
-    "d": "2026-06-29",
-    "t": "Riscopriamo l'ONTOLOGIA per capire l'IA | FILOSOFIA con Luciano Floridi",
-    "u": "https://www.youtube.com/watch?v=6fFy8RqlSug",
-    "s": "yt",
-    "o": "ORBITS - Luciano Floridi"
    }
   ]
  },
@@ -1750,20 +1750,6 @@
     "u": "https://www.youtube.com/watch?v=H0jEVy6liuY",
     "s": "yt",
     "o": "Revelio Labs"
-   },
-   {
-    "d": "2026-04-03",
-    "t": "China Shock 2.0: Why White-Collar Jobs are Heading to China| David Autor",
-    "u": "https://www.youtube.com/watch?v=ZGgY_n5KLWI",
-    "s": "yt",
-    "o": "It Turns Out"
-   },
-   {
-    "d": "2026-03-31",
-    "t": "David Autor on the Scars That Money Can’t Heal",
-    "u": "https://www.youtube.com/watch?v=4BGH6L-wt8Q",
-    "s": "yt",
-    "o": "Persuasion"
    }
   ]
  },
@@ -3891,8 +3877,8 @@
    },
    {
     "d": "2026-05-06",
-    "t": "Amy Webb, Ronaldo Lemos e Thiago Camargo - versão completa",
-    "u": "https://www.youtube.com/watch?v=EMdI_LWGxPo",
+    "t": "Amy Webb | Ronaldo Lemos e Thiago Camargo conversam com Amy Webb",
+    "u": "https://www.youtube.com/watch?v=N169GU-Wq44",
     "s": "yt",
     "o": "ITS Rio"
    }
