@@ -468,20 +468,20 @@
   "pub": [
    {
     "d": "2026-01-01",
-    "t": "A systematic review of the scope and impact of rural primary healthcare innovations using digital health technology",
-    "u": "https://doi.org/10.1136/bmjopen-2024-097874",
-    "s": "paper"
-   },
-   {
-    "d": "2026-01-01",
     "t": "Suing for Damaged Existence",
     "u": "https://doi.org/10.2139/ssrn.7374839",
     "s": "paper"
    },
    {
-    "d": "2025-12-05",
-    "t": "The role of artificial intelligence in enhancing interprofessional education and collaborative practice: a mixed methods scoping review",
-    "u": "https://doi.org/10.1080/13561820.2025.2576241",
+    "d": "2025-08-25",
+    "t": "The Case for Strong Longtermism",
+    "u": "https://doi.org/10.1093/9780191979972.003.0003",
+    "s": "book"
+   },
+   {
+    "d": "2025-06-17",
+    "t": "Preparing for the Intelligence Explosion",
+    "u": "https://doi.org/10.48550/arxiv.2506.14863",
     "s": "paper"
    }
   ],
@@ -1375,10 +1375,10 @@
     "s": "paper"
    },
    {
-    "d": "2017-08-01",
-    "t": "AlcoWear: Detecting blood alcohol levels from wearables",
-    "u": "https://doi.org/10.1109/uic-atc.2017.8397486",
-    "s": "paper"
+    "d": "2017-06-27",
+    "t": "Machine, Platform, Crowd: Harnessing Our Digital Future",
+    "u": "https://openalex.org/W2907597507",
+    "s": "book"
    }
   ],
   "yt": [
@@ -2675,10 +2675,10 @@
     "s": "paper"
    },
    {
-    "d": "2026-02-20",
-    "t": "Statistical Imaginaries, State Legitimacy: Grappling with the Arrangements Underpinning Quantification in the U.S. Census",
-    "u": "https://doi.org/10.48550/arxiv.2602.18636",
-    "s": "paper"
+    "d": "2026-01-01",
+    "t": "Data Are Made, Not Found",
+    "u": "https://doi.org/10.7208/chicago/9780226824987.001.0001",
+    "s": "book"
    }
   ],
   "yt": [
@@ -4347,21 +4347,21 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-01-01",
-    "t": "Incentive Bargaining and Corporate Governance Conference of 2025 Edited Transcript",
-    "u": "https://doi.org/10.2139/ssrn.5922362",
+    "d": "2024-05-09",
+    "t": "Relationship between assistant’s lens exposure and dose information during computed tomography examinations",
+    "u": "https://doi.org/10.1088/1361-6498/ad4903",
     "s": "paper"
    },
    {
-    "d": "2026-01-01",
-    "t": "Spatial and Institutional Design of Innovation Hubs Examined Through Face-to-Face Interaction Networks Using BLE-Based Proximity Sensing",
-    "u": "https://doi.org/10.2139/ssrn.6508799",
+    "d": "2024-01-19",
+    "t": "Developmental Future of Radiological Technology Research",
+    "u": "https://doi.org/10.6009/jjrt.2024-2296",
     "s": "paper"
    },
    {
-    "d": "2025-08-13",
-    "t": "Corporate Governance and Firm Performance: An Implication from Japanese Listed Family Firms",
-    "u": "https://doi.org/10.1515/ajle-2025-0034",
+    "d": "2023-02-08",
+    "t": "Malignant diagnosis and prognostic analysis of 89 GIST patients using preoperative FDG-PET",
+    "u": "https://doi.org/10.1038/s41598-023-29038-5",
     "s": "paper"
    }
   ],
