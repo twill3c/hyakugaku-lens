@@ -1515,6 +1515,12 @@
   "own": [
    {
     "d": "2026-09-30",
+    "t": "*Shade*",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/shade.html?utm_source=rss&utm_medium=rss&utm_campaign=shade",
+    "s": "blog"
+   },
+   {
+    "d": "2026-09-30",
     "t": "Don’t let AI make you dumber",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/dont-let-ai-make-you-dumber.html?utm_source=rss&utm_medium=rss&utm_campaign=dont-let-ai-make-you-dumber",
     "s": "blog"
@@ -1523,12 +1529,6 @@
     "d": "2026-09-29",
     "t": "Shipping to America",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/shipping-to-america.html?utm_source=rss&utm_medium=rss&utm_campaign=shipping-to-america",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-29",
-    "t": "Tuesday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-588",
     "s": "blog"
    }
   ],
