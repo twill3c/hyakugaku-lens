@@ -227,6 +227,12 @@
   ],
   "yt": [
    {
+    "d": "2026-10-01",
+    "t": "Altruistic Kidney Donation with Elaine Perlman and Joshua Morrison",
+    "u": "https://shows.acast.com/lives-well-lived/episodes/the-altruism-effect",
+    "s": "podcast"
+   },
+   {
     "d": "2026-09-17",
     "t": "raising children in the AI era with DANA SUSKIND",
     "u": "https://shows.acast.com/lives-well-lived/episodes/raising-children-in-the-ai-era-with-dana-suskind",
@@ -237,13 +243,6 @@
     "t": "modern stoicism with RYAN HOLIDAY",
     "u": "https://shows.acast.com/lives-well-lived/episodes/modern-stoicism-with-ryan-holiday",
     "s": "podcast"
-   },
-   {
-    "d": "2026-08-25",
-    "t": "Peter Singer: Animal Liberation and the Next Moral Frontier",
-    "u": "https://www.youtube.com/watch?v=d9xg5x4Rp6k",
-    "s": "yt",
-    "o": "Zoe Weil"
    }
   ]
  },
@@ -1515,6 +1514,12 @@
   "own": [
    {
     "d": "2026-10-01",
+    "t": "The top private sector employers of economics graduates",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/the-top-private-sector-employers-of-economics-graduates.html?utm_source=rss&utm_medium=rss&utm_campaign=the-top-private-sector-employers-of-economics-graduates",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-01",
     "t": "Merging LLMs and economics research",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/merging-llms-and-economics-research.html?utm_source=rss&utm_medium=rss&utm_campaign=merging-llms-and-economics-research",
     "s": "blog"
@@ -1523,12 +1528,6 @@
     "d": "2026-09-30",
     "t": "The polity that is Singapore",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-3.html?utm_source=rss&utm_medium=rss&utm_campaign=the-polity-that-is-singapore-3",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-30",
-    "t": "Wednesday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-573",
     "s": "blog"
    }
   ],
@@ -3788,6 +3787,12 @@
   "bio": "『Co-Intelligence』(2024)で、AIを人間の共働者として扱う四原則を示した経営学者。ボストン・コンサルティング・グループでの大規模実験で、AIが能力の低い層を大きく引き上げる一方、能力の境界を越えると性能が落ちる「ギザギザのフロンティア」を実証した。ニュースレター One Useful Thing で高頻度に発信する。",
   "own": [
    {
+    "d": "2026-10-01",
+    "t": "The Dot and the Swarm",
+    "u": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-18",
     "t": "The Overhang",
     "u": "https://www.oneusefulthing.org/p/the-overhang",
@@ -3797,12 +3802,6 @@
     "d": "2026-08-31",
     "t": "Agency and Agents",
     "u": "https://www.oneusefulthing.org/p/agency-and-agents",
-    "s": "blog"
-   },
-   {
-    "d": "2026-07-23",
-    "t": "An opinionated guide to which AI to use to do stuff",
-    "u": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
     "s": "blog"
    }
   ],
