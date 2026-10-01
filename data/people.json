@@ -375,6 +375,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-29",
+    "t": "Is a Data Centre Conscious?: The Quantum Weirdness of Substrate",
+    "u": "https://doi.org/10.53765/20512201.33.9.211",
+    "s": "paper"
+   },
+   {
     "d": "2025-06-25",
     "t": "Chatbot Epistemology",
     "u": "https://doi.org/10.1080/02691728.2025.2500030",
@@ -384,12 +390,6 @@
     "d": "2025-03-27",
     "t": "Mind Design, AI Epistemology, and Outsourcing",
     "u": "https://doi.org/10.1080/02691728.2025.2472784",
-    "s": "paper"
-   },
-   {
-    "d": "2024-11-01",
-    "t": "Illusory world skepticism",
-    "u": "https://doi.org/10.1111/phpr.13123",
     "s": "paper"
    }
   ],
@@ -1996,9 +1996,9 @@
     "s": "paper"
    },
    {
-    "d": "2026-01-01",
-    "t": "Optimising for Happiness in EU Technology Policy to Repay Public Subsidies for AI",
-    "u": "https://doi.org/10.2139/ssrn.6939638",
+    "d": "2026-01-13",
+    "t": "Evaluating the Ability of Explanations to Disambiguate Models in a Rashomon Set",
+    "u": "https://doi.org/10.48550/arxiv.2601.08703",
     "s": "paper"
    }
   ],
