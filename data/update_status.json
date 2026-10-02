@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-02T05:49:39Z",
- "ok": 27,
- "fail": 25,
+ "generated_at": "2026-10-02T12:48:12Z",
+ "ok": 28,
+ "fail": 24,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -79,12 +79,11 @@
    "n": "カール・ベネディクト・フレイ",
    "s": "media",
    "feed": "https://www.project-syndicate.org/rss",
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 1,
    "dropped": {
-    "著者条件に一致せず": 20
-   },
-   "note": "常設の取得元・この時点で本人の記事が載っていない"
+    "著者条件に一致せず": 19
+   }
   },
   {
    "n": "ケイト・クロフォード",
@@ -217,9 +216,9 @@
    "s": "blog",
    "feed": "https://marginalrevolution.com/feed",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "dropped": {
-    "著者条件に一致せず": 1
+    "著者条件に一致せず": 2
    }
   },
   {
