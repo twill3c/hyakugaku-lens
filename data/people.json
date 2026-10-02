@@ -1514,20 +1514,20 @@
   "own": [
    {
     "d": "2026-10-02",
-    "t": "What should I ask Tom Griffiths?",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-tom-griffiths.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-tom-griffiths",
+    "t": "Supply is elastic, installment #1637",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/supply-is-elastic-installment-1637-2.html?utm_source=rss&utm_medium=rss&utm_campaign=supply-is-elastic-installment-1637-2",
     "s": "blog"
    },
    {
     "d": "2026-10-02",
-    "t": "My excellent Conversation with Luis Garicano",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-luis-garicano.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-luis-garicano",
+    "t": "Friday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-593",
     "s": "blog"
    },
    {
-    "d": "2026-10-01",
-    "t": "Alvin Roth to the rescue, the polity that is Singapore",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/alvin-roth-to-the-rescue-the-polity-that-is-singapore.html?utm_source=rss&utm_medium=rss&utm_campaign=alvin-roth-to-the-rescue-the-polity-that-is-singapore",
+    "d": "2026-10-02",
+    "t": "What should I ask Tom Griffiths?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-tom-griffiths.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-tom-griffiths",
     "s": "blog"
    }
   ],
@@ -3131,6 +3131,12 @@
   "bio": "政治リスク分析会社ユーラシア・グループの創業者。国家に代わりテック企業が地政学的アクターになる「技術極(technopolar)世界」という概念を提示し、国連の AI 諮問機関にも加わった。年頭のトップリスク・レポートは各国の政策担当者に読まれ、GZERO メディアを通じて発信を続ける。",
   "own": [
    {
+    "d": "2026-10-02",
+    "t": "The US-China battle for global dominance",
+    "u": "https://www.gzeromedia.com/video/ian-explains/us-china-battle-global-dominance",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-30",
     "t": "Corruption scandals are rocking Brazil. Will they decide the presidential election?",
     "u": "https://www.gzeromedia.com/by-ian-bremmer/brazilian-election",
@@ -3140,12 +3146,6 @@
     "d": "2026-09-30",
     "t": "Brazil's razor-close presidential race",
     "u": "https://www.gzeromedia.com/video/ask-ian/brazil-s-razor-close-presidential-race",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-28",
-    "t": "The world isn't governing AI fast enough",
-    "u": "https://www.gzeromedia.com/video/quick-take/the-world-isn-t-governing-ai-fast-enough",
     "s": "blog"
    }
   ],
@@ -3202,6 +3202,12 @@
   "bio": "エイブラハム・ニューマンとの『Underground Empire』で、金融・通信のネットワークの結節点を握る米国が経済を武器化する構図(weaponized interdependence)を描いた。コスマ・シャリツィとの共著論考ではAIを市場や官僚制と並ぶ社会的情報処理装置として位置づける。Programmable Mutter で発信する。",
   "own": [
    {
+    "d": "2026-10-02",
+    "t": "What AI debates have to do with alchemy",
+    "u": "https://www.programmablemutter.com/p/what-ai-debates-have-to-do-with-alchemy",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-22",
     "t": "Machine god metaphors eat your brain",
     "u": "https://www.programmablemutter.com/p/machine-god-metaphors-eat-your-brain",
@@ -3211,12 +3217,6 @@
     "d": "2026-09-20",
     "t": "International relations has a problem with the future",
     "u": "https://www.programmablemutter.com/p/international-relations-has-a-problem",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-15",
-    "t": "Canada is cosying up to Europe",
-    "u": "https://www.programmablemutter.com/p/canada-is-cosying-up-to-europe",
     "s": "blog"
    }
   ],

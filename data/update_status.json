@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-02T12:48:12Z",
- "ok": 28,
- "fail": 24,
+ "generated_at": "2026-10-02T22:19:55Z",
+ "ok": 27,
+ "fail": 25,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -56,9 +56,9 @@
    "s": "blog",
    "feed": "https://www.gzeromedia.com/feeds/feed.rss",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "dropped": {
-    "著者条件に一致せず": 27
+    "著者条件に一致せず": 26
    }
   },
   {
@@ -261,11 +261,12 @@
    "n": "ダロン・アセモグル",
    "s": "media",
    "feed": "https://www.project-syndicate.org/rss",
-   "ok": true,
-   "count": 1,
+   "ok": false,
+   "count": 0,
    "dropped": {
-    "著者条件に一致せず": 19
-   }
+    "著者条件に一致せず": 20
+   },
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
    "n": "デイヴィッド・チャーマーズ",
