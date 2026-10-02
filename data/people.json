@@ -1586,6 +1586,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-28",
+    "t": "What if automating AI R&D triggers an intelligence explosion?",
+    "u": "https://doi.org/10.48550/arxiv.2609.36054",
+    "s": "paper"
+   },
+   {
     "d": "2026-06-18",
     "t": "Measuring the AI Economy",
     "u": "https://doi.org/10.34989/swp-2026-20",
@@ -1595,12 +1601,6 @@
     "d": "2026-04-01",
     "t": "When Does Automating AI Research Produce Explosive Growth? Feedback Loops in Innovation Networks",
     "u": "https://doi.org/10.3386/w35155",
-    "s": "paper"
-   },
-   {
-    "d": "2026-03-01",
-    "t": "Steering Technological Progress",
-    "u": "https://doi.org/10.3386/w34994",
     "s": "paper"
    }
   ],
@@ -2953,7 +2953,7 @@
     "d": "2025-03-13",
     "t": "Wool, Wires and Water: Technological Transitions at Strangways Springs",
     "u": "https://doi.org/10.1007/s10761-025-00788-4",
-    "s": "paper"
+    "s": "book"
    }
   ],
   "yt": []
