@@ -296,21 +296,21 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-09-22",
-    "t": "Does AI undermine democratic deliberation? How engagement algorithms hijack epistemic agency",
-    "u": "https://doi.org/10.1007/s11229-026-05820-6",
-    "s": "paper"
+    "d": "2026-10-01",
+    "t": "Toward a Process Philosophy of Technology",
+    "u": "https://doi.org/10.4324/9781003610250-1",
+    "s": "book"
    },
    {
-    "d": "2026-02-01",
-    "t": "AI, climate change and justice: elements for a normative framework centring the Global South",
-    "u": "https://doi.org/10.1007/s43681-025-00949-5",
-    "s": "paper"
+    "d": "2026-10-01",
+    "t": "Process Philosophy and Technology",
+    "u": "https://doi.org/10.4324/9781003610250",
+    "s": "book"
    },
    {
-    "d": "2026-01-01",
-    "t": "Cultural Robotics or Robocolonialism? Meaning, Narrative, and Power with Social Robots",
-    "u": "https://doi.org/10.1007/978-3-031-99290-2_4",
+    "d": "2026-10-01",
+    "t": "Technology as Process",
+    "u": "https://doi.org/10.4324/9781003610250-3",
     "s": "book"
    }
   ],
@@ -335,6 +335,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-29",
+    "t": "The Moderate Problem of Consciousness: Self-Modeling and the Unfolding of Phenomenal Depth over Time",
+    "u": "https://openalex.org/W7215500453",
+    "s": "paper"
+   },
+   {
     "d": "2025-10-30",
     "t": "Applied ethics: synthetic phenomenology will not go away",
     "u": "https://doi.org/10.3389/fsci.2025.1702840",
@@ -345,12 +351,6 @@
     "t": "Kultura świadomości",
     "u": "https://doi.org/10.18778/8331-548-5",
     "s": "book"
-   },
-   {
-    "d": "2025-02-18",
-    "t": "The Elephant and the Blind: The Experience of Pure Consciousness—Philosophy, Science, and 500+ Experiential Reports",
-    "u": "https://doi.org/10.56315/pscf3-25metzinger",
-    "s": "paper"
    }
   ],
   "yt": [
@@ -374,6 +374,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-10-01",
+    "t": "Correcting Vitamin D Deficiency to Prevent Paclitaxel-Induced Peripheral Neuropathy: A Practice Change Evaluation",
+    "u": "https://doi.org/10.1188/26.cjon.375-379",
+    "s": "paper"
+   },
+   {
     "d": "2026-09-29",
     "t": "Is a Data Centre Conscious?: The Quantum Weirdness of Substrate",
     "u": "https://doi.org/10.53765/20512201.33.9.211",
@@ -383,12 +389,6 @@
     "d": "2025-06-25",
     "t": "Chatbot Epistemology",
     "u": "https://doi.org/10.1080/02691728.2025.2500030",
-    "s": "paper"
-   },
-   {
-    "d": "2025-03-27",
-    "t": "Mind Design, AI Epistemology, and Outsourcing",
-    "u": "https://doi.org/10.1080/02691728.2025.2472784",
     "s": "paper"
    }
   ],
@@ -467,6 +467,12 @@
   "pub": [
    {
     "d": "2026-01-01",
+    "t": "A systematic review of the scope and impact of rural primary healthcare innovations using digital health technology",
+    "u": "https://doi.org/10.1136/bmjopen-2024-097874",
+    "s": "paper"
+   },
+   {
+    "d": "2026-01-01",
     "t": "Suing for Damaged Existence",
     "u": "https://doi.org/10.2139/ssrn.7374839",
     "s": "paper"
@@ -476,12 +482,6 @@
     "t": "The Case for Strong Longtermism",
     "u": "https://doi.org/10.1093/9780191979972.003.0003",
     "s": "book"
-   },
-   {
-    "d": "2025-06-17",
-    "t": "Preparing for the Intelligence Explosion",
-    "u": "https://doi.org/10.48550/arxiv.2506.14863",
-    "s": "paper"
    }
   ],
   "yt": [
@@ -799,16 +799,16 @@
     "s": "book"
    },
    {
+    "d": "2026-01-01",
+    "t": "Heidegger und Marcuse: Über Verdinglichung und konkrete Philosophie",
+    "u": "https://doi.org/10.5771/9783518772782-77",
+    "s": "book"
+   },
+   {
     "d": "2024-09-02",
     "t": "Marcuse's Critique of Technology Today1",
     "u": "https://doi.org/10.4324/9781003381020-7",
     "s": "book"
-   },
-   {
-    "d": "2024-06-21",
-    "t": "Sobre ciência e experiência, em Marcuse",
-    "u": "https://doi.org/10.69640/raf.v19i35.7411",
-    "s": "paper"
    }
   ],
   "yt": []
@@ -1007,6 +1007,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-10-01",
+    "t": "Affirming Political Joy. An Interview with Rosi Braidotti",
+    "u": "https://doi.org/10.36253/rifp-4464",
+    "s": "paper"
+   },
+   {
     "d": "2026-08-14",
     "t": "Posthuman Feminism",
     "u": "https://doi.org/10.4324/9781003783862-3",
@@ -1017,12 +1023,6 @@
     "t": "Introduction: Dutch Treats and Other Strangers",
     "u": "https://doi.org/10.4324/9781003737254-1",
     "s": "book"
-   },
-   {
-    "d": "2026-01-01",
-    "t": "Posthuman Humanities: Life beyond Theory",
-    "u": "https://doi.org/10.5040/9781839026607.ch-21",
-    "s": "paper"
    }
   ],
   "yt": [
@@ -1072,9 +1072,9 @@
     "s": "paper"
    },
    {
-    "d": "2026-03-05",
-    "t": "»When Your Democracy Is on Fire, It’s All Hands on Deck«",
-    "u": "https://doi.org/10.1515/jlt-2026-2004",
+    "d": "2026-05-04",
+    "t": "Distributed Cognition at/in Work: Strickland, Lawson Jaramillo, and Ryan's slippingglimpse",
+    "u": "https://openalex.org/W7215152185",
     "s": "paper"
    }
   ],
@@ -1473,10 +1473,10 @@
     "s": "paper"
    },
    {
-    "d": "2026-05-28",
-    "t": "Introduction and Overview of the Book",
-    "u": "https://doi.org/10.7312/jaya22033-001",
-    "s": "book"
+    "d": "2026-07-25",
+    "t": "Chiến lược tăng trưởng mới cho các quốc gia đang phát triển",
+    "u": "https://openalex.org/W7215312279",
+    "s": "paper"
    }
   ],
   "yt": [
@@ -2953,7 +2953,7 @@
     "d": "2025-03-13",
     "t": "Wool, Wires and Water: Technological Transitions at Strangways Springs",
     "u": "https://doi.org/10.1007/s10761-025-00788-4",
-    "s": "book"
+    "s": "paper"
    }
   ],
   "yt": []

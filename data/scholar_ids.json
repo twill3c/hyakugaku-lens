@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T01:03:43Z",
+ "generated_at": "2026-10-03T00:42:38Z",
  "declared": 99,
  "verified": 90,
  "unreachable": 0,
@@ -6750,7 +6750,7 @@
     {
      "id": "A5046143932",
      "display_name": "Martin Rees",
-     "works_count": 47,
+     "works_count": 49,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7052,7 +7052,7 @@
     {
      "id": "A5012398104",
      "display_name": "Shinichiro Inaba",
-     "works_count": 26,
+     "works_count": 27,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
