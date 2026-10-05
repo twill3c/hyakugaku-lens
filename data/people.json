@@ -63,6 +63,12 @@
   "own": [
    {
     "d": "2026-10-04",
+    "t": "Thirty years ago, online disinformation was already predictable, as was what nee…",
+    "u": "https://mastodon.world/@lucianofloridi/117384808783358344",
+    "s": "mastodon"
+   },
+   {
+    "d": "2026-10-04",
     "t": "New paper from Yale's DEC \"Pax Digitalis: When Competition Becomes Partition\" \"W…",
     "u": "https://mastodon.world/@lucianofloridi/117383657927852330",
     "s": "mastodon"
@@ -71,12 +77,6 @@
     "d": "2026-09-30",
     "t": "Qui New York! - Apocalittici o integrati? 4 conferenze per riflettere sull'IA Ag…",
     "u": "https://mastodon.world/@lucianofloridi/117361355780872353",
-    "s": "mastodon"
-   },
-   {
-    "d": "2026-09-26",
-    "t": "Luciano Floridi | La trappola dell'Apocalisse e i veri rischi dell'IA - Linea a…",
-    "u": "https://mastodon.world/@lucianofloridi/117339221040752875",
     "s": "mastodon"
    }
   ],
@@ -1513,6 +1513,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-10-05",
+    "t": "Crime in Covid Times",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/crime-in-covid-times.html?utm_source=rss&utm_medium=rss&utm_campaign=crime-in-covid-times",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-04",
     "t": "Sunday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-585",
@@ -1522,12 +1528,6 @@
     "d": "2026-10-04",
     "t": "My blurb for Ethan Mollick’s new book",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/my-blurb-for-ethan-mollicks-new-book.html?utm_source=rss&utm_medium=rss&utm_campaign=my-blurb-for-ethan-mollicks-new-book",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-04",
-    "t": "Marital sorting by class and race",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html?utm_source=rss&utm_medium=rss&utm_campaign=marital-sorting-by-class-and-race",
     "s": "blog"
    }
   ],
