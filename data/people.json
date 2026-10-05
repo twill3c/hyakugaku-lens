@@ -1514,6 +1514,12 @@
   "own": [
    {
     "d": "2026-10-05",
+    "t": "China fact of the day",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/china-fact-of-the-day-82.html?utm_source=rss&utm_medium=rss&utm_campaign=china-fact-of-the-day-82",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-05",
     "t": "Crime in Covid Times",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/crime-in-covid-times.html?utm_source=rss&utm_medium=rss&utm_campaign=crime-in-covid-times",
     "s": "blog"
@@ -1522,12 +1528,6 @@
     "d": "2026-10-04",
     "t": "Sunday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-585",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-04",
-    "t": "My blurb for Ethan Mollick’s new book",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/my-blurb-for-ethan-mollicks-new-book.html?utm_source=rss&utm_medium=rss&utm_campaign=my-blurb-for-ethan-mollicks-new-book",
     "s": "blog"
    }
   ],
@@ -3124,6 +3124,12 @@
   "bio": "政治リスク分析会社ユーラシア・グループの創業者。国家に代わりテック企業が地政学的アクターになる「技術極(technopolar)世界」という概念を提示し、国連の AI 諮問機関にも加わった。年頭のトップリスク・レポートは各国の政策担当者に読まれ、GZERO メディアを通じて発信を続ける。",
   "own": [
    {
+    "d": "2026-10-05",
+    "t": "Brazil's election signals a rightward shift across Latin America",
+    "u": "https://www.gzeromedia.com/video/quick-take/brazil-s-election-signals-a-rightward-shift-across-latin-america",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-02",
     "t": "The US-China battle for global dominance",
     "u": "https://www.gzeromedia.com/video/ian-explains/us-china-battle-global-dominance",
@@ -3133,12 +3139,6 @@
     "d": "2026-09-30",
     "t": "Corruption scandals are rocking Brazil. Will they decide the presidential election?",
     "u": "https://www.gzeromedia.com/by-ian-bremmer/brazilian-election",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-30",
-    "t": "Brazil's razor-close presidential race",
-    "u": "https://www.gzeromedia.com/video/ask-ian/brazil-s-razor-close-presidential-race",
     "s": "blog"
    }
   ],
