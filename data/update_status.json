@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-07T06:09:17Z",
- "ok": 27,
- "fail": 25,
+ "generated_at": "2026-10-07T13:35:05Z",
+ "ok": 26,
+ "fail": 26,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -108,8 +108,9 @@
    "n": "サフィヤ・ノーブル",
    "s": "blog",
    "feed": "https://safiyaunoble.com/feed/",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "count": 0,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "n": "サンドラ・ワクター",
@@ -216,9 +217,9 @@
    "s": "blog",
    "feed": "https://marginalrevolution.com/feed",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "dropped": {
-    "著者条件に一致せず": 3
+    "著者条件に一致せず": 4
    }
   },
   {
