@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T01:52:05Z",
+ "generated_at": "2026-10-07T01:00:03Z",
  "declared": 99,
  "verified": 90,
  "unreachable": 0,
@@ -2995,7 +2995,7 @@
      "display_name": "Richard Hauxwell‐Baldwin",
      "works_count": 12,
      "inst_hit": [],
-     "domain_ok": false,
+     "domain_ok": true,
      "ok": false
     },
     {
@@ -6883,7 +6883,7 @@
      "display_name": "Amy Webb Girard",
      "works_count": 329,
      "inst_hit": [],
-     "domain_ok": true,
+     "domain_ok": false,
      "ok": false
     },
     {
@@ -6962,7 +6962,7 @@
      "display_name": "Hiroki Azuma",
      "works_count": 4,
      "inst_hit": [],
-     "domain_ok": true,
+     "domain_ok": false,
      "ok": false
     },
     {
@@ -6970,7 +6970,7 @@
      "display_name": "Hiroki Azuma",
      "works_count": 18,
      "inst_hit": [],
-     "domain_ok": false,
+     "domain_ok": true,
      "ok": false
     },
     {
@@ -7346,7 +7346,7 @@
      "display_name": "Hiroshi Toya",
      "works_count": 18,
      "inst_hit": [],
-     "domain_ok": true,
+     "domain_ok": false,
      "ok": false
     },
     {
@@ -7354,7 +7354,7 @@
      "display_name": "Hiroshi Toya",
      "works_count": 2,
      "inst_hit": [],
-     "domain_ok": true,
+     "domain_ok": false,
      "ok": false
     },
     {
