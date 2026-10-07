@@ -1513,21 +1513,21 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-10-07",
+    "t": "Effective altruism is useful at the margin",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/effective-altruism-is-useful-at-the-margin.html?utm_source=rss&utm_medium=rss&utm_campaign=effective-altruism-is-useful-at-the-margin",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-06",
+    "t": "Brazil election notes (from my email)",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/brazil-election-notes-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=brazil-election-notes-from-my-email",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-06",
     "t": "Tuesday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-589",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-06",
-    "t": "The Great Accretion and the Great Depression",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/the-great-accretion-and-the-great-depression.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-accretion-and-the-great-depression",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-06",
-    "t": "Rising concentration for economics awards",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/rising-concentration-for-economics-awards.html?utm_source=rss&utm_medium=rss&utm_campaign=rising-concentration-for-economics-awards",
     "s": "blog"
    }
   ],
@@ -2169,6 +2169,12 @@
   ],
   "yt": [
    {
+    "d": "2026-10-06",
+    "t": "Special Episode: The Viral Movement Holding Politicians Accountable",
+    "u": "https://equalcitizens.us/anotherway/",
+    "s": "podcast"
+   },
+   {
     "d": "2026-08-21",
     "t": "S8E7: Ron Fein",
     "u": "https://equalcitizens.us/anotherway/",
@@ -2178,13 +2184,6 @@
     "d": "2026-08-19",
     "t": "Lawrence Lessig on his long crusade for campaign finance reform [After-Action Report]",
     "u": "https://www.youtube.com/watch?v=gV0r4bu1ZWQ",
-    "s": "yt",
-    "o": "FESTIVAL with Pete Davis"
-   },
-   {
-    "d": "2026-08-19",
-    "t": "FESTIVAL #2: Two Long-Haul Heroes (with Stacy Mitchell and Lawrence Lessig)",
-    "u": "https://www.youtube.com/watch?v=m8arOFdmmkQ",
     "s": "yt",
     "o": "FESTIVAL with Pete Davis"
    }
@@ -3340,6 +3339,12 @@
   ],
   "yt": [
    {
+    "d": "2026-10-07",
+    "t": "The History of Transhumanism: Origins",
+    "u": "https://www.ppfideas.com/",
+    "s": "podcast"
+   },
+   {
     "d": "2026-10-04",
     "t": "An Ageing World: Simone de Beauvoir on Old Age",
     "u": "https://www.ppfideas.com/",
@@ -3348,12 +3353,6 @@
    {
     "d": "2026-09-30",
     "t": "An Ageing World: The Problem of Gerontocracy",
-    "u": "https://www.ppfideas.com/",
-    "s": "podcast"
-   },
-   {
-    "d": "2026-09-27",
-    "t": "An Ageing World: The Meaning of Death",
     "u": "https://www.ppfideas.com/",
     "s": "podcast"
    }
