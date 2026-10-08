@@ -1933,6 +1933,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-01",
+    "t": "Digital Distortions: Auditing Bias in Large Language Model-Based Career Recommendations",
+    "u": "https://doi.org/10.1109/mis.2026.3698336",
+    "s": "paper"
+   },
+   {
     "d": "2026-01-01",
     "t": "The Non-Delegable Duty to Think: Judicial Legitimacy and the Limits of Generative AI",
     "u": "https://doi.org/10.2139/ssrn.6473658",
@@ -1942,12 +1948,6 @@
     "d": "2025-11-11",
     "t": "Cultural Foundations for Conserving Human Capacities in an Era of Generative Artificial Intelligence",
     "u": "https://doi.org/10.1017/9781009383851.005",
-    "s": "book"
-   },
-   {
-    "d": "2025-09-12",
-    "t": "Data Access and AI Explainability",
-    "u": "https://doi.org/10.1017/9781009627351",
     "s": "book"
    }
   ],
@@ -2891,6 +2891,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-10-02",
+    "t": "AI Agenda Austria: Impulse für Gesellschaft, Wirtschaft und Staat",
+    "u": "https://doi.org/10.5281/zenodo.22643255",
+    "s": "paper"
+   },
+   {
     "d": "2026-08-30",
     "t": "Large-Scale Qualitative Research with AI: Infrastructure, Management and Operation of the Socioscope Data Pipeline",
     "u": "https://doi.org/10.48550/arxiv.2608.29751",
@@ -2899,13 +2905,7 @@
    {
     "d": "2026-06-29",
     "t": "The function of meso-structures in food transition processes",
-    "u": "https://doi.org/10.5281/zenodo.22208193",
-    "s": "paper"
-   },
-   {
-    "d": "2026-06-02",
-    "t": "Wiener Manifest für Digitalen Humanismus",
-    "u": "https://doi.org/10.21243/mi-02-26-19",
+    "u": "https://doi.org/10.5281/zenodo.22208192",
     "s": "paper"
    }
   ],
