@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-08T06:16:15Z",
- "ok": 27,
- "fail": 25,
+ "generated_at": "2026-10-08T13:44:35Z",
+ "ok": 26,
+ "fail": 26,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -79,11 +79,12 @@
    "n": "カール・ベネディクト・フレイ",
    "s": "media",
    "feed": "https://www.project-syndicate.org/rss",
-   "ok": true,
-   "count": 1,
+   "ok": false,
+   "count": 0,
    "dropped": {
-    "著者条件に一致せず": 19
-   }
+    "著者条件に一致せず": 20
+   },
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
    "n": "ケイト・クロフォード",
