@@ -1257,13 +1257,6 @@
   ],
   "yt": [
    {
-    "d": "2026-09-03",
-    "t": "Are we betting too much on AI? | Nobel Laureate Daron Acemoglu",
-    "u": "https://www.youtube.com/watch?v=zAvOo4FrZMI",
-    "s": "yt",
-    "o": "Sinead Bovell"
-   },
-   {
     "d": "2026-09-01",
     "t": "AI-Driven Job Losses Are Deepening Liberal Democracy’s Crisis | Daron Acemoglu",
     "u": "https://www.youtube.com/watch?v=3D2mhJ0fmG8",
@@ -1276,6 +1269,13 @@
     "u": "https://www.youtube.com/watch?v=r3cemeE7PIE",
     "s": "yt",
     "o": "Interintellect"
+   },
+   {
+    "d": "2026-08-21",
+    "t": "Daron Acemoglu on whether the UK is \"ungovernable\" and where Britain has \"gone wrong\"",
+    "u": "https://www.youtube.com/watch?v=_Kuc9vYvxRM",
+    "s": "yt",
+    "o": "BBC Politics"
    }
   ]
  },
@@ -3163,6 +3163,13 @@
   ],
   "yt": [
    {
+    "d": "2026-10-04",
+    "t": "The high-stakes US-China race | GZERO World with Ian Bremmer",
+    "u": "https://www.youtube.com/watch?v=2VWQtkyKrSs",
+    "s": "yt",
+    "o": "GZERO Media"
+   },
+   {
     "d": "2026-10-03",
     "t": "The great US-China superpower rivalry, with Elizabeth Economy",
     "u": "https://gzeroworld.simplecast.com/episodes/the-great-us-china-superpower-rivalry-with-elizabeth-economy-yQRK5up2",
@@ -3173,13 +3180,6 @@
     "t": "The UN at a crossroads, with Secretary-General António Guterres",
     "u": "https://gzeroworld.simplecast.com/episodes/the-un-at-a-crossroads-with-secretary-general-antonio-guterres-88ZhfX3q",
     "s": "podcast"
-   },
-   {
-    "d": "2026-09-25",
-    "t": "UN Chief António Guterres on global power, AI, and a world in crisis | GZERO World with Ian Bremmer",
-    "u": "https://www.youtube.com/watch?v=36wNibURU-w",
-    "s": "yt",
-    "o": "GZERO Media"
    }
   ]
  },
@@ -3711,20 +3711,6 @@
     "u": "https://www.youtube.com/watch?v=elkgRGoQLsk",
     "s": "yt",
     "o": "Human Energy"
-   },
-   {
-    "d": "2026-04-10",
-    "t": "TECH & SOCIETY. IYAD RAHWAN - English",
-    "u": "https://www.youtube.com/watch?v=VBLLl-1pCzM",
-    "s": "yt",
-    "o": "Espacio Fundación Telefónica Madrid"
-   },
-   {
-    "d": "2026-04-10",
-    "t": "TECH & SOCIETY. IYAD RAHWAN  - Español",
-    "u": "https://www.youtube.com/watch?v=_sVcrx7UUYY",
-    "s": "yt",
-    "o": "Espacio Fundación Telefónica Madrid"
    }
   ]
  },
@@ -3880,23 +3866,23 @@
   "pub": [],
   "yt": [
    {
-    "d": "2026-09-30",
-    "t": "米中接近！とりあえず入会しよう！──ゲンロンがお送りする年イチの無限雑談番組がまたまた襲来。いつ入会しても資格は1年、東浩紀の新刊ももらえる友の会17期が10月1日ついに始動！",
-    "u": "https://www.youtube.com/watch?v=M4VUQ3ESCVo",
+    "d": "2026-10-08",
+    "t": "止まらないサイバー攻撃、AI開発に減速論？／Kimi→Claudeに入力転送／ハエの脳でDOOM／ナビエ–ストークス論争／AWSデータ消失 ほか【東浩紀と桂大介の #リベテク 10月号】",
+    "u": "https://www.youtube.com/watch?v=IvsSC5G7GfM",
     "s": "yt",
     "o": "ゲンロン【公式】"
    },
    {
-    "d": "2026-09-23",
-    "t": "今野忍×石戸諭×東浩紀　政治の現場はどこにあるのか──新党、SNS、沖縄 @shinobukonno @satoruishido @hazuma #ゲンロン",
-    "u": "https://www.youtube.com/watch?v=hCd7ALpjE98",
+    "d": "2026-10-07",
+    "t": "【東浩紀×山尾志桜里】立憲民主党はどこで間違えたのか？｜“希望の党”混乱からすべては始まった｜沖縄県知事選と「弱者」の論理｜中道改革連合 自滅のワケ｜メディア・知識人・アーティストはなぜ左傾化するのか",
+    "u": "https://www.youtube.com/watch?v=rLx8Q7ns2UY",
     "s": "yt",
-    "o": "ゲンロン【公式】"
+    "o": "文藝春秋PLUS 公式チャンネル"
    },
    {
-    "d": "2026-09-17",
-    "t": "菊地成孔×東浩紀　炎上する政治、炎上しない音楽2 @SHIN_ON_GAK @hazuma #ゲンロン",
-    "u": "https://www.youtube.com/watch?v=ub_Y6Xrb13s",
+    "d": "2026-10-07",
+    "t": "浅田彰×福尾匠×布施琳太郎（+東浩紀）　ポストモダンとはなんだったのか @tweetingtakumi ＠rintarofuse #ゲンロン",
+    "u": "https://www.youtube.com/watch?v=sl1xtCxYeps",
     "s": "yt",
     "o": "ゲンロン【公式】"
    }
