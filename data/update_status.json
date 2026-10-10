@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-10T12:42:00Z",
- "ok": 25,
- "fail": 27,
+ "generated_at": "2026-10-10T21:50:52Z",
+ "ok": 26,
+ "fail": 26,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -347,9 +347,8 @@
    "n": "ヘンリー・ファレル",
    "s": "blog",
    "feed": "https://www.programmablemutter.com/feed",
-   "ok": false,
-   "count": 0,
-   "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+   "ok": true,
+   "count": 20
   },
   {
    "n": "ベンジャミン・ブラットン",
