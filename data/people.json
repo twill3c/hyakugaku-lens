@@ -1513,6 +1513,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-10-10",
+    "t": "California in-migration and out-migration",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/california-in-migration-and-out-migration.html?utm_source=rss&utm_medium=rss&utm_campaign=california-in-migration-and-out-migration",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-09",
     "t": "The origin of risk",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/the-origin-of-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-origin-of-risk",
@@ -1522,12 +1528,6 @@
     "d": "2026-10-09",
     "t": "Ethiopia update",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/ethiopia-update.html?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-update",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-09",
-    "t": "Friday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-594",
     "s": "blog"
    }
   ],
@@ -3164,6 +3164,12 @@
   "yt": [
    {
     "d": "2026-10-09",
+    "t": "Three years after October 7, with Aaron David Miller",
+    "u": "https://gzeroworld.simplecast.com/episodes/three-years-after-october-7-with-aaron-david-miller-noceCC4E",
+    "s": "podcast"
+   },
+   {
+    "d": "2026-10-09",
     "t": "How October 7 changed the Middle East, three years on | GZERO World with Ian Bremmer",
     "u": "https://www.youtube.com/watch?v=gWkbYxanvB4",
     "s": "yt",
@@ -3175,12 +3181,6 @@
     "u": "https://www.youtube.com/watch?v=2VWQtkyKrSs",
     "s": "yt",
     "o": "GZERO Media"
-   },
-   {
-    "d": "2026-10-03",
-    "t": "The great US-China superpower rivalry, with Elizabeth Economy",
-    "u": "https://gzeroworld.simplecast.com/episodes/the-great-us-china-superpower-rivalry-with-elizabeth-economy-yQRK5up2",
-    "s": "podcast"
    }
   ]
  },
