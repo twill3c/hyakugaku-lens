@@ -269,10 +269,10 @@
     "s": "book"
    },
    {
-    "d": "2025-12-19",
-    "t": "Entangling Ourselves with AI",
-    "u": "https://doi.org/10.1002/9781394258840.ch12",
-    "s": "paper"
+    "d": "2026-01-01",
+    "t": "AI Ethics and Governance",
+    "u": "https://doi.org/10.1007/978-981-92-1261-3_2",
+    "s": "book"
    }
   ],
   "yt": [
@@ -704,6 +704,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-01-01",
+    "t": "AI Ethics and Governance",
+    "u": "https://doi.org/10.1007/978-981-92-1261-3_2",
+    "s": "book"
+   },
+   {
     "d": "2025-02-04",
     "t": "Re-Envisioning Ethics: From Moral Machine to Extensive Regulation",
     "u": "https://doi.org/10.3233/faia241476",
@@ -713,12 +719,6 @@
     "d": "2024-04-21",
     "t": "A Practical Multilevel Governance Framework for Autonomous and Intelligent Systems",
     "u": "https://doi.org/10.48550/arxiv.2404.13719",
-    "s": "paper"
-   },
-   {
-    "d": "2020-10-05",
-    "t": "Policy brief: the creation of a G20 coordinating committee for the governance of artificial intelligence",
-    "u": "https://doi.org/10.1007/s43681-020-00019-y",
     "s": "paper"
    }
   ],
@@ -2945,7 +2945,7 @@
     "d": "2025-03-13",
     "t": "Wool, Wires and Water: Technological Transitions at Strangways Springs",
     "u": "https://doi.org/10.1007/s10761-025-00788-4",
-    "s": "paper"
+    "s": "book"
    }
   ],
   "yt": []
@@ -3019,6 +3019,12 @@
   ],
   "pub": [
    {
+    "d": "2026-01-01",
+    "t": "Was du wissen musst, um die Welt zu retten Unstoppable Us 4",
+    "u": "https://openalex.org/W7221237653",
+    "s": "paper"
+   },
+   {
     "d": "2025-12-16",
     "t": "The Politics of Consciousness",
     "u": "https://doi.org/10.7551/mitpress/14600.003.0009",
@@ -3029,12 +3035,6 @@
     "t": "The Legend of Peugeot (From Sapiens: A Brief History of Humankind)",
     "u": "https://doi.org/10.4324/9781003440987-13",
     "s": "book"
-   },
-   {
-    "d": "2025-04-01",
-    "t": "Book Review: Nexus: A Brief History of Information Netwoks from the Stone Age to AI",
-    "u": "https://openalex.org/W7220191607",
-    "s": "paper"
    }
   ],
   "yt": [
