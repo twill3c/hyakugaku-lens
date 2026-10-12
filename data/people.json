@@ -82,6 +82,12 @@
   ],
   "pub": [
    {
+    "d": "2026-09-11",
+    "t": "The search for knowledge : from desire to defence : hypothesis for the introduction of a Peirceisch interpretation of the genetic principle of the process of knowing as a fundamental orientation for a future gnoseology",
+    "u": "https://doi.org/10.82444/warw.33630280",
+    "s": "paper"
+   },
+   {
     "d": "2026-08-25",
     "t": "Rules Without Models: Why Europe Must Build the AI It Regulates",
     "u": "https://doi.org/10.1007/s13347-026-01171-9",
@@ -91,12 +97,6 @@
     "d": "2026-08-01",
     "t": "Regulating Next-Generation Implantable Brain-Computer Interfaces: Recommendations for Ethical Development and Implementation",
     "u": "https://doi.org/10.1007/s12152-026-09653-5",
-    "s": "paper"
-   },
-   {
-    "d": "2026-07-31",
-    "t": "Digital Vulnerabilities in the Age of AI: A Multi-Level Analysis",
-    "u": "https://doi.org/10.1007/s13347-026-01150-0",
     "s": "paper"
    }
   ],
@@ -1461,6 +1461,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-12",
+    "t": "Leverage and asset bubbles",
+    "u": "https://doi.org/10.82444/warw.33660301",
+    "s": "paper"
+   },
+   {
     "d": "2026-09-09",
     "t": "Why we need an International Panel on Inequality",
     "u": "https://doi.org/10.1038/d41586-026-02806-9",
@@ -1470,12 +1476,6 @@
     "d": "2026-07-29",
     "t": "The Inequality–Pandemic Cycle — Rethinking Preparedness",
     "u": "https://doi.org/10.1056/nejmp2607839",
-    "s": "paper"
-   },
-   {
-    "d": "2026-07-25",
-    "t": "Chiến lược tăng trưởng mới cho các quốc gia đang phát triển",
-    "u": "https://openalex.org/W7215312279",
     "s": "paper"
    }
   ],
@@ -2340,6 +2340,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-01-01",
+    "t": "Artificial intimacy who we become when we talk to machines",
+    "u": "https://openalex.org/W7221378802",
+    "s": "paper"
+   },
+   {
     "d": "2025-02-04",
     "t": "Who Do We Become When We Talk to Machines?",
     "u": "https://doi.org/10.3233/faia241477",
@@ -2349,12 +2355,6 @@
     "d": "2024-05-16",
     "t": "TANGLING WITH FREUD IN A POST-FREUDIAN WORLD",
     "u": "https://doi.org/10.1515/9780691242446-017",
-    "s": "book"
-   },
-   {
-    "d": "2024-03-24",
-    "t": "Romantic Reactions:",
-    "u": "https://doi.org/10.2307/jj.13167945.16",
     "s": "book"
    }
   ],
@@ -2731,16 +2731,16 @@
     "s": "paper"
    },
    {
+    "d": "2026-03-01",
+    "t": "Shared responsibility, unequal power: Mapping the limitations of multi-stakeholderism in the EU’s digital governance",
+    "u": "https://doi.org/10.1386/jdmp_00201_1",
+    "s": "paper"
+   },
+   {
     "d": "2025-12-16",
     "t": "Platformization",
     "u": "https://doi.org/10.4337/9781035301447.vol3.00051",
     "s": "paper"
-   },
-   {
-    "d": "2025-10-01",
-    "t": "YouTube beyond technology and cultural form",
-    "u": "https://doi.org/10.4324/9781003690559-13",
-    "s": "book"
    }
   ],
   "yt": []
@@ -2945,7 +2945,7 @@
     "d": "2025-03-13",
     "t": "Wool, Wires and Water: Technological Transitions at Strangways Springs",
     "u": "https://doi.org/10.1007/s10761-025-00788-4",
-    "s": "book"
+    "s": "paper"
    }
   ],
   "yt": []
