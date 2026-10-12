@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T06:08:36Z",
+ "generated_at": "2026-10-12T15:41:29Z",
  "ok": 26,
  "fail": 26,
  "sources": [
@@ -217,9 +217,9 @@
    "s": "blog",
    "feed": "https://marginalrevolution.com/feed",
    "ok": true,
-   "count": 14,
+   "count": 12,
    "dropped": {
-    "著者条件に一致せず": 1
+    "著者条件に一致せず": 3
    }
   },
   {

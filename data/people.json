@@ -1514,20 +1514,20 @@
   "own": [
    {
     "d": "2026-10-12",
+    "t": "Michael Woodford, Nobel Laureate",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-nobel-laureate",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-12",
+    "t": "Robert E. Hall, Nobel Laureate",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/robert-hall-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=robert-hall-nobel-laureate",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-12",
     "t": "Okie-dokie, Casey Handmer edition",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html?utm_source=rss&utm_medium=rss&utm_campaign=okie-dokie-casey-handmer-edition",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-11",
-    "t": "Sunday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-586",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-11",
-    "t": "What should I ask Fuchsia Dunlop?",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-fuchsia-dunlop-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-fuchsia-dunlop-2",
     "s": "blog"
    }
   ],
@@ -2999,6 +2999,12 @@
   "bio": "『サピエンス全史』で虚構を共有する能力を人類の力の源泉として描き、『ホモ・デウス』でデータ至上主義の到来を論じた歴史学者。『NEXUS』(2024)では情報ネットワークの歴史からAIを捉え、AIは道具ではなく自ら決定を下す「エージェント」であり、人類史上初めて物語を生成できる存在だと警告する。",
   "own": [
    {
+    "d": "2026-10-12",
+    "t": "‘Fascism isn’t the worst-case scenario. Fascism is still human’",
+    "u": "https://www.ynharari.com/fascism-isnt-the-worst-case-scenario-fascism-is-still-human/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-04",
     "t": "The Greatest Threat Humans Just Can’t Stomach",
     "u": "https://www.ynharari.com/the-greatest-threat-humans-just-cant-stomach/",
@@ -3008,12 +3014,6 @@
     "d": "2026-08-26",
     "t": "AI, finance, and the end of trust",
     "u": "https://www.ynharari.com/ai-finance-and-the-end-of-trust/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-23",
-    "t": "Economic and political perils of AI",
-    "u": "https://www.ynharari.com/economic-and-political-perils-of-ai/",
     "s": "blog"
    }
   ],
