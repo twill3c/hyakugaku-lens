@@ -1257,6 +1257,13 @@
   ],
   "yt": [
    {
+    "d": "2026-09-03",
+    "t": "Are we betting too much on AI? | Nobel Laureate Daron Acemoglu",
+    "u": "https://www.youtube.com/watch?v=zAvOo4FrZMI",
+    "s": "yt",
+    "o": "Sinead Bovell"
+   },
+   {
     "d": "2026-09-01",
     "t": "AI-Driven Job Losses Are Deepening Liberal Democracy’s Crisis | Daron Acemoglu",
     "u": "https://www.youtube.com/watch?v=3D2mhJ0fmG8",
@@ -1269,13 +1276,6 @@
     "u": "https://www.youtube.com/watch?v=r3cemeE7PIE",
     "s": "yt",
     "o": "Interintellect"
-   },
-   {
-    "d": "2026-08-17",
-    "t": "Liberal Democracy in the AI Era (with Daron Acemoglu)",
-    "u": "https://www.youtube.com/watch?v=zvI0U8DSigA",
-    "s": "yt",
-    "o": "OCEAN Network"
    }
   ]
  },
@@ -3169,16 +3169,16 @@
     "s": "podcast"
    },
    {
-    "d": "2026-10-09",
-    "t": "How October 7 changed the Middle East, three years on | GZERO World with Ian Bremmer",
-    "u": "https://www.youtube.com/watch?v=gWkbYxanvB4",
+    "d": "2026-10-04",
+    "t": "The high-stakes US-China race | GZERO World with Ian Bremmer",
+    "u": "https://www.youtube.com/watch?v=2VWQtkyKrSs",
     "s": "yt",
     "o": "GZERO Media"
    },
    {
-    "d": "2026-10-04",
-    "t": "The high-stakes US-China race | GZERO World with Ian Bremmer",
-    "u": "https://www.youtube.com/watch?v=2VWQtkyKrSs",
+    "d": "2026-09-25",
+    "t": "UN Chief António Guterres on global power, AI, and a world in crisis | GZERO World with Ian Bremmer",
+    "u": "https://www.youtube.com/watch?v=36wNibURU-w",
     "s": "yt",
     "o": "GZERO Media"
    }
