@@ -16,15 +16,15 @@
     "s": "paper"
    },
    {
-    "d": "2025-08-09",
-    "t": "Future progress in artificial intelligence: A survey of expert opinion",
-    "u": "https://doi.org/10.48550/arxiv.2508.11681",
-    "s": "paper"
-   },
-   {
     "d": "2025-05-18",
     "t": "How malicious AI swarms can threaten democracy: The fusion of agentic AI and LLMs marks a new frontier in information warfare",
     "u": "https://doi.org/10.48550/arxiv.2506.06299",
+    "s": "paper"
+   },
+   {
+    "d": "2024-01-01",
+    "t": "Interview with Nick Bostrom",
+    "u": "https://doi.org/10.5840/harvardreview2024312",
     "s": "paper"
    }
   ],
@@ -341,15 +341,15 @@
     "s": "paper"
    },
    {
-    "d": "2025-10-30",
-    "t": "Applied ethics: synthetic phenomenology will not go away",
-    "u": "https://doi.org/10.3389/fsci.2025.1702840",
+    "d": "2026-04-16",
+    "t": "Social media and the mental health of children and adolescents",
+    "u": "https://doi.org/10.4126/frl01-006527806",
     "s": "paper"
    },
    {
-    "d": "2025-04-10",
-    "t": "Kultura świadomości",
-    "u": "https://doi.org/10.18778/8331-548-5",
+    "d": "2026-01-01",
+    "t": "Artificial suffering: an argument for a global moratorium on synthetic phenomenology (Reprint)",
+    "u": "https://doi.org/10.14279/depositonce-26150",
     "s": "book"
    }
   ],
@@ -1060,6 +1060,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-10-07",
+    "t": "Entangling humans and AI",
+    "u": "https://doi.org/10.1007/s00146-026-03387-x",
+    "s": "paper"
+   },
+   {
     "d": "2026-07-25",
     "t": "“Foreword” to Topical collection of AI and Society on critical code studies",
     "u": "https://doi.org/10.1007/s00146-026-03208-1",
@@ -1069,12 +1075,6 @@
     "d": "2026-06-04",
     "t": "Review of: \"Knowledge and Communication with AI\"",
     "u": "https://doi.org/10.32388/wu1nu2",
-    "s": "paper"
-   },
-   {
-    "d": "2026-05-04",
-    "t": "Distributed Cognition at/in Work: Strickland, Lawson Jaramillo, and Ryan's slippingglimpse",
-    "u": "https://openalex.org/W7215152185",
     "s": "paper"
    }
   ],
@@ -1113,22 +1113,22 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-11",
+    "t": "Situated Knowledges",
+    "u": "https://doi.org/10.4324/9781003407027-48",
+    "s": "book"
+   },
+   {
     "d": "2025-10-14",
     "t": "A Cyborg Manifesto",
     "u": "https://doi.org/10.4324/9781003440987-75",
     "s": "book"
    },
    {
-    "d": "2025-05-29",
-    "t": "The crisis in American science",
-    "u": "https://doi.org/10.1177/00732753251343655",
-    "s": "paper"
-   },
-   {
-    "d": "2025-01-02",
-    "t": "Pourquoi diable n’es‑tu plus là, Bruno ?",
-    "u": "https://doi.org/10.3917/mult.id3663322127762.pu2024-04s.sa16.art16",
-    "s": "paper"
+    "d": "2025-06-02",
+    "t": "Cyborg Manifesto",
+    "u": "https://doi.org/10.4324/9781003341567-69",
+    "s": "book"
    }
   ],
   "yt": [
@@ -1204,8 +1204,8 @@
    },
    {
     "d": "2026-01-01",
-    "t": "AI as a Measure of Human Intelligence",
-    "u": "https://openalex.org/W7159739864",
+    "t": "The Automaton of the Anthropocene",
+    "u": "https://doi.org/10.5040/9781350265011.0009",
     "s": "paper"
    }
   ],
@@ -1290,21 +1290,21 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-23",
+    "t": "Method, Mind, and Morality: How People Make Sense of Artificial Intelligence",
+    "u": "https://doi.org/10.1145/3816971",
+    "s": "paper"
+   },
+   {
     "d": "2026-08-07",
     "t": "A Field Experiment on the Future of Software Development",
     "u": "https://doi.org/10.1257/rct.19333",
     "s": "paper"
    },
    {
-    "d": "2026-05-01",
-    "t": "The Adoption of Industrial AI in America",
-    "u": "https://doi.org/10.1257/pandp.20261033",
-    "s": "paper"
-   },
-   {
-    "d": "2026-02-01",
-    "t": "Minimum Wages and Rise of the Robots",
-    "u": "https://doi.org/10.3386/w34895",
+    "d": "2026-07-30",
+    "t": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+    "u": "https://doi.org/10.48550/arxiv.2607.28617",
     "s": "paper"
    }
   ],
@@ -1362,6 +1362,12 @@
   ],
   "pub": [
    {
+    "d": "2023-01-01",
+    "t": "Des machines, des plateformes et des foules",
+    "u": "https://openalex.org/W7213739341",
+    "s": "paper"
+   },
+   {
     "d": "2019-10-01",
     "t": "More from Less",
     "u": "https://openalex.org/W3017573386",
@@ -1372,12 +1378,6 @@
     "t": "Harnessing the Crowd in the Age of the Machine: The New Business Playbook",
     "u": "https://doi.org/10.15581/002.ent-3672",
     "s": "paper"
-   },
-   {
-    "d": "2017-06-27",
-    "t": "Machine, Platform, Crowd: Harnessing Our Digital Future",
-    "u": "https://openalex.org/W2907597507",
-    "s": "book"
    }
   ],
   "yt": [
@@ -1592,15 +1592,15 @@
     "s": "paper"
    },
    {
-    "d": "2026-06-18",
-    "t": "Measuring the AI Economy",
-    "u": "https://doi.org/10.34989/swp-2026-20",
-    "s": "paper"
-   },
-   {
     "d": "2026-04-01",
     "t": "When Does Automating AI Research Produce Explosive Growth? Feedback Loops in Innovation Networks",
     "u": "https://doi.org/10.3386/w35155",
+    "s": "paper"
+   },
+   {
+    "d": "2026-03-01",
+    "t": "Steering Technological Progress",
+    "u": "https://doi.org/10.3386/w34994",
     "s": "paper"
    }
   ],
@@ -1724,6 +1724,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-01",
+    "t": "Does AI Assistance Enhance or Erode Expertise? Evidence from a Three-Month Field Experiment in Patent Drafting",
+    "u": "https://doi.org/10.3386/w35720",
+    "s": "paper"
+   },
+   {
     "d": "2026-07-01",
     "t": "Baby Busts and Growth Booms: Demographic Change and the Macroeconomy",
     "u": "https://doi.org/10.3386/w35401",
@@ -1733,12 +1739,6 @@
     "d": "2026-05-29",
     "t": "Kasy, Maximilian. The Means of Prediction: How AI Really Works (and Who Benefits)",
     "u": "https://doi.org/10.1257/jel.64.2.698.r8",
-    "s": "paper"
-   },
-   {
-    "d": "2026-03-25",
-    "t": "What Makes New Work Different from More Work?",
-    "u": "https://doi.org/10.65864/lz4ksl67lj",
     "s": "paper"
    }
   ],
@@ -1769,15 +1769,15 @@
     "s": "book"
    },
    {
-    "d": "2026-01-01",
-    "t": "Enhancing Worker Productivity Without Automating Tasks: A Different Approach to AI and the Task-Based Model",
-    "u": "https://doi.org/10.2139/ssrn.6167292",
-    "s": "paper"
-   },
-   {
     "d": "2025-10-01",
     "t": "Genius on Demand: The Value of Transformative Artificial Intelligence",
     "u": "https://doi.org/10.3386/w34316",
+    "s": "paper"
+   },
+   {
+    "d": "2025-08-25",
+    "t": "The Economics of Artificial Intelligence",
+    "u": "https://doi.org/10.1080/08956308.2025.2532316",
     "s": "paper"
    }
   ],
@@ -1907,8 +1907,8 @@
    },
    {
     "d": "2025-09-20",
-    "t": "The Scale and the Reactor",
-    "u": "https://doi.org/10.1093/9780197526170.003.0003",
+    "t": "Introduction",
+    "u": "https://doi.org/10.1093/9780197526170.003.0001",
     "s": "book"
    }
   ],
@@ -1939,16 +1939,16 @@
     "s": "paper"
    },
    {
+    "d": "2026-04-30",
+    "t": "Judging and Limits on Legal Automation",
+    "u": "https://doi.org/10.1017/9781009744225.006",
+    "s": "book"
+   },
+   {
     "d": "2026-01-01",
     "t": "The Non-Delegable Duty to Think: Judicial Legitimacy and the Limits of Generative AI",
     "u": "https://doi.org/10.2139/ssrn.6473658",
     "s": "paper"
-   },
-   {
-    "d": "2025-11-11",
-    "t": "Cultural Foundations for Conserving Human Capacities in an Era of Generative Artificial Intelligence",
-    "u": "https://doi.org/10.1017/9781009383851.005",
-    "s": "book"
    }
   ],
   "yt": []
@@ -2352,7 +2352,7 @@
     "s": "book"
    },
    {
-    "d": "2024-05-16",
+    "d": "2024-05-14",
     "t": "TANGLING WITH FREUD IN A POST-FREUDIAN WORLD",
     "u": "https://doi.org/10.1515/9780691242446-017",
     "s": "book"
@@ -2679,21 +2679,21 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-09-17",
+    "t": "Ignore the big tech propheteers – counter thoughts on AI’s future",
+    "u": "https://openalex.org/W7221271241",
+    "s": "paper"
+   },
+   {
+    "d": "2026-06-11",
+    "t": "AI's impending social crisis",
+    "u": "https://openalex.org/W7169484786",
+    "s": "paper"
+   },
+   {
     "d": "2026-03-01",
     "t": "The Space of the World, Data Colonialism, and Social Contract: Reconstructing Digital Futures—A Dialogue with Nick Couldry",
     "u": "https://doi.org/10.1177/20570473261424566",
-    "s": "paper"
-   },
-   {
-    "d": "2025-11-25",
-    "t": "Dataficação",
-    "u": "https://doi.org/10.30962/e-comps.3222",
-    "s": "paper"
-   },
-   {
-    "d": "2025-10-14",
-    "t": "Human Life as Terra Nullius: Socially Blind Engineering in Facebook’s Foundational Technologies",
-    "u": "https://doi.org/10.1007/s13347-025-00971-9",
     "s": "paper"
    }
   ],
@@ -3515,15 +3515,15 @@
     "s": "paper"
    },
    {
-    "d": "2025-08-22",
-    "t": "La sélection naturelle des connards",
-    "u": "https://doi.org/10.3917/sh.hs32.0024",
+    "d": "2026-07-20",
+    "t": "Data and Materials",
+    "u": "https://openalex.org/W7110470938",
     "s": "paper"
    },
    {
-    "d": "2024-10-18",
-    "t": "Judith Rich Harris and child development: 25 years after The Nurture Assumption",
-    "u": "https://doi.org/10.1016/j.dr.2024.101164",
+    "d": "2025-08-22",
+    "t": "La sélection naturelle des connards",
+    "u": "https://doi.org/10.3917/sh.hs32.0024",
     "s": "paper"
    }
   ],
@@ -3634,21 +3634,21 @@
   ],
   "pub": [
    {
+    "d": "2026-05-14",
+    "t": "A sentence is worth a thousand pictures: can large language models understand hum4n L4ngu4ge and the W0rld behind W0rds?",
+    "u": "https://doi.org/10.1098/rsta.2025.0008",
+    "s": "paper"
+   },
+   {
     "d": "2026-03-14",
     "t": "The Future Is Neuro-Symbolic: Where Has It Been, and Where Is It Going?",
     "u": "https://doi.org/10.1609/aaai.v40i48.42130",
     "s": "paper"
    },
    {
-    "d": "2025-12-04",
-    "t": "Fundamental principles of linguistic structure are not represented by ChatGPT",
-    "u": "https://doi.org/10.5964/bioling.19021",
-    "s": "paper"
-   },
-   {
-    "d": "2025-10-21",
-    "t": "A Definition of AGI",
-    "u": "https://doi.org/10.48550/arxiv.2510.18212",
+    "d": "2026-01-22",
+    "t": "How malicious AI swarms can threaten democracy.",
+    "u": "https://doi.org/10.17863/cam.132176",
     "s": "paper"
    }
   ],
