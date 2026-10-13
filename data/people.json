@@ -1513,21 +1513,21 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-10-13",
+    "t": "*Lost Worlds*",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/lost-worlds.html?utm_source=rss&utm_medium=rss&utm_campaign=lost-worlds",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-13",
+    "t": "“I have no mouth and I must scream”",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/i-have-no-mouth-and-i-must-scream.html?utm_source=rss&utm_medium=rss&utm_campaign=i-have-no-mouth-and-i-must-scream",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-12",
     "t": "Monday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-581",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-12",
-    "t": "Michael Woodford, Nobel Laureate",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-nobel-laureate",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-12",
-    "t": "Robert E. Hall, Nobel Laureate",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/robert-hall-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=robert-hall-nobel-laureate",
     "s": "blog"
    }
   ],
@@ -2620,6 +2620,12 @@
   "bio": "若者のソーシャルメディア利用の民族誌『It's Complicated』で知られる研究者。ケイト・クロフォードとの「ビッグデータへの批判的問い」はデータ科学批判の古典となった。研究機関 Data & Society を創設し、技術と社会の学際研究の制度的基盤を作った。近年は米国国勢調査の差分プライバシー導入をめぐる研究を進める。",
   "own": [
    {
+    "d": "2026-10-13",
+    "t": "What’s Up with 4-3-5?",
+    "u": "https://www.zephoria.org/thoughts/archives/2026/10/13/whats-up-with-4-3-5.html",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-24",
     "t": "Today’s the Day!",
     "u": "https://www.zephoria.org/thoughts/archives/2026/09/24/todays-the-day.html",
@@ -2629,12 +2635,6 @@
     "d": "2026-09-10",
     "t": "Today’s Census News is a Big Deal",
     "u": "https://www.zephoria.org/thoughts/archives/2026/09/10/todays-census-news-is-a-big-deal.html",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-24",
-    "t": "1 month until new book!",
-    "u": "https://www.zephoria.org/thoughts/archives/2026/08/24/1-month-until-new-book.html",
     "s": "blog"
    }
   ],
@@ -3176,11 +3176,10 @@
     "o": "GZERO Media"
    },
    {
-    "d": "2026-09-25",
-    "t": "UN Chief António Guterres on global power, AI, and a world in crisis | GZERO World with Ian Bremmer",
-    "u": "https://www.youtube.com/watch?v=36wNibURU-w",
-    "s": "yt",
-    "o": "GZERO Media"
+    "d": "2026-10-03",
+    "t": "The great US-China superpower rivalry, with Elizabeth Economy",
+    "u": "https://gzeroworld.simplecast.com/episodes/the-great-us-china-superpower-rivalry-with-elizabeth-economy-yQRK5up2",
+    "s": "podcast"
    }
   ]
  },
@@ -3194,6 +3193,12 @@
   "bio": "エイブラハム・ニューマンとの『Underground Empire』で、金融・通信のネットワークの結節点を握る米国が経済を武器化する構図(weaponized interdependence)を描いた。コスマ・シャリツィとの共著論考ではAIを市場や官僚制と並ぶ社会的情報処理装置として位置づける。Programmable Mutter で発信する。",
   "own": [
    {
+    "d": "2026-10-13",
+    "t": "The Pundit’s Trilemma",
+    "u": "https://www.programmablemutter.com/p/the-pundits-trilemma",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-02",
     "t": "What AI debates have to do with alchemy",
     "u": "https://www.programmablemutter.com/p/what-ai-debates-have-to-do-with-alchemy",
@@ -3203,12 +3208,6 @@
     "d": "2026-09-22",
     "t": "Machine god metaphors eat your brain",
     "u": "https://www.programmablemutter.com/p/machine-god-metaphors-eat-your-brain",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-20",
-    "t": "International relations has a problem with the future",
-    "u": "https://www.programmablemutter.com/p/international-relations-has-a-problem",
     "s": "blog"
    }
   ],
