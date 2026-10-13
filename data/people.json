@@ -1514,6 +1514,12 @@
   "own": [
    {
     "d": "2026-10-12",
+    "t": "Monday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-581",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-12",
     "t": "Michael Woodford, Nobel Laureate",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-nobel-laureate",
     "s": "blog"
@@ -1522,12 +1528,6 @@
     "d": "2026-10-12",
     "t": "Robert E. Hall, Nobel Laureate",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/robert-hall-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=robert-hall-nobel-laureate",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-12",
-    "t": "Okie-dokie, Casey Handmer edition",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html?utm_source=rss&utm_medium=rss&utm_campaign=okie-dokie-casey-handmer-edition",
     "s": "blog"
    }
   ],
@@ -3123,6 +3123,12 @@
   "bio": "政治リスク分析会社ユーラシア・グループの創業者。国家に代わりテック企業が地政学的アクターになる「技術極(technopolar)世界」という概念を提示し、国連の AI 諮問機関にも加わった。年頭のトップリスク・レポートは各国の政策担当者に読まれ、GZERO メディアを通じて発信を続ける。",
   "own": [
    {
+    "d": "2026-10-12",
+    "t": "Trump's Russian diesel deal and what it means for Ukraine",
+    "u": "https://www.gzeromedia.com/video/quick-take/trump-s-russian-diesel-deal-and-what-it-means-for-ukraine",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-07",
     "t": "Three years after 10/7, Israel looks backward and forward",
     "u": "https://www.gzeromedia.com/by-ian-bremmer/october-7",
@@ -3132,12 +3138,6 @@
     "d": "2026-10-07",
     "t": "AI, capitalism, and who pays the price",
     "u": "https://www.gzeromedia.com/video/ask-ian/ai-capitalism-and-who-pays-the-price",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-05",
-    "t": "Brazil's election signals a rightward shift across Latin America",
-    "u": "https://www.gzeromedia.com/video/quick-take/brazil-s-election-signals-a-rightward-shift-across-latin-america",
     "s": "blog"
    }
   ],
