@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-14T05:02:12Z",
- "ok": 26,
- "fail": 26,
+ "generated_at": "2026-10-14T12:04:12Z",
+ "ok": 25,
+ "fail": 27,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -165,8 +165,9 @@
    "n": "ジョン・ダナハー",
    "s": "blog",
    "feed": "https://philosophicaldisquisitions.blogspot.com/feeds/posts/default",
-   "ok": true,
-   "count": 25
+   "ok": false,
+   "count": 0,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "n": "ジョン・ダナハー",
