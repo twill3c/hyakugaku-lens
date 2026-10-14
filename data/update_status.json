@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-14T12:04:12Z",
- "ok": 25,
- "fail": 27,
+ "generated_at": "2026-10-14T17:19:34Z",
+ "ok": 26,
+ "fail": 26,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -56,9 +56,9 @@
    "s": "blog",
    "feed": "https://www.gzeromedia.com/feeds/feed.rss",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "dropped": {
-    "著者条件に一致せず": 27
+    "著者条件に一致せず": 26
    }
   },
   {
@@ -134,9 +134,9 @@
    "s": "blog",
    "feed": "https://balkin.blogspot.com/feeds/posts/default",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "dropped": {
-    "著者条件に一致せず": 21
+    "著者条件に一致せず": 20
    }
   },
   {
@@ -165,9 +165,8 @@
    "n": "ジョン・ダナハー",
    "s": "blog",
    "feed": "https://philosophicaldisquisitions.blogspot.com/feeds/posts/default",
-   "ok": false,
-   "count": 0,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 25
   },
   {
    "n": "ジョン・ダナハー",
@@ -218,9 +217,9 @@
    "s": "blog",
    "feed": "https://marginalrevolution.com/feed",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "dropped": {
-    "著者条件に一致せず": 4
+    "著者条件に一致せず": 3
    }
   },
   {
