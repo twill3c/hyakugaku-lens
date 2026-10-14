@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T02:42:05Z",
+ "generated_at": "2026-10-14T00:34:56Z",
  "declared": 99,
  "verified": 90,
  "unreachable": 0,
@@ -2961,7 +2961,7 @@
     {
      "id": "A5074481124",
      "display_name": "Richard Baldwin",
-     "works_count": 700,
+     "works_count": 695,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -2969,7 +2969,7 @@
     {
      "id": "A5084082463",
      "display_name": "Richard P. Baldwin",
-     "works_count": 110,
+     "works_count": 109,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -2977,7 +2977,7 @@
     {
      "id": "A5088363918",
      "display_name": "Richard K. Baldwin",
-     "works_count": 21,
+     "works_count": 20,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -2993,7 +2993,7 @@
     {
      "id": "A5060597899",
      "display_name": "Richard Hauxwell‐Baldwin",
-     "works_count": 12,
+     "works_count": 15,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -3017,7 +3017,7 @@
     {
      "id": "A5058474194",
      "display_name": "R. Madey",
-     "works_count": 400,
+     "works_count": 402,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6724,7 +6724,7 @@
     {
      "id": "A5110092412",
      "display_name": "Martin John Rees",
-     "works_count": 885,
+     "works_count": 881,
      "inst_hit": [
       "Cambridge"
      ],
@@ -6734,7 +6734,7 @@
     {
      "id": "A5090248780",
      "display_name": "Robert Martin Rees",
-     "works_count": 335,
+     "works_count": 333,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6881,7 +6881,7 @@
     {
      "id": "A5037194368",
      "display_name": "Amy Webb Girard",
-     "works_count": 327,
+     "works_count": 329,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6897,7 +6897,7 @@
     {
      "id": "A5075965119",
      "display_name": "Amy Webb",
-     "works_count": 184,
+     "works_count": 181,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6984,7 +6984,7 @@
     {
      "id": "A5068208166",
      "display_name": "Hiroki AZUMA",
-     "works_count": 4,
+     "works_count": 5,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7204,7 +7204,7 @@
     {
      "id": "A5013833262",
      "display_name": "Takayuki Suzuki",
-     "works_count": 143,
+     "works_count": 142,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7212,7 +7212,7 @@
     {
      "id": "A5068717853",
      "display_name": "Takayuki Suzuki",
-     "works_count": 295,
+     "works_count": 293,
      "inst_hit": [
       "University of Tokyo"
      ],
@@ -7222,7 +7222,7 @@
     {
      "id": "A5005533360",
      "display_name": "Takayuki Suzuki",
-     "works_count": 666,
+     "works_count": 662,
      "inst_hit": [
       "University of Tokyo"
      ],
@@ -7232,7 +7232,7 @@
     {
      "id": "A5033049879",
      "display_name": "Takayuki Suzuki",
-     "works_count": 263,
+     "works_count": 261,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7344,15 +7344,7 @@
     {
      "id": "A5085562387",
      "display_name": "Hiroshi Toya",
-     "works_count": 18,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5152692980",
-     "display_name": "Hiroshi Toya",
-     "works_count": 2,
+     "works_count": 20,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7368,15 +7360,7 @@
     {
      "id": "A5002313544",
      "display_name": "Toya Hiroshi",
-     "works_count": 6,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
-     "id": "A5156499651",
-     "display_name": "Hiroshi Toya",
-     "works_count": 3,
+     "works_count": 7,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -7385,6 +7369,14 @@
      "id": "A5149922690",
      "display_name": "Hiroshi Toya",
      "works_count": 17,
+     "inst_hit": [],
+     "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5156499651",
+     "display_name": "Hiroshi Toya",
+     "works_count": 3,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -7399,7 +7391,7 @@
     {
      "id": "A5069588895",
      "display_name": "Yuichiro Okamoto",
-     "works_count": 10,
+     "works_count": 13,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
