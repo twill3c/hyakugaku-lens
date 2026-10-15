@@ -82,6 +82,12 @@
   ],
   "pub": [
    {
+    "d": "2026-10-14",
+    "t": "Everything but the Signature: A Proposal for AI-Born Journals",
+    "u": "https://doi.org/10.1007/s13347-026-01207-0",
+    "s": "paper"
+   },
+   {
     "d": "2026-10-12",
     "t": "A Limit of AI, I: A Discrete Information-Theoretic Proof of the Certainty–Scope Conjecture",
     "u": "https://doi.org/10.1007/s11023-026-09796-7",
@@ -91,12 +97,6 @@
     "d": "2026-09-11",
     "t": "The search for knowledge : from desire to defence : hypothesis for the introduction of a Peirceisch interpretation of the genetic principle of the process of knowing as a fundamental orientation for a future gnoseology",
     "u": "https://doi.org/10.82444/warw.33630280",
-    "s": "paper"
-   },
-   {
-    "d": "2026-08-25",
-    "t": "Rules Without Models: Why Europe Must Build the AI It Regulates",
-    "u": "https://doi.org/10.1007/s13347-026-01171-9",
     "s": "paper"
    }
   ],
