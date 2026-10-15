@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T04:50:43Z",
+ "generated_at": "2026-10-15T11:41:00Z",
  "ok": 26,
  "fail": 26,
  "sources": [
@@ -217,9 +217,9 @@
    "s": "blog",
    "feed": "https://marginalrevolution.com/feed",
    "ok": true,
-   "count": 12,
+   "count": 13,
    "dropped": {
-    "著者条件に一致せず": 3
+    "著者条件に一致せず": 2
    }
   },
   {
@@ -314,7 +314,7 @@
    "s": "podcast",
    "feed": "https://feeds.acast.com/public/shows/6628460c6b51e80012b834c2",
    "ok": true,
-   "count": 92
+   "count": 93
   },
   {
    "n": "ピーター・シンガー",
