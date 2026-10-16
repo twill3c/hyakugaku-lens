@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T23:48:56Z",
+ "generated_at": "2026-10-16T23:50:38Z",
  "declared": 99,
  "verified": 90,
  "unreachable": 0,
@@ -2977,7 +2977,7 @@
     {
      "id": "A5088363918",
      "display_name": "Richard K. Baldwin",
-     "works_count": 20,
+     "works_count": 21,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -2999,6 +2999,14 @@
      "ok": false
     },
     {
+     "id": "A5058474194",
+     "display_name": "R. Madey",
+     "works_count": 460,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
      "id": "A5042820256",
      "display_name": "Richard Baldwin",
      "works_count": 32,
@@ -3012,14 +3020,6 @@
      "works_count": 24,
      "inst_hit": [],
      "domain_ok": true,
-     "ok": false
-    },
-    {
-     "id": "A5058474194",
-     "display_name": "R. Madey",
-     "works_count": 402,
-     "inst_hit": [],
-     "domain_ok": false,
      "ok": false
     }
    ]
@@ -6724,7 +6724,7 @@
     {
      "id": "A5110092412",
      "display_name": "Martin John Rees",
-     "works_count": 934,
+     "works_count": 956,
      "inst_hit": [
       "Cambridge"
      ],
@@ -6897,7 +6897,7 @@
     {
      "id": "A5075965119",
      "display_name": "Amy Webb",
-     "works_count": 181,
+     "works_count": 182,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6929,15 +6929,15 @@
     {
      "id": "A5113077482",
      "display_name": "Amy Caitlin Webb",
-     "works_count": 1,
+     "works_count": 2,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
     },
     {
-     "id": "A5062634856",
-     "display_name": "A. E. H. Webb",
-     "works_count": 2,
+     "id": "A5112609309",
+     "display_name": "Amy Webb",
+     "works_count": 3,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
@@ -6960,7 +6960,7 @@
     {
      "id": "A5013043339",
      "display_name": "Hiroki Azuma",
-     "works_count": 4,
+     "works_count": 2,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7240,7 +7240,7 @@
     {
      "id": "A5108062903",
      "display_name": "Takayuki Suzuki",
-     "works_count": 105,
+     "works_count": 104,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7265,9 +7265,9 @@
      "ok": false
     },
     {
-     "id": "A5103417574",
-     "display_name": "Takayuki SUZUKI",
-     "works_count": 4,
+     "id": "A5110342270",
+     "display_name": "Sennosuke SATO",
+     "works_count": 175,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false

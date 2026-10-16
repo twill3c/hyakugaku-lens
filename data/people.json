@@ -82,6 +82,12 @@
   ],
   "pub": [
    {
+    "d": "2026-10-15",
+    "t": "What Is Left for Us?",
+    "u": "https://doi.org/10.1111/eulj.70031",
+    "s": "paper"
+   },
+   {
     "d": "2026-10-14",
     "t": "Everything but the Signature: A Proposal for AI-Born Journals",
     "u": "https://doi.org/10.1007/s13347-026-01207-0",
@@ -91,12 +97,6 @@
     "d": "2026-10-12",
     "t": "A Limit of AI, I: A Discrete Information-Theoretic Proof of the Certainty–Scope Conjecture",
     "u": "https://doi.org/10.1007/s11023-026-09796-7",
-    "s": "paper"
-   },
-   {
-    "d": "2026-09-11",
-    "t": "The search for knowledge : from desire to defence : hypothesis for the introduction of a Peirceisch interpretation of the genetic principle of the process of knowing as a fundamental orientation for a future gnoseology",
-    "u": "https://doi.org/10.82444/warw.33630280",
     "s": "paper"
    }
   ],
@@ -2679,6 +2679,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-10-15",
+    "t": "Foreword",
+    "u": "https://doi.org/10.51952/9781529250855.fm002",
+    "s": "book"
+   },
+   {
     "d": "2026-09-17",
     "t": "Ignore the big tech propheteers – counter thoughts on AI’s future",
     "u": "https://openalex.org/W7221271241",
@@ -2688,12 +2694,6 @@
     "d": "2026-06-11",
     "t": "AI's impending social crisis",
     "u": "https://openalex.org/W7169484786",
-    "s": "paper"
-   },
-   {
-    "d": "2026-03-01",
-    "t": "The Space of the World, Data Colonialism, and Social Contract: Reconstructing Digital Futures—A Dialogue with Nick Couldry",
-    "u": "https://doi.org/10.1177/20570473261424566",
     "s": "paper"
    }
   ],
@@ -3561,6 +3561,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-10-15",
+    "t": "Empowerment Gain as Causal Learning, Causal Learning as Empowerment Gain: A Bridge between Bayesian Causal Hypothesis Testing and Reinforcement Learning",
+    "u": "https://doi.org/10.1017/psa.2026.10285",
+    "s": "paper"
+   },
+   {
     "d": "2026-09-24",
     "t": "The Great and Good John Flavell",
     "u": "https://doi.org/10.1080/15248372.2026.2735255",
@@ -3570,12 +3576,6 @@
     "d": "2026-09-02",
     "t": "What Is Worth Representing? Representational Empowerment for Continual Model Construction",
     "u": "https://doi.org/10.48550/arxiv.2609.02322",
-    "s": "paper"
-   },
-   {
-    "d": "2026-06-17",
-    "t": "Preschoolers search semantic networks in a broader and more variable way than adults: Implications for hypothesis generation",
-    "u": "https://doi.org/10.31234/osf.io/qpj6n_v2",
     "s": "paper"
    }
   ],
