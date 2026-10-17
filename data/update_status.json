@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T10:54:52Z",
+ "generated_at": "2026-10-17T15:42:13Z",
  "ok": 27,
  "fail": 25,
  "sources": [
@@ -65,7 +65,7 @@
    "s": "podcast",
    "feed": "https://feeds.simplecast.com/ibBxsiVV",
    "ok": true,
-   "count": 447
+   "count": 448
   },
   {
    "n": "イーサン・モリック",
