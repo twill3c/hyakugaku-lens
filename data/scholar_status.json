@@ -1,547 +1,637 @@
 {
- "generated_at": "2026-10-16T23:50:38Z",
- "ok": 87,
- "fail": 3,
+ "generated_at": "2026-10-17T23:44:24Z",
+ "ok": 0,
+ "fail": 90,
  "authors": [
   {
    "n": "ニック・ボストロム",
    "openalex_id": "A5027943191",
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ルチアーノ・フロリディ",
    "openalex_id": "A5046574356",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "デイヴィッド・チャーマーズ",
    "openalex_id": "A5103215889",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ピーター・シンガー",
    "openalex_id": "A5053698604",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "シャノン・ヴァラー",
    "openalex_id": "A5076883843",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "マーク・クーケルバーク",
    "openalex_id": "A5003571713",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "トマス・メッツィンガー",
    "openalex_id": "A5036226202",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "スーザン・シュナイダー",
    "openalex_id": "A5017841653",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "トビー・オード",
    "openalex_id": "A5073888549",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ウィリアム・マッカスキル",
    "openalex_id": "A5073466841",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ジョン・ダナハー",
    "openalex_id": "A5057953350",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "カリッサ・ヴェリス",
    "openalex_id": "A5063595192",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "セス・ラザー",
    "openalex_id": "A5062824333",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ヴィンセント・C・ミュラー",
    "openalex_id": "A5026465320",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ウェンデル・ウォラック",
    "openalex_id": "A5044236058",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ペーター=ポール・フェルベーク",
    "openalex_id": "A5070880474",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "アンドリュー・フィーンバーグ",
    "openalex_id": "A5009247091",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ユク・ホイ",
    "openalex_id": "A5061533561",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "マルクス・ガブリエル",
    "openalex_id": "A5113079322",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ビョンチョル・ハン",
    "openalex_id": "A5012747203",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ロージ・ブライドッティ",
    "openalex_id": "A5063446448",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "N・キャサリン・ヘイルズ",
    "openalex_id": "A5070884578",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ダナ・ハラウェイ",
    "openalex_id": "A5054380367",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ベンジャミン・ブラットン",
    "openalex_id": "A5077567701",
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "マッテオ・パスクィネッリ",
    "openalex_id": "A5085389494",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ダロン・アセモグル",
    "openalex_id": "A5012301204",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "エリック・ブリニョルフソン",
    "openalex_id": "A5038255653",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "アンドリュー・マカフィー",
    "openalex_id": "A5001239123",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "カール・ベネディクト・フレイ",
    "openalex_id": "A5013275181",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ジョセフ・スティグリッツ",
    "openalex_id": "A5074218217",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "タイラー・コーエン",
    "openalex_id": "A5020548675",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "アントン・コリネック",
    "openalex_id": "A5009882421",
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ダイアン・コイル",
    "openalex_id": "A5038965583",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "デイヴィッド・オーター",
    "openalex_id": "A5029839974",
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "アジェイ・アグラワル",
    "openalex_id": "A5109147283",
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "アヴィ・ゴールドファーブ",
    "openalex_id": "A5053397554",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ダニエル・サスキンド",
    "openalex_id": "A5063768031",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ライアン・カロ",
    "openalex_id": "A5070609145",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "フランク・パスクァーレ",
    "openalex_id": "A5043513868",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "サンドラ・ワクター",
    "openalex_id": "A5075172090",
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ミレイユ・ヒルデブラント",
    "openalex_id": "A5004617213",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ジャック・バルキン",
    "openalex_id": "A5068589813",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ローレンス・レッシグ",
    "openalex_id": "A5072431750",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ジュリー・コーエン",
    "openalex_id": "A5087973237",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "カレン・ヨン",
    "openalex_id": "A5029261881",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ウーゴ・パガロ",
    "openalex_id": "A5089573061",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "リチャード・サスキンド",
    "openalex_id": "A5004131792",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "シェリー・タークル",
    "openalex_id": "A5018775376",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ゼイネップ・トゥフェクチ",
    "openalex_id": "A5044522704",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ショシャナ・ズボフ",
    "openalex_id": "A5073480907",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ルハ・ベンジャミン",
    "openalex_id": "A5064354725",
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "サフィヤ・ノーブル",
    "openalex_id": "A5001565446",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ヴァージニア・ユーバンクス",
    "openalex_id": "A5057886941",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ダナ・ボイド",
    "openalex_id": "A5009029178",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ニック・クドリー",
    "openalex_id": "A5061849511",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ホセ・ファン・ダイク",
    "openalex_id": "A5031080224",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ジュディ・ワイクマン",
    "openalex_id": "A5066117471",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ルーシー・サッチマン",
    "openalex_id": "A5048208402",
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "シーラ・ジャザノフ",
    "openalex_id": "A5068594960",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ヘルガ・ノヴォトニー",
    "openalex_id": "A5000945637",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ジュヌヴィエーヴ・ベル",
    "openalex_id": "A5060815696",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ケイト・クロフォード",
    "openalex_id": "A5033954307",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ユヴァル・ノア・ハラリ",
    "openalex_id": "A5019691568",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "フランシス・フクヤマ",
    "openalex_id": "A5066976206",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "イアン・ブレマー",
    "openalex_id": "A5017243791",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ヘンリー・ファレル",
    "openalex_id": "A5112468935",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "マリーチェ・スハーケ",
    "openalex_id": "A5108343874",
    "ok": false,
-   "count": 0
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "デイヴィッド・ランシマン",
    "openalex_id": "A5089425160",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "イアン・ゴールディン",
    "openalex_id": "A5003686226",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "アリソン・スタンガー",
    "openalex_id": "A5005923892",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "フィリップ・ハワード",
    "openalex_id": "A5079636968",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "スティーブン・ピンカー",
    "openalex_id": "A5000597416",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "アリソン・ゴプニック",
    "openalex_id": "A5062253481",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "ゲアリー・マーカス",
    "openalex_id": "A5110126701",
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "イヤド・ラーワン",
    "openalex_id": "A5009232244",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "イーサン・モリック",
    "openalex_id": "A5061686034",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "大澤真幸",
    "openalex_id": "A5062061133",
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "西垣通",
    "openalex_id": "A5069110940",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "出口康夫",
    "openalex_id": "A5061546563",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "久木田水生",
    "openalex_id": "A5010253822",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "神崎宣次",
    "openalex_id": "A5073940508",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "山本龍彦",
    "openalex_id": "A5111783645",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "大屋雄裕",
    "openalex_id": "A5017802782",
    "ok": false,
-   "count": 0
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "宍戸常寿",
    "openalex_id": "A5055086499",
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "成原慧",
    "openalex_id": "A5131574604",
    "ok": false,
-   "count": 0
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "井上智洋",
    "openalex_id": "A5111711985",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "柳川範之",
    "openalex_id": "A5049472021",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "山本勲",
    "openalex_id": "A5068499957",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "江間有沙",
    "openalex_id": "A5003246745",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   {
    "n": "城山英明",
    "openalex_id": "A5114044923",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   }
  ]
 }

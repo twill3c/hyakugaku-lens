@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-16T23:50:38Z",
+ "generated_at": "2026-10-17T23:44:24Z",
  "declared": 99,
  "verified": 90,
- "unreachable": 0,
- "no_match": 9,
+ "unreachable": 9,
+ "no_match": 0,
  "results": [
   {
    "n": "ニック・ボストロム",
@@ -2957,72 +2957,8 @@
    "n": "リチャード・ボールドウィン",
    "q": "Richard Baldwin",
    "verified": false,
-   "tried": [
-    {
-     "id": "A5074481124",
-     "display_name": "Richard Baldwin",
-     "works_count": 695,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
-     "id": "A5084082463",
-     "display_name": "Richard P. Baldwin",
-     "works_count": 109,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5088363918",
-     "display_name": "Richard K. Baldwin",
-     "works_count": 21,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5056783460",
-     "display_name": "Richard Baldwin",
-     "works_count": 16,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
-     "id": "A5060597899",
-     "display_name": "Richard Hauxwell‐Baldwin",
-     "works_count": 15,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
-     "id": "A5058474194",
-     "display_name": "R. Madey",
-     "works_count": 460,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5042820256",
-     "display_name": "Richard Baldwin",
-     "works_count": 32,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5113838514",
-     "display_name": "Robert Baldwin",
-     "works_count": 24,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    }
-   ]
+   "tried": [],
+   "error": "検索失敗 RuntimeError"
   },
   {
    "n": "デイヴィッド・オーター",
@@ -6720,76 +6656,8 @@
    "n": "マーティン・リース",
    "q": "Martin Rees",
    "verified": false,
-   "tried": [
-    {
-     "id": "A5110092412",
-     "display_name": "Martin John Rees",
-     "works_count": 956,
-     "inst_hit": [
-      "Cambridge"
-     ],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5090248780",
-     "display_name": "Robert Martin Rees",
-     "works_count": 333,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5041064006",
-     "display_name": "Martin D. Rees",
-     "works_count": 34,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5046143932",
-     "display_name": "Martin Rees",
-     "works_count": 43,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5045826016",
-     "display_name": "Martin Rees",
-     "works_count": 17,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5029019830",
-     "display_name": "Martin Rees",
-     "works_count": 2,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
-     "id": "A5072424086",
-     "display_name": "MARTIN REES",
-     "works_count": 2,
-     "inst_hit": [
-      "Cambridge"
-     ],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5017831641",
-     "display_name": "Martin Rees-Milton",
-     "works_count": 2,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    }
-   ]
+   "tried": [],
+   "error": "検索失敗 RuntimeError"
   },
   {
    "n": "イーサン・モリック",
@@ -6877,135 +6745,15 @@
    "n": "エイミー・ウェブ",
    "q": "Amy Webb",
    "verified": false,
-   "tried": [
-    {
-     "id": "A5037194368",
-     "display_name": "Amy Webb Girard",
-     "works_count": 329,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5111630906",
-     "display_name": "Amy Webb",
-     "works_count": 17,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5075965119",
-     "display_name": "Amy Webb",
-     "works_count": 182,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5082175645",
-     "display_name": "Amy K. Webb",
-     "works_count": 15,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5019144889",
-     "display_name": "Amy Webb",
-     "works_count": 6,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5028034749",
-     "display_name": "Amy Pieper Webb",
-     "works_count": 7,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
-     "id": "A5113077482",
-     "display_name": "Amy Caitlin Webb",
-     "works_count": 2,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5112609309",
-     "display_name": "Amy Webb",
-     "works_count": 3,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    }
-   ]
+   "tried": [],
+   "error": "検索失敗 RuntimeError"
   },
   {
    "n": "東浩紀",
    "q": "Hiroki Azuma",
    "verified": false,
-   "tried": [
-    {
-     "id": "A5050727421",
-     "display_name": "Hiroki Azuma",
-     "works_count": 11,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5013043339",
-     "display_name": "Hiroki Azuma",
-     "works_count": 2,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5110570423",
-     "display_name": "Hiroki Azuma",
-     "works_count": 18,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
-     "id": "A5075537132",
-     "display_name": "Hiroki Azuma",
-     "works_count": 4,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5068208166",
-     "display_name": "Hiroki AZUMA",
-     "works_count": 5,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5116321062",
-     "display_name": "Azuma Hiroki",
-     "works_count": 4,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
-     "id": "A5042365985",
-     "display_name": "Hiroki AZUMA",
-     "works_count": 1,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    }
-   ]
+   "tried": [],
+   "error": "検索失敗 RuntimeError"
   },
   {
    "n": "大澤真幸",
@@ -7048,16 +6796,8 @@
    "n": "稲葉振一郎",
    "q": "Shinichiro Inaba",
    "verified": false,
-   "tried": [
-    {
-     "id": "A5012398104",
-     "display_name": "Shinichiro Inaba",
-     "works_count": 27,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    }
-   ]
+   "tried": [],
+   "error": "検索失敗 RuntimeError"
   },
   {
    "n": "西垣通",
@@ -7200,79 +6940,8 @@
    "n": "鈴木貴之",
    "q": "Takayuki Suzuki",
    "verified": false,
-   "tried": [
-    {
-     "id": "A5013833262",
-     "display_name": "Takayuki Suzuki",
-     "works_count": 142,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5068717853",
-     "display_name": "Takayuki Suzuki",
-     "works_count": 293,
-     "inst_hit": [
-      "University of Tokyo"
-     ],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5005533360",
-     "display_name": "Takayuki Suzuki",
-     "works_count": 662,
-     "inst_hit": [
-      "University of Tokyo"
-     ],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5033049879",
-     "display_name": "Takayuki Suzuki",
-     "works_count": 261,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5108062903",
-     "display_name": "Takayuki Suzuki",
-     "works_count": 104,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5057568759",
-     "display_name": "Takayuki Suzuki",
-     "works_count": 73,
-     "inst_hit": [
-      "University of Tokyo",
-      "Nanzan"
-     ],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5103139019",
-     "display_name": "Takayuki Suzuki",
-     "works_count": 56,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5110342270",
-     "display_name": "Sennosuke SATO",
-     "works_count": 175,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    }
-   ]
+   "tried": [],
+   "error": "検索失敗 RuntimeError"
   },
   {
    "n": "久木田水生",
@@ -7340,63 +7009,15 @@
    "n": "戸谷洋志",
    "q": "Hiroshi Toya",
    "verified": false,
-   "tried": [
-    {
-     "id": "A5085562387",
-     "display_name": "Hiroshi Toya",
-     "works_count": 20,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5084596764",
-     "display_name": "Hiroshi Toya",
-     "works_count": 2,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
-     "id": "A5002313544",
-     "display_name": "Toya Hiroshi",
-     "works_count": 7,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
-     "id": "A5156499651",
-     "display_name": "Hiroshi Toya",
-     "works_count": 3,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
-     "id": "A5149922690",
-     "display_name": "Hiroshi Toya",
-     "works_count": 17,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    }
-   ]
+   "tried": [],
+   "error": "検索失敗 RuntimeError"
   },
   {
    "n": "岡本裕一朗",
    "q": "Yuichiro Okamoto",
    "verified": false,
-   "tried": [
-    {
-     "id": "A5069588895",
-     "display_name": "Yuichiro Okamoto",
-     "works_count": 13,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    }
-   ]
+   "tried": [],
+   "error": "検索失敗 RuntimeError"
   },
   {
    "n": "神崎宣次",
@@ -7718,7 +7339,8 @@
    "n": "稲谷龍彦",
    "q": "Takahiko Inatani",
    "verified": false,
-   "tried": []
+   "tried": [],
+   "error": "検索失敗 RuntimeError"
   },
   {
    "n": "井上智洋",
