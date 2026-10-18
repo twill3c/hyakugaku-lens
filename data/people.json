@@ -1507,6 +1507,12 @@
   "own": [
    {
     "d": "2026-10-18",
+    "t": "*This Beautiful Country*",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/this-beautiful-country.html?utm_source=rss&utm_medium=rss&utm_campaign=this-beautiful-country",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-18",
     "t": "Our fascination with screens, demand curves slope downward installment #1637",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/our-fascination-with-screens-demand-curves-slope-downward-installment-1637.html?utm_source=rss&utm_medium=rss&utm_campaign=our-fascination-with-screens-demand-curves-slope-downward-installment-1637",
     "s": "blog"
@@ -1515,12 +1521,6 @@
     "d": "2026-10-18",
     "t": "The archaeology tranche of Emergent Ventures",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/the-archaeology-tranche-of-emergent-ventures.html?utm_source=rss&utm_medium=rss&utm_campaign=the-archaeology-tranche-of-emergent-ventures",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-17",
-    "t": "Saturday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-583",
     "s": "blog"
    }
   ],
