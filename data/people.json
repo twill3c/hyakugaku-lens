@@ -82,6 +82,12 @@
   ],
   "pub": [
    {
+    "d": "2026-10-17",
+    "t": "Pax Digitalis: When Competition Becomes Partition",
+    "u": "https://doi.org/10.1007/s13347-026-01206-1",
+    "s": "paper"
+   },
+   {
     "d": "2026-10-15",
     "t": "What Is Left for Us?",
     "u": "https://doi.org/10.1111/eulj.70031",
@@ -91,12 +97,6 @@
     "d": "2026-10-14",
     "t": "Everything but the Signature: A Proposal for AI-Born Journals",
     "u": "https://doi.org/10.1007/s13347-026-01207-0",
-    "s": "paper"
-   },
-   {
-    "d": "2026-10-12",
-    "t": "A Limit of AI, I: A Discrete Information-Theoretic Proof of the Certainty–Scope Conjecture",
-    "u": "https://doi.org/10.1007/s11023-026-09796-7",
     "s": "paper"
    }
   ],
@@ -1164,9 +1164,9 @@
     "s": "book"
    },
    {
-    "d": "2026-01-02",
-    "t": "The Stack: On Software and Sovereignty by Benjamin H. Bratton",
-    "u": "https://doi.org/10.1080/24751448.2026.2638733",
+    "d": "2025-11-19",
+    "t": "The Noocene: Computation and Cosmology from Antikythera to AI",
+    "u": "https://doi.org/10.1162/anti.5d05",
     "s": "paper"
    }
   ],
@@ -1365,7 +1365,7 @@
     "d": "2023-01-01",
     "t": "Des machines, des plateformes et des foules",
     "u": "https://openalex.org/W7213739341",
-    "s": "paper"
+    "s": "book"
    },
    {
     "d": "2019-10-01",
