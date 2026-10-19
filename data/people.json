@@ -62,6 +62,12 @@
   "bio": "情報そのものを哲学の第一対象に据える「情報の哲学」を創始し、人間を情報有機体(inforg)、生活空間をオンラインとオフラインが融合したインフォスフィアとして描いた。EUのAI倫理指針づくりに深く関与し、原則の乱立を五原則へ整理した仕事でも知られる。近年は生成AIを「意味を持たない行為主体」と規定する議論を展開している。",
   "own": [
    {
+    "d": "2026-10-18",
+    "t": "Luciano Floridi, Jessica Morley & Claudio Novelli Pax Digitalis: When Competitio…",
+    "u": "https://mastodon.world/@lucianofloridi/117463932902023919",
+    "s": "mastodon"
+   },
+   {
     "d": "2026-10-08",
     "t": "Today (8 October 2026), the International Artificial Intelligence Advisory Counc…",
     "u": "https://mastodon.world/@lucianofloridi/117406386679970097",
@@ -71,12 +77,6 @@
     "d": "2026-10-06",
     "t": "On the future of academic journals and how AI-born journals may work \"Everything…",
     "u": "https://mastodon.world/@lucianofloridi/117395068639136931",
-    "s": "mastodon"
-   },
-   {
-    "d": "2026-10-04",
-    "t": "Thirty years ago, online disinformation was already predictable, as was what nee…",
-    "u": "https://mastodon.world/@lucianofloridi/117384808783358344",
     "s": "mastodon"
    }
   ],
@@ -1506,21 +1506,21 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-10-19",
+    "t": "What I’ve been reading",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-297.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-297",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-18",
+    "t": "*You Can See Everything* (no spoilers)",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/you-can-see-everything-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=you-can-see-everything-no-spoilers",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-18",
     "t": "*This Beautiful Country*",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/this-beautiful-country.html?utm_source=rss&utm_medium=rss&utm_campaign=this-beautiful-country",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-18",
-    "t": "Our fascination with screens, demand curves slope downward installment #1637",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/our-fascination-with-screens-demand-curves-slope-downward-installment-1637.html?utm_source=rss&utm_medium=rss&utm_campaign=our-fascination-with-screens-demand-curves-slope-downward-installment-1637",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-18",
-    "t": "The archaeology tranche of Emergent Ventures",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/the-archaeology-tranche-of-emergent-ventures.html?utm_source=rss&utm_medium=rss&utm_campaign=the-archaeology-tranche-of-emergent-ventures",
     "s": "blog"
    }
   ],
