@@ -1507,6 +1507,12 @@
   "own": [
    {
     "d": "2026-10-20",
+    "t": "Tuesday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-591",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-20",
     "t": "The net fiscal impact of immigration should include gains from trade",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/the-net-fiscal-impact-of-immigration-should-include-gains-from-trade.html?utm_source=rss&utm_medium=rss&utm_campaign=the-net-fiscal-impact-of-immigration-should-include-gains-from-trade",
     "s": "blog"
@@ -1515,12 +1521,6 @@
     "d": "2026-10-20",
     "t": "On Brazilian food",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/on-brazilian-food.html?utm_source=rss&utm_medium=rss&utm_campaign=on-brazilian-food",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-19",
-    "t": "The California billionaire tax is very likely a net revenue loser",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/the-california-billionaire-tax.html?utm_source=rss&utm_medium=rss&utm_campaign=the-california-billionaire-tax",
     "s": "blog"
    }
   ],
@@ -3173,6 +3173,12 @@
   "bio": "エイブラハム・ニューマンとの『Underground Empire』で、金融・通信のネットワークの結節点を握る米国が経済を武器化する構図(weaponized interdependence)を描いた。コスマ・シャリツィとの共著論考ではAIを市場や官僚制と並ぶ社会的情報処理装置として位置づける。Programmable Mutter で発信する。",
   "own": [
    {
+    "d": "2026-10-20",
+    "t": "The chokepoint view has a massive blind spot",
+    "u": "https://www.programmablemutter.com/p/the-chokepoint-view-has-a-massive",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-13",
     "t": "The Pundit’s Trilemma",
     "u": "https://www.programmablemutter.com/p/the-pundits-trilemma",
@@ -3182,12 +3188,6 @@
     "d": "2026-10-02",
     "t": "What AI debates have to do with alchemy",
     "u": "https://www.programmablemutter.com/p/what-ai-debates-have-to-do-with-alchemy",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-22",
-    "t": "Machine god metaphors eat your brain",
-    "u": "https://www.programmablemutter.com/p/machine-god-metaphors-eat-your-brain",
     "s": "blog"
    }
   ],
@@ -3738,6 +3738,12 @@
   "bio": "『Co-Intelligence』(2024)で、AIを人間の共働者として扱う四原則を示した経営学者。ボストン・コンサルティング・グループでの大規模実験で、AIが能力の低い層を大きく引き上げる一方、能力の境界を越えると性能が落ちる「ギザギザのフロンティア」を実証した。ニュースレター One Useful Thing で高頻度に発信する。",
   "own": [
    {
+    "d": "2026-10-20",
+    "t": "30 Months on the Exponential (in Charts)",
+    "u": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-01",
     "t": "The Dot and the Swarm",
     "u": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
@@ -3747,12 +3753,6 @@
     "d": "2026-09-18",
     "t": "The Overhang",
     "u": "https://www.oneusefulthing.org/p/the-overhang",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-31",
-    "t": "Agency and Agents",
-    "u": "https://www.oneusefulthing.org/p/agency-and-agents",
     "s": "blog"
    }
   ],
