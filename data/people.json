@@ -2791,15 +2791,15 @@
     "s": "paper"
    },
    {
+    "d": "2026-01-01",
+    "t": "Why Computers Still Can't Chat",
+    "u": "https://doi.org/10.34669/wi.wjds/6.4.1",
+    "s": "paper"
+   },
+   {
     "d": "2025-05-18",
     "t": "Il/legal War: Expanding the Frame of Meaningful Human Control from Military Operations to Democratic Governance",
     "u": "https://doi.org/10.51952/9781529237191.ch008",
-    "s": "book"
-   },
-   {
-    "d": "2025-03-10",
-    "t": "Labor — Robotics",
-    "u": "https://doi.org/10.1215/9781478060581-036",
     "s": "book"
    }
   ],
@@ -4282,6 +4282,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-10-19",
+    "t": "Looking Forward to the Enhanced Use of Regional Branches",
+    "u": "https://doi.org/10.6009/jjrt.26-1005",
+    "s": "paper"
+   },
+   {
     "d": "2024-05-09",
     "t": "Relationship between assistant’s lens exposure and dose information during computed tomography examinations",
     "u": "https://doi.org/10.1088/1361-6498/ad4903",
@@ -4291,12 +4297,6 @@
     "d": "2024-01-19",
     "t": "Developmental Future of Radiological Technology Research",
     "u": "https://doi.org/10.6009/jjrt.2024-2296",
-    "s": "paper"
-   },
-   {
-    "d": "2023-02-08",
-    "t": "Malignant diagnosis and prognostic analysis of 89 GIST patients using preoperative FDG-PET",
-    "u": "https://doi.org/10.1038/s41598-023-29038-5",
     "s": "paper"
    }
   ],
