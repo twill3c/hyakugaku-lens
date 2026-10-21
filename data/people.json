@@ -63,6 +63,12 @@
   "own": [
    {
     "d": "2026-10-21",
+    "t": "Can We Do Without Legal Scholars?: The Case for Second Scholarship in Legal Rese…",
+    "u": "https://mastodon.world/@lucianofloridi/117480391157308081",
+    "s": "mastodon"
+   },
+   {
+    "d": "2026-10-21",
     "t": "What Writing a Book With AI Really Means - Prof. Luciano Floridi (Yale) - on Wri…",
     "u": "https://mastodon.world/@lucianofloridi/117479882086987977",
     "s": "mastodon"
@@ -71,12 +77,6 @@
     "d": "2026-10-18",
     "t": "Luciano Floridi, Jessica Morley & Claudio Novelli Pax Digitalis: When Competitio…",
     "u": "https://mastodon.world/@lucianofloridi/117463932902023919",
-    "s": "mastodon"
-   },
-   {
-    "d": "2026-10-08",
-    "t": "Today (8 October 2026), the International Artificial Intelligence Advisory Counc…",
-    "u": "https://mastodon.world/@lucianofloridi/117406386679970097",
     "s": "mastodon"
    }
   ],
@@ -1500,6 +1500,12 @@
   "own": [
    {
     "d": "2026-10-21",
+    "t": "More on Elizabeth Holmes and prison",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/more-on-elizabeth-holmes-and-prison.html?utm_source=rss&utm_medium=rss&utm_campaign=more-on-elizabeth-holmes-and-prison",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-21",
     "t": "Wednesday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-576",
     "s": "blog"
@@ -1508,12 +1514,6 @@
     "d": "2026-10-21",
     "t": "One reason I do not love AI writing, or even AI-assisted writing",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-21",
-    "t": "The Causal Effect of Foreign Ideas on U.S. Innovation",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/the-causal-effect-of-foreign-ideas-on-u-s-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=the-causal-effect-of-foreign-ideas-on-u-s-innovation",
     "s": "blog"
    }
   ],
@@ -3095,6 +3095,12 @@
   "bio": "政治リスク分析会社ユーラシア・グループの創業者。国家に代わりテック企業が地政学的アクターになる「技術極(technopolar)世界」という概念を提示し、国連の AI 諮問機関にも加わった。年頭のトップリスク・レポートは各国の政策担当者に読まれ、GZERO メディアを通じて発信を続ける。",
   "own": [
    {
+    "d": "2026-10-21",
+    "t": "France’s Fifth Republic is in turmoil... is Europe next?",
+    "u": "https://www.gzeromedia.com/by-ian-bremmer/frances-fifth-republic-is-in-turmoil-is-europe-next",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-19",
     "t": "Another break in the Trump-Zelensky relationship",
     "u": "https://www.gzeromedia.com/video/quick-take/another-break-in-the-trump-zelensky-relationship",
@@ -3104,12 +3110,6 @@
     "d": "2026-10-15",
     "t": "AI is becoming a superweapon",
     "u": "https://www.gzeromedia.com/video/gzero-live/ai-is-becoming-a-superweapon",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-15",
-    "t": "Why 2028 matters for Europe",
-    "u": "https://www.gzeromedia.com/video/gzero-live/why-2028-matters-for-europe",
     "s": "blog"
    }
   ],
