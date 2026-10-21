@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T12:00:53Z",
+ "generated_at": "2026-10-21T17:20:32Z",
  "ok": 25,
  "fail": 27,
  "sources": [
@@ -226,9 +226,8 @@
    "n": "ダイアン・コイル",
    "s": "blog",
    "feed": "http://www.enlightenmenteconomics.com/blog/index.php/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+   "ok": true,
+   "count": 10
   },
   {
    "n": "ダイアン・コイル",
@@ -395,8 +394,9 @@
    "n": "ミレイユ・ヒルデブラント",
    "s": "blog",
    "feed": "https://www.cohubicol.com/feed.xml",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   {
    "n": "ユク・ホイ",
