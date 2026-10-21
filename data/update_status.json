@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-21T04:58:55Z",
- "ok": 27,
- "fail": 25,
+ "generated_at": "2026-10-21T12:00:53Z",
+ "ok": 25,
+ "fail": 27,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -44,11 +44,12 @@
    "n": "イアン・ゴールディン",
    "s": "media",
    "feed": "https://www.project-syndicate.org/rss",
-   "ok": true,
-   "count": 1,
+   "ok": false,
+   "count": 0,
    "dropped": {
-    "著者条件に一致せず": 19
-   }
+    "著者条件に一致せず": 20
+   },
+   "note": "常設の取得元・この時点で本人の記事が載っていない"
   },
   {
    "n": "イアン・ブレマー",
@@ -225,8 +226,9 @@
    "n": "ダイアン・コイル",
    "s": "blog",
    "feed": "http://www.enlightenmenteconomics.com/blog/index.php/feed/",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
   },
   {
    "n": "ダイアン・コイル",
@@ -284,7 +286,7 @@
    "s": "podcast",
    "feed": "https://feeds.megaphone.fm/ARML2708405200",
    "ok": true,
-   "count": 350
+   "count": 351
   },
   {
    "n": "ニック・クドリー",
