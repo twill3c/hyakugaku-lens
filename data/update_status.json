@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-22T12:03:32Z",
- "ok": 24,
- "fail": 28,
+ "generated_at": "2026-10-22T17:18:07Z",
+ "ok": 25,
+ "fail": 27,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -56,9 +56,9 @@
    "s": "blog",
    "feed": "https://www.gzeromedia.com/feeds/feed.rss",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "dropped": {
-    "著者条件に一致せず": 24
+    "著者条件に一致せず": 25
    }
   },
   {
@@ -226,9 +226,8 @@
    "n": "ダイアン・コイル",
    "s": "blog",
    "feed": "http://www.enlightenmenteconomics.com/blog/index.php/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+   "ok": true,
+   "count": 10
   },
   {
    "n": "ダイアン・コイル",
