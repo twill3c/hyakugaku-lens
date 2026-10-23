@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-23T17:15:44Z",
- "ok": 25,
- "fail": 27,
+ "generated_at": "2026-10-23T21:29:58Z",
+ "ok": 26,
+ "fail": 26,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -37,9 +37,8 @@
    "n": "イアン・ゴールディン",
    "s": "blog",
    "feed": "https://iangoldin.org/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 10
   },
   {
    "n": "イアン・ゴールディン",
