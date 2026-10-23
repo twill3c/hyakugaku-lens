@@ -3149,9 +3149,10 @@
    },
    {
     "d": "2026-10-09",
-    "t": "Three years after October 7, with Aaron David Miller",
-    "u": "https://gzeroworld.simplecast.com/episodes/three-years-after-october-7-with-aaron-david-miller-noceCC4E",
-    "s": "podcast"
+    "t": "How October 7 changed the Middle East, three years on | GZERO World with Ian Bremmer",
+    "u": "https://www.youtube.com/watch?v=gWkbYxanvB4",
+    "s": "yt",
+    "o": "GZERO Media"
    }
   ]
  },
@@ -3831,6 +3832,13 @@
   "pub": [],
   "yt": [
    {
+    "d": "2026-10-23",
+    "t": "東浩紀がいま考えていること9──『ゲンロン19』刊行記念 @hazuma #ゲンロン",
+    "u": "https://www.youtube.com/watch?v=u01sUH1phdg",
+    "s": "yt",
+    "o": "ゲンロン【公式】"
+   },
+   {
     "d": "2026-10-21",
     "t": "PHP巨大脆弱性発見！　全世界障害の時代がついに来た？　ほか【東浩紀と桂大介の #リベテク 10月号緊急特番】",
     "u": "https://www.youtube.com/watch?v=lgwRSF9aIOc",
@@ -3843,13 +3851,6 @@
     "u": "https://www.youtube.com/watch?v=NGekq3599X8",
     "s": "yt",
     "o": "SHOWROOM"
-   },
-   {
-    "d": "2026-10-08",
-    "t": "止まらないサイバー攻撃、AI開発に減速論？／Kimi→Claudeに入力転送／ハエの脳でDOOM／ナビエ–ストークス論争／AWSデータ消失 ほか【東浩紀と桂大介の #リベテク 10月号】",
-    "u": "https://www.youtube.com/watch?v=IvsSC5G7GfM",
-    "s": "yt",
-    "o": "ゲンロン【公式】"
    }
   ]
  },
