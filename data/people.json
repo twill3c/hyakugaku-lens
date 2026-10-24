@@ -594,6 +594,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-30",
+    "t": "Carissa Véliz: navigating LLM constraints in the pursuit of AI ethics",
+    "u": "https://www.youtube.com/watch?v=bqA4uPz2x-Y",
+    "s": "yt",
+    "o": "Masters of Privacy"
+   },
+   {
     "d": "2026-08-19",
     "t": "The Anxiety of Being Human: Why We Need To Know What’s Next with Oxford Philosopher Carissa Véliz",
     "u": "https://www.youtube.com/watch?v=G6N_MBfUE9U",
@@ -606,13 +613,6 @@
     "u": "https://www.youtube.com/watch?v=yqNqGPh1QVQ",
     "s": "yt",
     "o": "The Lavin Agency"
-   },
-   {
-    "d": "2026-07-10",
-    "t": "Lawfare Daily: Prophecy, Prediction, and Power with Carissa Véliz",
-    "u": "https://www.youtube.com/watch?v=Ur-UPmjFxFs",
-    "s": "yt",
-    "o": "Lawfare"
    }
   ]
  },
@@ -1669,13 +1669,6 @@
     "u": "https://www.youtube.com/watch?v=lMsiFxS-8-U",
     "s": "yt",
     "o": "UOC - Universitat Oberta de Catalunya"
-   },
-   {
-    "d": "2026-04-27",
-    "t": "Prof. Diane Coyle | Causal Inference in Public Policy",
-    "u": "https://www.youtube.com/watch?v=UqCuSFLioN8",
-    "s": "yt",
-    "o": "Newton Gateway to Mathematics"
    }
   ]
  },
@@ -3812,8 +3805,8 @@
    },
    {
     "d": "2026-05-06",
-    "t": "Amy Webb, Ronaldo Lemos e Thiago Camargo - versão completa",
-    "u": "https://www.youtube.com/watch?v=EMdI_LWGxPo",
+    "t": "Amy Webb | Ronaldo Lemos e Thiago Camargo conversam com Amy Webb",
+    "u": "https://www.youtube.com/watch?v=N169GU-Wq44",
     "s": "yt",
     "o": "ITS Rio"
    }
