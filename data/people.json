@@ -1500,20 +1500,20 @@
   "own": [
    {
     "d": "2026-10-25",
+    "t": "Facts about breastfeeding",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/facts-about-breastfeeding.html?utm_source=rss&utm_medium=rss&utm_campaign=facts-about-breastfeeding",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-25",
+    "t": "How central bankers spend their time",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/how-central-bankers-spend-their-time.html?utm_source=rss&utm_medium=rss&utm_campaign=how-central-bankers-spend-their-time",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-25",
     "t": "Emergent Ventures India, 20th cohort",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/emergent-ventures-india-20th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-20th-cohort",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-24",
-    "t": "Econvitals",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/econvitals.html?utm_source=rss&utm_medium=rss&utm_campaign=econvitals",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-24",
-    "t": "Why are cybersecurity losses not worse?",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/why-are-cybersecurity-losses-not-worse.html?utm_source=rss&utm_medium=rss&utm_campaign=why-are-cybersecurity-losses-not-worse",
     "s": "blog"
    }
   ],
@@ -3297,6 +3297,12 @@
   ],
   "yt": [
    {
+    "d": "2026-10-25",
+    "t": "Can Universities Survive? The Great Expansion",
+    "u": "https://www.ppfideas.com/",
+    "s": "podcast"
+   },
+   {
     "d": "2026-10-21",
     "t": "Can Universities Survive? The Thousand-Year Story Part 2",
     "u": "https://www.ppfideas.com/",
@@ -3305,12 +3311,6 @@
    {
     "d": "2026-10-18",
     "t": "Can Universities Survive? The Thousand-Year Story",
-    "u": "https://www.ppfideas.com/",
-    "s": "podcast"
-   },
-   {
-    "d": "2026-10-14",
-    "t": "The History of Transhumanism: Silicon Valley",
     "u": "https://www.ppfideas.com/",
     "s": "podcast"
    }
