@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T23:39:45Z",
+ "generated_at": "2026-10-25T23:30:39Z",
  "declared": 99,
  "verified": 90,
  "unreachable": 0,
@@ -2999,17 +2999,17 @@
      "ok": false
     },
     {
-     "id": "A5058474194",
-     "display_name": "R. Madey",
-     "works_count": 460,
+     "id": "A5042820256",
+     "display_name": "Richard Baldwin",
+     "works_count": 32,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
     },
     {
-     "id": "A5042820256",
-     "display_name": "Richard Baldwin",
-     "works_count": 32,
+     "id": "A5058474194",
+     "display_name": "R. Madey",
+     "works_count": 460,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6881,7 +6881,7 @@
     {
      "id": "A5037194368",
      "display_name": "Amy Webb Girard",
-     "works_count": 329,
+     "works_count": 153,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7232,7 +7232,7 @@
     {
      "id": "A5033049879",
      "display_name": "Takayuki Suzuki",
-     "works_count": 262,
+     "works_count": 263,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
