@@ -1499,6 +1499,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-10-26",
+    "t": "Frances Lee on American elections",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/frances-lee-on-american-elections.html?utm_source=rss&utm_medium=rss&utm_campaign=frances-lee-on-american-elections",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-25",
     "t": "Sunday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-587",
@@ -1508,12 +1514,6 @@
     "d": "2026-10-25",
     "t": "Facts about breastfeeding",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/facts-about-breastfeeding.html?utm_source=rss&utm_medium=rss&utm_campaign=facts-about-breastfeeding",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-25",
-    "t": "How central bankers spend their time",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/how-central-bankers-spend-their-time.html?utm_source=rss&utm_medium=rss&utm_campaign=how-central-bankers-spend-their-time",
     "s": "blog"
    }
   ],
@@ -3141,10 +3141,9 @@
    },
    {
     "d": "2026-10-09",
-    "t": "How October 7 changed the Middle East, three years on | GZERO World with Ian Bremmer",
-    "u": "https://www.youtube.com/watch?v=gWkbYxanvB4",
-    "s": "yt",
-    "o": "GZERO Media"
+    "t": "Three years after October 7, with Aaron David Miller",
+    "u": "https://gzeroworld.simplecast.com/episodes/three-years-after-october-7-with-aaron-david-miller-noceCC4E",
+    "s": "podcast"
    }
   ]
  },
