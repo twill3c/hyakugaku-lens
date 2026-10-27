@@ -1486,6 +1486,12 @@
   "own": [
    {
     "d": "2026-10-27",
+    "t": "Tuesday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-592.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-592",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-27",
     "t": "NYT debate on the rules for AI companies",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&utm_medium=rss&utm_campaign=nyt-debate-on-the-rules-for-ai-companies",
     "s": "blog"
@@ -1494,12 +1500,6 @@
     "d": "2026-10-27",
     "t": "Is “Who’s on First?” funny?",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/is-whos-on-first-funny.html?utm_source=rss&utm_medium=rss&utm_campaign=is-whos-on-first-funny",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-26",
-    "t": "Monday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-583",
     "s": "blog"
    }
   ],
@@ -2585,6 +2585,12 @@
   "bio": "若者のソーシャルメディア利用の民族誌『It's Complicated』で知られる研究者。ケイト・クロフォードとの「ビッグデータへの批判的問い」はデータ科学批判の古典となった。研究機関 Data & Society を創設し、技術と社会の学際研究の制度的基盤を作った。近年は米国国勢調査の差分プライバシー導入をめぐる研究を進める。",
   "own": [
    {
+    "d": "2026-10-27",
+    "t": "Dear Civil Servants and the Ventriloquists behind the proposed residence rules",
+    "u": "https://www.zephoria.org/thoughts/archives/2026/10/27/dear-civil-servants-and-the-ventriloquists-behind-the-proposed-residence-rules.html",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-13",
     "t": "What’s Up with 4-3-5?",
     "u": "https://www.zephoria.org/thoughts/archives/2026/10/13/whats-up-with-4-3-5.html",
@@ -2594,12 +2600,6 @@
     "d": "2026-09-24",
     "t": "Today’s the Day!",
     "u": "https://www.zephoria.org/thoughts/archives/2026/09/24/todays-the-day.html",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-10",
-    "t": "Today’s Census News is a Big Deal",
-    "u": "https://www.zephoria.org/thoughts/archives/2026/09/10/todays-census-news-is-a-big-deal.html",
     "s": "blog"
    }
   ],
