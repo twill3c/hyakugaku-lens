@@ -1003,7 +1003,7 @@
     "d": "2026-10-01",
     "t": "Affirming Political Joy. An Interview with Rosi Braidotti",
     "u": "https://doi.org/10.36253/rifp-4464",
-    "s": "paper"
+    "s": "book"
    },
    {
     "d": "2026-08-14",
@@ -3222,16 +3222,16 @@
     "s": "paper"
    },
    {
-    "d": "2025-10-22",
-    "t": "International Al Safety Report: First Key Update Capabilities and Risk Implications",
-    "u": "https://doi.org/10.70777/si.v2i6.16253",
-    "s": "paper"
+    "d": "2025-12-04",
+    "t": "6 The Framers",
+    "u": "https://doi.org/10.1515/9780691277998-008",
+    "s": "book"
    },
    {
-    "d": "2025-10-15",
-    "t": "International AI Safety Report 2025: First Key Update: Capabilities and Risk Implications",
-    "u": "https://doi.org/10.48550/arxiv.2510.13653",
-    "s": "paper"
+    "d": "2025-12-04",
+    "t": "1 The Code",
+    "u": "https://doi.org/10.1515/9780691277998-003",
+    "s": "book"
    }
   ],
   "yt": [
@@ -3401,6 +3401,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-10-01",
+    "t": "Do Experts Agree About Misinformation? Evidence From Three Annual Surveys",
+    "u": "https://doi.org/10.1177/20563051261495196",
+    "s": "paper"
+   },
+   {
     "d": "2026-09-01",
     "t": "Expert Survey on the Global Information Environment 2026: Under Pressure",
     "u": "https://doi.org/10.61452/ormu3913",
@@ -3410,12 +3416,6 @@
     "d": "2026-09-01",
     "t": "Trends in the Information Environment: 2026 Expert Survey Results",
     "u": "https://doi.org/10.61452/mema1194",
-    "s": "paper"
-   },
-   {
-    "d": "2026-06-01",
-    "t": "Resilience and Vulnerability to Misinformation and Disinformation in Political Information Environments: A Comparative Review of Ten Indexes",
-    "u": "https://doi.org/10.61452/mbpe3349",
     "s": "paper"
    }
   ],
@@ -4120,9 +4120,9 @@
     "s": "paper"
    },
    {
-    "d": "2018-01-01",
-    "t": "法システムの変容と統治機構論への影響",
-    "u": "https://openalex.org/W7139407321",
+    "d": "2021-02-01",
+    "t": "行政手法としての公表 : 権力の新たな形態か (特集 自治体行政における「公表」)",
+    "u": "https://openalex.org/W3154538017",
     "s": "paper"
    }
   ],
@@ -4176,15 +4176,15 @@
     "s": "paper"
    },
    {
+    "d": "2024-11-21",
+    "t": "Personal Autonomy and Machine Autonomy in Human–Robot Interaction",
+    "u": "https://doi.org/10.1017/9781009386708.034",
+    "s": "book"
+   },
+   {
     "d": "2024-06-01",
     "t": "2023年度メディア判例回顧 価値観の変容と報道をめぐる裁判 : 差別・宗教・SNSに関わる事件",
     "u": "https://openalex.org/W7208274430",
-    "s": "paper"
-   },
-   {
-    "d": "2020-05-01",
-    "t": "検索エンシンをめくる表現の自由と人格権 : 平成29年最高裁決定及び同決定以降の検索結果削除に関する裁判例の検討",
-    "u": "https://openalex.org/W7145469791",
     "s": "paper"
    }
   ],

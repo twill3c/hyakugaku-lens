@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-25T23:30:40Z",
- "ok": 87,
- "fail": 3,
+ "generated_at": "2026-10-27T00:45:48Z",
+ "ok": 90,
+ "fail": 0,
  "authors": [
   {
    "n": "ニック・ボストロム",
@@ -402,8 +402,8 @@
   {
    "n": "マリーチェ・スハーケ",
    "openalex_id": "A5108343874",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 8
   },
   {
    "n": "デイヴィッド・ランシマン",
@@ -498,8 +498,8 @@
   {
    "n": "大屋雄裕",
    "openalex_id": "A5017802782",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 8
   },
   {
    "n": "宍戸常寿",
@@ -510,8 +510,8 @@
   {
    "n": "成原慧",
    "openalex_id": "A5131574604",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 8
   },
   {
    "n": "井上智洋",
