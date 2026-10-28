@@ -594,13 +594,6 @@
   ],
   "yt": [
    {
-    "d": "2026-08-30",
-    "t": "Carissa Véliz: navigating LLM constraints in the pursuit of AI ethics",
-    "u": "https://www.youtube.com/watch?v=bqA4uPz2x-Y",
-    "s": "yt",
-    "o": "Masters of Privacy"
-   },
-   {
     "d": "2026-08-19",
     "t": "The Anxiety of Being Human: Why We Need To Know What’s Next with Oxford Philosopher Carissa Véliz",
     "u": "https://www.youtube.com/watch?v=G6N_MBfUE9U",
@@ -613,6 +606,13 @@
     "u": "https://www.youtube.com/watch?v=yqNqGPh1QVQ",
     "s": "yt",
     "o": "The Lavin Agency"
+   },
+   {
+    "d": "2026-07-10",
+    "t": "Lawfare Daily: Prophecy, Prediction, and Power with Carissa Véliz",
+    "u": "https://www.youtube.com/watch?v=Ur-UPmjFxFs",
+    "s": "yt",
+    "o": "Lawfare"
    }
   ]
  },
@@ -1532,11 +1532,11 @@
     "o": "Tetragrammaton with Rick Rubin"
    },
    {
-    "d": "2026-08-12",
-    "t": "\"AI will change everything, just not all at once\" | Tyler Cowen | Strange Loop | Ep 6",
-    "u": "https://www.youtube.com/watch?v=DUUVPdmkIZQ",
+    "d": "2026-08-18",
+    "t": "You're Living Through the Fastest Revolution in History | Tyler Cowen",
+    "u": "https://www.youtube.com/watch?v=zh9nAWViBFw",
     "s": "yt",
-    "o": "Sana"
+    "o": "Michael Easter"
    }
   ]
  },
@@ -3036,13 +3036,6 @@
   ],
   "yt": [
    {
-    "d": "2026-09-03",
-    "t": "Francis Fukuyama on Donald Trump, JD Vance, Vladimir Putin and the War in Ukraine",
-    "u": "https://www.youtube.com/watch?v=i58hIG92rw0",
-    "s": "yt",
-    "o": "BBC Politics"
-   },
-   {
     "d": "2026-09-02",
     "t": "Francis Fukuyama: What the AI Hypists Miss - Work, Dignity, and American AI Policy",
     "u": "https://www.youtube.com/watch?v=xvo7MOsGABE",
@@ -3054,6 +3047,13 @@
     "t": "Bob Wright on the Future of Artificial Intelligence",
     "u": "https://www.persuasion.community/p/bob-wright-frankly-fukuyama",
     "s": "podcast"
+   },
+   {
+    "d": "2026-08-26",
+    "t": "Is the Age of Enlightenment over, Francis Fukuyama?",
+    "u": "https://www.youtube.com/watch?v=RkPEuU0RMSA",
+    "s": "yt",
+    "o": "ZEIT Podcast"
    }
   ]
  },
