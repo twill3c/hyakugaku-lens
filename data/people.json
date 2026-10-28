@@ -1003,7 +1003,7 @@
     "d": "2026-10-01",
     "t": "Affirming Political Joy. An Interview with Rosi Braidotti",
     "u": "https://doi.org/10.36253/rifp-4464",
-    "s": "book"
+    "s": "paper"
    },
    {
     "d": "2026-08-14",
@@ -1898,15 +1898,15 @@
    },
    {
     "d": "2026-04-30",
-    "t": "Judging and Limits on Legal Automation",
-    "u": "https://doi.org/10.1017/9781009744225.006",
+    "t": "The Cambridge Handbook of AI and Technologies in Courts",
+    "u": "https://doi.org/10.1017/9781009744225",
     "s": "book"
    },
    {
-    "d": "2026-01-01",
-    "t": "The Non-Delegable Duty to Think: Judicial Legitimacy and the Limits of Generative AI",
-    "u": "https://doi.org/10.2139/ssrn.6473658",
-    "s": "paper"
+    "d": "2026-04-30",
+    "t": "Judging and Limits on Legal Automation",
+    "u": "https://doi.org/10.1017/9781009744225.006",
+    "s": "book"
    }
   ],
   "yt": []
@@ -2757,6 +2757,12 @@
   ],
   "pub": [
    {
+    "d": "2026-10-26",
+    "t": "AI Ethics, US Militarism, and World Crises",
+    "u": "https://doi.org/10.1111/aman.70127",
+    "s": "paper"
+   },
+   {
     "d": "2026-06-01",
     "t": "Basic research, lethal effects: Military artificial intelligence research funding as enlistment",
     "u": "https://doi.org/10.1177/20539517261458301",
@@ -2767,12 +2773,6 @@
     "t": "Why Computers Still Can't Chat",
     "u": "https://doi.org/10.34669/wi.wjds/6.4.1",
     "s": "paper"
-   },
-   {
-    "d": "2025-05-18",
-    "t": "Il/legal War: Expanding the Frame of Meaningful Human Control from Military Operations to Democratic Governance",
-    "u": "https://doi.org/10.51952/9781529237191.ch008",
-    "s": "book"
    }
   ],
   "yt": [
