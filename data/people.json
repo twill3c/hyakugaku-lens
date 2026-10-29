@@ -1479,6 +1479,12 @@
   "own": [
    {
     "d": "2026-10-29",
+    "t": "AI dominates human peer reviews",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/ai-dominates-human-peer-reviews.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-dominates-human-peer-reviews",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-29",
     "t": "My design Conversation with Roman Mars",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/my-design-conversation-with-roman-mars.html?utm_source=rss&utm_medium=rss&utm_campaign=my-design-conversation-with-roman-mars",
     "s": "blog"
@@ -1487,12 +1493,6 @@
     "d": "2026-10-28",
     "t": "Errors in the research of Emmanuel Saez and Gabriel Zucman",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html?utm_source=rss&utm_medium=rss&utm_campaign=errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-28",
-    "t": "How is AI shaping economic research?",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/how-is-ai-shaping-economic-research.html?utm_source=rss&utm_medium=rss&utm_campaign=how-is-ai-shaping-economic-research",
     "s": "blog"
    }
   ],
@@ -3137,6 +3137,12 @@
   "bio": "エイブラハム・ニューマンとの『Underground Empire』で、金融・通信のネットワークの結節点を握る米国が経済を武器化する構図(weaponized interdependence)を描いた。コスマ・シャリツィとの共著論考ではAIを市場や官僚制と並ぶ社会的情報処理装置として位置づける。Programmable Mutter で発信する。",
   "own": [
    {
+    "d": "2026-10-29",
+    "t": "Agentic AI is myth set in motion",
+    "u": "https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-28",
     "t": "AI being great at math makes human mathematicians more valuable, not less",
     "u": "https://www.programmablemutter.com/p/ai-being-great-at-math-makes-human",
@@ -3146,12 +3152,6 @@
     "d": "2026-10-20",
     "t": "The chokepoint view has a massive blind spot",
     "u": "https://www.programmablemutter.com/p/the-chokepoint-view-has-a-massive",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-13",
-    "t": "The Pundit’s Trilemma",
-    "u": "https://www.programmablemutter.com/p/the-pundits-trilemma",
     "s": "blog"
    }
   ],
