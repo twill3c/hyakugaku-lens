@@ -227,6 +227,12 @@
   ],
   "yt": [
    {
+    "d": "2026-10-29",
+    "t": "weave a life you love with LYNDA GRATTON",
+    "u": "https://shows.acast.com/lives-well-lived/episodes/weave-a-life-you-love-with-lynda-gratton",
+    "s": "podcast"
+   },
+   {
     "d": "2026-10-15",
     "t": "careers in the age of AI with BEN TODD",
     "u": "https://shows.acast.com/lives-well-lived/episodes/careers-in-the-age-of-ai-with-ben-todd",
@@ -236,12 +242,6 @@
     "d": "2026-10-01",
     "t": "Altruistic Kidney Donation with Elaine Perlman and Joshua Morrison",
     "u": "https://shows.acast.com/lives-well-lived/episodes/the-altruism-effect",
-    "s": "podcast"
-   },
-   {
-    "d": "2026-09-17",
-    "t": "raising children in the AI era with DANA SUSKIND",
-    "u": "https://shows.acast.com/lives-well-lived/episodes/raising-children-in-the-ai-era-with-dana-suskind",
     "s": "podcast"
    }
   ]
@@ -1478,6 +1478,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-10-29",
+    "t": "My design Conversation with Roman Mars",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/my-design-conversation-with-roman-mars.html?utm_source=rss&utm_medium=rss&utm_campaign=my-design-conversation-with-roman-mars",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-28",
     "t": "Errors in the research of Emmanuel Saez and Gabriel Zucman",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html?utm_source=rss&utm_medium=rss&utm_campaign=errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman",
@@ -1487,12 +1493,6 @@
     "d": "2026-10-28",
     "t": "How is AI shaping economic research?",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/how-is-ai-shaping-economic-research.html?utm_source=rss&utm_medium=rss&utm_campaign=how-is-ai-shaping-economic-research",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-28",
-    "t": "Wednesday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-577",
     "s": "blog"
    }
   ],

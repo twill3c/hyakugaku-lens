@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-28T22:40:50Z",
- "ok": 25,
- "fail": 27,
+ "generated_at": "2026-10-29T05:58:09Z",
+ "ok": 26,
+ "fail": 26,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -314,7 +314,7 @@
    "s": "podcast",
    "feed": "https://feeds.acast.com/public/shows/6628460c6b51e80012b834c2",
    "ok": true,
-   "count": 93
+   "count": 94
   },
   {
    "n": "ピーター・シンガー",
@@ -419,9 +419,8 @@
    "n": "ユヴァル・ノア・ハラリ",
    "s": "blog",
    "feed": "https://www.ynharari.com/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
+   "ok": true,
+   "count": 20
   },
   {
    "n": "リチャード・ボールドウィン",
