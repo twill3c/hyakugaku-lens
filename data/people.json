@@ -89,7 +89,7 @@
    },
    {
     "d": "2026-10-15",
-    "t": "What Is Left for Us?",
+    "t": "What Is Left for Us? Second Scholarship Against the Degradation of Research by AI",
     "u": "https://doi.org/10.1111/eulj.70031",
     "s": "paper"
    },
@@ -1399,9 +1399,9 @@
     "s": "paper"
    },
    {
-    "d": "2025-01-01",
-    "t": "Institutions, Innovation, and the Fragility of Technological Progress",
-    "u": "https://doi.org/10.64240/a5ad9fe38a",
+    "d": "2026-01-01",
+    "t": "Wie Fortschritt endet Technologie, Innovation und das Schicksal der Nationen",
+    "u": "https://openalex.org/W7208407571",
     "s": "paper"
    }
   ],
@@ -3210,6 +3210,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-02-24",
+    "t": "International AI Safety Report 2026",
+    "u": "https://openalex.org/W7168238914",
+    "s": "paper"
+   },
+   {
     "d": "2025-12-07",
     "t": "International AI Safety Report 2025: Second Key Update: Technical Safeguards and Risk Management",
     "u": "https://doi.org/10.70777/si.v2i4.16671",
@@ -3219,12 +3225,6 @@
     "d": "2025-12-04",
     "t": "6 The Framers",
     "u": "https://doi.org/10.1515/9780691277998-008",
-    "s": "book"
-   },
-   {
-    "d": "2025-12-04",
-    "t": "1 The Code",
-    "u": "https://doi.org/10.1515/9780691277998-003",
     "s": "book"
    }
   ],
@@ -3570,6 +3570,12 @@
   ],
   "pub": [
    {
+    "d": "2026-10-26",
+    "t": "Daniel Kahneman's Influence on My Thought",
+    "u": "https://doi.org/10.1002/aaai.70108",
+    "s": "paper"
+   },
+   {
     "d": "2026-05-14",
     "t": "A sentence is worth a thousand pictures: can large language models understand hum4n L4ngu4ge and the W0rld behind W0rds?",
     "u": "https://doi.org/10.1098/rsta.2025.0008",
@@ -3579,12 +3585,6 @@
     "d": "2026-03-14",
     "t": "The Future Is Neuro-Symbolic: Where Has It Been, and Where Is It Going?",
     "u": "https://doi.org/10.1609/aaai.v40i48.42130",
-    "s": "paper"
-   },
-   {
-    "d": "2026-02-17",
-    "t": "Statistical approximation is not general intelligence",
-    "u": "https://doi.org/10.1038/d41586-026-00495-y",
     "s": "paper"
    }
   ],
