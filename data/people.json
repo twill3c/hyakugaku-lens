@@ -1478,6 +1478,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-10-30",
+    "t": "Chronicle of Higher Education interviews me on AI and education",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/chronicle-of-higher-education-interviews-me-on-ai-and-education.html?utm_source=rss&utm_medium=rss&utm_campaign=chronicle-of-higher-education-interviews-me-on-ai-and-education",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-29",
     "t": "Can Artificial Intelligence Forecast Treatment Effects in Economics?",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/can-artificial-intelligence-forecast-treatment-effects-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=can-artificial-intelligence-forecast-treatment-effects-in-economics",
@@ -1487,12 +1493,6 @@
     "d": "2026-10-29",
     "t": "Thursday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-576",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-29",
-    "t": "AI dominates human peer reviews",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/ai-dominates-human-peer-reviews.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-dominates-human-peer-reviews",
     "s": "blog"
    }
   ],
@@ -2578,6 +2578,12 @@
   "bio": "若者のソーシャルメディア利用の民族誌『It's Complicated』で知られる研究者。ケイト・クロフォードとの「ビッグデータへの批判的問い」はデータ科学批判の古典となった。研究機関 Data & Society を創設し、技術と社会の学際研究の制度的基盤を作った。近年は米国国勢調査の差分プライバシー導入をめぐる研究を進める。",
   "own": [
    {
+    "d": "2026-10-30",
+    "t": "No one paid me to disagree with Jonathan Haidt. It was teenagers who taught me that he was wrong.",
+    "u": "https://www.zephoria.org/thoughts/archives/2026/10/29/no-one-paid-me-to-disagree-with-jonathan-haidt-it-was-teenagers-who-taught-me-that-he-was-wrong.html",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-27",
     "t": "Dear Civil Servants and the Ventriloquists behind the proposed residence rules",
     "u": "https://www.zephoria.org/thoughts/archives/2026/10/27/dear-civil-servants-and-the-ventriloquists-behind-the-proposed-residence-rules.html",
@@ -2587,12 +2593,6 @@
     "d": "2026-10-13",
     "t": "What’s Up with 4-3-5?",
     "u": "https://www.zephoria.org/thoughts/archives/2026/10/13/whats-up-with-4-3-5.html",
-    "s": "blog"
-   },
-   {
-    "d": "2026-09-24",
-    "t": "Today’s the Day!",
-    "u": "https://www.zephoria.org/thoughts/archives/2026/09/24/todays-the-day.html",
     "s": "blog"
    }
   ],
