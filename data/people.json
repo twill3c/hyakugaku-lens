@@ -62,6 +62,12 @@
   "bio": "情報そのものを哲学の第一対象に据える「情報の哲学」を創始し、人間を情報有機体(inforg)、生活空間をオンラインとオフラインが融合したインフォスフィアとして描いた。EUのAI倫理指針づくりに深く関与し、原則の乱立を五原則へ整理した仕事でも知られる。近年は生成AIを「意味を持たない行為主体」と規定する議論を展開している。",
   "own": [
    {
+    "d": "2026-10-30",
+    "t": "The Digital Ethics Center at Yale https:// dec.yale.edu/ is hiring postdocs. Ple…",
+    "u": "https://mastodon.world/@lucianofloridi/117531703190037680",
+    "s": "mastodon"
+   },
+   {
     "d": "2026-10-28",
     "t": "L’AI dà risposte, serve chi fa le domande - Campus https://www. salonedellostude…",
     "u": "https://mastodon.world/@lucianofloridi/117518898792932286",
@@ -71,12 +77,6 @@
     "d": "2026-10-25",
     "t": "Luciano Floridi e la postverità: “Non siamo più al centro dell’infosfera. Qualit…",
     "u": "https://mastodon.world/@lucianofloridi/117503181122192220",
-    "s": "mastodon"
-   },
-   {
-    "d": "2026-10-24",
-    "t": "\"3 philosophers on what humans should never give up to AI\" https:// bigthink.com…",
-    "u": "https://mastodon.world/@lucianofloridi/117497742320207119",
     "s": "mastodon"
    }
   ],
@@ -1379,9 +1379,9 @@
   "bio": "オズボーンとの2013年論文で「米国の雇用の47%が自動化リスクにさらされる」と推計し、この分野の議論の出発点を作った。『The Technology Trap』では産業革命期の抵抗と調整の歴史からAI時代を照らす。近年は『How Progress Ends』で、技術の集中が停滞を招く可能性を論じている。",
   "own": [
    {
-    "d": "2026-10-02",
-    "t": "Closing Europe’s Dynamism Deficit",
-    "u": "https://www.project-syndicate.org/onpoint/why-europe-is-falling-behind-what-to-do-by-carl-benedikt-frey-2026-09?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+    "d": "2026-10-30",
+    "t": "Mapping AI Resistance",
+    "u": "https://www.project-syndicate.org/commentary/ai-resistance-tied-to-what-a-society-already-has-by-carl-benedikt-frey-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
     "s": "media"
    }
   ],
@@ -1479,6 +1479,12 @@
   "own": [
    {
     "d": "2026-10-30",
+    "t": "Friday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-597.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-597",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-30",
     "t": "Are there too many misdemeanor convictions?",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/are-there-too-many-misdemeanor-convictions.html?utm_source=rss&utm_medium=rss&utm_campaign=are-there-too-many-misdemeanor-convictions",
     "s": "blog"
@@ -1487,12 +1493,6 @@
     "d": "2026-10-30",
     "t": "Chronicle of Higher Education interviews me on AI and education",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/chronicle-of-higher-education-interviews-me-on-ai-and-education.html?utm_source=rss&utm_medium=rss&utm_campaign=chronicle-of-higher-education-interviews-me-on-ai-and-education",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-29",
-    "t": "Can Artificial Intelligence Forecast Treatment Effects in Economics?",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/can-artificial-intelligence-forecast-treatment-effects-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=can-artificial-intelligence-forecast-treatment-effects-in-economics",
     "s": "blog"
    }
   ],
@@ -3067,6 +3067,12 @@
   "bio": "政治リスク分析会社ユーラシア・グループの創業者。国家に代わりテック企業が地政学的アクターになる「技術極(technopolar)世界」という概念を提示し、国連の AI 諮問機関にも加わった。年頭のトップリスク・レポートは各国の政策担当者に読まれ、GZERO メディアを通じて発信を続ける。",
   "own": [
    {
+    "d": "2026-10-30",
+    "t": "How far will Putin push NATO?",
+    "u": "https://www.gzeromedia.com/video/ian-explains/how-far-putin-push-nato",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-28",
     "t": "Machado returns to Venezuela – but when will democracy?",
     "u": "https://www.gzeromedia.com/news/by-ian-bremmer/machado-returns-to-venezuela-will-democracy",
@@ -3076,12 +3082,6 @@
     "d": "2026-10-28",
     "t": "What recent elections say about voter frustration",
     "u": "https://www.gzeromedia.com/video/ask-ian/what-recent-elections-say-about-voter-frustration",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-26",
-    "t": "Brazil’s left-wing president wins historic fourth term",
-    "u": "https://www.gzeromedia.com/video/quick-take/brazils-left-wing-president-wins-historic-fourth-term",
     "s": "blog"
    }
   ],
