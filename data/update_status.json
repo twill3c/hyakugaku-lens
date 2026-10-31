@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T05:55:18Z",
+ "generated_at": "2026-10-31T12:45:25Z",
  "ok": 27,
  "fail": 25,
  "sources": [
@@ -56,9 +56,9 @@
    "s": "blog",
    "feed": "https://www.gzeromedia.com/feeds/feed.rss",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "dropped": {
-    "著者条件に一致せず": 24
+    "著者条件に一致せず": 25
    }
   },
   {
@@ -66,7 +66,7 @@
    "s": "podcast",
    "feed": "https://feeds.simplecast.com/ibBxsiVV",
    "ok": true,
-   "count": 449
+   "count": 450
   },
   {
    "n": "イーサン・モリック",

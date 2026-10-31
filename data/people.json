@@ -1479,6 +1479,12 @@
   "own": [
    {
     "d": "2026-10-31",
+    "t": "The pass-through of retail crime",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/the-pass-through-of-retail-crime.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pass-through-of-retail-crime",
+    "s": "blog"
+   },
+   {
+    "d": "2026-10-31",
     "t": "The unintended consequences of academic leniency",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/the-unintended-consequences-of-academic-leniency.html?utm_source=rss&utm_medium=rss&utm_campaign=the-unintended-consequences-of-academic-leniency",
     "s": "blog"
@@ -1487,12 +1493,6 @@
     "d": "2026-10-30",
     "t": "Friday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-597.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-597",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-30",
-    "t": "Are there too many misdemeanor convictions?",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/are-there-too-many-misdemeanor-convictions.html?utm_source=rss&utm_medium=rss&utm_campaign=are-there-too-many-misdemeanor-convictions",
     "s": "blog"
    }
   ],
@@ -3107,6 +3107,12 @@
   ],
   "yt": [
    {
+    "d": "2026-10-31",
+    "t": "Europe under pressure, with Polish Foreign Minister Radoslaw Sikorski",
+    "u": "https://gzeroworld.simplecast.com/episodes/europe-under-pressure-with-polish-foreign-minister-radoslaw-sikorski-_g3jxZph",
+    "s": "podcast"
+   },
+   {
     "d": "2026-10-24",
     "t": "Middle East elections and escalation, with Brett McGurk",
     "u": "https://gzeroworld.simplecast.com/episodes/middle-east-elections-and-escalation-with-brett-mcgurk-lhEO1vfP",
@@ -3118,12 +3124,6 @@
     "u": "https://www.youtube.com/watch?v=tSjF30r6Ip8",
     "s": "yt",
     "o": "GZERO Media"
-   },
-   {
-    "d": "2026-10-17",
-    "t": "2026 Midterms and the battle for Congress, with Amy Walter and Liam Donovan",
-    "u": "https://gzeroworld.simplecast.com/episodes/2026-midterms-and-the-battle-for-congress-with-amy-walter-and-liam-donovan-iTDgVNPK",
-    "s": "podcast"
    }
   ]
  },
