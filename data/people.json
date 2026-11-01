@@ -1478,6 +1478,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-11-01",
+    "t": "Are LLMs good or bad Bayesians?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html?utm_source=rss&utm_medium=rss&utm_campaign=are-llms-good-or-bad-bayesians",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-31",
     "t": "William Nordhaus, RIP",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=william-nordhaus-rip",
@@ -1487,12 +1493,6 @@
     "d": "2026-10-31",
     "t": "And so it begins…",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/10/and-so-it-begins-2.html?utm_source=rss&utm_medium=rss&utm_campaign=and-so-it-begins-2",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-31",
-    "t": "Saturday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-584",
     "s": "blog"
    }
   ],
@@ -3269,6 +3269,12 @@
   ],
   "yt": [
    {
+    "d": "2026-11-01",
+    "t": "Can Universities Survive? Politics and the International University w/Lea Ypi",
+    "u": "https://www.ppfideas.com/",
+    "s": "podcast"
+   },
+   {
     "d": "2026-10-28",
     "t": "Can Universities Survive? The Great Expansion Part 2",
     "u": "https://www.ppfideas.com/",
@@ -3277,12 +3283,6 @@
    {
     "d": "2026-10-25",
     "t": "Can Universities Survive? The Great Expansion",
-    "u": "https://www.ppfideas.com/",
-    "s": "podcast"
-   },
-   {
-    "d": "2026-10-21",
-    "t": "Can Universities Survive? The Thousand-Year Story Part 2",
     "u": "https://www.ppfideas.com/",
     "s": "podcast"
    }
