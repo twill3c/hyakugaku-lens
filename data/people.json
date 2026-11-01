@@ -1479,20 +1479,20 @@
   "own": [
    {
     "d": "2026-11-01",
+    "t": "Sunday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-588",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-01",
+    "t": "Those new service sector jobs?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/those-new-service-sector-jobs-18.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-18",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-01",
     "t": "Are LLMs good or bad Bayesians?",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html?utm_source=rss&utm_medium=rss&utm_campaign=are-llms-good-or-bad-bayesians",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-31",
-    "t": "William Nordhaus, RIP",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=william-nordhaus-rip",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-31",
-    "t": "And so it begins…",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/10/and-so-it-begins-2.html?utm_source=rss&utm_medium=rss&utm_campaign=and-so-it-begins-2",
     "s": "blog"
    }
   ],
@@ -1596,6 +1596,12 @@
   "bio": "『GDP —— 小さくて大きな数字の歴史』で経済統計の政治性を明らかにし、『Cogs and Monsters』ではデジタル経済に経済学の道具立てが追いついていないことを論じた。無料のデジタル財や規模の経済をどう測るかという計測問題を専門とし、AIの生産性効果をめぐる統計上の空白を指摘する。",
   "own": [
    {
+    "d": "2026-11-01",
+    "t": "A big catch-up: what I’ve been reading",
+    "u": "http://www.enlightenmenteconomics.com/blog/index.php/2026/11/a-big-catch-up-what-ive-been-reading/",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-14",
     "t": "Economics, Disrupted",
     "u": "https://www.project-syndicate.org/magazine/economics-disrupted-by-diane-coyle-2026-09",
@@ -1605,12 +1611,6 @@
     "d": "2026-08-30",
     "t": "Summertime reading",
     "u": "http://www.enlightenmenteconomics.com/blog/index.php/2026/08/summertime-reading/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-07-31",
-    "t": "July – monthly reading round-up",
-    "u": "http://www.enlightenmenteconomics.com/blog/index.php/2026/07/july-monthly-reading-round-up/",
     "s": "blog"
    }
   ],
@@ -2943,6 +2943,12 @@
   "bio": "『サピエンス全史』で虚構を共有する能力を人類の力の源泉として描き、『ホモ・デウス』でデータ至上主義の到来を論じた歴史学者。『NEXUS』(2024)では情報ネットワークの歴史からAIを捉え、AIは道具ではなく自ら決定を下す「エージェント」であり、人類史上初めて物語を生成できる存在だと警告する。",
   "own": [
    {
+    "d": "2026-11-01",
+    "t": "AI is hacking the code of civilization",
+    "u": "https://www.ynharari.com/78452/",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-12",
     "t": "‘Fascism isn’t the worst-case scenario. Fascism is still human’",
     "u": "https://www.ynharari.com/fascism-isnt-the-worst-case-scenario-fascism-is-still-human/",
@@ -2952,12 +2958,6 @@
     "d": "2026-10-04",
     "t": "The Greatest Threat Humans Just Can’t Stomach",
     "u": "https://www.ynharari.com/the-greatest-threat-humans-just-cant-stomach/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-26",
-    "t": "AI, finance, and the end of trust",
-    "u": "https://www.ynharari.com/ai-finance-and-the-end-of-trust/",
     "s": "blog"
    }
   ],
@@ -3137,6 +3137,12 @@
   "bio": "エイブラハム・ニューマンとの『Underground Empire』で、金融・通信のネットワークの結節点を握る米国が経済を武器化する構図(weaponized interdependence)を描いた。コスマ・シャリツィとの共著論考ではAIを市場や官僚制と並ぶ社会的情報処理装置として位置づける。Programmable Mutter で発信する。",
   "own": [
    {
+    "d": "2026-11-01",
+    "t": "The foreign policy “Blob” exists",
+    "u": "https://www.programmablemutter.com/p/the-foreign-policy-blob-exists",
+    "s": "blog"
+   },
+   {
     "d": "2026-10-29",
     "t": "Agentic AI is myth set in motion",
     "u": "https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion",
@@ -3146,12 +3152,6 @@
     "d": "2026-10-28",
     "t": "AI being great at math makes human mathematicians more valuable, not less",
     "u": "https://www.programmablemutter.com/p/ai-being-great-at-math-makes-human",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-20",
-    "t": "The chokepoint view has a massive blind spot",
-    "u": "https://www.programmablemutter.com/p/the-chokepoint-view-has-a-massive",
     "s": "blog"
    }
   ],
