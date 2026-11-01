@@ -634,22 +634,22 @@
   ],
   "pub": [
    {
-    "d": "2026-07-29",
-    "t": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
-    "u": "https://doi.org/10.48550/arxiv.2607.27191",
-    "s": "paper"
+    "d": "2026-10-30",
+    "t": "Lecture II: Communicative Justice and the Distribution of Attention",
+    "u": "https://doi.org/10.1093/9780197787977.003.0003",
+    "s": "book"
    },
    {
-    "d": "2026-07-15",
-    "t": "Discerning What Matters: A Multi-Dimensional Assessment of Moral Competence in LLMs",
-    "u": "https://doi.org/10.1609/iaseai.v2i1.43035",
-    "s": "paper"
+    "d": "2026-10-30",
+    "t": "Communication in the Algorithmic City, by Joshua Cohen",
+    "u": "https://doi.org/10.1093/9780197787977.003.0007",
+    "s": "book"
    },
    {
-    "d": "2026-07-09",
-    "t": "Artificial Persons",
-    "u": "https://doi.org/10.48550/arxiv.2607.08695",
-    "s": "paper"
+    "d": "2026-10-30",
+    "t": "Just Governance and the Right to the Algorithmic City, by Renée Jorgensen",
+    "u": "https://doi.org/10.1093/9780197787977.003.0005",
+    "s": "book"
    }
   ],
   "yt": []
@@ -3210,12 +3210,6 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-02-24",
-    "t": "International AI Safety Report 2026",
-    "u": "https://openalex.org/W7168238914",
-    "s": "paper"
-   },
-   {
     "d": "2025-12-07",
     "t": "International AI Safety Report 2025: Second Key Update: Technical Safeguards and Risk Management",
     "u": "https://doi.org/10.70777/si.v2i4.16671",
@@ -3225,6 +3219,12 @@
     "d": "2025-12-04",
     "t": "6 The Framers",
     "u": "https://doi.org/10.1515/9780691277998-008",
+    "s": "book"
+   },
+   {
+    "d": "2025-12-04",
+    "t": "1 The Code",
+    "u": "https://doi.org/10.1515/9780691277998-003",
     "s": "book"
    }
   ],
@@ -3563,6 +3563,12 @@
   ],
   "pub": [
    {
+    "d": "2026-10-30",
+    "t": "Human likeness is a misplaced benchmark for artificial intelligence",
+    "u": "https://doi.org/10.31234/osf.io/zn5u9_v1",
+    "s": "paper"
+   },
+   {
     "d": "2026-10-26",
     "t": "Daniel Kahneman's Influence on My Thought",
     "u": "https://doi.org/10.1002/aaai.70108",
@@ -3572,12 +3578,6 @@
     "d": "2026-05-14",
     "t": "A sentence is worth a thousand pictures: can large language models understand hum4n L4ngu4ge and the W0rld behind W0rds?",
     "u": "https://doi.org/10.1098/rsta.2025.0008",
-    "s": "paper"
-   },
-   {
-    "d": "2026-03-14",
-    "t": "The Future Is Neuro-Symbolic: Where Has It Been, and Where Is It Going?",
-    "u": "https://doi.org/10.1609/aaai.v40i48.42130",
     "s": "paper"
    }
   ],
