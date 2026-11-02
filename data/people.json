@@ -3210,6 +3210,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-02-24",
+    "t": "International AI Safety Report 2026",
+    "u": "https://doi.org/10.48550/arxiv.2602.21012",
+    "s": "paper"
+   },
+   {
     "d": "2025-12-07",
     "t": "International AI Safety Report 2025: Second Key Update: Technical Safeguards and Risk Management",
     "u": "https://doi.org/10.70777/si.v2i4.16671",
@@ -3219,12 +3225,6 @@
     "d": "2025-12-04",
     "t": "6 The Framers",
     "u": "https://doi.org/10.1515/9780691277998-008",
-    "s": "book"
-   },
-   {
-    "d": "2025-12-04",
-    "t": "1 The Code",
-    "u": "https://doi.org/10.1515/9780691277998-003",
     "s": "book"
    }
   ],
