@@ -62,6 +62,12 @@
   "bio": "情報そのものを哲学の第一対象に据える「情報の哲学」を創始し、人間を情報有機体(inforg)、生活空間をオンラインとオフラインが融合したインフォスフィアとして描いた。EUのAI倫理指針づくりに深く関与し、原則の乱立を五原則へ整理した仕事でも知られる。近年は生成AIを「意味を持たない行為主体」と規定する議論を展開している。",
   "own": [
    {
+    "d": "2026-11-03",
+    "t": "New paper from Yale's Digital Ethics Center: \"Towards Portable Specification of…",
+    "u": "https://mastodon.world/@lucianofloridi/117549753060844747",
+    "s": "mastodon"
+   },
+   {
     "d": "2026-10-30",
     "t": "The Digital Ethics Center at Yale https:// dec.yale.edu/ is hiring postdocs. Ple…",
     "u": "https://mastodon.world/@lucianofloridi/117531703190037680",
@@ -71,12 +77,6 @@
     "d": "2026-10-28",
     "t": "L’AI dà risposte, serve chi fa le domande - Campus https://www. salonedellostude…",
     "u": "https://mastodon.world/@lucianofloridi/117518898792932286",
-    "s": "mastodon"
-   },
-   {
-    "d": "2026-10-25",
-    "t": "Luciano Floridi e la postverità: “Non siamo più al centro dell’infosfera. Qualit…",
-    "u": "https://mastodon.world/@lucianofloridi/117503181122192220",
     "s": "mastodon"
    }
   ],
@@ -1478,6 +1478,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-11-03",
+    "t": "Are economists declining in status?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html?utm_source=rss&utm_medium=rss&utm_campaign=are-economists-declining-in-status",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-02",
     "t": "*Fjord* and *Fatherland*",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/fjord-and-fatherland.html?utm_source=rss&utm_medium=rss&utm_campaign=fjord-and-fatherland",
@@ -1487,12 +1493,6 @@
     "d": "2026-11-02",
     "t": "Monday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-584",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-02",
-    "t": "Should you feel grief for the dead who go to heaven?",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-feel-grief-for-the-dead-who-go-to-heaven",
     "s": "blog"
    }
   ],
