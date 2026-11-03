@@ -48,16 +48,16 @@
      "o": "ORBITS - Luciano Floridi"
     },
     {
-     "d": "2026-06-29",
-     "t": "Riscopriamo l'ONTOLOGIA per capire l'IA | FILOSOFIA con Luciano Floridi",
-     "u": "https://www.youtube.com/watch?v=6fFy8RqlSug",
+     "d": "2026-06-15",
+     "t": "Sul valore della SPERANZA | FILOSOFIA con Luciano Floridi",
+     "u": "https://www.youtube.com/watch?v=bC5DC6BeQEM",
      "s": "yt",
      "o": "ORBITS - Luciano Floridi"
     },
     {
-     "d": "2026-06-15",
-     "t": "Sul valore della SPERANZA | FILOSOFIA con Luciano Floridi",
-     "u": "https://www.youtube.com/watch?v=bC5DC6BeQEM",
+     "d": "2026-06-29",
+     "t": "Riscopriamo l'ONTOLOGIA per capire l'IA | FILOSOFIA con Luciano Floridi",
+     "u": "https://www.youtube.com/watch?v=6fFy8RqlSug",
      "s": "yt",
      "o": "ORBITS - Luciano Floridi"
     },
@@ -224,6 +224,13 @@
      "o": "Gonja Ladd"
     },
     {
+     "d": "2026-11-02",
+     "t": "Is It Wrong Not to Give to Charity? Peter Singer's Radical Argument",
+     "u": "https://www.youtube.com/watch?v=aiMNeslvUQ0",
+     "s": "yt",
+     "o": "PhiLIZophy"
+    },
+    {
      "d": "2026-05-10",
      "t": "\"Ethics Without Religion\" - Peter Singer",
      "u": "https://www.youtube.com/watch?v=cxxiuCxvo9Y",
@@ -255,13 +262,6 @@
      "d": "2026-09-08",
      "t": "Consider the Turkey Audiobook by Peter Singer",
      "u": "https://www.youtube.com/watch?v=yauxYhswrcY",
-     "s": "yt",
-     "o": "Free Audiobook"
-    },
-    {
-     "d": "2026-09-03",
-     "t": "Animal Liberation Now Audiobook by Peter Singer",
-     "u": "https://www.youtube.com/watch?v=d3f0Nwgi_jA",
      "s": "yt",
      "o": "Free Audiobook"
     }
@@ -311,9 +311,9 @@
   {
    "n": "スーザン・シュナイダー",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "dropped": {
-    "題名に氏名が無い": 17,
+    "題名に氏名が無い": 18,
     "許可していないチャンネル": 3
    },
    "candidates": [
@@ -323,13 +323,6 @@
      "u": "https://www.youtube.com/watch?v=PpD3vogm1Ms",
      "s": "yt",
      "o": "Closer To Truth"
-    },
-    {
-     "d": "2026-05-06",
-     "t": "Susan Schneider - From Circuits to Sentience: Why Digital Chatbots Aren’t Conscious but ...",
-     "u": "https://www.youtube.com/watch?v=-AIXanPrLF4",
-     "s": "yt",
-     "o": "Models of Consciousness Conferences"
     },
     {
      "d": "2026-08-16",
@@ -414,10 +407,10 @@
   {
    "n": "カリッサ・ヴェリス",
    "ok": true,
-   "count": 16,
+   "count": 15,
    "dropped": {
     "題名に氏名が無い": 4,
-    "許可していないチャンネル": 5
+    "許可していないチャンネル": 6
    },
    "candidates": [
     {
@@ -505,20 +498,6 @@
      "o": "Talkin' Politics & Religion W/o Killin' Each Other"
     },
     {
-     "d": "2026-08-30",
-     "t": "Carissa Véliz: navigating LLM constraints in the pursuit of AI ethics",
-     "u": "https://www.youtube.com/watch?v=bqA4uPz2x-Y",
-     "s": "yt",
-     "o": "Masters of Privacy"
-    },
-    {
-     "d": "2026-05-06",
-     "t": "Whoever holds our data holds the power with Carissa Véliz | The We Society S10 Ep7",
-     "u": "https://www.youtube.com/watch?v=Flsob3o_N8c",
-     "s": "yt",
-     "o": "Academy of Social Sciences"
-    },
-    {
      "d": "2026-05-21",
      "t": "Responsible Tech Book Talk With Carissa Véliz, Author of Prophecy",
      "u": "https://www.youtube.com/watch?v=C629MRM6WOU",
@@ -531,6 +510,13 @@
      "u": "https://www.youtube.com/watch?v=c5TtlDdxVSs",
      "s": "yt",
      "o": "Stichting Democratie en Media"
+    },
+    {
+     "d": "2026-08-30",
+     "t": "Carissa Véliz: navigating LLM constraints in the pursuit of AI ethics",
+     "u": "https://www.youtube.com/watch?v=bqA4uPz2x-Y",
+     "s": "yt",
+     "o": "Masters of Privacy"
     }
    ],
    "pending": [
@@ -568,6 +554,13 @@
      "u": "https://www.youtube.com/watch?v=4O8q2ggjprI",
      "s": "yt",
      "o": "Mario Reyes"
+    },
+    {
+     "d": "2026-10-26",
+     "t": "PROPHECY: From Ancient Predictions to Artificial Intelligence with Carissa Véliz | 446",
+     "u": "https://www.youtube.com/watch?v=-ZlUQF6Ihrw",
+     "s": "yt",
+     "o": "This Is Woman's Work"
     }
    ]
   },
@@ -622,18 +615,18 @@
      "o": "Maestria en Comunicacion y Politica"
     },
     {
-     "d": "2026-10-24",
-     "t": "Sesión 1: Fragmentar el Futuro - Enrique Baleriola | Seminario Yuk Hui",
-     "u": "https://www.youtube.com/watch?v=qXha203Povk",
-     "s": "yt",
-     "o": "Nucleo Especulatorio Tecnociencia y Biomateriales"
-    },
-    {
      "d": "2026-08-24",
      "t": "21/05 - Do (curto)circuito entre Vilém Flusser e Yuk Hui | Gabriel Philipson (Unicamp)",
      "u": "https://www.youtube.com/watch?v=k8mQDc0Sm80",
      "s": "yt",
      "o": "Artes e Design PUC-Rio"
+    },
+    {
+     "d": "2026-10-24",
+     "t": "Sesión 1: Fragmentar el Futuro - Enrique Baleriola | Seminario Yuk Hui",
+     "u": "https://www.youtube.com/watch?v=qXha203Povk",
+     "s": "yt",
+     "o": "Nucleo Especulatorio Tecnociencia y Biomateriales"
     }
    ]
   },
@@ -642,24 +635,24 @@
    "ok": false,
    "count": 0,
    "dropped": {
-    "題名に氏名が無い": 3,
-    "許可していないチャンネル": 22
+    "題名に氏名が無い": 4,
+    "許可していないチャンネル": 21
    },
    "candidates": [],
    "pending": [
-    {
-     "d": "2026-06-23",
-     "t": "CRÍTICA DURA AO LIVRO SOCIEDADE DO CANSAÇO (BYUNG-CHUL HAN)",
-     "u": "https://www.youtube.com/watch?v=b0jZ54DJDVI",
-     "s": "yt",
-     "o": "Prof. Daniel Gontijo"
-    },
     {
      "d": "2026-10-16",
      "t": "\"SIN RESPETO\" - Una crisis social. Byung-Chul Han",
      "u": "https://www.youtube.com/watch?v=jpuUssEW0Is",
      "s": "yt",
      "o": "Claudio Alvarez Teran"
+    },
+    {
+     "d": "2026-06-23",
+     "t": "CRÍTICA DURA AO LIVRO SOCIEDADE DO CANSAÇO (BYUNG-CHUL HAN)",
+     "u": "https://www.youtube.com/watch?v=b0jZ54DJDVI",
+     "s": "yt",
+     "o": "Prof. Daniel Gontijo"
     },
     {
      "d": "2026-05-16",
@@ -683,11 +676,11 @@
      "o": "Filosofía del Pórtico"
     },
     {
-     "d": "2026-11-01",
-     "t": "You're Not Lazy, You're Burned Out | Byung-Chul Han",
-     "u": "https://www.youtube.com/watch?v=lBWcZVnzWSc",
+     "d": "2026-05-22",
+     "t": "Is Burnout a Choice? A Review of The Burnout Society by Byung-Chul Han",
+     "u": "https://www.youtube.com/watch?v=1lkeNpBA2fU",
      "s": "yt",
-     "o": "Eudaimonia"
+     "o": "Chas Abandons Reality"
     },
     {
      "d": "2026-09-18",
@@ -697,32 +690,18 @@
      "o": "Scorribande Filosofiche - Canale didattico"
     },
     {
-     "d": "2026-08-27",
-     "t": "La sociedad del cansancio - Byung-Chul Han (Audiolibro)",
-     "u": "https://www.youtube.com/watch?v=tV4tJmBwHbQ",
-     "s": "yt",
-     "o": "Mi Audioteca"
-    },
-    {
-     "d": "2026-05-22",
-     "t": "Is Burnout a Choice? A Review of The Burnout Society by Byung-Chul Han",
-     "u": "https://www.youtube.com/watch?v=1lkeNpBA2fU",
-     "s": "yt",
-     "o": "Chas Abandons Reality"
-    },
-    {
-     "d": "2026-06-17",
-     "t": "Hablando de Dios, la vida y la muerte | Byung-Chul Han",
-     "u": "https://www.youtube.com/watch?v=LJFrA5ZFWFg",
-     "s": "yt",
-     "o": "EL CUERVO BLANCO"
-    },
-    {
      "d": "2026-05-12",
      "t": "\"La Sociedad del Cansancio\" de Byung-Chul Han | Club de Lectura",
      "u": "https://www.youtube.com/watch?v=dqqbLS57ZWk",
      "s": "yt",
      "o": "Mis Propias Finanzas"
+    },
+    {
+     "d": "2026-08-27",
+     "t": "La sociedad del cansancio - Byung-Chul Han (Audiolibro)",
+     "u": "https://www.youtube.com/watch?v=tV4tJmBwHbQ",
+     "s": "yt",
+     "o": "Mi Audioteca"
     },
     {
      "d": "2026-07-03",
@@ -732,18 +711,18 @@
      "o": "Palinode w/ Dr. Danny Layne"
     },
     {
-     "d": "2026-10-29",
-     "t": "Escenario Global #003: BYUNG-CHUL HAN y la ERA de las NO-COSAS - Lucas Carena y Pablo Davoli",
-     "u": "https://www.youtube.com/watch?v=vNpYIIbbr9o",
-     "s": "yt",
-     "o": "KontraInfo"
-    },
-    {
      "d": "2026-09-21",
      "t": "Byung-Chul Han : Pourquoi la société de la performance nous épuise",
      "u": "https://www.youtube.com/watch?v=_tPl8Y9NBnE",
      "s": "yt",
      "o": "Inspi Vibes"
+    },
+    {
+     "d": "2026-06-17",
+     "t": "Hablando de Dios, la vida y la muerte | Byung-Chul Han",
+     "u": "https://www.youtube.com/watch?v=LJFrA5ZFWFg",
+     "s": "yt",
+     "o": "EL CUERVO BLANCO"
     },
     {
      "d": "2026-10-03",
@@ -753,25 +732,11 @@
      "o": "Lucid Soma"
     },
     {
-     "d": "2026-10-29",
-     "t": "🔴 TARDE - FILOSOFIA - 28.10.26 - 2ª Série - BYUNG-CHUL HAN: POR QUE NUNCA ÉSUFICIENTE?",
-     "u": "https://www.youtube.com/watch?v=UXxSYHxo81Y",
-     "s": "yt",
-     "o": "Goiás Tec - 2ª Série"
-    },
-    {
      "d": "2026-10-08",
      "t": "You’re Slowly Destroying Yourself and Calling It Ambition — Byung-Chul Han",
      "u": "https://www.youtube.com/watch?v=rXjxdt5J3z8",
      "s": "yt",
      "o": "Philophecy"
-    },
-    {
-     "d": "2026-05-31",
-     "t": "Byung-Chul Han: Crítica a la Sociedad del Rendimiento y el Neoliberalismo",
-     "u": "https://www.youtube.com/watch?v=gyG3UjV4SsQ",
-     "s": "yt",
-     "o": "ASPIEF "
     },
     {
      "d": "2026-10-12",
@@ -781,13 +746,6 @@
      "o": "Platonto"
     },
     {
-     "d": "2026-08-17",
-     "t": "Byung-Chul Han’s Burnout Society: The Philosophy of Self-Exploitation",
-     "u": "https://www.youtube.com/watch?v=V-nYBw-WLks",
-     "s": "yt",
-     "o": "The Abyss Dialogues"
-    },
-    {
      "d": "2026-07-29",
      "t": "Rituals, Religion & the Lost Meaning of Community | Byung-Chul Han | Pankaj Saxena & Ashish Dhar",
      "u": "https://www.youtube.com/watch?v=vtO7mZmxpTs",
@@ -795,11 +753,39 @@
      "o": "Upword"
     },
     {
+     "d": "2026-05-31",
+     "t": "Byung-Chul Han: Crítica a la Sociedad del Rendimiento y el Neoliberalismo",
+     "u": "https://www.youtube.com/watch?v=gyG3UjV4SsQ",
+     "s": "yt",
+     "o": "ASPIEF "
+    },
+    {
      "d": "2026-07-06",
      "t": "ERREI SOBRE \"SOCIEDADE DO CANSAÇO\" DE BYUNG-CHUL HAN?",
      "u": "https://www.youtube.com/watch?v=WX6G7dj7S3A",
      "s": "yt",
      "o": "Prof. Daniel Gontijo"
+    },
+    {
+     "d": "2026-08-17",
+     "t": "Byung-Chul Han’s Burnout Society: The Philosophy of Self-Exploitation",
+     "u": "https://www.youtube.com/watch?v=V-nYBw-WLks",
+     "s": "yt",
+     "o": "The Abyss Dialogues"
+    },
+    {
+     "d": "2026-11-01",
+     "t": "You're Not Lazy, You're Burned Out | Byung-Chul Han",
+     "u": "https://www.youtube.com/watch?v=lBWcZVnzWSc",
+     "s": "yt",
+     "o": "Eudaimonia"
+    },
+    {
+     "d": "2026-06-23",
+     "t": "L'inferno dell'Uguale: perché abbiamo smesso di incontrare l'Altro – Byung-Chul Han",
+     "u": "https://www.youtube.com/watch?v=JyhUuc8G3IQ",
+     "s": "yt",
+     "o": "Scorribande Filosofiche - Canale didattico"
     }
    ]
   },
@@ -856,8 +842,8 @@
    "ok": true,
    "count": 1,
    "dropped": {
-    "題名に氏名が無い": 10,
-    "許可していないチャンネル": 14
+    "題名に氏名が無い": 9,
+    "許可していないチャンネル": 15
    },
    "candidates": [
     {
@@ -898,6 +884,13 @@
      "o": "Pienso y no sé nada"
     },
     {
+     "d": "2026-10-21",
+     "t": "Situated Knowledge & The God Trick Explained | Donna Haraway | Feminist Theory | M.A Education ",
+     "u": "https://www.youtube.com/watch?v=fSl3MchycW4",
+     "s": "yt",
+     "o": "Beled department"
+    },
+    {
      "d": "2026-10-22",
      "t": "Mind Matters Dialogue & Book Launch with Prof Scott Gilbert and Prof Donna Haraway,Prof Bruce Clarke",
      "u": "https://www.youtube.com/watch?v=wd-5J_HCxog",
@@ -905,18 +898,18 @@
      "o": "Mind & Life Europe"
     },
     {
+     "d": "2026-11-02",
+     "t": "study cozy ambience | reading donna haraway's cyborg manifesto, no music",
+     "u": "https://www.youtube.com/watch?v=c6VrII3xXnE",
+     "s": "yt",
+     "o": "The Silverfish Burrow"
+    },
+    {
      "d": "2026-08-28",
      "t": "A Cyborg Manifesto (1985) | Donna Haraway",
      "u": "https://www.youtube.com/watch?v=yT1j4pETXCo",
      "s": "yt",
      "o": "Epistemophilia"
-    },
-    {
-     "d": "2026-10-21",
-     "t": "Situated Knowledge & The God Trick Explained | Donna Haraway | Feminist Theory | M.A Education ",
-     "u": "https://www.youtube.com/watch?v=fSl3MchycW4",
-     "s": "yt",
-     "o": "Beled department"
     },
     {
      "d": "2026-06-27",
@@ -1113,9 +1106,9 @@
   {
    "n": "タイラー・コーエン",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "dropped": {
-    "題名に氏名が無い": 9,
+    "題名に氏名が無い": 8,
     "許可していないチャンネル": 6
    },
    "candidates": [
@@ -1162,13 +1155,6 @@
      "o": "Michael Easter"
     },
     {
-     "d": "2026-07-29",
-     "t": "How can we attain AI sovereignty? with Sarah Hunter and Tyler Cowen",
-     "u": "https://www.youtube.com/watch?v=lsQcNqCUCoU",
-     "s": "yt",
-     "o": "Civic Future"
-    },
-    {
      "d": "2026-07-07",
      "t": "The Conversation On AI I Wasn't Prepared For... - Tyler Cowen",
      "u": "https://www.youtube.com/watch?v=X84nvYtkl4s",
@@ -1176,11 +1162,25 @@
      "o": "Winston Marshall"
     },
     {
+     "d": "2026-07-29",
+     "t": "How can we attain AI sovereignty? with Sarah Hunter and Tyler Cowen",
+     "u": "https://www.youtube.com/watch?v=lsQcNqCUCoU",
+     "s": "yt",
+     "o": "Civic Future"
+    },
+    {
      "d": "2026-08-28",
      "t": "Aesthetics: A Conversation with Tyler Cowen",
      "u": "https://www.youtube.com/watch?v=Hc0PauTygbY",
      "s": "yt",
      "o": "UTD Art History"
+    },
+    {
+     "d": "2026-06-24",
+     "t": "AI, Job Loss, Fertility Crisis and the Death of Careerism | ft. Tyler Cowen | PGX Ideas #4",
+     "u": "https://www.youtube.com/watch?v=NkQfvvjw2a8",
+     "s": "yt",
+     "o": "PGX Ideas"
     },
     {
      "d": "2026-07-23",
@@ -1199,18 +1199,18 @@
      "o": "Interesting Times"
     },
     {
-     "d": "2026-09-18",
-     "t": "Tyler Cowen - University of Wyoming Discussion",
-     "u": "https://www.youtube.com/watch?v=rj8Wv1XIfjo",
-     "s": "yt",
-     "o": "UWyoBiz"
-    },
-    {
      "d": "2026-10-22",
      "t": "Tyler Cowen on AI, the Future of Work, and Why We Trade Too Much | WealthCon2026 Fireside",
      "u": "https://www.youtube.com/watch?v=NB-OMANjscQ",
      "s": "yt",
      "o": "Elm Wealth"
+    },
+    {
+     "d": "2026-09-18",
+     "t": "Tyler Cowen - University of Wyoming Discussion",
+     "u": "https://www.youtube.com/watch?v=rj8Wv1XIfjo",
+     "s": "yt",
+     "o": "UWyoBiz"
     },
     {
      "d": "2026-09-09",
@@ -1220,18 +1220,18 @@
      "o": "Faster Please!"
     },
     {
-     "d": "2026-06-06",
-     "t": "OpenAI - Fireside Chat with Tyler Cowen and Alex Tabarrok",
-     "u": "https://www.youtube.com/watch?v=eAq1GBUzmlk",
-     "s": "yt",
-     "o": "Wyatt Thompson"
-    },
-    {
      "d": "2026-08-05",
      "t": "#174 – Tyler Cowen: Economic Growth and the Fight Against Conformity and Mediocrity",
      "u": "https://www.youtube.com/watch?v=LFi8xXfXZPU",
      "s": "yt",
      "o": "Zenvora Productions"
+    },
+    {
+     "d": "2026-06-06",
+     "t": "OpenAI - Fireside Chat with Tyler Cowen and Alex Tabarrok",
+     "u": "https://www.youtube.com/watch?v=eAq1GBUzmlk",
+     "s": "yt",
+     "o": "Wyatt Thompson"
     }
    ]
   },
@@ -1421,13 +1421,6 @@
      "o": "Pioneers of AI"
     },
     {
-     "d": "2026-10-22",
-     "t": "Artificial Intimacy: When Machines Pursue Our Attachment (with Sherry Turkle)",
-     "u": "https://www.youtube.com/watch?v=XSkfwbHl3E8",
-     "s": "yt",
-     "o": "Future of Life Institute"
-    },
-    {
      "d": "2026-10-06",
      "t": "AI \"Intimacy\" Is a Dangerous Trap | MIT Professor Dr. Sherry Turkle on Disruptor Confessions",
      "u": "https://www.youtube.com/watch?v=_y1cG9huTHc",
@@ -1447,6 +1440,13 @@
      "u": "https://www.youtube.com/watch?v=H_a2evrk2Mk",
      "s": "yt",
      "o": "Harvard Science Book Talks and Research Lectures"
+    },
+    {
+     "d": "2026-10-22",
+     "t": "Artificial Intimacy: When Machines Pursue Our Attachment (with Sherry Turkle)",
+     "u": "https://www.youtube.com/watch?v=XSkfwbHl3E8",
+     "s": "yt",
+     "o": "Future of Life Institute"
     },
     {
      "d": "2026-10-30",
@@ -1512,6 +1512,13 @@
      "o": "Tracey Follows"
     },
     {
+     "d": "2026-09-28",
+     "t": "Sherry Turkle - where is relational AI leading us?",
+     "u": "https://www.youtube.com/watch?v=uKX2Z9HWXp8",
+     "s": "yt",
+     "o": "Examined Life Podcast with Kenny Primrose"
+    },
+    {
      "d": "2026-10-02",
      "t": "Sherry Turkle - What is the endgame?",
      "u": "https://www.youtube.com/watch?v=_QXJlYNwGng",
@@ -1531,13 +1538,6 @@
      "u": "https://www.youtube.com/watch?v=_07RvhnVz5E",
      "s": "yt",
      "o": "Wayde AI"
-    },
-    {
-     "d": "2026-09-28",
-     "t": "Sherry Turkle - where is relational AI leading us?",
-     "u": "https://www.youtube.com/watch?v=uKX2Z9HWXp8",
-     "s": "yt",
-     "o": "Examined Life Podcast with Kenny Primrose"
     }
    ]
   },
@@ -1559,13 +1559,6 @@
      "o": "FLOWS BY DUKE"
     },
     {
-     "d": "2026-10-19",
-     "t": "The Age of Surveillance by Shoshana Zuboff | Privacy, Technology & the Fight for Freedom",
-     "u": "https://www.youtube.com/watch?v=wutejhBTR60",
-     "s": "yt",
-     "o": "The Classic Mind"
-    },
-    {
      "d": "2026-09-27",
      "t": "The Age of Surveillance Capitalism (2019) | Shoshana Zuboff",
      "u": "https://www.youtube.com/watch?v=B588k52eXHU",
@@ -1578,6 +1571,13 @@
      "u": "https://www.youtube.com/watch?v=onPSGZdKlTQ",
      "s": "yt",
      "o": "Filo Errante"
+    },
+    {
+     "d": "2026-10-19",
+     "t": "The Age of Surveillance by Shoshana Zuboff | Privacy, Technology & the Fight for Freedom",
+     "u": "https://www.youtube.com/watch?v=wutejhBTR60",
+     "s": "yt",
+     "o": "The Classic Mind"
     },
     {
      "d": "2026-10-19",
@@ -1763,9 +1763,9 @@
   {
    "n": "フランシス・フクヤマ",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "dropped": {
-    "題名に氏名が無い": 3,
+    "題名に氏名が無い": 4,
     "許可していないチャンネル": 13
    },
    "candidates": [
@@ -1824,13 +1824,6 @@
      "u": "https://www.youtube.com/watch?v=i58hIG92rw0",
      "s": "yt",
      "o": "BBC Politics"
-    },
-    {
-     "d": "2026-08-15",
-     "t": "The Eras of Francis Fukuyama: How States Form",
-     "u": "https://www.youtube.com/watch?v=-B2hcz_YFAA",
-     "s": "yt",
-     "o": "Persuasion"
     }
    ],
    "pending": [
@@ -1842,18 +1835,18 @@
      "o": "The Bulwark"
     },
     {
-     "d": "2026-10-14",
-     "t": "Francis Fukuyama with Shadi Hamid: In the Realm of the Last Man",
-     "u": "https://www.youtube.com/watch?v=shl5ET9gh1o",
-     "s": "yt",
-     "o": "The 92nd Street Y, New York"
-    },
-    {
      "d": "2026-09-21",
      "t": "Francis Fukuyama: In the Realm of the Last Man",
      "u": "https://www.youtube.com/watch?v=u2oEGhuLsx8",
      "s": "yt",
      "o": "Commonwealth Club World Affairs of California"
+    },
+    {
+     "d": "2026-10-14",
+     "t": "Francis Fukuyama with Shadi Hamid: In the Realm of the Last Man",
+     "u": "https://www.youtube.com/watch?v=shl5ET9gh1o",
+     "s": "yt",
+     "o": "The 92nd Street Y, New York"
     },
     {
      "d": "2026-10-15",
@@ -1885,6 +1878,13 @@
     },
     {
      "d": "2026-09-09",
+     "t": "Big Stakes for Small States: Resilience in an Era of Strategic Competition feat. Francis Fukuyama",
+     "u": "https://www.youtube.com/watch?v=OxKL0tut4_0",
+     "s": "yt",
+     "o": "East-West Center"
+    },
+    {
+     "d": "2026-09-09",
      "t": "Francis Fukuyama: Europe can no longer rely on America",
      "u": "https://www.youtube.com/watch?v=qbqt4rhRGLQ",
      "s": "yt",
@@ -1898,11 +1898,11 @@
      "o": "The Spectator"
     },
     {
-     "d": "2026-09-09",
-     "t": "Big Stakes for Small States: Resilience in an Era of Strategic Competition feat. Francis Fukuyama",
-     "u": "https://www.youtube.com/watch?v=OxKL0tut4_0",
+     "d": "2026-10-28",
+     "t": "Der letzte Mensch? Francis Fukuyama über die Zukunft der liberalen Demokratie",
+     "u": "https://www.youtube.com/watch?v=pNmJNNZVy3I",
      "s": "yt",
-     "o": "East-West Center"
+     "o": "Konrad-Adenauer-Stiftung: Politische Bildung"
     },
     {
      "d": "2026-10-31",
@@ -1910,13 +1910,6 @@
      "u": "https://www.youtube.com/watch?v=odHNuzuPx3o",
      "s": "yt",
      "o": "Rehan Ali Philosophy"
-    },
-    {
-     "d": "2026-09-18",
-     "t": "\"¿EL FIN DE LA HISTORIA?\" Revisitado 37 años después - Francis Fukuyama",
-     "u": "https://www.youtube.com/watch?v=t7sSzCME7iM",
-     "s": "yt",
-     "o": "Claudio Alvarez Teran"
     },
     {
      "d": "2026-09-13",
@@ -1930,9 +1923,9 @@
   {
    "n": "ヘンリー・ファレル",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "dropped": {
-    "題名に氏名が無い": 17,
+    "題名に氏名が無い": 18,
     "許可していないチャンネル": 4
    },
    "candidates": [
@@ -1942,13 +1935,6 @@
      "u": "https://www.youtube.com/watch?v=RSE6Q7lRvW8",
      "s": "yt",
      "o": "Blavatnik School of Government"
-    },
-    {
-     "d": "2026-05-06",
-     "t": "Henry Farrell on AI as a Social Technology",
-     "u": "https://www.youtube.com/watch?v=FEbdxgY-cLM",
-     "s": "yt",
-     "o": "Mercatus Center"
     },
     {
      "d": "2026-07-27",
@@ -2001,7 +1987,7 @@
    "ok": false,
    "count": 0,
    "dropped": {
-    "題名に氏名が無い": 24,
+    "題名に氏名が無い": 23,
     "許可していないチャンネル": 1
    },
    "candidates": [],
@@ -2020,17 +2006,17 @@
    "ok": false,
    "count": 0,
    "dropped": {
-    "題名に氏名が無い": 6
+    "題名に氏名が無い": 5
    },
    "candidates": []
   },
   {
    "n": "スティーブン・ピンカー",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "dropped": {
     "題名に氏名が無い": 2,
-    "許可していないチャンネル": 16
+    "許可していないチャンネル": 17
    },
    "candidates": [
     {
@@ -2074,13 +2060,6 @@
      "u": "https://www.youtube.com/watch?v=ZsYkLHJfM_M",
      "s": "yt",
      "o": "Boldly Go Podcast"
-    },
-    {
-     "d": "2026-05-06",
-     "t": "Steven Pinker: Estamos a viver de mitos?",
-     "u": "https://www.youtube.com/watch?v=JQnWtE5ORkk",
-     "s": "yt",
-     "o": "45 Graus"
     }
    ],
    "pending": [
@@ -2141,13 +2120,6 @@
      "o": "The Highest Order Fiat Lux Excitata Lux "
     },
     {
-     "d": "2026-05-06",
-     "t": "The Blank Slate by Steven Pinker | {English} summary ",
-     "u": "https://www.youtube.com/watch?v=uOE3hEVPJAI",
-     "s": "yt",
-     "o": "Hello bookie "
-    },
-    {
      "d": "2026-08-04",
      "t": "Steven Pinker: AI in the Age of Reason",
      "u": "https://www.youtube.com/watch?v=AQPeJ15bZOA",
@@ -2162,18 +2134,18 @@
      "o": "Mysteries Beyond Earth"
     },
     {
-     "d": "2026-10-06",
-     "t": "An Open Letter To Steven Pinker On AI - By Scott Alexander",
-     "u": "https://www.youtube.com/watch?v=Ob9s1l13OwY",
-     "s": "yt",
-     "o": "AskwhoCasts AI"
-    },
-    {
      "d": "2026-05-19",
      "t": "La negación moderna de la naturaleza humana: La tabla rasa (2002) - Steven Pinker (resumen sin I.A.)",
      "u": "https://www.youtube.com/watch?v=_sLbp8JCNUQ",
      "s": "yt",
      "o": "Colectivo audiovisual Zerkalo"
+    },
+    {
+     "d": "2026-10-06",
+     "t": "An Open Letter To Steven Pinker On AI - By Scott Alexander",
+     "u": "https://www.youtube.com/watch?v=Ob9s1l13OwY",
+     "s": "yt",
+     "o": "AskwhoCasts AI"
     },
     {
      "d": "2026-10-20",
@@ -2183,11 +2155,11 @@
      "o": "Pangburn"
     },
     {
-     "d": "2026-10-30",
-     "t": "Därför vågade Steven Pinker inte muta hovmästaren",
-     "u": "https://www.youtube.com/watch?v=AxFAzzxAZKw",
+     "d": "2026-10-26",
+     "t": "Steven Pinker Returns (on common knowledge)",
+     "u": "https://www.youtube.com/watch?v=xJ_4VTBpM_o",
      "s": "yt",
-     "o": "Ivar Arpi"
+     "o": "BlackNova Productions"
     },
     {
      "d": "2026-08-03",
@@ -2195,6 +2167,20 @@
      "u": "https://www.youtube.com/watch?v=krjogC_Bx64",
      "s": "yt",
      "o": "BlackNova Productions"
+    },
+    {
+     "d": "2026-10-30",
+     "t": "Därför vågade Steven Pinker inte muta hovmästaren",
+     "u": "https://www.youtube.com/watch?v=AxFAzzxAZKw",
+     "s": "yt",
+     "o": "Ivar Arpi"
+    },
+    {
+     "d": "2026-05-29",
+     "t": "How The Mind Works — Expert Book Summary by Professor Steven Pinker",
+     "u": "https://www.youtube.com/watch?v=zpP07v4r75Y",
+     "s": "yt",
+     "o": "SkillFront"
     }
    ]
   },
@@ -2236,18 +2222,18 @@
      "o": "Mario Nawfal"
     },
     {
-     "d": "2026-08-13",
-     "t": "Are LLMs Oversold? | Ryan Grim, Emily Forlini, Gary Marcus, Alexander Gray | NSSS 2026",
-     "u": "https://www.youtube.com/watch?v=LPhUTTNtlgQ",
-     "s": "yt",
-     "o": "Centaur AI Institute | Neuro-Symbolic AI Community"
-    },
-    {
      "d": "2026-06-16",
      "t": "A Skeptic’s Guide to Artificial Intelligence, with Gary Marcus",
      "u": "https://www.youtube.com/watch?v=6bNGsXfKJGI",
      "s": "yt",
      "o": "Interintellect"
+    },
+    {
+     "d": "2026-08-13",
+     "t": "Are LLMs Oversold? | Ryan Grim, Emily Forlini, Gary Marcus, Alexander Gray | NSSS 2026",
+     "u": "https://www.youtube.com/watch?v=LPhUTTNtlgQ",
+     "s": "yt",
+     "o": "Centaur AI Institute | Neuro-Symbolic AI Community"
     },
     {
      "d": "2026-05-14",
@@ -2444,9 +2430,9 @@
   {
    "n": "エイミー・ウェブ",
    "ok": true,
-   "count": 4,
+   "count": 2,
    "dropped": {
-    "題名に氏名が無い": 16,
+    "題名に氏名が無い": 18,
     "許可していないチャンネル": 5
    },
    "candidates": [
@@ -2463,20 +2449,6 @@
      "u": "https://www.youtube.com/watch?v=tiso9dx4354",
      "s": "yt",
      "o": "The Peter McCormack Show"
-    },
-    {
-     "d": "2026-05-06",
-     "t": "Amy Webb | Ronaldo Lemos e Thiago Camargo conversam com Amy Webb",
-     "u": "https://www.youtube.com/watch?v=N169GU-Wq44",
-     "s": "yt",
-     "o": "ITS Rio"
-    },
-    {
-     "d": "2026-05-06",
-     "t": "Amy Webb, Ronaldo Lemos e Thiago Camargo - versão completa",
-     "u": "https://www.youtube.com/watch?v=EMdI_LWGxPo",
-     "s": "yt",
-     "o": "ITS Rio"
     }
    ],
    "pending": [
@@ -5429,8 +5401,8 @@
   }
  ],
  "channels_allowed": 288,
- "generated_at": "2026-11-01T23:29:12Z",
+ "generated_at": "2026-11-03T02:10:36Z",
  "applied": true,
- "window_start": "2026-05-05T23:29:12Z",
+ "window_start": "2026-05-07T02:10:36Z",
  "carried": 50
 }
