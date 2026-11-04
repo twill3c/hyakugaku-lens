@@ -1478,6 +1478,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-11-04",
+    "t": "Trade and the end of antiquity, or did Islam serve to deglobalize the world?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-03",
     "t": "Ireland fact of the day",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=ireland-fact-of-the-day-8",
@@ -1487,12 +1493,6 @@
     "d": "2026-11-03",
     "t": "Tuesday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-593",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-03",
-    "t": "The economics of tips",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-tips.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-tips",
     "s": "blog"
    }
   ],
@@ -3119,11 +3119,10 @@
     "s": "podcast"
    },
    {
-    "d": "2026-10-09",
-    "t": "How October 7 changed the Middle East, three years on | GZERO World with Ian Bremmer",
-    "u": "https://www.youtube.com/watch?v=gWkbYxanvB4",
-    "s": "yt",
-    "o": "GZERO Media"
+    "d": "2026-10-17",
+    "t": "2026 Midterms and the battle for Congress, with Amy Walter and Liam Donovan",
+    "u": "https://gzeroworld.simplecast.com/episodes/2026-midterms-and-the-battle-for-congress-with-amy-walter-and-liam-donovan-iTDgVNPK",
+    "s": "podcast"
    }
   ]
  },
@@ -3269,6 +3268,12 @@
   ],
   "yt": [
    {
+    "d": "2026-11-04",
+    "t": "Can Universities Survive? AI vs Higher Education",
+    "u": "https://www.ppfideas.com/",
+    "s": "podcast"
+   },
+   {
     "d": "2026-11-01",
     "t": "Can Universities Survive? Politics and the International University w/Lea Ypi",
     "u": "https://www.ppfideas.com/",
@@ -3277,12 +3282,6 @@
    {
     "d": "2026-10-28",
     "t": "Can Universities Survive? The Great Expansion Part 2",
-    "u": "https://www.ppfideas.com/",
-    "s": "podcast"
-   },
-   {
-    "d": "2026-10-25",
-    "t": "Can Universities Survive? The Great Expansion",
     "u": "https://www.ppfideas.com/",
     "s": "podcast"
    }
