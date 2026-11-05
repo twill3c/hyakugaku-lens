@@ -1131,9 +1131,9 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-03-21",
+    "d": "2026-03-19",
     "t": "Agentic AI and the next intelligence explosion",
-    "u": "https://doi.org/10.48550/arxiv.2603.20639",
+    "u": "https://doi.org/10.1126/science.aeg1895",
     "s": "paper"
    },
    {
@@ -2898,6 +2898,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-11-02",
+    "t": "Digital Earth as an integrating architecture for early warning and disaster risk governance",
+    "u": "https://doi.org/10.1080/17538947.2026.2757400",
+    "s": "paper"
+   },
+   {
     "d": "2026-06-25",
     "t": "Dartmouth’s AI summer and what came next",
     "u": "https://doi.org/10.1126/science.aei0476",
@@ -2908,12 +2914,6 @@
     "t": "Emojinin Muhafazakarlığı: Emek, Duygulanım ve İletişim",
     "u": "https://openalex.org/W7170127586",
     "s": "paper"
-   },
-   {
-    "d": "2026-03-19",
-    "t": "SCIENCE+TECHNOLOGY+ARTS",
-    "u": "https://doi.org/10.61608/9783775762700",
-    "s": "book"
    }
   ],
   "yt": [
@@ -3380,6 +3380,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-11-01",
+    "t": "Converging Evidence, Uneven Ground: A Strategic Review of Climate Information Integrity Research in Six Languages",
+    "u": "https://doi.org/10.61452/wefb7168",
+    "s": "paper"
+   },
+   {
     "d": "2026-10-01",
     "t": "Do Experts Agree About Misinformation? Evidence From Three Annual Surveys",
     "u": "https://doi.org/10.1177/20563051261495196",
@@ -3389,12 +3395,6 @@
     "d": "2026-09-01",
     "t": "Expert Survey on the Global Information Environment 2026: Under Pressure",
     "u": "https://doi.org/10.61452/ormu3913",
-    "s": "paper"
-   },
-   {
-    "d": "2026-09-01",
-    "t": "Trends in the Information Environment: 2026 Expert Survey Results",
-    "u": "https://doi.org/10.61452/mema1194",
     "s": "paper"
    }
   ],
@@ -3700,12 +3700,6 @@
   ],
   "pub": [
    {
-    "d": "2026-07-30",
-    "t": "AI and Its Impact on Creativity and Diversity: An Empirical Study of LLM-Generated Product Ideas",
-    "u": "https://doi.org/10.48550/arxiv.2607.27553",
-    "s": "paper"
-   },
-   {
     "d": "2026-07-22",
     "t": "Artificial intelligence and its impact on creativity and diversity: An empirical study of large language model-generated product ideas",
     "u": "https://doi.org/10.1177/10591478261474243",
@@ -3715,6 +3709,12 @@
     "d": "2026-06-12",
     "t": "The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork",
     "u": "https://doi.org/10.1287/orsc.2025.20702",
+    "s": "paper"
+   },
+   {
+    "d": "2026-05-19",
+    "t": "Persuading large language models to comply with objectionable requests",
+    "u": "https://doi.org/10.1073/pnas.2535868123",
     "s": "paper"
    }
   ],
@@ -3820,15 +3820,15 @@
     "s": "paper"
    },
    {
-    "d": "2022-01-01",
-    "t": "【インタヴュー】大澤真幸「人間とAIの関係は神学的に規定されている」",
-    "u": "https://openalex.org/W7144500536",
+    "d": "1993-04-30",
+    "t": "Social Phenomenonology of Legal Interpretation",
+    "u": "https://doi.org/10.11387/jsl1951.1993.37",
     "s": "paper"
    },
    {
-    "d": "2006-01-01",
-    "t": "The Otaku Enigma",
-    "u": "https://openalex.org/W2782662849",
+    "d": "1990-01-01",
+    "t": "A Double Reality in the Urban Space",
+    "u": "https://doi.org/10.5690/kantoh.1990.71",
     "s": "paper"
    }
   ],
@@ -4049,12 +4049,6 @@
   "own": [],
   "pub": [
    {
-    "d": "2024-03-01",
-    "t": "24. Agile Governance as AI Governance: A challenge for governance reformation in Japan",
-    "u": "https://openalex.org/W4393336029",
-    "s": "book"
-   },
-   {
     "d": "2024-01-25",
     "t": "Agile Governance as AI Governance",
     "u": "https://doi.org/10.1201/9781003320791-28",
@@ -4064,6 +4058,12 @@
     "d": "2018-01-01",
     "t": "日本国憲法のアイデンティティ（第1回）: The Identity of the Japanese Constitution (1)",
     "u": "https://openalex.org/W2791763268",
+    "s": "paper"
+   },
+   {
+    "d": "2015-01-01",
+    "t": "Effect of Temperature on Enzymatic Stability in Shio-Koji During the Maturation Process",
+    "u": "https://doi.org/10.3136/nskkk.62.290",
     "s": "paper"
    }
   ],
@@ -4154,9 +4154,9 @@
     "s": "book"
    },
    {
-    "d": "2024-06-01",
-    "t": "2023年度メディア判例回顧 価値観の変容と報道をめぐる裁判 : 差別・宗教・SNSに関わる事件",
-    "u": "https://openalex.org/W7208274430",
+    "d": "2019-04-08",
+    "t": "Invited talk) Legal Issues toward the New Ecosystem Interwoven between Human and AIs",
+    "u": "https://openalex.org/W2969868604",
     "s": "paper"
    }
   ],
