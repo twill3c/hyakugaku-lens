@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T01:46:38Z",
+ "generated_at": "2026-11-07T01:09:26Z",
  "declared": 99,
  "verified": 90,
  "unreachable": 0,
@@ -2999,19 +2999,19 @@
      "ok": false
     },
     {
-     "id": "A5058474194",
-     "display_name": "R. Madey",
-     "works_count": 424,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
      "id": "A5129602163",
      "display_name": "Richard Baldwin",
      "works_count": 7,
      "inst_hit": [],
      "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5058474194",
+     "display_name": "R. Madey",
+     "works_count": 424,
+     "inst_hit": [],
+     "domain_ok": false,
      "ok": false
     },
     {
@@ -6724,7 +6724,7 @@
     {
      "id": "A5110092412",
      "display_name": "Martin John Rees",
-     "works_count": 920,
+     "works_count": 922,
      "inst_hit": [
       "Cambridge"
      ],
@@ -6750,7 +6750,7 @@
     {
      "id": "A5046143932",
      "display_name": "Martin Rees",
-     "works_count": 40,
+     "works_count": 41,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7000,6 +7000,14 @@
     {
      "id": "A5042365985",
      "display_name": "Hiroki AZUMA",
+     "works_count": 1,
+     "inst_hit": [],
+     "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5160854095",
+     "display_name": "AZUMA HIROKI",
      "works_count": 1,
      "inst_hit": [],
      "domain_ok": false,
@@ -7376,7 +7384,7 @@
     {
      "id": "A5005521702",
      "display_name": "浩 戸谷",
-     "works_count": 2,
+     "works_count": 3,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
