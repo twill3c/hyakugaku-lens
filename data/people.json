@@ -1471,6 +1471,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-11-08",
+    "t": "What I’ve been reading",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-298",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-07",
     "t": "Saturday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-585",
@@ -1480,12 +1486,6 @@
     "d": "2026-11-07",
     "t": "The Anthropic succession plan?",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-succession-plan.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-succession-plan",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-07",
-    "t": "Was Mossadegh a liberal, democratizing force?",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/was-mossadegh-a-liberal-democratizing-force.html?utm_source=rss&utm_medium=rss&utm_campaign=was-mossadegh-a-liberal-democratizing-force",
     "s": "blog"
    }
   ],
@@ -3254,6 +3254,12 @@
   ],
   "yt": [
    {
+    "d": "2026-11-08",
+    "t": "American Elections Special: The 2026 Midterms in Historical Context",
+    "u": "https://www.ppfideas.com/",
+    "s": "podcast"
+   },
+   {
     "d": "2026-11-04",
     "t": "Can Universities Survive? AI vs Higher Education",
     "u": "https://www.ppfideas.com/",
@@ -3262,12 +3268,6 @@
    {
     "d": "2026-11-01",
     "t": "Can Universities Survive? Politics and the International University w/Lea Ypi",
-    "u": "https://www.ppfideas.com/",
-    "s": "podcast"
-   },
-   {
-    "d": "2026-10-28",
-    "t": "Can Universities Survive? The Great Expansion Part 2",
     "u": "https://www.ppfideas.com/",
     "s": "podcast"
    }
