@@ -6,9 +6,9 @@
   {
    "n": "ニック・ボストロム",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "dropped": {
-    "題名に氏名が無い": 3,
+    "題名に氏名が無い": 4,
     "許可していないチャンネル": 16
    },
    "candidates": [
@@ -34,13 +34,6 @@
      "o": "NewsNation"
     },
     {
-     "d": "2026-05-13",
-     "t": "Utopia or Catastrophe? Nick Bostrom on AI’s Risks & Promise | The Most Interesting Thing in AI",
-     "u": "https://www.youtube.com/watch?v=omv-5RlEHT4",
-     "s": "yt",
-     "o": "Nicholas Thompson"
-    },
-    {
      "d": "2026-08-20",
      "t": "Nick Bostrom on What Happens If AI Solves All Problems | Odd Lots",
      "u": "https://www.youtube.com/watch?v=bGR3r7xK21s",
@@ -64,18 +57,18 @@
      "o": "Interesting Times"
     },
     {
-     "d": "2026-09-24",
-     "t": "Prof. Nick Bostrom - What Happens When AI Escapes Our Control?",
-     "u": "https://www.youtube.com/watch?v=47yk_mg38ls",
-     "s": "yt",
-     "o": "The Peter McCormack Show"
-    },
-    {
      "d": "2026-10-16",
      "t": "Superintelligence Author: We May Already Have AGI | Nick Bostrom",
      "u": "https://www.youtube.com/watch?v=m880aJt5sNM",
      "s": "yt",
      "o": "The Roman Forum with Roman Yampolskiy"
+    },
+    {
+     "d": "2026-09-24",
+     "t": "Prof. Nick Bostrom - What Happens When AI Escapes Our Control?",
+     "u": "https://www.youtube.com/watch?v=47yk_mg38ls",
+     "s": "yt",
+     "o": "The Peter McCormack Show"
     },
     {
      "d": "2026-09-03",
@@ -99,18 +92,18 @@
      "o": "UnHerd"
     },
     {
-     "d": "2026-10-08",
-     "t": "NICK BOSTROM ON MTS | ISOMORPHIC LABS $40B | SCIENCE SUMMIT",
-     "u": "https://www.youtube.com/watch?v=p_2sA19m5b4",
-     "s": "yt",
-     "o": "MTS "
-    },
-    {
      "d": "2026-09-22",
      "t": "Superintelligence, the Singularity, and the Singleton | Robert Wright & Nick Bostrom",
      "u": "https://www.youtube.com/watch?v=CBq394Ffbi4",
      "s": "yt",
      "o": "Nonzero"
+    },
+    {
+     "d": "2026-10-08",
+     "t": "NICK BOSTROM ON MTS | ISOMORPHIC LABS $40B | SCIENCE SUMMIT",
+     "u": "https://www.youtube.com/watch?v=p_2sA19m5b4",
+     "s": "yt",
+     "o": "MTS "
     },
     {
      "d": "2026-10-08",
@@ -134,11 +127,11 @@
      "o": "Shared Context Podcast"
     },
     {
-     "d": "2026-11-02",
-     "t": "Nick Bostrom changed his mind 8 times. Here is every one",
-     "u": "https://www.youtube.com/watch?v=Xm8BvZLr5qA",
+     "d": "2026-08-04",
+     "t": "#83 – Nick Bostrom: Simulation and Superintelligence",
+     "u": "https://www.youtube.com/watch?v=u8nyEiGPjtY",
      "s": "yt",
-     "o": "Curated Science"
+     "o": "Zenvora Productions"
     },
     {
      "d": "2026-09-15",
@@ -148,11 +141,11 @@
      "o": "NDTV World"
     },
     {
-     "d": "2026-08-04",
-     "t": "#83 – Nick Bostrom: Simulation and Superintelligence",
-     "u": "https://www.youtube.com/watch?v=u8nyEiGPjtY",
+     "d": "2026-11-02",
+     "t": "Nick Bostrom changed his mind 8 times. Here is every one",
+     "u": "https://www.youtube.com/watch?v=Xm8BvZLr5qA",
      "s": "yt",
-     "o": "Zenvora Productions"
+     "o": "Curated Science"
     },
     {
      "d": "2026-09-10",
@@ -175,8 +168,8 @@
    "ok": true,
    "count": 4,
    "dropped": {
-    "題名に氏名が無い": 9,
-    "許可していないチャンネル": 12
+    "題名に氏名が無い": 10,
+    "許可していないチャンネル": 11
    },
    "candidates": [
     {
@@ -210,18 +203,18 @@
    ],
    "pending": [
     {
-     "d": "2026-10-28",
-     "t": "The Human Variable: Keynote by David Chalmers",
-     "u": "https://www.youtube.com/watch?v=l3LXFQ2-DfU",
-     "s": "yt",
-     "o": "Schwartz Reisman Institute"
-    },
-    {
      "d": "2026-08-04",
      "t": "David Chalmers: The Hard Problem of Consciousness",
      "u": "https://www.youtube.com/watch?v=0I3_v4HEV-U",
      "s": "yt",
      "o": "Zenvora Productions"
+    },
+    {
+     "d": "2026-10-28",
+     "t": "The Human Variable: Keynote by David Chalmers",
+     "u": "https://www.youtube.com/watch?v=l3LXFQ2-DfU",
+     "s": "yt",
+     "o": "Schwartz Reisman Institute"
     },
     {
      "d": "2026-06-23",
@@ -238,13 +231,6 @@
      "o": "International Center for Consciousness Studies "
     },
     {
-     "d": "2026-07-22",
-     "t": "DAVID CHALMERS | EL MAYOR MISTERIO DE LA MENTE | El problema difícil de la conciencia. PARTE 1",
-     "u": "https://www.youtube.com/watch?v=EPXK79l6zTI",
-     "s": "yt",
-     "o": "LOGOSVIEW"
-    },
-    {
      "d": "2026-10-22",
      "t": "David Chalmers: Is the J-Space a Global Workspace? | Computational Consciousness Science 2026",
      "u": "https://www.youtube.com/watch?v=IaIVnHXk958",
@@ -257,6 +243,20 @@
      "u": "https://www.youtube.com/watch?v=TiJ3mKeSav0",
      "s": "yt",
      "o": "Cosmora HQ "
+    },
+    {
+     "d": "2026-07-22",
+     "t": "DAVID CHALMERS | EL MAYOR MISTERIO DE LA MENTE | El problema difícil de la conciencia. PARTE 1",
+     "u": "https://www.youtube.com/watch?v=EPXK79l6zTI",
+     "s": "yt",
+     "o": "LOGOSVIEW"
+    },
+    {
+     "d": "2026-06-09",
+     "t": "Sameera Raja in conversation with internationally acclaimed artist David Chalmers Alesworth",
+     "u": "https://www.youtube.com/watch?v=CMyWA0uCJTk",
+     "s": "yt",
+     "o": "Canvas Gallery"
     },
     {
      "d": "2026-06-10",
@@ -273,25 +273,11 @@
      "o": "The Hidden Perspective"
     },
     {
-     "d": "2026-06-09",
-     "t": "Sameera Raja in conversation with internationally acclaimed artist David Chalmers Alesworth",
-     "u": "https://www.youtube.com/watch?v=CMyWA0uCJTk",
-     "s": "yt",
-     "o": "Canvas Gallery"
-    },
-    {
-     "d": "2026-07-26",
-     "t": "Reseña y Análisis, La Mente Consciente, David Chalmers",
-     "u": "https://www.youtube.com/watch?v=dgFODx-SAhA",
-     "s": "yt",
-     "o": "David Góngora / Cursos y Terapia"
-    },
-    {
      "d": "2026-09-11",
-     "t": "J-Space - David Chalmers",
-     "u": "https://www.youtube.com/watch?v=zOOmNRLZWn4",
+     "t": "347-243-4058 PHTHALOCYANINE DAVID CHALMERS AND CONSCIOUSNESS RESEARCH TODAY IX XI XXVI",
+     "u": "https://www.youtube.com/watch?v=uFgp8ROJQwM",
      "s": "yt",
-     "o": "IAM DE RAJ"
+     "o": "The Antitrump Political Party est. XIVIXXVI"
     }
    ]
   },
@@ -301,10 +287,24 @@
    "count": 0,
    "dropped": {
     "題名に氏名が無い": 22,
-    "許可していないチャンネル": 1
+    "許可していないチャンネル": 3
    },
    "candidates": [],
    "pending": [
+    {
+     "d": "2026-11-09",
+     "t": "Full Video - Shannon Vallor - No Small Endeavor",
+     "u": "https://www.youtube.com/watch?v=i89DnqtGpnY",
+     "s": "yt",
+     "o": "No Small Endeavor"
+    },
+    {
+     "d": "2026-11-09",
+     "t": "287: Shannon Vallor: The Morality Crisis ( The Cost of Outsourcing Your Humanity to Tech, Pt. 1)",
+     "u": "https://www.youtube.com/watch?v=WmvyG5xbyBo",
+     "s": "yt",
+     "o": "No Small Endeavor"
+    },
     {
      "d": "2026-10-06",
      "t": "L'IA, ce miroir qui nous fige — The AI Mirror de Shannon Vallor",
@@ -356,18 +356,18 @@
      "o": "GameGuru"
     },
     {
-     "d": "2026-10-16",
-     "t": "Le Précipice : pourquoi Toby Ord estime qu'une civilisation sur six échouera ce siècle",
-     "u": "https://www.youtube.com/watch?v=-91k_ZFXSdY",
-     "s": "yt",
-     "o": "FRENCH SPACE X"
-    },
-    {
      "d": "2026-08-08",
      "t": "AGI 時程，我們錯在哪裡｜牛津大學 Toby Ord 完整重點整理｜繁體中文",
      "u": "https://www.youtube.com/watch?v=bjmgvsNFZw4",
      "s": "yt",
      "o": "Markluce AI"
+    },
+    {
+     "d": "2026-10-16",
+     "t": "Le Précipice : pourquoi Toby Ord estime qu'une civilisation sur six échouera ce siècle",
+     "u": "https://www.youtube.com/watch?v=-91k_ZFXSdY",
+     "s": "yt",
+     "o": "FRENCH SPACE X"
     }
    ]
   },
@@ -403,11 +403,11 @@
      "o": "Grappling Archive"
     },
     {
-     "d": "2026-10-08",
-     "t": "JOHN DANAHER MASTER THE MOVE KNEE CUT",
-     "u": "https://www.youtube.com/watch?v=HrVS7TYJgP0",
+     "d": "2026-09-10",
+     "t": "JOHN DANAHER Revela o SEGREDO para ser o DESTAQUE na sua Academia de Jiu-Jitsu",
+     "u": "https://www.youtube.com/watch?v=Zil_oVXCKUE",
      "s": "yt",
-     "o": "anzans ozola"
+     "o": "Gabriel Guitarrari"
     },
     {
      "d": "2026-07-23",
@@ -417,11 +417,11 @@
      "o": "Saulo Soares"
     },
     {
-     "d": "2026-09-10",
-     "t": "JOHN DANAHER Revela o SEGREDO para ser o DESTAQUE na sua Academia de Jiu-Jitsu",
-     "u": "https://www.youtube.com/watch?v=Zil_oVXCKUE",
+     "d": "2026-10-08",
+     "t": "JOHN DANAHER MASTER THE MOVE KNEE CUT",
+     "u": "https://www.youtube.com/watch?v=HrVS7TYJgP0",
      "s": "yt",
-     "o": "Gabriel Guitarrari"
+     "o": "anzans ozola"
     },
     {
      "d": "2026-07-10",
@@ -438,18 +438,18 @@
      "o": "Grappling Archive"
     },
     {
+     "d": "2026-07-17",
+     "t": "The Fastest Way To Become An Effective Guard Passer NoGi by John Danaher Part 3",
+     "u": "https://www.youtube.com/watch?v=HfPzOGPjO9w",
+     "s": "yt",
+     "o": "Tyler Sane"
+    },
+    {
      "d": "2026-08-12",
      "t": "Cutting Through the Morass of Healthcare Information - Dr. John Danaher, Global President of Clin...",
      "u": "https://www.youtube.com/watch?v=PBvl5kSIqM0",
      "s": "yt",
      "o": "Osmosis from Elsevier"
-    },
-    {
-     "d": "2026-08-07",
-     "t": "#328 – John Danaher: Submission Grappling, ADCC, Animal Combat, and Knives",
-     "u": "https://www.youtube.com/watch?v=8q-9fYyVbFE",
-     "s": "yt",
-     "o": "Zenvora Productions"
     },
     {
      "d": "2026-08-05",
@@ -459,11 +459,18 @@
      "o": "Zenvora Productions"
     },
     {
-     "d": "2026-07-17",
-     "t": "The Fastest Way To Become An Effective Guard Passer NoGi by John Danaher Part 3",
-     "u": "https://www.youtube.com/watch?v=HfPzOGPjO9w",
+     "d": "2026-09-06",
+     "t": "JOHN DANAHER MASTER THE MOVE KNEE CUT",
+     "u": "https://www.youtube.com/watch?v=9laeLJ3G7cI",
      "s": "yt",
-     "o": "Tyler Sane"
+     "o": "kothaloy"
+    },
+    {
+     "d": "2026-08-07",
+     "t": "#328 – John Danaher: Submission Grappling, ADCC, Animal Combat, and Knives",
+     "u": "https://www.youtube.com/watch?v=8q-9fYyVbFE",
+     "s": "yt",
+     "o": "Zenvora Productions"
     },
     {
      "d": "2026-07-05",
@@ -473,11 +480,11 @@
      "o": "Samuel monin"
     },
     {
-     "d": "2026-09-06",
-     "t": "JOHN DANAHER MASTER THE MOVE KNEE CUT",
-     "u": "https://www.youtube.com/watch?v=9laeLJ3G7cI",
+     "d": "2026-10-11",
+     "t": "Lucas Kanard On Beating An ADCC Champion & Training With John Danaher",
+     "u": "https://www.youtube.com/watch?v=ANd04kGzIJk",
      "s": "yt",
-     "o": "kothaloy"
+     "o": "Jake Nicholls"
     },
     {
      "d": "2026-10-04",
@@ -492,13 +499,6 @@
      "u": "https://www.youtube.com/watch?v=FDkm7fR8uno",
      "s": "yt",
      "o": "Lexikon Solaris"
-    },
-    {
-     "d": "2026-10-11",
-     "t": "Lucas Kanard On Beating An ADCC Champion & Training With John Danaher",
-     "u": "https://www.youtube.com/watch?v=ANd04kGzIJk",
-     "s": "yt",
-     "o": "Jake Nicholls"
     },
     {
      "d": "2026-08-07",
@@ -523,7 +523,7 @@
    "ok": false,
    "count": 0,
    "dropped": {
-    "題名に氏名が無い": 6
+    "題名に氏名が無い": 7
    },
    "candidates": []
   },
@@ -593,13 +593,6 @@
    ],
    "pending": [
     {
-     "d": "2026-09-26",
-     "t": "Markus Gabriel | Intelligenz aus der Maschine: Ist KI Frankensteins neues Monster? (NZZ Standpunkte)",
-     "u": "https://www.youtube.com/watch?v=uPJO4URd0w8",
-     "s": "yt",
-     "o": "NZZ Standpunkte"
-    },
-    {
      "d": "2026-09-25",
      "t": "El filósofo alemán, Markus Gabriel en UNAM.",
      "u": "https://www.youtube.com/watch?v=4NLh01ziGVc",
@@ -607,11 +600,11 @@
      "o": "Leslie Casales "
     },
     {
-     "d": "2026-07-01",
-     "t": "Prof. Dr. Markus Gabriel: Die Auswirkungen künstlicher Intelligenz auf unser Denken.",
-     "u": "https://www.youtube.com/watch?v=j8cgiqsgZ4g",
+     "d": "2026-09-26",
+     "t": "Markus Gabriel | Intelligenz aus der Maschine: Ist KI Frankensteins neues Monster? (NZZ Standpunkte)",
+     "u": "https://www.youtube.com/watch?v=uPJO4URd0w8",
      "s": "yt",
-     "o": "Institut für Schweizer Wirtschaftspolitik "
+     "o": "NZZ Standpunkte"
     },
     {
      "d": "2026-10-19",
@@ -619,6 +612,13 @@
      "u": "https://www.youtube.com/watch?v=9hWV_hsYT10",
      "s": "yt",
      "o": "MVFP Medienverband der freien Presse"
+    },
+    {
+     "d": "2026-07-01",
+     "t": "Prof. Dr. Markus Gabriel: Die Auswirkungen künstlicher Intelligenz auf unser Denken.",
+     "u": "https://www.youtube.com/watch?v=j8cgiqsgZ4g",
+     "s": "yt",
+     "o": "Institut für Schweizer Wirtschaftspolitik "
     },
     {
      "d": "2026-08-15",
@@ -669,8 +669,8 @@
    "ok": true,
    "count": 3,
    "dropped": {
-    "題名に氏名が無い": 15,
-    "許可していないチャンネル": 7
+    "題名に氏名が無い": 14,
+    "許可していないチャンネル": 8
    },
    "candidates": [
     {
@@ -704,6 +704,13 @@
      "o": "librairie mollat"
     },
     {
+     "d": "2026-11-09",
+     "t": "Conferencia de Éric Sadin en Buenos Aires",
+     "u": "https://www.youtube.com/watch?v=9KlXvb0IUow",
+     "s": "yt",
+     "o": "Caja Negra Editora"
+    },
+    {
      "d": "2026-05-29",
      "t": "\"EL DESIERTO DE NOSOTROS MISMOS\" - Eric Sadin",
      "u": "https://www.youtube.com/watch?v=4uxs111Op5M",
@@ -711,18 +718,18 @@
      "o": "Claudio Alvarez Teran"
     },
     {
-     "d": "2026-10-27",
-     "t": "L'oubli criminel des 3 piliers de l'éducation - Eric Sadin | Métamorphose(s) de l’Éducation",
-     "u": "https://www.youtube.com/watch?v=rAhuewhAciY",
-     "s": "yt",
-     "o": "Onepoint"
-    },
-    {
      "d": "2026-08-21",
      "t": "ERIC SADIN Y EL GIRO INTELECTUAL DE LA INTELIGENCIA ARTIFICIAL | MATI ROSU EN SEGUROLA",
      "u": "https://www.youtube.com/watch?v=hnVUA5N-OjE",
      "s": "yt",
      "o": "Futurock FM"
+    },
+    {
+     "d": "2026-10-27",
+     "t": "L'oubli criminel des 3 piliers de l'éducation - Eric Sadin | Métamorphose(s) de l’Éducation",
+     "u": "https://www.youtube.com/watch?v=rAhuewhAciY",
+     "s": "yt",
+     "o": "Onepoint"
     },
     {
      "d": "2026-07-29",
@@ -815,10 +822,10 @@
   {
    "n": "ダロン・アセモグル",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "dropped": {
     "題名に氏名が無い": 6,
-    "許可していないチャンネル": 7
+    "許可していないチャンネル": 8
    },
    "candidates": [
     {
@@ -855,13 +862,6 @@
      "u": "https://www.youtube.com/watch?v=r3cemeE7PIE",
      "s": "yt",
      "o": "Interintellect"
-    },
-    {
-     "d": "2026-06-16",
-     "t": "Daron Acemoglu on the Good-Jobs Imperative — ABCDE 2026",
-     "u": "https://www.youtube.com/watch?v=7v2iPkIu0U0",
-     "s": "yt",
-     "o": "World Bank Group"
     },
     {
      "d": "2026-08-12",
@@ -955,6 +955,13 @@
      "u": "https://www.youtube.com/watch?v=55BnPJlHjb8",
      "s": "yt",
      "o": "Jon Hernández"
+    },
+    {
+     "d": "2026-11-09",
+     "t": "Nobel Laureate Daron Acemoglu on How China Is Outpacing US in Tech | Nvidia | Jensen Huang",
+     "u": "https://www.youtube.com/watch?v=GxfLcAm0fbs",
+     "s": "yt",
+     "o": "CRUX"
     }
    ]
   },
@@ -998,13 +1005,6 @@
      "o": "White Oak Independent Baptist Church"
     },
     {
-     "d": "2026-07-05",
-     "t": "Title: America's Baptist Heritage Speaker: Andrew McAfee Date: July 5, 2026",
-     "u": "https://www.youtube.com/watch?v=Dk9TcQD2ktg",
-     "s": "yt",
-     "o": "White Oak Independent Baptist Church"
-    },
-    {
      "d": "2026-09-22",
      "t": "Title: The Honesty of God Speaker: Andrew McAfee",
      "u": "https://www.youtube.com/watch?v=kbQPfa1wqo8",
@@ -1012,9 +1012,9 @@
      "o": "White Oak Independent Baptist Church"
     },
     {
-     "d": "2026-07-12",
-     "t": "Title: Because, Why? Speaker: Andrew McAfee",
-     "u": "https://www.youtube.com/watch?v=jrNTu1qjh74",
+     "d": "2026-07-05",
+     "t": "Title: America's Baptist Heritage Speaker: Andrew McAfee Date: July 5, 2026",
+     "u": "https://www.youtube.com/watch?v=Dk9TcQD2ktg",
      "s": "yt",
      "o": "White Oak Independent Baptist Church"
     },
@@ -1022,6 +1022,13 @@
      "d": "2026-08-09",
      "t": "Title: Like a Green Olive Tree Speaker: Andrew McAfee",
      "u": "https://www.youtube.com/watch?v=DTYwSwY-z3Y",
+     "s": "yt",
+     "o": "White Oak Independent Baptist Church"
+    },
+    {
+     "d": "2026-07-12",
+     "t": "Title: Because, Why? Speaker: Andrew McAfee",
+     "u": "https://www.youtube.com/watch?v=jrNTu1qjh74",
      "s": "yt",
      "o": "White Oak Independent Baptist Church"
     },
@@ -1054,11 +1061,11 @@
      "o": "Morning Star Bible Baptist Church"
     },
     {
-     "d": "2026-08-15",
-     "t": "Electrical Sentience, Andrew McAfee, Electrician, Data Centers, Green Bank",
-     "u": "https://www.youtube.com/watch?v=oI0yp-bwi1M",
+     "d": "2026-11-02",
+     "t": "Title: Publishing the Great Things Speaker: Andrew McAfee",
+     "u": "https://www.youtube.com/watch?v=RiVxdV3GgkE",
      "s": "yt",
-     "o": "EMF Remedy"
+     "o": "White Oak Independent Baptist Church"
     },
     {
      "d": "2026-07-12",
@@ -1075,18 +1082,18 @@
      "o": "White Oak Independent Baptist Church"
     },
     {
+     "d": "2026-08-15",
+     "t": "Electrical Sentience, Andrew McAfee, Electrician, Data Centers, Green Bank",
+     "u": "https://www.youtube.com/watch?v=oI0yp-bwi1M",
+     "s": "yt",
+     "o": "EMF Remedy"
+    },
+    {
      "d": "2026-10-23",
      "t": "Decoding Dirty Electricity Inside Your Walls with Dr. Sam Milham & Andrew McAfee",
      "u": "https://www.youtube.com/watch?v=EkFb8P7_FY8",
      "s": "yt",
      "o": "Shield Your Body"
-    },
-    {
-     "d": "2026-11-02",
-     "t": "Title: Publishing the Great Things Speaker: Andrew McAfee",
-     "u": "https://www.youtube.com/watch?v=RiVxdV3GgkE",
-     "s": "yt",
-     "o": "White Oak Independent Baptist Church"
     },
     {
      "d": "2026-05-31",
@@ -1186,13 +1193,6 @@
      "o": "Mindset Hub Tube"
     },
     {
-     "d": "2026-10-05",
-     "t": "Joseph Stiglitz on Globalization",
-     "u": "https://www.youtube.com/watch?v=6wJM7ZdBMZI",
-     "s": "yt",
-     "o": "Jacques Sarasin"
-    },
-    {
      "d": "2026-09-23",
      "t": "Joseph Stiglitz on Inequality, Taxation and Land: From Economic Rent to the Henry George Theorem",
      "u": "https://www.youtube.com/watch?v=g3gYbccmG0U",
@@ -1201,8 +1201,8 @@
     },
     {
      "d": "2026-10-05",
-     "t": "Joseph Stiglitz on Climate",
-     "u": "https://www.youtube.com/watch?v=wcf1W29XE4s",
+     "t": "Joseph Stiglitz on Globalization",
+     "u": "https://www.youtube.com/watch?v=6wJM7ZdBMZI",
      "s": "yt",
      "o": "Jacques Sarasin"
     },
@@ -1210,6 +1210,13 @@
      "d": "2026-10-05",
      "t": "Joseph Stiglitz on Financial Crises",
      "u": "https://www.youtube.com/watch?v=3hDB2thk5UY",
+     "s": "yt",
+     "o": "Jacques Sarasin"
+    },
+    {
+     "d": "2026-10-05",
+     "t": "Joseph Stiglitz on Climate",
+     "u": "https://www.youtube.com/watch?v=wcf1W29XE4s",
      "s": "yt",
      "o": "Jacques Sarasin"
     },
@@ -1351,15 +1358,22 @@
    "ok": false,
    "count": 0,
    "dropped": {
-    "題名に氏名が無い": 19,
-    "許可していないチャンネル": 6
+    "題名に氏名が無い": 20,
+    "許可していないチャンネル": 5
    },
    "candidates": [],
    "pending": [
     {
-     "d": "2026-11-07",
-     "t": "VINA AJAY AGRAWAL  is live",
-     "u": "https://www.youtube.com/watch?v=k8NpB9OfB9E",
+     "d": "2026-10-10",
+     "t": "Live streaming of Ajay Agrawal",
+     "u": "https://www.youtube.com/watch?v=zqA3RpKCMxY",
+     "s": "yt",
+     "o": "Ajay Agrawal"
+    },
+    {
+     "d": "2026-11-08",
+     "t": "VINA AJAY AGRAWAL  is live# 7/11/2026",
+     "u": "https://www.youtube.com/watch?v=eS0N-S5v3YQ",
      "s": "yt",
      "o": "VINA AJAY AGRAWAL "
     },
@@ -1371,32 +1385,18 @@
      "o": "VINA AJAY AGRAWAL "
     },
     {
-     "d": "2026-11-06",
+     "d": "2026-11-09",
      "t": "VINA AJAY AGRAWAL  is live",
-     "u": "https://www.youtube.com/watch?v=g26DTJRjh68",
+     "u": "https://www.youtube.com/watch?v=8_uxbPkVMLo",
      "s": "yt",
      "o": "VINA AJAY AGRAWAL "
     },
     {
-     "d": "2026-11-05",
-     "t": "#Good Night ♥️♥️#VINA AJAY AGRAWAL#viral Live #",
-     "u": "https://www.youtube.com/watch?v=9mcUddo4h3Y",
+     "d": "2026-11-07",
+     "t": "VINA AJAY AGRAWAL  is live",
+     "u": "https://www.youtube.com/watch?v=k8NpB9OfB9E",
      "s": "yt",
      "o": "VINA AJAY AGRAWAL "
-    },
-    {
-     "d": "2026-11-08",
-     "t": "VINA AJAY AGRAWAL  is live# 7/11/2026",
-     "u": "https://www.youtube.com/watch?v=eS0N-S5v3YQ",
-     "s": "yt",
-     "o": "VINA AJAY AGRAWAL "
-    },
-    {
-     "d": "2026-10-10",
-     "t": "Live streaming of Ajay Agrawal",
-     "u": "https://www.youtube.com/watch?v=zqA3RpKCMxY",
-     "s": "yt",
-     "o": "Ajay Agrawal"
     }
    ]
   },
@@ -1516,18 +1516,18 @@
      "o": "FESTIVAL with Pete Davis"
     },
     {
-     "d": "2026-08-06",
-     "t": "The Lawsuit That Could Change American Elections | Lawrence Lessig | Shane Smith Has Questions",
-     "u": "https://www.youtube.com/watch?v=IhCDnw8rUTk",
-     "s": "yt",
-     "o": "VICE News"
-    },
-    {
      "d": "2026-07-07",
      "t": "Lawrence Lessig: \"The Layers of Corruption\" | The Crested Butte Public Policy Forum",
      "u": "https://www.youtube.com/watch?v=cStapJgq5KI",
      "s": "yt",
      "o": "The Crested Butte Public Policy Forum"
+    },
+    {
+     "d": "2026-08-06",
+     "t": "The Lawsuit That Could Change American Elections | Lawrence Lessig | Shane Smith Has Questions",
+     "u": "https://www.youtube.com/watch?v=IhCDnw8rUTk",
+     "s": "yt",
+     "o": "VICE News"
     },
     {
      "d": "2026-08-19",
@@ -1539,13 +1539,6 @@
    ],
    "pending": [
     {
-     "d": "2026-09-16",
-     "t": "Take Down Super PACs: Lawrence Lessig (Full Podcast Episode)",
-     "u": "https://www.youtube.com/watch?v=AE0SNUGWP3M",
-     "s": "yt",
-     "o": "Future Hindsight"
-    },
-    {
      "d": "2026-09-19",
      "t": "Can Democracy Survive AI? Lawrence Lessig on the Best and Worst of Times",
      "u": "https://www.youtube.com/watch?v=GisS24-myeg",
@@ -1553,11 +1546,25 @@
      "o": "Worldviews Podcast"
     },
     {
+     "d": "2026-09-16",
+     "t": "Take Down Super PACs: Lawrence Lessig (Full Podcast Episode)",
+     "u": "https://www.youtube.com/watch?v=AE0SNUGWP3M",
+     "s": "yt",
+     "o": "Future Hindsight"
+    },
+    {
      "d": "2026-10-08",
      "t": "VthePeople Conference | Closing Discussion Between Lawrence Lessig and Laurence Tribe",
      "u": "https://www.youtube.com/watch?v=e4sXSYfcTec",
      "s": "yt",
      "o": "Harvard Law School"
+    },
+    {
+     "d": "2026-10-22",
+     "t": "AIPAC QUITS ENDORSING CANDIDATES DAYS BEFORE THE MIDTERMS – w/ Prof. Lawrence Lessig",
+     "u": "https://www.youtube.com/watch?v=0Nhjk8cRmts",
+     "s": "yt",
+     "o": "Mario Nawfal"
     },
     {
      "d": "2026-10-20",
@@ -1572,13 +1579,6 @@
      "u": "https://www.youtube.com/watch?v=OaXlzsXGq5c",
      "s": "yt",
      "o": "Harvard Law School"
-    },
-    {
-     "d": "2026-10-22",
-     "t": "AIPAC QUITS ENDORSING CANDIDATES DAYS BEFORE THE MIDTERMS – w/ Prof. Lawrence Lessig",
-     "u": "https://www.youtube.com/watch?v=0Nhjk8cRmts",
-     "s": "yt",
-     "o": "Mario Nawfal"
     }
    ]
   },
@@ -1644,7 +1644,7 @@
    "ok": true,
    "count": 1,
    "dropped": {
-    "題名に氏名が無い": 20
+    "題名に氏名が無い": 21
    },
    "candidates": [
     {
@@ -1777,7 +1777,7 @@
    "ok": true,
    "count": 1,
    "dropped": {
-    "題名に氏名が無い": 19,
+    "題名に氏名が無い": 18,
     "許可していないチャンネル": 1
    },
    "candidates": [
@@ -1804,7 +1804,7 @@
    "ok": false,
    "count": 0,
    "dropped": {
-    "題名に氏名が無い": 5
+    "題名に氏名が無い": 6
    },
    "candidates": []
   },
@@ -1895,6 +1895,13 @@
    ],
    "pending": [
     {
+     "d": "2026-11-09",
+     "t": "Yuval Noah Harari's DISTURBING Speech About AI and the Tower of Babel",
+     "u": "https://www.youtube.com/watch?v=Lug8EpNEq1E",
+     "s": "yt",
+     "o": "Truth B Told"
+    },
+    {
      "d": "2026-10-27",
      "t": "Yuval Noah Harari Warns AI Could Threaten Democracy & Change Politics Forever | 4K",
      "u": "https://www.youtube.com/watch?v=pY1TBRIWuBo",
@@ -1923,11 +1930,11 @@
      "o": "NeuralHegemony"
     },
     {
-     "d": "2026-10-20",
-     "t": "Soon, Humanity Will Split Into Two Types — And One Won’t Keep Up || YUVAL NOAH HARARI",
-     "u": "https://www.youtube.com/watch?v=ak4IOt-wUwY",
+     "d": "2026-07-07",
+     "t": "Why Fools Rule the World (Scientific Explanation) | Yuval Noah Harari",
+     "u": "https://www.youtube.com/watch?v=qPvwOHfMHQs",
      "s": "yt",
-     "o": "Beyond Tomorrow"
+     "o": "Think Higher Reborn"
     },
     {
      "d": "2026-07-31",
@@ -1937,48 +1944,41 @@
      "o": "Think Higher"
     },
     {
-     "d": "2026-07-07",
-     "t": "Why Fools Rule the World (Scientific Explanation) | Yuval Noah Harari",
-     "u": "https://www.youtube.com/watch?v=qPvwOHfMHQs",
+     "d": "2026-10-20",
+     "t": "Soon, Humanity Will Split Into Two Types — And One Won’t Keep Up || YUVAL NOAH HARARI",
+     "u": "https://www.youtube.com/watch?v=ak4IOt-wUwY",
      "s": "yt",
-     "o": "Think Higher Reborn"
+     "o": "Beyond Tomorrow"
     },
     {
-     "d": "2026-11-05",
-     "t": "AI Is Closer Than You Think — The Next 2 Years Will Change Everything || YUVAL NOAH HARARI",
-     "u": "https://www.youtube.com/watch?v=bC9IfuEV2mQ",
+     "d": "2026-10-30",
+     "t": "Yuval Noah Harari",
+     "u": "https://www.youtube.com/watch?v=KEOIa6zwpE0",
      "s": "yt",
-     "o": "The Next Civilization"
-    },
-    {
-     "d": "2026-09-11",
-     "t": "The Deception of Happiness: What Nobody Told You | Yuval Noah Harari",
-     "u": "https://www.youtube.com/watch?v=zOU_EzUjeAc",
-     "s": "yt",
-     "o": "Think Higher Next Level "
+     "o": "Solvo"
     }
    ]
   },
   {
    "n": "イアン・ブレマー",
    "ok": true,
-   "count": 16,
+   "count": 14,
    "dropped": {
-    "題名に氏名が無い": 3,
+    "題名に氏名が無い": 5,
     "許可していないチャンネル": 6
    },
    "candidates": [
     {
-     "d": "2026-07-19",
-     "t": "Is Ukraine turning the tide against Russia? | GZERO World with Ian Bremmer",
-     "u": "https://www.youtube.com/watch?v=70my6UEV0is",
+     "d": "2026-07-03",
+     "t": "Bill Maher says America's 250th is still worth celebrating | GZERO World with Ian Bremmer",
+     "u": "https://www.youtube.com/watch?v=Z3DaEKIrBBA",
      "s": "yt",
      "o": "GZERO Media"
     },
     {
-     "d": "2026-07-03",
-     "t": "Bill Maher says America's 250th is still worth celebrating | GZERO World with Ian Bremmer",
-     "u": "https://www.youtube.com/watch?v=Z3DaEKIrBBA",
+     "d": "2026-07-19",
+     "t": "Is Ukraine turning the tide against Russia? | GZERO World with Ian Bremmer",
+     "u": "https://www.youtube.com/watch?v=70my6UEV0is",
      "s": "yt",
      "o": "GZERO Media"
     },
@@ -1988,6 +1988,13 @@
      "u": "https://www.youtube.com/watch?v=AoUTvf2MN68",
      "s": "yt",
      "o": "WBGO"
+    },
+    {
+     "d": "2026-06-25",
+     "t": "Ian Bremmer: America, Iran, and a World in Turmoil | Foreign Affairs Interview",
+     "u": "https://www.youtube.com/watch?v=qd6T3mVNR7A",
+     "s": "yt",
+     "o": "Foreign Affairs"
     },
     {
      "d": "2026-07-29",
@@ -2004,18 +2011,18 @@
      "o": "GZERO Media"
     },
     {
-     "d": "2026-09-16",
-     "t": "Ian Bremmer Decodes BRICS Declaration, Modi-Xi Reset & Trump's Midterm Polls Bid",
-     "u": "https://www.youtube.com/watch?v=6aviGj9fmtw",
-     "s": "yt",
-     "o": "CNBC-TV18"
-    },
-    {
      "d": "2026-06-17",
      "t": "BREAKING: OFFICIAL MOU RELEASED – w/ Political Scientist Ian Bremmer",
      "u": "https://www.youtube.com/watch?v=kNVKP37UB-w",
      "s": "yt",
      "o": "Mario Nawfal"
+    },
+    {
+     "d": "2026-06-02",
+     "t": "Ian Bremmer on the Risks America Poses to the World | The Ezra Klein Show",
+     "u": "https://www.youtube.com/watch?v=syl9OLNSm4k",
+     "s": "yt",
+     "o": "The Ezra Klein Show"
     },
     {
      "d": "2026-08-30",
@@ -2032,30 +2039,16 @@
      "o": "GZERO Media"
     },
     {
+     "d": "2026-09-16",
+     "t": "Ian Bremmer Decodes BRICS Declaration, Modi-Xi Reset & Trump's Midterm Polls Bid",
+     "u": "https://www.youtube.com/watch?v=6aviGj9fmtw",
+     "s": "yt",
+     "o": "CNBC-TV18"
+    },
+    {
      "d": "2026-09-20",
      "t": "How AI could make the next global catastrophe easier | GZERO World with Ian Bremmer",
      "u": "https://www.youtube.com/watch?v=9Zd932hFQSk",
-     "s": "yt",
-     "o": "GZERO Media"
-    },
-    {
-     "d": "2026-06-18",
-     "t": "US Iran Peace Deal | Iran Crisis Ends? Ian Bremmer Explains What the US Really Gained",
-     "u": "https://www.youtube.com/watch?v=LjVYzF-M_hI",
-     "s": "yt",
-     "o": "NDTV World"
-    },
-    {
-     "d": "2026-06-15",
-     "t": "The most political World Cup ever?  | GZERO World with Ian Bremmer",
-     "u": "https://www.youtube.com/watch?v=VEusjRa3Y1g",
-     "s": "yt",
-     "o": "GZERO Media"
-    },
-    {
-     "d": "2026-07-12",
-     "t": "What's next for the Iranian people? | GZERO World with Ian Bremmer",
-     "u": "https://www.youtube.com/watch?v=yFiD8hD0zJw",
      "s": "yt",
      "o": "GZERO Media"
     },
@@ -2067,18 +2060,11 @@
      "o": "GZERO Media"
     },
     {
-     "d": "2026-06-25",
-     "t": "Ian Bremmer: America, Iran, and a World in Turmoil | Foreign Affairs Interview",
-     "u": "https://www.youtube.com/watch?v=qd6T3mVNR7A",
+     "d": "2026-06-15",
+     "t": "The most political World Cup ever?  | GZERO World with Ian Bremmer",
+     "u": "https://www.youtube.com/watch?v=VEusjRa3Y1g",
      "s": "yt",
-     "o": "Foreign Affairs"
-    },
-    {
-     "d": "2026-05-22",
-     "t": "Why Most News Isn't Worth Your Attention | TED Explains the World with Ian Bremmer",
-     "u": "https://www.youtube.com/watch?v=BR7xdT_Xi5U",
-     "s": "yt",
-     "o": "TED"
+     "o": "GZERO Media"
     }
    ],
    "pending": [
@@ -2104,18 +2090,18 @@
      "o": "One Decision"
     },
     {
-     "d": "2026-11-02",
-     "t": "Ian Bremmer Interview | US Midterms Could Mark Beginning Of 'Post-Peak Trump' Era: Ian Bremmer",
-     "u": "https://www.youtube.com/watch?v=kMuuLybBZMc",
-     "s": "yt",
-     "o": "NDTV"
-    },
-    {
      "d": "2026-10-15",
      "t": "Ian Bremmer: America's Break With Canada Is Permanent. Now What?",
      "u": "https://www.youtube.com/watch?v=6fXGm309HE0",
      "s": "yt",
      "o": "Good Question with Amanda Lang"
+    },
+    {
+     "d": "2026-11-02",
+     "t": "Ian Bremmer Interview | US Midterms Could Mark Beginning Of 'Post-Peak Trump' Era: Ian Bremmer",
+     "u": "https://www.youtube.com/watch?v=kMuuLybBZMc",
+     "s": "yt",
+     "o": "NDTV"
     },
     {
      "d": "2026-07-30",
@@ -2222,8 +2208,8 @@
    "ok": true,
    "count": 3,
    "dropped": {
-    "題名に氏名が無い": 19,
-    "許可していないチャンネル": 3
+    "題名に氏名が無い": 20,
+    "許可していないチャンネル": 2
    },
    "candidates": [
     {
@@ -2262,13 +2248,6 @@
      "u": "https://www.youtube.com/watch?v=P1Qla3CQs4s",
      "s": "yt",
      "o": "A-Mar"
-    },
-    {
-     "d": "2026-09-18",
-     "t": "嬰兒在想什麼？Alison Gopnik TED 演講精華：揭示兒童驚人認知能力",
-     "u": "https://www.youtube.com/watch?v=XSAhcHDQGZA",
-     "s": "yt",
-     "o": "PP科技筆記 Podcast"
     }
    ]
   },
@@ -2399,6 +2378,13 @@
      "o": "Bookworm"
     },
     {
+     "d": "2026-11-02",
+     "t": "AI Is Getting Smarter. Are We Getting Less Capable? | Ethan Mollick’s Co-Existence",
+     "u": "https://www.youtube.com/watch?v=QikZWYImhr8",
+     "s": "yt",
+     "o": "Outlearn to Outperform"
+    },
+    {
      "d": "2026-11-04",
      "t": "Ethan Mollick：創業的黃金時代｜用好 AI 的四樣東西、學徒制斷裂、怎麼管 agent｜Silicon Valley Girl 專訪｜中英字幕",
      "u": "https://www.youtube.com/watch?v=qPeTUOjgcos",
@@ -2413,13 +2399,6 @@
      "o": "BibliotecaAbierta"
     },
     {
-     "d": "2026-11-02",
-     "t": "AI Is Getting Smarter. Are We Getting Less Capable? | Ethan Mollick’s Co-Existence",
-     "u": "https://www.youtube.com/watch?v=QikZWYImhr8",
-     "s": "yt",
-     "o": "Outlearn to Outperform"
-    },
-    {
      "d": "2026-11-06",
      "t": "Ethan Mollick (Wharton): Đừng mở công ty phần mềm — Tiền AI ở đâu? | Thuyết minh tiếng Việt",
      "u": "https://www.youtube.com/watch?v=iNl2suMAkac",
@@ -2431,9 +2410,9 @@
   {
    "n": "東浩紀",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "dropped": {
-    "題名に氏名が無い": 1,
+    "題名に氏名が無い": 2,
     "許可していないチャンネル": 3
    },
    "candidates": [
@@ -2445,16 +2424,16 @@
      "o": "ゲンロン【公式】"
     },
     {
-     "d": "2026-10-30",
-     "t": "東浩紀無料突発　友の会入会キャンペーンが31日で終わる＆文フリ告知＆いろいろ雑談",
-     "u": "https://www.youtube.com/watch?v=ctCzpGnYChU",
+     "d": "2026-11-04",
+     "t": "GMOサイバー攻撃、謝罪会見にも批判／空飛ぶテスラ／声をAIで再現、声優たちが声明／バイナンス、約1兆円の暗号資産流出【東浩紀と桂大介の #リベテク 11月号】",
+     "u": "https://www.youtube.com/watch?v=kE6bkgEhX4M",
      "s": "yt",
      "o": "ゲンロン【公式】"
     },
     {
-     "d": "2026-11-04",
-     "t": "GMOサイバー攻撃、謝罪会見にも批判／空飛ぶテスラ／声をAIで再現、声優たちが声明／バイナンス、約1兆円の暗号資産流出【東浩紀と桂大介の #リベテク 11月号】",
-     "u": "https://www.youtube.com/watch?v=kE6bkgEhX4M",
+     "d": "2026-10-30",
+     "t": "東浩紀無料突発　友の会入会キャンペーンが31日で終わる＆文フリ告知＆いろいろ雑談",
+     "u": "https://www.youtube.com/watch?v=ctCzpGnYChU",
      "s": "yt",
      "o": "ゲンロン【公式】"
     },
@@ -2464,6 +2443,13 @@
      "u": "https://www.youtube.com/watch?v=u01sUH1phdg",
      "s": "yt",
      "o": "ゲンロン【公式】"
+    },
+    {
+     "d": "2026-05-16",
+     "t": "【“八百屋”の想像力を回復せよ】東浩紀「リベラルは保守の仲間作りを見習え」／対高市勢力は絶対必要／メディア・知識人以外の“左派”を／AI時代のベーシックインカムは地獄？／外国人問題とクレーム処理の哲学",
+     "u": "https://www.youtube.com/watch?v=7tvvDFXAzNM",
+     "s": "yt",
+     "o": "ニューズウィーク日本版"
     },
     {
      "d": "2026-09-11",
@@ -2480,13 +2466,6 @@
      "o": "ゲンロン【公式】"
     },
     {
-     "d": "2026-07-31",
-     "t": "【原稿完成記念】東浩紀、久しぶりの無料深夜突発",
-     "u": "https://www.youtube.com/watch?v=BmsDanwq1jI",
-     "s": "yt",
-     "o": "ゲンロン【公式】"
-    },
-    {
      "d": "2026-10-07",
      "t": "【東浩紀×山尾志桜里】立憲民主党はどこで間違えたのか？｜“希望の党”混乱からすべては始まった｜沖縄県知事選と「弱者」の論理｜中道改革連合 自滅のワケ｜メディア・知識人・アーティストはなぜ左傾化するのか",
      "u": "https://www.youtube.com/watch?v=rLx8Q7ns2UY",
@@ -2494,30 +2473,16 @@
      "o": "文藝春秋PLUS 公式チャンネル"
     },
     {
+     "d": "2026-07-31",
+     "t": "【原稿完成記念】東浩紀、久しぶりの無料深夜突発",
+     "u": "https://www.youtube.com/watch?v=BmsDanwq1jI",
+     "s": "yt",
+     "o": "ゲンロン【公式】"
+    },
+    {
      "d": "2026-08-23",
      "t": "久しぶりの東浩紀単独無料雑談突発です",
      "u": "https://www.youtube.com/watch?v=chPlZTRqcis",
-     "s": "yt",
-     "o": "ゲンロン【公式】"
-    },
-    {
-     "d": "2026-05-16",
-     "t": "【“八百屋”の想像力を回復せよ】東浩紀「リベラルは保守の仲間作りを見習え」／対高市勢力は絶対必要／メディア・知識人以外の“左派”を／AI時代のベーシックインカムは地獄？／外国人問題とクレーム処理の哲学",
-     "u": "https://www.youtube.com/watch?v=7tvvDFXAzNM",
-     "s": "yt",
-     "o": "ニューズウィーク日本版"
-    },
-    {
-     "d": "2026-10-21",
-     "t": "PHP巨大脆弱性発見！　全世界障害の時代がついに来た？　ほか【東浩紀と桂大介の #リベテク 10月号緊急特番】",
-     "u": "https://www.youtube.com/watch?v=lgwRSF9aIOc",
-     "s": "yt",
-     "o": "ゲンロン【公式】"
-    },
-    {
-     "d": "2026-09-08",
-     "t": "東浩紀の恒例無料突発雑談配信 9月8日編",
-     "u": "https://www.youtube.com/watch?v=gmi-Plczlts",
      "s": "yt",
      "o": "ゲンロン【公式】"
     },
@@ -2529,6 +2494,13 @@
      "o": "ゲンロン【公式】"
     },
     {
+     "d": "2026-10-21",
+     "t": "PHP巨大脆弱性発見！　全世界障害の時代がついに来た？　ほか【東浩紀と桂大介の #リベテク 10月号緊急特番】",
+     "u": "https://www.youtube.com/watch?v=lgwRSF9aIOc",
+     "s": "yt",
+     "o": "ゲンロン【公式】"
+    },
+    {
      "d": "2026-08-26",
      "t": "安野貴博×東浩紀（+黒岩里奈）　日本はAI時代を生き残れるのか @takahiroanno @hazuma #ゲンロン",
      "u": "https://www.youtube.com/watch?v=9mpSvd29Hp4",
@@ -2536,18 +2508,11 @@
      "o": "ゲンロン【公式】"
     },
     {
-     "d": "2026-11-07",
-     "t": "今週の人文ウォッチ#99.5　明日は文学フリマ東京43。東浩紀『雑談する力』発売！ そして令和人文主義マップ問題",
-     "u": "https://www.youtube.com/watch?v=1McrZeGu0Dc",
+     "d": "2026-09-08",
+     "t": "東浩紀の恒例無料突発雑談配信 9月8日編",
+     "u": "https://www.youtube.com/watch?v=gmi-Plczlts",
      "s": "yt",
      "o": "ゲンロン【公式】"
-    },
-    {
-     "d": "2026-07-14",
-     "t": "【突発生配信】東浩紀×黒岩里奈×村井弦",
-     "u": "https://www.youtube.com/watch?v=j7Hqu_veGDk",
-     "s": "yt",
-     "o": "文藝春秋PLUS 公式チャンネル"
     },
     {
      "d": "2026-08-21",
@@ -2564,6 +2529,13 @@
      "o": "ゲンロン【公式】"
     },
     {
+     "d": "2026-07-14",
+     "t": "【突発生配信】東浩紀×黒岩里奈×村井弦",
+     "u": "https://www.youtube.com/watch?v=j7Hqu_veGDk",
+     "s": "yt",
+     "o": "文藝春秋PLUS 公式チャンネル"
+    },
+    {
      "d": "2026-05-31",
      "t": "常見陽平×東浩紀　＂リベラル＂はなぜ嫌われているのか @yoheitsunemi @hazuma #ゲンロン",
      "u": "https://www.youtube.com/watch?v=BvWAjuW8gzA",
@@ -2571,16 +2543,16 @@
      "o": "ゲンロン【公式】"
     },
     {
-     "d": "2026-07-19",
-     "t": "【東浩紀×小泉悠】戦時下のウクライナへ…21世紀の戦争と平和を語る｜キーウは戦前と変わっていない？｜モスクワの残酷な平和｜ロシア空襲の真の狙い｜山田風太郎『戦中派不戦日記』を読む【前編】",
-     "u": "https://www.youtube.com/watch?v=ZKT-LlQ610E",
-     "s": "yt",
-     "o": "文藝春秋PLUS 公式チャンネル"
-    },
-    {
      "d": "2026-09-23",
      "t": "今野忍×石戸諭×東浩紀　政治の現場はどこにあるのか──新党、SNS、沖縄 @shinobukonno @satoruishido @hazuma #ゲンロン",
      "u": "https://www.youtube.com/watch?v=hCd7ALpjE98",
+     "s": "yt",
+     "o": "ゲンロン【公式】"
+    },
+    {
+     "d": "2026-09-26",
+     "t": "菅浩江×新井素子×伊藤靖(河出書房新社)×東浩紀×大森望 第9回ゲンロンSF新人賞選考会【ゲンロン 大森望 SF創作講座 第9期 最終講評会】",
+     "u": "https://www.youtube.com/watch?v=WW2QNp0V1DM",
      "s": "yt",
      "o": "ゲンロン【公式】"
     }
@@ -2702,7 +2674,7 @@
    "ok": false,
    "count": 0,
    "dropped": {
-    "題名に氏名が無い": 3
+    "題名に氏名が無い": 5
    },
    "candidates": []
   },
@@ -2720,7 +2692,7 @@
    "ok": false,
    "count": 0,
    "dropped": {
-    "題名に氏名が無い": 11
+    "題名に氏名が無い": 8
    },
    "candidates": []
   },
@@ -5398,8 +5370,8 @@
   }
  ],
  "channels_allowed": 288,
- "generated_at": "2026-11-08T23:36:37Z",
+ "generated_at": "2026-11-10T02:38:36Z",
  "applied": true,
- "window_start": "2026-05-12T23:36:37Z",
+ "window_start": "2026-05-14T02:38:36Z",
  "carried": 50
 }
