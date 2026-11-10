@@ -1472,20 +1472,20 @@
   "own": [
    {
     "d": "2026-11-10",
-    "t": "*Unbeatable: The Brutally Honest Case for Free Markets*",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/unbeatable-the-brutally-honest-case-for-free-markets.html?utm_source=rss&utm_medium=rss&utm_campaign=unbeatable-the-brutally-honest-case-for-free-markets",
+    "t": "Tuesday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-594",
     "s": "blog"
    },
    {
-    "d": "2026-11-09",
-    "t": "Monday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-585",
+    "d": "2026-11-10",
+    "t": "Checking the AI audit of Saez and Zucman’s research.",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/checking-the-ai-audit-of-saez-and-zucmans-research.html?utm_source=rss&utm_medium=rss&utm_campaign=checking-the-ai-audit-of-saez-and-zucmans-research",
     "s": "blog"
    },
    {
-    "d": "2026-11-09",
-    "t": "The economics of honeypots",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-honeypots.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-honeypots",
+    "d": "2026-11-10",
+    "t": "*Godzilla: Minus Zero* (no spoilers)",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/godzilla-minus-zero-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-no-spoilers",
     "s": "blog"
    }
   ],
@@ -3122,6 +3122,12 @@
   "bio": "エイブラハム・ニューマンとの『Underground Empire』で、金融・通信のネットワークの結節点を握る米国が経済を武器化する構図(weaponized interdependence)を描いた。コスマ・シャリツィとの共著論考ではAIを市場や官僚制と並ぶ社会的情報処理装置として位置づける。Programmable Mutter で発信する。",
   "own": [
    {
+    "d": "2026-11-10",
+    "t": "Mike Harrison has won the Booker Prize",
+    "u": "https://www.programmablemutter.com/p/mike-harrison-has-won-the-booker",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-01",
     "t": "The foreign policy “Blob” exists",
     "u": "https://www.programmablemutter.com/p/the-foreign-policy-blob-exists",
@@ -3131,12 +3137,6 @@
     "d": "2026-10-29",
     "t": "Agentic AI is myth set in motion",
     "u": "https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-28",
-    "t": "AI being great at math makes human mathematicians more valuable, not less",
-    "u": "https://www.programmablemutter.com/p/ai-being-great-at-math-makes-human",
     "s": "blog"
    }
   ],
