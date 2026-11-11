@@ -1262,6 +1262,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-11-01",
+    "t": "TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale",
+    "u": "https://doi.org/10.3386/w35987",
+    "s": "paper"
+   },
+   {
     "d": "2026-10-21",
     "t": "A Research Agenda for the Economics of Transformative AI",
     "u": "https://doi.org/10.1145/3769433",
@@ -1271,12 +1277,6 @@
     "d": "2026-09-23",
     "t": "Method, Mind, and Morality: How People Make Sense of Artificial Intelligence",
     "u": "https://doi.org/10.1145/3816971",
-    "s": "paper"
-   },
-   {
-    "d": "2026-08-07",
-    "t": "A Field Experiment on the Future of Software Development",
-    "u": "https://doi.org/10.1257/rct.19333",
     "s": "paper"
    }
   ],
