@@ -1471,21 +1471,21 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-11-11",
+    "t": "Spying makes a comeback",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/spying-makes-a-comeback.html?utm_source=rss&utm_medium=rss&utm_campaign=spying-makes-a-comeback",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-10",
+    "t": "Are RCTs underpowered?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/are-rcts-underpowered.html?utm_source=rss&utm_medium=rss&utm_campaign=are-rcts-underpowered",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-10",
     "t": "Tuesday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-594",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-10",
-    "t": "Checking the AI audit of Saez and Zucman’s research.",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/checking-the-ai-audit-of-saez-and-zucmans-research.html?utm_source=rss&utm_medium=rss&utm_campaign=checking-the-ai-audit-of-saez-and-zucmans-research",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-10",
-    "t": "*Godzilla: Minus Zero* (no spoilers)",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/godzilla-minus-zero-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-no-spoilers",
     "s": "blog"
    }
   ],
@@ -3254,6 +3254,12 @@
   ],
   "yt": [
    {
+    "d": "2026-11-11",
+    "t": "Can Universities Survive? The Present Crisis w/Sam Freedman",
+    "u": "https://www.ppfideas.com/",
+    "s": "podcast"
+   },
+   {
     "d": "2026-11-08",
     "t": "American Elections Special: The 2026 Midterms in Historical Context",
     "u": "https://www.ppfideas.com/",
@@ -3262,12 +3268,6 @@
    {
     "d": "2026-11-04",
     "t": "Can Universities Survive? AI vs Higher Education",
-    "u": "https://www.ppfideas.com/",
-    "s": "podcast"
-   },
-   {
-    "d": "2026-11-01",
-    "t": "Can Universities Survive? Politics and the International University w/Lea Ypi",
     "u": "https://www.ppfideas.com/",
     "s": "podcast"
    }
