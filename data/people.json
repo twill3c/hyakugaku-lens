@@ -1544,6 +1544,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-11-10",
+    "t": "Korinek AI Literacy and Action (AILA) Lab Case Study",
+    "u": "https://doi.org/10.18130/uva-open/81",
+    "s": "paper"
+   },
+   {
     "d": "2026-10-21",
     "t": "A Research Agenda for the Economics of Transformative AI",
     "u": "https://doi.org/10.1145/3769433",
@@ -1553,12 +1559,6 @@
     "d": "2026-09-28",
     "t": "What if automating AI R&D triggers an intelligence explosion?",
     "u": "https://doi.org/10.48550/arxiv.2609.36054",
-    "s": "paper"
-   },
-   {
-    "d": "2026-04-01",
-    "t": "When Does Automating AI Research Produce Explosive Growth? Feedback Loops in Innovation Networks",
-    "u": "https://doi.org/10.3386/w35155",
     "s": "paper"
    }
   ],
