@@ -303,7 +303,7 @@
    },
    {
     "d": "2026-10-01",
-    "t": "Process Philosophy and Technology",
+    "t": "Process Philosophy and Technology: New Directions",
     "u": "https://doi.org/10.4324/9781003610250",
     "s": "book"
    },
@@ -665,6 +665,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-11-10",
+    "t": "Advancing a Global Framework for AI Safety and Governance for the Well-being of Humanity",
+    "u": "https://doi.org/10.48550/arxiv.2611.13968",
+    "s": "paper"
+   },
+   {
     "d": "2026-09-23",
     "t": "Training Object Permanence in World Models",
     "u": "https://doi.org/10.48550/arxiv.2609.28654",
@@ -674,12 +680,6 @@
     "d": "2026-09-01",
     "t": "Organ donation and brain preservation after assisted dying: case report and considerations for a potential pathway",
     "u": "https://doi.org/10.1186/s12910-026-01586-1",
-    "s": "paper"
-   },
-   {
-    "d": "2026-08-26",
-    "t": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
-    "u": "https://doi.org/10.48550/arxiv.2608.26105",
     "s": "paper"
    }
   ],
@@ -763,7 +763,7 @@
   "pub": [
    {
     "d": "2025-12-30",
-    "t": "Sustaining the study of human-technology relations",
+    "t": "Sustaining the study of human-technology relations: From manuscripts and peer review to publication practices and events",
     "u": "https://doi.org/10.59490/jhtr.2025.3.8641",
     "s": "paper"
    },
@@ -1131,7 +1131,7 @@
    },
    {
     "d": "2026-02-03",
-    "t": "The Stack",
+    "t": "The Stack: On Software and Sovereignty",
     "u": "https://doi.org/10.7551/mitpress/16135.001.0001",
     "s": "book"
    },
@@ -1395,7 +1395,7 @@
     "d": "2026-01-01",
     "t": "Wie Fortschritt endet Technologie, Innovation und das Schicksal der Nationen",
     "u": "https://openalex.org/W7208407571",
-    "s": "paper"
+    "s": "book"
    }
   ],
   "yt": [
@@ -1492,7 +1492,7 @@
   "pub": [
    {
     "d": "2024-10-17",
-    "t": "Public Goods and Market Failures",
+    "t": "Public Goods and Market Failures: A Critical Examination",
     "u": "https://doi.org/10.4324/9781003576570",
     "s": "book"
    },
@@ -1720,7 +1720,7 @@
    },
    {
     "d": "2025-08-25",
-    "t": "The Economics of Artificial Intelligence",
+    "t": "The Economics of Artificial Intelligence: A Conversation with Ajay Agrawal",
     "u": "https://doi.org/10.1080/08956308.2025.2532316",
     "s": "paper"
    }
@@ -1798,7 +1798,7 @@
    },
    {
     "d": "2024-07-18",
-    "t": "Work and Meaning",
+    "t": "Work and Meaning: A Challenge for Economics",
     "u": "https://doi.org/10.1093/oso/9780198876434.003.0008",
     "s": "book"
    }
@@ -2145,7 +2145,7 @@
   "pub": [
    {
     "d": "2026-08-11",
-    "t": "Global Governance by Data",
+    "t": "Global Governance by Data: Infrastructures of Algorithmic Rule",
     "u": "https://doi.org/10.1017/9781009425308",
     "s": "book"
    },
@@ -2157,7 +2157,7 @@
    },
    {
     "d": "2025-11-11",
-    "t": "Doughnut Privacy",
+    "t": "Doughnut Privacy: A Preliminary Thought Experiment",
     "u": "https://doi.org/10.1017/9781009383851.015",
     "s": "book"
    }
@@ -2287,7 +2287,7 @@
     "d": "2026-01-01",
     "t": "Artificial intimacy who we become when we talk to machines",
     "u": "https://openalex.org/W7221378802",
-    "s": "paper"
+    "s": "book"
    },
    {
     "d": "2025-02-04",
@@ -2425,7 +2425,7 @@
    },
    {
     "d": "2022-08-18",
-    "t": "Automating Racial Alibis",
+    "t": "Automating Racial Alibis: Rethinking Race, Technology, and the Law",
     "u": "https://doi.org/10.1093/oxfordhb/9780190947385.013.43",
     "s": "book"
    }
@@ -2597,7 +2597,7 @@
    },
    {
     "d": "2026-01-01",
-    "t": "Data Are Made, Not Found",
+    "t": "Data Are Made, Not Found: A Story of Politics, Power, and the Civil Servants Who Saved the US Census",
     "u": "https://doi.org/10.7208/chicago/9780226824987.001.0001",
     "s": "book"
    }
@@ -2952,7 +2952,7 @@
     "d": "2026-01-01",
     "t": "Was du wissen musst, um die Welt zu retten Unstoppable Us 4",
     "u": "https://openalex.org/W7221237653",
-    "s": "paper"
+    "s": "book"
    },
    {
     "d": "2025-12-16",
@@ -3011,7 +3011,7 @@
     "d": "2026-01-01",
     "t": "Der letzte Mensch wohin steuert die Welt?",
     "u": "https://openalex.org/W7208795342",
-    "s": "paper"
+    "s": "book"
    },
    {
     "d": "2025-12-01",
@@ -3947,7 +3947,7 @@
    },
    {
     "d": "2025-04-24",
-    "t": "Beyond Click to Cognition",
+    "t": "Beyond Click to Cognition: Effective Interventions for Promoting Examination of False Beliefs in Misinformation",
     "u": "https://doi.org/10.1145/3706598.3714243",
     "s": "paper"
    },
