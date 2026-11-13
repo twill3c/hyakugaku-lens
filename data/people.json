@@ -1511,13 +1511,6 @@
   ],
   "yt": [
    {
-    "d": "2026-08-28",
-    "t": "Aesthetics: A Conversation with Tyler Cowen",
-    "u": "https://www.youtube.com/watch?v=Hc0PauTygbY",
-    "s": "yt",
-    "o": "UTD Art History"
-   },
-   {
     "d": "2026-08-19",
     "t": "Why Is Tyler Cowen Optimistic About AI?",
     "u": "https://www.youtube.com/watch?v=HGkoxpyo-cs",
@@ -1530,6 +1523,13 @@
     "u": "https://www.youtube.com/watch?v=zh9nAWViBFw",
     "s": "yt",
     "o": "Michael Easter"
+   },
+   {
+    "d": "2026-08-12",
+    "t": "\"AI will change everything, just not all at once\" | Tyler Cowen | Strange Loop | Ep 6",
+    "u": "https://www.youtube.com/watch?v=DUUVPdmkIZQ",
+    "s": "yt",
+    "o": "Sana"
    }
   ]
  },
