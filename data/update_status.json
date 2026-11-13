@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T20:05:15Z",
+ "generated_at": "2026-11-13T06:55:14Z",
  "ok": 26,
  "fail": 26,
  "sources": [
@@ -56,9 +56,9 @@
    "s": "blog",
    "feed": "https://www.gzeromedia.com/feeds/feed.rss",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "dropped": {
-    "著者条件に一致せず": 26
+    "著者条件に一致せず": 27
    }
   },
   {
