@@ -626,6 +626,12 @@
   "bio": "戦争の倫理から出発し、現在はアルゴリズムによる支配・正統性・権力を扱うAIの政治哲学を主導する。MINT Lab を率い、生成AIエージェントが個人の意思決定環境を形づくるときの規範的条件を論じる。オックスフォード大のタナー講義に招かれるなど、この分野の理論的中心のひとり。",
   "own": [
    {
+    "d": "2026-10-27",
+    "t": "Oxford Studies in Philosophy of AI and Computing",
+    "u": "https://philosophyofcomputing.substack.com/p/oxford-studies-in-philosophy-of-ai",
+    "s": "substack"
+   },
+   {
     "d": "2026-03-17",
     "t": "Philosophy of Computing in March",
     "u": "https://philosophyofcomputing.substack.com/p/philosophy-of-computing-in-march",
@@ -3529,21 +3535,21 @@
   "bio": "深層学習だけでは頑健な知能に到達しないと2012年から主張し続ける認知科学者。『Rebooting AI』でニューロシンボリックな路線を説き、幻覚・推論の脆さ・スケーリングの限界を具体的な失敗例で示す。米上院公聴会でサム・アルトマンと並んで証言し、Substack で最も精力的に発信するAI批評家のひとり。",
   "own": [
    {
-    "d": "2026-09-04",
-    "t": "Pause OpenAI, now",
-    "u": "https://garymarcus.substack.com/p/pause-openai-now",
+    "d": "2026-11-14",
+    "t": "What could possibly go wrong? Nationwide FAA Ground Stop edition",
+    "u": "https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide",
     "s": "substack"
    },
    {
-    "d": "2026-09-03",
-    "t": "Hot take on GPT-6 Astra",
-    "u": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
+    "d": "2026-11-13",
+    "t": "The great Generative AI unraveling",
+    "u": "https://garymarcus.substack.com/p/the-great-generative-ai-unraveling",
     "s": "substack"
    },
    {
-    "d": "2026-09-03",
-    "t": "The new Sanders-Casar Ban Artificial Superintelligence Act – and why I oppose it",
-    "u": "https://garymarcus.substack.com/p/the-new-sanders-casar-ban-artificial",
+    "d": "2026-11-12",
+    "t": "Jensen Huang resigns.",
+    "u": "https://garymarcus.substack.com/p/jensen-huang-resigns",
     "s": "substack"
    }
   ],
