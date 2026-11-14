@@ -1472,20 +1472,20 @@
   "own": [
    {
     "d": "2026-11-14",
+    "t": "Saturday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-586",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-14",
+    "t": "People like their jobs, even British people",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/people-like-their-jobs-even-british-people.html?utm_source=rss&utm_medium=rss&utm_campaign=people-like-their-jobs-even-british-people",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-14",
     "t": "The Power and Roots of Aspirations",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/the-power-and-roots-of-aspirations.html?utm_source=rss&utm_medium=rss&utm_campaign=the-power-and-roots-of-aspirations",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-13",
-    "t": "Are we witnessing an intelligence explosion?",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/are-we-witnessing-an-intelligence-explosion.html?utm_source=rss&utm_medium=rss&utm_campaign=are-we-witnessing-an-intelligence-explosion",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-13",
-    "t": "Friday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-599.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-599",
     "s": "blog"
    }
   ],
@@ -3093,6 +3093,12 @@
   ],
   "yt": [
    {
+    "d": "2026-11-14",
+    "t": "The high-stakes race to control AI, with Ben Buchanan",
+    "u": "https://gzeroworld.simplecast.com/episodes/the-high-stakes-race-to-control-ai-with-ben-buchanan-K6okzgHT",
+    "s": "podcast"
+   },
+   {
     "d": "2026-11-10",
     "t": "U.S. CHINA SUMMIT IN CRISIS AS NVIDIA CEO AFFAIR UNRAVELS – w/ Ian Bremmer",
     "u": "https://www.youtube.com/watch?v=nJBgsMUeDk8",
@@ -3103,12 +3109,6 @@
     "d": "2026-10-31",
     "t": "Europe under pressure, with Polish Foreign Minister Radoslaw Sikorski",
     "u": "https://gzeroworld.simplecast.com/episodes/europe-under-pressure-with-polish-foreign-minister-radoslaw-sikorski-_g3jxZph",
-    "s": "podcast"
-   },
-   {
-    "d": "2026-10-24",
-    "t": "Middle East elections and escalation, with Brett McGurk",
-    "u": "https://gzeroworld.simplecast.com/episodes/middle-east-elections-and-escalation-with-brett-mcgurk-lhEO1vfP",
     "s": "podcast"
    }
   ]
