@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T02:05:43Z",
+ "generated_at": "2026-11-14T01:42:52Z",
  "declared": 99,
  "verified": 90,
  "unreachable": 0,
@@ -6952,7 +6952,7 @@
     {
      "id": "A5050727421",
      "display_name": "Hiroki Azuma",
-     "works_count": 11,
+     "works_count": 12,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false

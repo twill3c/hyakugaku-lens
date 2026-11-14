@@ -88,15 +88,15 @@
     "s": "paper"
    },
    {
-    "d": "2026-10-29",
-    "t": "Towards Portable Specification of the Agent Harness",
-    "u": "https://doi.org/10.48550/arxiv.2610.40917",
-    "s": "paper"
-   },
-   {
     "d": "2026-10-17",
     "t": "Pax Digitalis: When Competition Becomes Partition",
     "u": "https://doi.org/10.1007/s13347-026-01206-1",
+    "s": "paper"
+   },
+   {
+    "d": "2026-10-15",
+    "t": "What Is Left for Us? Second Scholarship Against the Degradation of Research by AI",
+    "u": "https://doi.org/10.1111/eulj.70031",
     "s": "paper"
    }
   ],
@@ -3602,6 +3602,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-11-12",
+    "t": "Hybrid Clinician-in-the-Loop Monitoring System for LLM Conversational Agents",
+    "u": "https://doi.org/10.1145/3838183",
+    "s": "paper"
+   },
+   {
     "d": "2026-09-18",
     "t": "Large language models as human proxies",
     "u": "https://doi.org/10.1038/s43588-026-01060-3",
@@ -3611,12 +3617,6 @@
     "d": "2026-09-14",
     "t": "Time Machine Experiments: Using Historically-Bounded AI for Inquiry into the Human Mind",
     "u": "https://doi.org/10.48550/arxiv.2609.15468",
-    "s": "paper"
-   },
-   {
-    "d": "2026-09-14",
-    "t": "Spook the Machine: Gamified Exploration of Human Imagination of Machine Fear",
-    "u": "https://doi.org/10.48550/arxiv.2609.15472",
     "s": "paper"
    }
   ],
