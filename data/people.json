@@ -1615,6 +1615,12 @@
   ],
   "pub": [
    {
+    "d": "2026-11-13",
+    "t": "The Cambridge Handbook of Competition Law and Antitrust Theory",
+    "u": "https://doi.org/10.1017/9781009750585",
+    "s": "book"
+   },
+   {
     "d": "2026-07-30",
     "t": "The Myth of Treasury Control:Understanding the UK’s Public Spending System (and How to Fix It)",
     "u": "https://doi.org/10.17863/cam.132051",
@@ -1624,12 +1630,6 @@
     "d": "2026-07-30",
     "t": "The Myth of Treasury Control:: What’s Wrong with the UK’s Public Spending System and How to Fix It",
     "u": "https://openalex.org/W7212095938",
-    "s": "paper"
-   },
-   {
-    "d": "2026-07-20",
-    "t": "Code, capital, and clusters: understanding firm performance in the UK AI economy",
-    "u": "https://doi.org/10.1038/s44387-026-00140-z",
     "s": "paper"
    }
   ],
@@ -2258,14 +2258,14 @@
    },
    {
     "d": "2026-08-17",
-    "t": "Preface to 30th Anniversary Edition",
-    "u": "https://doi.org/10.1093/9780197919118.002.0006",
-    "s": "paper"
+    "t": "Law as Information",
+    "u": "https://doi.org/10.1093/9780197919118.003.0005",
+    "s": "book"
    },
    {
     "d": "2026-08-17",
-    "t": "Law as Information",
-    "u": "https://doi.org/10.1093/9780197919118.003.0005",
+    "t": "Case-Studies",
+    "u": "https://doi.org/10.1093/9780197919118.003.0010",
     "s": "book"
    }
   ],
@@ -2680,10 +2680,10 @@
     "s": "paper"
    },
    {
-    "d": "2025-12-16",
-    "t": "Platformization",
-    "u": "https://doi.org/10.4337/9781035301447.vol3.00051",
-    "s": "paper"
+    "d": "2025-10-01",
+    "t": "YouTube beyond technology and cultural form",
+    "u": "https://doi.org/10.4324/9781003690559-13",
+    "s": "book"
    }
   ],
   "yt": []
@@ -3322,9 +3322,9 @@
     "s": "paper"
    },
    {
-    "d": "2023-11-01",
-    "t": "Migration",
-    "u": "https://doi.org/10.2307/jj.9561398.29",
+    "d": "2023-06-22",
+    "t": "Cities are central to our future – they have the power to make, or break, society’s advances",
+    "u": "https://doi.org/10.64628/aaj.yjcukc6dg",
     "s": "paper"
    }
   ],
@@ -3392,9 +3392,9 @@
     "s": "paper"
    },
    {
-    "d": "2026-09-01",
-    "t": "Expert Survey on the Global Information Environment 2026: Under Pressure",
-    "u": "https://doi.org/10.61452/ormu3913",
+    "d": "2026-10-01",
+    "t": "Ads Without Accountability: Auditing Social Media Transparency in Brazil’s 2026 Presidential Election",
+    "u": "https://doi.org/10.61452/jfhh6799",
     "s": "paper"
    }
   ],
@@ -3700,6 +3700,12 @@
   ],
   "pub": [
    {
+    "d": "2026-11-12",
+    "t": "Primer: An AI Framework for Instructor-Centered Educational Simulation Creation",
+    "u": "https://doi.org/10.48550/arxiv.2611.16986",
+    "s": "paper"
+   },
+   {
     "d": "2026-07-22",
     "t": "Artificial intelligence and its impact on creativity and diversity: An empirical study of large language model-generated product ideas",
     "u": "https://doi.org/10.1177/10591478261474243",
@@ -3709,12 +3715,6 @@
     "d": "2026-06-12",
     "t": "The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork",
     "u": "https://doi.org/10.1287/orsc.2025.20702",
-    "s": "paper"
-   },
-   {
-    "d": "2026-05-19",
-    "t": "Persuading large language models to comply with objectionable requests",
-    "u": "https://doi.org/10.1073/pnas.2535868123",
     "s": "paper"
    }
   ],
