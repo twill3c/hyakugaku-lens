@@ -829,6 +829,12 @@
   "bio": "『中国における技術への問い』で、技術は普遍的ではなく各文明の宇宙論に根ざすという宇宙技芸(cosmotechnics)の概念を提示した。『Recursivity and Contingency』『Art and Cosmotechnics』では再帰性と偶然性からサイバネティクス以後の思考を捉え直す。AIを西洋近代の一形態として相対化する視座を提供している。",
   "own": [
    {
+    "d": "2026-11-15",
+    "t": "Publication of Kant Machine in Turkish",
+    "u": "https://digitalmilieu.net/6023/publication-of-kant-machine-in-turkish/",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-08",
     "t": "Publication of Beyond East and West in Japanese",
     "u": "https://digitalmilieu.net/6008/publication-of-beyond-east-and-west-in-japanese/",
@@ -838,12 +844,6 @@
     "d": "2026-07-24",
     "t": "Publication of Post-Europe in Turkish",
     "u": "https://digitalmilieu.net/5900/publication-of-post-europe-in-turkish/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-06-15",
-    "t": "Publication of Anthology Machine and Eros in Taiwan",
-    "u": "https://digitalmilieu.net/5840/publication-of-anthology-machine-and-eros-in-taiwan/",
     "s": "blog"
    }
   ],
@@ -1477,6 +1477,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-11-15",
+    "t": "Best films of 2026",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/best-films-of-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-films-of-2026",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-14",
     "t": "Saturday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-586",
@@ -1486,12 +1492,6 @@
     "d": "2026-11-14",
     "t": "People like their jobs, even British people",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/people-like-their-jobs-even-british-people.html?utm_source=rss&utm_medium=rss&utm_campaign=people-like-their-jobs-even-british-people",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-14",
-    "t": "The Power and Roots of Aspirations",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/the-power-and-roots-of-aspirations.html?utm_source=rss&utm_medium=rss&utm_campaign=the-power-and-roots-of-aspirations",
     "s": "blog"
    }
   ],
@@ -3111,11 +3111,10 @@
     "s": "podcast"
    },
    {
-    "d": "2026-10-04",
-    "t": "The high-stakes US-China race | GZERO World with Ian Bremmer",
-    "u": "https://www.youtube.com/watch?v=2VWQtkyKrSs",
-    "s": "yt",
-    "o": "GZERO Media"
+    "d": "2026-10-24",
+    "t": "Middle East elections and escalation, with Brett McGurk",
+    "u": "https://gzeroworld.simplecast.com/episodes/middle-east-elections-and-escalation-with-brett-mcgurk-lhEO1vfP",
+    "s": "podcast"
    }
   ]
  },
@@ -3261,6 +3260,12 @@
   ],
   "yt": [
    {
+    "d": "2026-11-15",
+    "t": "Can Universities Survive? When to Get Out w/Kathleen Stock",
+    "u": "https://www.ppfideas.com/",
+    "s": "podcast"
+   },
+   {
     "d": "2026-11-11",
     "t": "Can Universities Survive? The Present Crisis w/Sam Freedman",
     "u": "https://www.ppfideas.com/",
@@ -3269,12 +3274,6 @@
    {
     "d": "2026-11-08",
     "t": "American Elections Special: The 2026 Midterms in Historical Context",
-    "u": "https://www.ppfideas.com/",
-    "s": "podcast"
-   },
-   {
-    "d": "2026-11-04",
-    "t": "Can Universities Survive? AI vs Higher Education",
     "u": "https://www.ppfideas.com/",
     "s": "podcast"
    }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-14T22:35:36Z",
- "ok": 31,
- "fail": 21,
+ "generated_at": "2026-11-15T06:46:26Z",
+ "ok": 30,
+ "fail": 22,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -285,7 +285,7 @@
    "s": "podcast",
    "feed": "https://feeds.megaphone.fm/ARML2708405200",
    "ok": true,
-   "count": 357
+   "count": 358
   },
   {
    "n": "ニック・クドリー",
@@ -420,8 +420,9 @@
    "n": "ユヴァル・ノア・ハラリ",
    "s": "blog",
    "feed": "https://www.ynharari.com/feed/",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
   },
   {
    "n": "リチャード・ボールドウィン",
