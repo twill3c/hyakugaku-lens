@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T06:44:51Z",
+ "generated_at": "2026-11-16T22:16:45Z",
  "ok": 25,
  "fail": 27,
  "sources": [
@@ -56,9 +56,9 @@
    "s": "blog",
    "feed": "https://www.gzeromedia.com/feeds/feed.rss",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "dropped": {
-    "著者条件に一致せず": 26
+    "著者条件に一致せず": 27
    }
   },
   {
@@ -348,7 +348,10 @@
    "s": "blog",
    "feed": "https://www.programmablemutter.com/feed",
    "ok": true,
-   "count": 20
+   "count": 19,
+   "dropped": {
+    "著者条件に一致せず": 1
+   }
   },
   {
    "n": "ベンジャミン・ブラットン",
