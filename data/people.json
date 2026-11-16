@@ -147,7 +147,7 @@
     "s": "paper"
    },
    {
-    "d": "2026-01-01",
+    "d": "2026-01-17",
     "t": "A survey of views about infant consciousness",
     "u": "https://doi.org/10.1093/nc/niag014",
     "s": "paper"
@@ -257,22 +257,22 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-04-15",
-    "t": "mklimasz/EuroGEST: EuroGEST-v0.0.0",
-    "u": "https://doi.org/10.5281/zenodo.19588701",
-    "s": "paper"
+    "d": "2026-10-09",
+    "t": "AI Ethics and Governance",
+    "u": "https://doi.org/10.1007/978-981-92-1261-3_2",
+    "s": "book"
    },
    {
-    "d": "2026-01-01",
+    "d": "2026-05-01",
     "t": "Responsible AI for Research: Between Moral Philosophy and Philosophy of Science",
     "u": "https://doi.org/10.1007/978-3-032-15112-4_20",
     "s": "book"
    },
    {
-    "d": "2026-01-01",
-    "t": "AI Ethics and Governance",
-    "u": "https://doi.org/10.1007/978-981-92-1261-3_2",
-    "s": "book"
+    "d": "2026-04-15",
+    "t": "mklimasz/EuroGEST: EuroGEST-v0.0.0",
+    "u": "https://doi.org/10.5281/zenodo.19588701",
+    "s": "paper"
    }
   ],
   "yt": [
@@ -341,15 +341,15 @@
     "s": "paper"
    },
    {
+    "d": "2026-09-17",
+    "t": "Biological naturalism, synthetic phenomenology, and the physics of awareness",
+    "u": "https://doi.org/10.1017/s0140525x25103695",
+    "s": "paper"
+   },
+   {
     "d": "2026-04-16",
     "t": "Social media and the mental health of children and adolescents",
     "u": "https://doi.org/10.4126/frl01-006527806",
-    "s": "book"
-   },
-   {
-    "d": "2026-01-01",
-    "t": "Artificial suffering: an argument for a global moratorium on synthetic phenomenology (Reprint)",
-    "u": "https://doi.org/10.14279/depositonce-26150",
     "s": "book"
    }
   ],
@@ -710,7 +710,7 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-01-01",
+    "d": "2026-10-09",
     "t": "AI Ethics and Governance",
     "u": "https://doi.org/10.1007/978-981-92-1261-3_2",
     "s": "book"
@@ -894,7 +894,7 @@
     "s": "book"
    },
    {
-    "d": "2026-01-01",
+    "d": "2026-05-05",
     "t": "Default-mode network activity is retained in the isolated hemisphere of people after hemispherotomy",
     "u": "https://doi.org/10.1093/braincomms/fcag211",
     "s": "paper"
@@ -1137,15 +1137,15 @@
    },
    {
     "d": "2026-02-03",
-    "t": "The Stack: On Software and Sovereignty",
-    "u": "https://doi.org/10.7551/mitpress/16135.001.0001",
+    "t": "User Layer",
+    "u": "https://doi.org/10.7551/mitpress/16135.003.0018",
     "s": "book"
    },
    {
-    "d": "2025-11-19",
-    "t": "The Noocene: Computation and Cosmology from Antikythera to AI",
-    "u": "https://doi.org/10.1162/anti.5d05",
-    "s": "paper"
+    "d": "2026-02-03",
+    "t": "The Stack to Come",
+    "u": "https://doi.org/10.7551/mitpress/16135.003.0020",
+    "s": "book"
    }
   ],
   "yt": [
@@ -1175,7 +1175,7 @@
     "s": "paper"
    },
    {
-    "d": "2026-01-01",
+    "d": "2026-02-04",
     "t": "From Algorithmic Thinking to Thinking Machines: Four Theses on the Position of Artificial Intelligence in the History of Technoscience",
     "u": "https://doi.org/10.1007/978-3-658-44521-8_103",
     "s": "book"
@@ -1621,15 +1621,15 @@
     "s": "book"
    },
    {
-    "d": "2026-07-30",
-    "t": "The Myth of Treasury Control:Understanding the UK’s Public Spending System (and How to Fix It)",
-    "u": "https://doi.org/10.17863/cam.132051",
+    "d": "2026-10-12",
+    "t": "The role of relative prices in the UK’s aggregate labour productivity",
+    "u": "https://doi.org/10.1017/s1365100526101436",
     "s": "paper"
    },
    {
-    "d": "2026-07-30",
-    "t": "The Myth of Treasury Control:: What’s Wrong with the UK’s Public Spending System and How to Fix It",
-    "u": "https://openalex.org/W7212095938",
+    "d": "2026-09-24",
+    "t": "Governing the evidence base: An empirical framework of AI archetypes for policy analysis",
+    "u": "https://doi.org/10.1017/dap.2026.10100",
     "s": "paper"
    }
   ],
@@ -1797,7 +1797,7 @@
     "s": "book"
    },
    {
-    "d": "2025-01-01",
+    "d": "2025-09-17",
     "t": "Directed technological change: a history and a critical agenda",
     "u": "https://doi.org/10.1093/oxrep/graf025",
     "s": "paper"
@@ -1998,14 +1998,14 @@
    },
    {
     "d": "2026-04-10",
-    "t": "The Reinvention of Legal Method",
-    "u": "https://doi.org/10.31219/osf.io/a5fnd_v1",
-    "s": "paper"
+    "t": "The EU Legal Choice Architecture (CA) for General-Purpose AI Models (GPAI Models)",
+    "u": "https://doi.org/10.1007/978-3-031-61050-9_26-1",
+    "s": "book"
    },
    {
-    "d": "2026-03-17",
-    "t": "Computational Law",
-    "u": "https://openalex.org/W7112336641",
+    "d": "2026-04-10",
+    "t": "The Reinvention of Legal Method",
+    "u": "https://doi.org/10.31219/osf.io/a5fnd_v1",
     "s": "paper"
    }
   ],
@@ -2187,15 +2187,15 @@
     "s": "book"
    },
    {
-    "d": "2025-06-11",
-    "t": "Smart Justice? Making Sense of the Rise of Algorithm-Based Pre-trial Risk Assessment in Criminal Justice Through ‘Legal Models’",
-    "u": "https://doi.org/10.1007/s44206-025-00194-7",
+    "d": "2025-09-19",
+    "t": "From ‘wild west’ to ‘responsible’ AI testing ‘in-the-wild’: lessons from live facial recognition testing by law enforcement authorities in Europe",
+    "u": "https://doi.org/10.1017/dap.2025.10019",
     "s": "paper"
    },
    {
-    "d": "2025-01-01",
-    "t": "From ‘wild west’ to ‘responsible’ AI testing ‘in-the-wild’: lessons from live facial recognition testing by law enforcement authorities in Europe",
-    "u": "https://doi.org/10.1017/dap.2025.10019",
+    "d": "2025-06-11",
+    "t": "Smart Justice? Making Sense of the Rise of Algorithm-Based Pre-trial Risk Assessment in Criminal Justice Through ‘Legal Models’",
+    "u": "https://doi.org/10.1007/s44206-025-00194-7",
     "s": "paper"
    }
   ],
@@ -2218,13 +2218,13 @@
     "s": "book"
    },
    {
-    "d": "2026-01-01",
+    "d": "2026-01-02",
     "t": "Positive Thinking",
     "u": "https://doi.org/10.1007/978-3-032-10771-8_8",
     "s": "book"
    },
    {
-    "d": "2026-01-01",
+    "d": "2026-01-02",
     "t": "Paths to Rebellion",
     "u": "https://doi.org/10.1007/978-3-032-10771-8_10",
     "s": "book"
@@ -2955,12 +2955,6 @@
   ],
   "pub": [
    {
-    "d": "2026-01-01",
-    "t": "Was du wissen musst, um die Welt zu retten Unstoppable Us 4",
-    "u": "https://openalex.org/W7221237653",
-    "s": "book"
-   },
-   {
     "d": "2025-12-16",
     "t": "The Politics of Consciousness",
     "u": "https://doi.org/10.7551/mitpress/14600.003.0009",
@@ -2971,6 +2965,12 @@
     "t": "The Legend of Peugeot (From Sapiens: A Brief History of Humankind)",
     "u": "https://doi.org/10.4324/9781003440987-13",
     "s": "book"
+   },
+   {
+    "d": "2025-04-01",
+    "t": "Book Review: Nexus: A Brief History of Information Netwoks from the Stone Age to AI",
+    "u": "https://openalex.org/W7220191607",
+    "s": "paper"
    }
   ],
   "yt": [
@@ -4110,7 +4110,7 @@
   "own": [],
   "pub": [
    {
-    "d": "2022-01-01",
+    "d": "2022-11-14",
     "t": "Japan’s Broadcasting System from the Perspective of Its Demographics in 2040",
     "u": "https://doi.org/10.1007/978-981-19-4699-8_2",
     "s": "book"
@@ -4291,16 +4291,16 @@
     "s": "paper"
    },
    {
+    "d": "2026-07-07",
+    "t": "Questions, Not Answers: A Layered Framework for Public Engagement with Avatar Robots",
+    "u": "https://doi.org/10.1007/978-3-032-30041-6_16",
+    "s": "paper"
+   },
+   {
     "d": "2026-06-09",
     "t": "Japan's Hiroshima AI Process: a third way in global AI governance",
     "u": "https://doi.org/10.4337/9781035338580.00021",
     "s": "book"
-   },
-   {
-    "d": "2026-04-03",
-    "t": "Red teaming for culturally grounded LLM evaluation: lessons learned from a Japanese team’s engagement with stereotype risks",
-    "u": "https://doi.org/10.1007/s00146-026-02996-w",
-    "s": "paper"
    }
   ],
   "yt": []
@@ -4316,16 +4316,16 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-08-04",
+    "t": "The Mission-Oriented Science, Technology and Innovation (STI) Policies in Japan and Korea with a Focus on Health",
+    "u": "https://doi.org/10.1007/978-3-032-24479-6_4",
+    "s": "book"
+   },
+   {
     "d": "2026-06-03",
     "t": "A comparative analysis of attitudes toward neuroscience and the application of information on the brain between the public and neuroscientists in Japan",
     "u": "https://doi.org/10.22323/147620260228100722",
     "s": "paper"
-   },
-   {
-    "d": "2026-01-01",
-    "t": "The Mission-Oriented Science, Technology and Innovation (STI) Policies in Japan and Korea with a Focus on Health",
-    "u": "https://doi.org/10.1007/978-3-032-24479-6_4",
-    "s": "book"
    },
    {
     "d": "2024-10-15",
