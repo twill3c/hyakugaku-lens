@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T01:21:11Z",
+ "generated_at": "2026-11-17T04:09:23Z",
  "declared": 99,
  "verified": 90,
  "unreachable": 0,
@@ -2975,19 +2975,19 @@
      "ok": false
     },
     {
-     "id": "A5088363918",
-     "display_name": "Richard K. Baldwin",
-     "works_count": 21,
-     "inst_hit": [],
-     "domain_ok": false,
-     "ok": false
-    },
-    {
      "id": "A5056783460",
      "display_name": "Richard Baldwin",
      "works_count": 16,
      "inst_hit": [],
      "domain_ok": true,
+     "ok": false
+    },
+    {
+     "id": "A5088363918",
+     "display_name": "Richard K. Baldwin",
+     "works_count": 21,
+     "inst_hit": [],
+     "domain_ok": false,
      "ok": false
     },
     {
@@ -3007,19 +3007,19 @@
      "ok": false
     },
     {
-     "id": "A5129602163",
-     "display_name": "Richard Baldwin",
-     "works_count": 7,
-     "inst_hit": [],
-     "domain_ok": true,
-     "ok": false
-    },
-    {
      "id": "A5042820256",
      "display_name": "Richard Baldwin",
      "works_count": 32,
      "inst_hit": [],
      "domain_ok": false,
+     "ok": false
+    },
+    {
+     "id": "A5129602163",
+     "display_name": "Richard Baldwin",
+     "works_count": 7,
+     "inst_hit": [],
+     "domain_ok": true,
      "ok": false
     }
    ]
@@ -6724,7 +6724,7 @@
     {
      "id": "A5110092412",
      "display_name": "Martin John Rees",
-     "works_count": 922,
+     "works_count": 976,
      "inst_hit": [
       "Cambridge"
      ],
@@ -6750,7 +6750,7 @@
     {
      "id": "A5046143932",
      "display_name": "Martin Rees",
-     "works_count": 44,
+     "works_count": 41,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6935,9 +6935,9 @@
      "ok": false
     },
     {
-     "id": "A5112609309",
-     "display_name": "Amy Webb",
-     "works_count": 3,
+     "id": "A5055176805",
+     "display_name": "Amy Sage Webb",
+     "works_count": 8,
      "inst_hit": [],
      "domain_ok": true,
      "ok": false
