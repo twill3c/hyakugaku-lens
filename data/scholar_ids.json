@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T04:09:23Z",
+ "generated_at": "2026-11-18T03:06:41Z",
  "declared": 99,
  "verified": 90,
  "unreachable": 0,
@@ -2999,11 +2999,11 @@
      "ok": false
     },
     {
-     "id": "A5058474194",
-     "display_name": "R. Madey",
-     "works_count": 424,
+     "id": "A5113838514",
+     "display_name": "Robert Baldwin",
+     "works_count": 23,
      "inst_hit": [],
-     "domain_ok": false,
+     "domain_ok": true,
      "ok": false
     },
     {
@@ -6750,7 +6750,7 @@
     {
      "id": "A5046143932",
      "display_name": "Martin Rees",
-     "works_count": 41,
+     "works_count": 42,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false

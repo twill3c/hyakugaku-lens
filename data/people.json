@@ -347,9 +347,9 @@
     "s": "paper"
    },
    {
-    "d": "2026-04-16",
-    "t": "Social media and the mental health of children and adolescents",
-    "u": "https://doi.org/10.4126/frl01-006527806",
+    "d": "2026-01-01",
+    "t": "Artificial suffering: an argument for a global moratorium on synthetic phenomenology (Reprint)",
+    "u": "https://doi.org/10.14279/depositonce-26150",
     "s": "book"
    }
   ],
@@ -2188,6 +2188,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-11-16",
+    "t": "Legal Obligations for AI Explainability: Open Questions on Technical Methods",
+    "u": "https://doi.org/10.1007/978-3-032-45473-7_19",
+    "s": "paper"
+   },
+   {
     "d": "2026-02-24",
     "t": "Can Risks to Fundamental Rights Arising from AI Systems Be ‘Managed’ Alongside Health and Safety Risks? Implementing Article 9 of the EU AI Act",
     "u": "https://doi.org/10.1093/9780191996030.003.0021",
@@ -2197,12 +2203,6 @@
     "d": "2025-09-19",
     "t": "From ‘wild west’ to ‘responsible’ AI testing ‘in-the-wild’: lessons from live facial recognition testing by law enforcement authorities in Europe",
     "u": "https://doi.org/10.1017/dap.2025.10019",
-    "s": "paper"
-   },
-   {
-    "d": "2025-06-11",
-    "t": "Smart Justice? Making Sense of the Rise of Algorithm-Based Pre-trial Risk Assessment in Criminal Justice Through ‘Legal Models’",
-    "u": "https://doi.org/10.1007/s44206-025-00194-7",
     "s": "paper"
    }
   ],
@@ -2534,7 +2534,7 @@
     "d": "2020-08-14",
     "t": "Policy Analysis: Participatory Policy Analysis",
     "u": "https://doi.org/10.1081/e-epap3-464",
-    "s": "paper"
+    "s": "book"
    },
    {
     "d": "2019-01-01",
