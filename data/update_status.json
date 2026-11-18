@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-17T21:03:12Z",
- "ok": 24,
- "fail": 28,
+ "generated_at": "2026-11-18T07:40:50Z",
+ "ok": 25,
+ "fail": 27,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -116,9 +116,8 @@
    "n": "サンドラ・ワクター",
    "s": "mastodon",
    "feed": "https://eupolicy.social/@SandraWachter.rss",
-   "ok": false,
-   "count": 0,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 15
   },
   {
    "n": "ショシャナ・ズボフ",
@@ -286,7 +285,7 @@
    "s": "podcast",
    "feed": "https://feeds.megaphone.fm/ARML2708405200",
    "ok": true,
-   "count": 358
+   "count": 359
   },
   {
    "n": "ニック・クドリー",
