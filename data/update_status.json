@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-19T07:36:59Z",
- "ok": 24,
- "fail": 28,
+ "generated_at": "2026-11-19T20:46:26Z",
+ "ok": 25,
+ "fail": 27,
  "sources": [
   {
    "n": "アリソン・ゴプニック",
@@ -423,9 +423,8 @@
    "n": "ユヴァル・ノア・ハラリ",
    "s": "blog",
    "feed": "https://www.ynharari.com/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
+   "ok": true,
+   "count": 20
   },
   {
    "n": "リチャード・ボールドウィン",
