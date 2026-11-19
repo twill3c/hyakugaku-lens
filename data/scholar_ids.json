@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T03:06:41Z",
+ "generated_at": "2026-11-19T02:46:47Z",
  "declared": 99,
  "verified": 90,
  "unreachable": 0,
@@ -7240,7 +7240,7 @@
     {
      "id": "A5033049879",
      "display_name": "Takayuki Suzuki",
-     "works_count": 257,
+     "works_count": 255,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7352,7 +7352,7 @@
     {
      "id": "A5085562387",
      "display_name": "Hiroshi Toya",
-     "works_count": 16,
+     "works_count": 15,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false

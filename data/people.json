@@ -296,6 +296,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-11-17",
+    "t": "Epistemic Agency, Embodiment, and the Future of Participatory Democracy in the Age of AI",
+    "u": "https://doi.org/10.1007/978-3-658-51527-0_8",
+    "s": "book"
+   },
+   {
     "d": "2026-10-01",
     "t": "Toward a Process Philosophy of Technology",
     "u": "https://doi.org/10.4324/9781003610250-1",
@@ -305,12 +311,6 @@
     "d": "2026-10-01",
     "t": "Process Philosophy and Technology: New Directions",
     "u": "https://doi.org/10.4324/9781003610250",
-    "s": "book"
-   },
-   {
-    "d": "2026-10-01",
-    "t": "Technology as Process",
-    "u": "https://doi.org/10.4324/9781003610250-3",
     "s": "book"
    }
   ],
@@ -1269,6 +1269,12 @@
   "pub": [
    {
     "d": "2026-11-01",
+    "t": "LLM Time Machines: Valuing digital goods over time",
+    "u": "https://doi.org/10.1016/j.econlet.2026.113374",
+    "s": "paper"
+   },
+   {
+    "d": "2026-11-01",
     "t": "TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale",
     "u": "https://doi.org/10.3386/w35987",
     "s": "paper"
@@ -1277,12 +1283,6 @@
     "d": "2026-10-21",
     "t": "A Research Agenda for the Economics of Transformative AI",
     "u": "https://doi.org/10.1145/3769433",
-    "s": "paper"
-   },
-   {
-    "d": "2026-09-23",
-    "t": "Method, Mind, and Morality: How People Make Sense of Artificial Intelligence",
-    "u": "https://doi.org/10.1145/3816971",
     "s": "paper"
    }
   ],
@@ -2706,6 +2706,12 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-11-16",
+    "t": "Gender and Valuation in Venture Capital",
+    "u": "https://doi.org/10.1111/1468-4446.70191",
+    "s": "paper"
+   },
+   {
     "d": "2026-03-16",
     "t": "Gendered inequalities in online harms: Fear, safety work, and online participation",
     "u": "https://doi.org/10.1016/j.chb.2026.108990",
@@ -2715,12 +2721,6 @@
     "d": "2026-02-16",
     "t": "Venture capital as male-lens investing",
     "u": "https://doi.org/10.1093/cje/beag008",
-    "s": "paper"
-   },
-   {
-    "d": "2025-11-01",
-    "t": "From Connection to Optimization",
-    "u": "https://doi.org/10.1086/737464",
     "s": "paper"
    }
   ],
@@ -3699,12 +3699,6 @@
   ],
   "pub": [
    {
-    "d": "2026-11-12",
-    "t": "Primer: An AI Framework for Instructor-Centered Educational Simulation Creation",
-    "u": "https://doi.org/10.48550/arxiv.2611.16986",
-    "s": "paper"
-   },
-   {
     "d": "2026-07-22",
     "t": "Artificial intelligence and its impact on creativity and diversity: An empirical study of large language model-generated product ideas",
     "u": "https://doi.org/10.1177/10591478261474243",
@@ -3714,6 +3708,12 @@
     "d": "2026-06-12",
     "t": "The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork",
     "u": "https://doi.org/10.1287/orsc.2025.20702",
+    "s": "paper"
+   },
+   {
+    "d": "2026-05-19",
+    "t": "Persuading large language models to comply with objectionable requests",
+    "u": "https://doi.org/10.1073/pnas.2535868123",
     "s": "paper"
    }
   ],
