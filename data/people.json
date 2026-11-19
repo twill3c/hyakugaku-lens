@@ -1517,6 +1517,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-28",
+    "t": "Aesthetics: A Conversation with Tyler Cowen",
+    "u": "https://www.youtube.com/watch?v=Hc0PauTygbY",
+    "s": "yt",
+    "o": "UTD Art History"
+   },
+   {
     "d": "2026-08-19",
     "t": "Why Is Tyler Cowen Optimistic About AI?",
     "u": "https://www.youtube.com/watch?v=HGkoxpyo-cs",
@@ -1529,13 +1536,6 @@
     "u": "https://www.youtube.com/watch?v=zh9nAWViBFw",
     "s": "yt",
     "o": "Michael Easter"
-   },
-   {
-    "d": "2026-08-12",
-    "t": "\"AI will change everything, just not all at once\" | Tyler Cowen | Strange Loop | Ep 6",
-    "u": "https://www.youtube.com/watch?v=DUUVPdmkIZQ",
-    "s": "yt",
-    "o": "Sana"
    }
   ]
  },
@@ -3187,13 +3187,6 @@
     "u": "https://www.youtube.com/watch?v=k1aMQrIRhF8",
     "s": "yt",
     "o": "Eurelectric"
-   },
-   {
-    "d": "2026-05-22",
-    "t": "AI as Social Technology: Astor Lecture by Professor Henry Farrell",
-    "u": "https://www.youtube.com/watch?v=RSE6Q7lRvW8",
-    "s": "yt",
-    "o": "Blavatnik School of Government"
    }
   ]
  },
