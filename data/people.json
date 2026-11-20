@@ -2297,12 +2297,6 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-01-01",
-    "t": "Artificial intimacy who we become when we talk to machines",
-    "u": "https://openalex.org/W7221378802",
-    "s": "book"
-   },
-   {
     "d": "2025-02-04",
     "t": "Who Do We Become When We Talk to Machines?",
     "u": "https://doi.org/10.3233/faia241477",
@@ -2312,6 +2306,12 @@
     "d": "2024-05-14",
     "t": "TANGLING WITH FREUD IN A POST-FREUDIAN WORLD",
     "u": "https://doi.org/10.1515/9780691242446-017",
+    "s": "book"
+   },
+   {
+    "d": "2024-03-24",
+    "t": "Romantic Reactions: Paradoxical Responses to the Computer Presence",
+    "u": "https://doi.org/10.2307/jj.13167945.16",
     "s": "book"
    }
   ],
