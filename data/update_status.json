@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T07:22:57Z",
+ "generated_at": "2026-11-21T19:27:11Z",
  "ok": 25,
  "fail": 27,
  "sources": [
@@ -66,7 +66,7 @@
    "s": "podcast",
    "feed": "https://feeds.simplecast.com/ibBxsiVV",
    "ok": true,
-   "count": 451
+   "count": 452
   },
   {
    "n": "イーサン・モリック",
@@ -217,10 +217,7 @@
    "s": "blog",
    "feed": "https://marginalrevolution.com/feed",
    "ok": true,
-   "count": 14,
-   "dropped": {
-    "著者条件に一致せず": 1
-   }
+   "count": 15
   },
   {
    "n": "ダイアン・コイル",

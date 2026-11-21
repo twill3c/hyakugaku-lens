@@ -62,21 +62,21 @@
   "bio": "情報そのものを哲学の第一対象に据える「情報の哲学」を創始し、人間を情報有機体(inforg)、生活空間をオンラインとオフラインが融合したインフォスフィアとして描いた。EUのAI倫理指針づくりに深く関与し、原則の乱立を五原則へ整理した仕事でも知られる。近年は生成AIを「意味を持たない行為主体」と規定する議論を展開している。",
   "own": [
    {
+    "d": "2026-11-21",
+    "t": "\"I docenti con l’intelligenza artificiale risparmiano tempo, ma devono controlla…",
+    "u": "https://mastodon.world/@lucianofloridi/117654948152954921",
+    "s": "mastodon"
+   },
+   {
+    "d": "2026-11-21",
+    "t": "Luciano Floridi Receives 2026 International Strega Prize for Non-Fiction in Rome…",
+    "u": "https://mastodon.world/@lucianofloridi/117654895093896648",
+    "s": "mastodon"
+   },
+   {
     "d": "2026-11-09",
     "t": "Ci vediamo di persona a Roma e a Milano per dialogare sullo statuto della filoso…",
     "u": "https://mastodon.world/@lucianofloridi/117587279406242429",
-    "s": "mastodon"
-   },
-   {
-    "d": "2026-11-08",
-    "t": "Ho iniziato la collaborazione con QN, con grande entusiasmo. 🤓 Spero di non delu…",
-    "u": "https://mastodon.world/@lucianofloridi/117581840500972172",
-    "s": "mastodon"
-   },
-   {
-    "d": "2026-11-04",
-    "t": "D. Bawden, T. Gorichanaz, J. Furner, L. Robinson, M. Ma, K. Herold, B. Van der V…",
-    "u": "https://mastodon.world/@lucianofloridi/117560608910559515",
     "s": "mastodon"
    }
   ],
@@ -748,6 +748,12 @@
   "bio": "技術は中立な道具でも外的な脅威でもなく、人間と世界の関係を媒介し道徳性そのものを形づくる——という技術媒介論を『What Things Do』『Moralizing Technology』で展開した。ユネスコのAI倫理勧告の起草に関わり、設計段階に倫理を組み込む実践(倫理的パラレル研究)を提唱する。",
   "own": [
    {
+    "d": "2026-11-21",
+    "t": "Interview: AI in de wetenschap",
+    "u": "https://ppverbeek.org/2026/11/21/interview-ai-in-de-wetenschap/",
+    "s": "blog"
+   },
+   {
     "d": "2026-01-15",
     "t": "Diesrede UvA 2026",
     "u": "https://ppverbeek.org/2026/01/15/diesrede-uva-2026/",
@@ -757,12 +763,6 @@
     "d": "2025-10-20",
     "t": "Interview AT5: universiteitsprotesten en de waarde van wetenschap",
     "u": "https://ppverbeek.org/2025/10/20/interview-at5-universiteitsprotesten-en-de-waarde-van-wetenschap/",
-    "s": "blog"
-   },
-   {
-    "d": "2025-10-20",
-    "t": "Opinie-artikel: houd de universiteit vrij van toegangspoortjes",
-    "u": "https://ppverbeek.org/2025/10/20/opinie-artikel-houd-de-universiteit-vrij-van-toegangspoortjes/",
     "s": "blog"
    }
   ],
@@ -1478,20 +1478,20 @@
   "own": [
    {
     "d": "2026-11-21",
-    "t": "Emergent Ventures, 60th cohort",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/emergent-ventures-60th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-60th-cohort",
+    "t": "Saturday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-587",
     "s": "blog"
    },
    {
-    "d": "2026-11-20",
-    "t": "What should I ask Walter Isaacson?",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-walter-isaacson.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-walter-isaacson",
+    "d": "2026-11-21",
+    "t": "A simple observation",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/a-simple-observation.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-observation",
     "s": "blog"
    },
    {
-    "d": "2026-11-20",
-    "t": "Friday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-600.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-600",
+    "d": "2026-11-21",
+    "t": "Paul Litvak’s Evidence Guide",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/paul-litvaks-evidence-guide.html?utm_source=rss&utm_medium=rss&utm_campaign=paul-litvaks-evidence-guide",
     "s": "blog"
    }
   ],
@@ -3106,6 +3106,12 @@
   ],
   "yt": [
    {
+    "d": "2026-11-21",
+    "t": "Latin America's political future, with Michelle Bachelet and Iván Duque",
+    "u": "https://gzeroworld.simplecast.com/episodes/latin-americas-political-future-with-michelle-bachelet-and-ivan-duque-_U51kIon",
+    "s": "podcast"
+   },
+   {
     "d": "2026-11-14",
     "t": "The high-stakes race to control AI, with Ben Buchanan",
     "u": "https://gzeroworld.simplecast.com/episodes/the-high-stakes-race-to-control-ai-with-ben-buchanan-K6okzgHT",
@@ -3115,12 +3121,6 @@
     "d": "2026-10-31",
     "t": "Europe under pressure, with Polish Foreign Minister Radoslaw Sikorski",
     "u": "https://gzeroworld.simplecast.com/episodes/europe-under-pressure-with-polish-foreign-minister-radoslaw-sikorski-_g3jxZph",
-    "s": "podcast"
-   },
-   {
-    "d": "2026-10-24",
-    "t": "Middle East elections and escalation, with Brett McGurk",
-    "u": "https://gzeroworld.simplecast.com/episodes/middle-east-elections-and-escalation-with-brett-mcgurk-lhEO1vfP",
     "s": "podcast"
    }
   ]
