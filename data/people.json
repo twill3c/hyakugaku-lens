@@ -257,7 +257,7 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-10-09",
+    "d": "2026-10-10",
     "t": "AI Ethics and Governance",
     "u": "https://doi.org/10.1007/978-981-92-1261-3_2",
     "s": "book"
@@ -296,7 +296,7 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-11-17",
+    "d": "2026-11-18",
     "t": "Epistemic Agency, Embodiment, and the Future of Participatory Democracy in the Age of AI",
     "u": "https://doi.org/10.1007/978-3-658-51527-0_8",
     "s": "book"
@@ -710,7 +710,7 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-10-09",
+    "d": "2026-10-10",
     "t": "AI Ethics and Governance",
     "u": "https://doi.org/10.1007/978-981-92-1261-3_2",
     "s": "book"
@@ -1175,7 +1175,7 @@
     "s": "paper"
    },
    {
-    "d": "2026-02-04",
+    "d": "2026-02-05",
     "t": "From Algorithmic Thinking to Thinking Machines: Four Theses on the Position of Artificial Intelligence in the History of Technoscience",
     "u": "https://doi.org/10.1007/978-3-658-44521-8_103",
     "s": "book"
@@ -1268,8 +1268,8 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-11-01",
-    "t": "LLM Time Machines: Valuing digital goods over time",
+    "d": "2026-11-17",
+    "t": "LLM time machines: Valuing digital goods over time",
     "u": "https://doi.org/10.1016/j.econlet.2026.113374",
     "s": "paper"
    },
@@ -1280,7 +1280,7 @@
     "s": "paper"
    },
    {
-    "d": "2026-10-21",
+    "d": "2026-10-30",
     "t": "A Research Agenda for the Economics of Transformative AI",
     "u": "https://doi.org/10.1145/3769433",
     "s": "paper"
@@ -1392,7 +1392,7 @@
     "s": "paper"
    },
    {
-    "d": "2026-01-28",
+    "d": "2026-03-09",
     "t": "Death of distance? Remote collaboration and scientific breakthroughs",
     "u": "https://doi.org/10.1093/icc/dtag012",
     "s": "paper"
@@ -1556,7 +1556,7 @@
     "s": "paper"
    },
    {
-    "d": "2026-10-21",
+    "d": "2026-10-30",
     "t": "A Research Agenda for the Economics of Transformative AI",
     "u": "https://doi.org/10.1145/3769433",
     "s": "paper"
@@ -1797,7 +1797,7 @@
     "s": "book"
    },
    {
-    "d": "2025-09-17",
+    "d": "2025-10-24",
     "t": "Directed technological change: a history and a critical agenda",
     "u": "https://doi.org/10.1093/oxrep/graf025",
     "s": "paper"
@@ -2004,7 +2004,7 @@
     "s": "paper"
    },
    {
-    "d": "2026-04-10",
+    "d": "2026-04-11",
     "t": "The EU Legal Choice Architecture (CA) for General-Purpose AI Models (GPAI Models)",
     "u": "https://doi.org/10.1007/978-3-031-61050-9_26-1",
     "s": "book"
@@ -2188,7 +2188,7 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-11-16",
+    "d": "2026-11-17",
     "t": "Legal Obligations for AI Explainability: Open Questions on Technical Methods",
     "u": "https://doi.org/10.1007/978-3-032-45473-7_19",
     "s": "paper"
@@ -2597,7 +2597,7 @@
   ],
   "pub": [
    {
-    "d": "2026-06-23",
+    "d": "2026-06-25",
     "t": "Reckoning with the Political Economy of AI: Avoiding Decoys in Pursuit of Accountability",
     "u": "https://doi.org/10.1145/3805689.3806739",
     "s": "paper"
@@ -2642,15 +2642,15 @@
     "s": "book"
    },
    {
-    "d": "2026-09-17",
-    "t": "Ignore the big tech propheteers – counter thoughts on AI’s future",
-    "u": "https://openalex.org/W7221271241",
+    "d": "2026-10-07",
+    "t": "Is your phone listening to you? \"Everything is organised around the assumption that you will give up this data.\"",
+    "u": "https://openalex.org/W7236916080",
     "s": "paper"
    },
    {
-    "d": "2026-06-11",
-    "t": "AI's impending social crisis",
-    "u": "https://openalex.org/W7169484786",
+    "d": "2026-09-17",
+    "t": "Ignore the big tech propheteers – counter thoughts on AI’s future",
+    "u": "https://openalex.org/W7221271241",
     "s": "paper"
    }
   ],
@@ -2675,7 +2675,7 @@
   "own": [],
   "pub": [
    {
-    "d": "2026-04-16",
+    "d": "2026-05-18",
     "t": "What Alternatives for Social Media do Public Organizations Need? Developing a Value Proposition for Public Service Social Media Design",
     "u": "https://doi.org/10.1145/3809498",
     "s": "paper"
@@ -2688,8 +2688,8 @@
    },
    {
     "d": "2025-10-01",
-    "t": "YouTube beyond technology and cultural form",
-    "u": "https://doi.org/10.4324/9781003690559-13",
+    "t": "The Dutch Polder Model in science and research",
+    "u": "https://doi.org/10.5117/9789462988163",
     "s": "book"
    }
   ],
@@ -2718,7 +2718,7 @@
     "s": "paper"
    },
    {
-    "d": "2026-02-16",
+    "d": "2026-03-12",
     "t": "Venture capital as male-lens investing",
     "u": "https://doi.org/10.1093/cje/beag008",
     "s": "paper"
@@ -3167,9 +3167,9 @@
     "s": "paper"
    },
    {
-    "d": "2025-03-13",
-    "t": "Large AI models are cultural and social technologies",
-    "u": "https://doi.org/10.1126/science.adt9819",
+    "d": "2025-03-17",
+    "t": "Driven to Self-Reliance: Technological Interdependence and the Chinese Innovation Ecosystem",
+    "u": "https://doi.org/10.1093/isq/sqaf017",
     "s": "paper"
    }
   ],
@@ -3482,21 +3482,21 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-12-01",
+    "t": "Investigating the validity of picture-based assessments across cultures and contexts: Evidence from young children in Kenya and the United States.",
+    "u": "https://doi.org/10.1037/dev0002050",
+    "s": "paper"
+   },
+   {
+    "d": "2026-11-19",
+    "t": "Childhood Consciousness and Numinous Experience",
+    "u": "https://doi.org/10.1093/oxfordhb/9780192844064.013.7",
+    "s": "book"
+   },
+   {
     "d": "2026-11-04",
     "t": "Intrinsically motivated humans and agents in open-world exploration",
     "u": "https://doi.org/10.1073/pnas.2612366123",
-    "s": "paper"
-   },
-   {
-    "d": "2026-10-15",
-    "t": "Empowerment Gain as Causal Learning, Causal Learning as Empowerment Gain: A Bridge between Bayesian Causal Hypothesis Testing and Reinforcement Learning",
-    "u": "https://doi.org/10.1017/psa.2026.10285",
-    "s": "paper"
-   },
-   {
-    "d": "2026-09-24",
-    "t": "The Great and Good John Flavell",
-    "u": "https://doi.org/10.1080/15248372.2026.2735255",
     "s": "paper"
    }
   ],
@@ -3607,21 +3607,21 @@
   "own": [],
   "pub": [
    {
+    "d": "2026-11-19",
+    "t": "Supplementary material from \"Group selection as a safeguard against AI substitution\"",
+    "u": "https://doi.org/10.6084/m9.figshare.c.8851813",
+    "s": "paper"
+   },
+   {
+    "d": "2026-11-19",
+    "t": "Supplementary Materials from Group selection as a safeguard against AI substitution",
+    "u": "https://doi.org/10.6084/m9.figshare.35060158",
+    "s": "paper"
+   },
+   {
     "d": "2026-11-12",
     "t": "Hybrid Clinician-in-the-Loop Monitoring System for LLM Conversational Agents",
     "u": "https://doi.org/10.1145/3838183",
-    "s": "paper"
-   },
-   {
-    "d": "2026-09-18",
-    "t": "Large language models as human proxies",
-    "u": "https://doi.org/10.1038/s43588-026-01060-3",
-    "s": "paper"
-   },
-   {
-    "d": "2026-09-14",
-    "t": "Time Machine Experiments: Using Historically-Bounded AI for Inquiry into the Human Mind",
-    "u": "https://doi.org/10.48550/arxiv.2609.15468",
     "s": "paper"
    }
   ],
@@ -3876,7 +3876,7 @@
     "s": "paper"
    },
    {
-    "d": "2006-10-25",
+    "d": "2006-10-26",
     "t": "The ethics in Japanese information society: Consideration on Francisco Varela’s The Embodied Mind from the perspective of fundamental informatics",
     "u": "https://doi.org/10.1007/s10676-006-9115-1",
     "s": "paper"
@@ -3952,7 +3952,7 @@
     "s": "paper"
    },
    {
-    "d": "2025-04-24",
+    "d": "2025-04-25",
     "t": "Beyond Click to Cognition: Effective Interventions for Promoting Examination of False Beliefs in Misinformation",
     "u": "https://doi.org/10.1145/3706598.3714243",
     "s": "paper"
@@ -4110,7 +4110,7 @@
   "own": [],
   "pub": [
    {
-    "d": "2022-11-14",
+    "d": "2022-11-15",
     "t": "Japan’s Broadcasting System from the Perspective of Its Demographics in 2040",
     "u": "https://doi.org/10.1007/978-981-19-4699-8_2",
     "s": "book"
@@ -4229,7 +4229,7 @@
     "s": "paper"
    },
    {
-    "d": "2024-05-09",
+    "d": "2024-05-17",
     "t": "Relationship between assistant’s lens exposure and dose information during computed tomography examinations",
     "u": "https://doi.org/10.1088/1361-6498/ad4903",
     "s": "paper"
