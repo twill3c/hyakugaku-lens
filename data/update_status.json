@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T19:27:11Z",
+ "generated_at": "2026-11-22T07:03:19Z",
  "ok": 25,
  "fail": 27,
  "sources": [
@@ -134,9 +134,9 @@
    "s": "blog",
    "feed": "https://balkin.blogspot.com/feeds/posts/default",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "dropped": {
-    "著者条件に一致せず": 21
+    "著者条件に一致せず": 22
    }
   },
   {
@@ -282,7 +282,7 @@
    "s": "podcast",
    "feed": "https://feeds.megaphone.fm/ARML2708405200",
    "ok": true,
-   "count": 359
+   "count": 360
   },
   {
    "n": "ニック・クドリー",
