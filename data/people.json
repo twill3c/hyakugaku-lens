@@ -1477,6 +1477,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-11-23",
+    "t": "Best non-fiction books of 2026",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/best-non-fiction-books-of-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-non-fiction-books-of-2026",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-22",
     "t": "Increasing pay for lower wage workers",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html?utm_source=rss&utm_medium=rss&utm_campaign=increasing-pay-for-lower-wage-workers",
@@ -1486,12 +1492,6 @@
     "d": "2026-11-22",
     "t": "Sunday assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-591",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-22",
-    "t": "Danish daughters",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/danish-daughters.html?utm_source=rss&utm_medium=rss&utm_campaign=danish-daughters",
     "s": "blog"
    }
   ],
@@ -3534,21 +3534,21 @@
   "bio": "深層学習だけでは頑健な知能に到達しないと2012年から主張し続ける認知科学者。『Rebooting AI』でニューロシンボリックな路線を説き、幻覚・推論の脆さ・スケーリングの限界を具体的な失敗例で示す。米上院公聴会でサム・アルトマンと並んで証言し、Substack で最も精力的に発信するAI批評家のひとり。",
   "own": [
    {
-    "d": "2026-11-14",
-    "t": "What could possibly go wrong? Nationwide FAA Ground Stop edition",
-    "u": "https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide",
+    "d": "2026-11-22",
+    "t": "Levent Alpöge has solved the Riemann Hypothesis with help of Claude! What does it mean?",
+    "u": "https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann",
     "s": "substack"
    },
    {
-    "d": "2026-11-13",
-    "t": "The great Generative AI unraveling",
-    "u": "https://garymarcus.substack.com/p/the-great-generative-ai-unraveling",
+    "d": "2026-11-20",
+    "t": "Breaking: Anthropic stock is crashing, and AI stocks have lost over 50% in 5 months.",
+    "u": "https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing",
     "s": "substack"
    },
    {
-    "d": "2026-11-12",
-    "t": "Jensen Huang resigns.",
-    "u": "https://garymarcus.substack.com/p/jensen-huang-resigns",
+    "d": "2026-11-19",
+    "t": "Breaking: It doesn’t look Anthropic’s IPO is going to save the tech industry",
+    "u": "https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics",
     "s": "substack"
    }
   ],
