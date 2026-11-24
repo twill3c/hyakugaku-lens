@@ -1471,20 +1471,20 @@
   "own": [
    {
     "d": "2026-11-24",
-    "t": "Best fiction 2026",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/best-fiction-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-fiction-2026",
+    "t": "Gambling for Goals",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/gambling-for-goals.html?utm_source=rss&utm_medium=rss&utm_campaign=gambling-for-goals",
     "s": "blog"
    },
    {
     "d": "2026-11-24",
-    "t": "The Health Effects of Eating Red Meat",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/the-health-effects-of-eating-red-meat.html?utm_source=rss&utm_medium=rss&utm_campaign=the-health-effects-of-eating-red-meat",
+    "t": "Tuesday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-596.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-596",
     "s": "blog"
    },
    {
-    "d": "2026-11-23",
-    "t": "The AI gains that gdp misses",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/the-ai-gains-that-gdp-misses.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ai-gains-that-gdp-misses",
+    "d": "2026-11-24",
+    "t": "Best fiction 2026",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/best-fiction-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-fiction-2026",
     "s": "blog"
    }
   ],
@@ -3129,6 +3129,12 @@
   "bio": "エイブラハム・ニューマンとの『Underground Empire』で、金融・通信のネットワークの結節点を握る米国が経済を武器化する構図(weaponized interdependence)を描いた。コスマ・シャリツィとの共著論考ではAIを市場や官僚制と並ぶ社会的情報処理装置として位置づける。Programmable Mutter で発信する。",
   "own": [
    {
+    "d": "2026-11-24",
+    "t": "Silicon Valley got just what it wanted on Jensen",
+    "u": "https://www.programmablemutter.com/p/silicon-valley-got-just-what-it-wanted",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-10",
     "t": "Mike Harrison has won the Booker Prize",
     "u": "https://www.programmablemutter.com/p/mike-harrison-has-won-the-booker",
@@ -3138,12 +3144,6 @@
     "d": "2026-11-01",
     "t": "The foreign policy “Blob” exists",
     "u": "https://www.programmablemutter.com/p/the-foreign-policy-blob-exists",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-29",
-    "t": "Agentic AI is myth set in motion",
-    "u": "https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion",
     "s": "blog"
    }
   ],
@@ -3403,6 +3403,12 @@
   "bio": "『言語を生みだす本能』『暴力の人類史』『Enlightenment Now』で知られる認知科学者。AIの実存的リスク論に対しては最も声の大きい懐疑派のひとりで、知能と支配欲は別物であり、破局シナリオは擬人化の産物だと論じる。『Rationality』では合理性の道具立てを説き、悲観論と楽観論の双方に統計的検証を求める。",
   "own": [
    {
+    "d": "2026-11-24",
+    "t": "Quillette: Will We All Go Together When We Go?",
+    "u": "https://stevenpinker.com/news/quillette-will-we-all-go-together-when-we-go",
+    "s": "blog"
+   },
+   {
     "d": "2026-09-04",
     "t": "Boston Globe: What Harvard (and the rest of higher ed) still needs to do to fix itself",
     "u": "https://stevenpinker.com/news/boston-globe-what-harvard-and-rest-higher-ed-still-needs-do-fix-itself",
@@ -3412,12 +3418,6 @@
     "d": "2026-08-17",
     "t": "PNAS: Recursive mentalizing and public salience in the perception of common knowledge",
     "u": "https://stevenpinker.com/news/pnas-recursive-mentalizing-and-public-salience-perception-common-knowledge",
-    "s": "blog"
-   },
-   {
-    "d": "2026-08-10",
-    "t": "RLS: Steven Pinker’s ‘The Blank Slate’ Was a Warning We Ignored",
-    "u": "https://stevenpinker.com/news/rls-steven-pinkers-blank-slate-was-warning-we-ignored",
     "s": "blog"
    }
   ],
@@ -3528,21 +3528,21 @@
   "bio": "深層学習だけでは頑健な知能に到達しないと2012年から主張し続ける認知科学者。『Rebooting AI』でニューロシンボリックな路線を説き、幻覚・推論の脆さ・スケーリングの限界を具体的な失敗例で示す。米上院公聴会でサム・アルトマンと並んで証言し、Substack で最も精力的に発信するAI批評家のひとり。",
   "own": [
    {
-    "d": "2026-11-22",
-    "t": "Levent Alpöge has solved the Riemann Hypothesis with help of Claude! What does it mean?",
-    "u": "https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann",
+    "d": "2026-11-24",
+    "t": "BREAKING: Employees at OpenAI and Anthropic are panicking",
+    "u": "https://garymarcus.substack.com/p/breaking-employees-at-openai-and",
     "s": "substack"
    },
    {
-    "d": "2026-11-20",
-    "t": "Breaking: Anthropic stock is crashing, and AI stocks have lost over 50% in 5 months.",
-    "u": "https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing",
+    "d": "2026-11-24",
+    "t": "Breaking: When it comes to generative AI, the bump from rehiring Jensen doesn’t appear to be holding",
+    "u": "https://garymarcus.substack.com/p/breaking-when-it-comes-to-generative",
     "s": "substack"
    },
    {
-    "d": "2026-11-19",
-    "t": "Breaking: It doesn’t look Anthropic’s IPO is going to save the tech industry",
-    "u": "https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics",
+    "d": "2026-11-23",
+    "t": "Could Jensengate take down the President?",
+    "u": "https://garymarcus.substack.com/p/could-jensengate-take-down-the-president",
     "s": "substack"
    }
   ],
