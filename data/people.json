@@ -62,6 +62,12 @@
   "bio": "情報そのものを哲学の第一対象に据える「情報の哲学」を創始し、人間を情報有機体(inforg)、生活空間をオンラインとオフラインが融合したインフォスフィアとして描いた。EUのAI倫理指針づくりに深く関与し、原則の乱立を五原則へ整理した仕事でも知られる。近年は生成AIを「意味を持たない行為主体」と規定する議論を展開している。",
   "own": [
    {
+    "d": "2026-11-23",
+    "t": "Luciano Floridi, filósofo: “La teoría del apocalipsis de la IA es la suma de des…",
+    "u": "https://mastodon.world/@lucianofloridi/117667506482315835",
+    "s": "mastodon"
+   },
+   {
     "d": "2026-11-21",
     "t": "\"I docenti con l’intelligenza artificiale risparmiano tempo, ma devono controlla…",
     "u": "https://mastodon.world/@lucianofloridi/117654948152954921",
@@ -71,12 +77,6 @@
     "d": "2026-11-21",
     "t": "Luciano Floridi Receives 2026 International Strega Prize for Non-Fiction in Rome…",
     "u": "https://mastodon.world/@lucianofloridi/117654895093896648",
-    "s": "mastodon"
-   },
-   {
-    "d": "2026-11-09",
-    "t": "Ci vediamo di persona a Roma e a Milano per dialogare sullo statuto della filoso…",
-    "u": "https://mastodon.world/@lucianofloridi/117587279406242429",
     "s": "mastodon"
    }
   ],
@@ -1478,20 +1478,20 @@
   "own": [
    {
     "d": "2026-11-23",
+    "t": "The AI gains that gdp misses",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/the-ai-gains-that-gdp-misses.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ai-gains-that-gdp-misses",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-23",
+    "t": "Monday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-587",
+    "s": "blog"
+   },
+   {
+    "d": "2026-11-23",
     "t": "Best non-fiction books of 2026",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/best-non-fiction-books-of-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-non-fiction-books-of-2026",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-22",
-    "t": "Increasing pay for lower wage workers",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html?utm_source=rss&utm_medium=rss&utm_campaign=increasing-pay-for-lower-wage-workers",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-22",
-    "t": "Sunday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-591",
     "s": "blog"
    }
   ],
@@ -3066,6 +3066,12 @@
   "bio": "政治リスク分析会社ユーラシア・グループの創業者。国家に代わりテック企業が地政学的アクターになる「技術極(technopolar)世界」という概念を提示し、国連の AI 諮問機関にも加わった。年頭のトップリスク・レポートは各国の政策担当者に読まれ、GZERO メディアを通じて発信を続ける。",
   "own": [
    {
+    "d": "2026-11-23",
+    "t": "What Jensen Huang’s return means for Trump and China",
+    "u": "https://www.gzeromedia.com/video/quick-take/what-jensen-huangs-return-means-for-trump-and-china",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-19",
     "t": "What the Trump-Xi-Putin meeting reveals about global power",
     "u": "https://www.gzeromedia.com/video/ask-ian/what-the-trump-xi-putin-meeting-reveals-about-global-power",
@@ -3075,12 +3081,6 @@
     "d": "2026-11-18",
     "t": "The Trump-Xi summit can't escape the fallout of Nvidia's spygate",
     "u": "https://www.gzeromedia.com/news/by-ian-bremmer/the-trump-xi-summit-cant-escape-the-fallout-of-nvidias-spygate",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-17",
-    "t": "Ukraine strikes Crimean Bridge ahead of Trump, Putin, and Xi meeting",
-    "u": "https://www.gzeromedia.com/video/quick-take/ukraine-strikes-crimean-bridge-ahead-of-trump-putin-and-xi-meeting",
     "s": "blog"
    }
   ],
