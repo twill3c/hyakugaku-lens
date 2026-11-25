@@ -1471,20 +1471,20 @@
   "own": [
    {
     "d": "2026-11-25",
-    "t": "Avoiding disempowerment through protectionism?",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/avoiding-disempowerment-through-protectionism.html?utm_source=rss&utm_medium=rss&utm_campaign=avoiding-disempowerment-through-protectionism",
+    "t": "AI in research",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/ai-in-research.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-research",
     "s": "blog"
    },
    {
-    "d": "2026-11-24",
-    "t": "Gambling for Goals",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/gambling-for-goals.html?utm_source=rss&utm_medium=rss&utm_campaign=gambling-for-goals",
+    "d": "2026-11-25",
+    "t": "Wednesday assorted links",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-581",
     "s": "blog"
    },
    {
-    "d": "2026-11-24",
-    "t": "Tuesday assorted links",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-596.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-596",
+    "d": "2026-11-25",
+    "t": "How did the United States become a lawyerly society?",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/how-did-the-united-states-become-a-lawyerly-society.html?utm_source=rss&utm_medium=rss&utm_campaign=how-did-the-united-states-become-a-lawyerly-society",
     "s": "blog"
    }
   ],
@@ -2935,6 +2935,12 @@
   "bio": "『サピエンス全史』で虚構を共有する能力を人類の力の源泉として描き、『ホモ・デウス』でデータ至上主義の到来を論じた歴史学者。『NEXUS』(2024)では情報ネットワークの歴史からAIを捉え、AIは道具ではなく自ら決定を下す「エージェント」であり、人類史上初めて物語を生成できる存在だと警告する。",
   "own": [
    {
+    "d": "2026-11-25",
+    "t": "AI, Consciousness and the Future of Humanity",
+    "u": "https://www.ynharari.com/ai-consciousness-and-the-future-of-humanity/",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-09",
     "t": "AI will create digital vassal states",
     "u": "https://www.ynharari.com/ai-will-create-digital-vassal-states/",
@@ -2944,12 +2950,6 @@
     "d": "2026-11-01",
     "t": "AI is hacking the code of civilization",
     "u": "https://www.ynharari.com/78452/",
-    "s": "blog"
-   },
-   {
-    "d": "2026-10-12",
-    "t": "‘Fascism isn’t the worst-case scenario. Fascism is still human’",
-    "u": "https://www.ynharari.com/fascism-isnt-the-worst-case-scenario-fascism-is-still-human/",
     "s": "blog"
    }
   ],
@@ -3059,6 +3059,12 @@
   "bio": "政治リスク分析会社ユーラシア・グループの創業者。国家に代わりテック企業が地政学的アクターになる「技術極(technopolar)世界」という概念を提示し、国連の AI 諮問機関にも加わった。年頭のトップリスク・レポートは各国の政策担当者に読まれ、GZERO メディアを通じて発信を続ける。",
   "own": [
    {
+    "d": "2026-11-25",
+    "t": "Are the US and Europe moving closer on Ukraine?",
+    "u": "https://www.gzeromedia.com/video/ask-ian/are-the-us-and-europe-moving-closer-on-ukraine",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-23",
     "t": "What Jensen Huang’s return means for Trump and China",
     "u": "https://www.gzeromedia.com/video/quick-take/what-jensen-huangs-return-means-for-trump-and-china",
@@ -3068,12 +3074,6 @@
     "d": "2026-11-19",
     "t": "What the Trump-Xi-Putin meeting reveals about global power",
     "u": "https://www.gzeromedia.com/video/ask-ian/what-the-trump-xi-putin-meeting-reveals-about-global-power",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-18",
-    "t": "The Trump-Xi summit can't escape the fallout of Nvidia's spygate",
-    "u": "https://www.gzeromedia.com/news/by-ian-bremmer/the-trump-xi-summit-cant-escape-the-fallout-of-nvidias-spygate",
     "s": "blog"
    }
   ],
