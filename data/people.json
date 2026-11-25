@@ -102,6 +102,13 @@
   ],
   "yt": [
    {
+    "d": "2026-11-23",
+    "t": "Qual è il rapporto tra ETICA e LEGGE? | FILOSOFIA con Luciano Floridi",
+    "u": "https://www.youtube.com/watch?v=mRelE9cWGVk",
+    "s": "yt",
+    "o": "ORBITS - Luciano Floridi"
+   },
+   {
     "d": "2026-10-19",
     "t": "Il futuro della scrittura con l'AI | FILOSOFIA con Luciano Floridi",
     "u": "https://www.youtube.com/watch?v=rpUrDx35AcQ",
@@ -112,13 +119,6 @@
     "d": "2026-09-28",
     "t": "Non esiste AI senza CAPITALE SEMANTICO | FILOSOFIA con Luciano Floridi",
     "u": "https://www.youtube.com/watch?v=zdv9JLouC64",
-    "s": "yt",
-    "o": "ORBITS - Luciano Floridi"
-   },
-   {
-    "d": "2026-09-14",
-    "t": "A che cosa serve l'AI? | FILOSOFIA con Luciano Floridi",
-    "u": "https://www.youtube.com/watch?v=2OrZ5FyjCVc",
     "s": "yt",
     "o": "ORBITS - Luciano Floridi"
    }
@@ -1510,6 +1510,13 @@
   ],
   "yt": [
    {
+    "d": "2026-08-28",
+    "t": "Aesthetics: A Conversation with Tyler Cowen",
+    "u": "https://www.youtube.com/watch?v=Hc0PauTygbY",
+    "s": "yt",
+    "o": "UTD Art History"
+   },
+   {
     "d": "2026-08-19",
     "t": "Why Is Tyler Cowen Optimistic About AI?",
     "u": "https://www.youtube.com/watch?v=HGkoxpyo-cs",
@@ -1522,13 +1529,6 @@
     "u": "https://www.youtube.com/watch?v=zh9nAWViBFw",
     "s": "yt",
     "o": "Michael Easter"
-   },
-   {
-    "d": "2026-08-12",
-    "t": "\"AI will change everything, just not all at once\" | Tyler Cowen | Strange Loop | Ep 6",
-    "u": "https://www.youtube.com/watch?v=DUUVPdmkIZQ",
-    "s": "yt",
-    "o": "Sana"
    }
   ]
  },
@@ -3028,13 +3028,6 @@
   ],
   "yt": [
    {
-    "d": "2026-09-03",
-    "t": "Francis Fukuyama on Donald Trump, JD Vance, Vladimir Putin and the War in Ukraine",
-    "u": "https://www.youtube.com/watch?v=i58hIG92rw0",
-    "s": "yt",
-    "o": "BBC Politics"
-   },
-   {
     "d": "2026-09-02",
     "t": "Francis Fukuyama: What the AI Hypists Miss - Work, Dignity, and American AI Policy",
     "u": "https://www.youtube.com/watch?v=xvo7MOsGABE",
@@ -3046,6 +3039,13 @@
     "t": "Bob Wright on the Future of Artificial Intelligence",
     "u": "https://www.persuasion.community/p/bob-wright-frankly-fukuyama",
     "s": "podcast"
+   },
+   {
+    "d": "2026-08-26",
+    "t": "Is the Age of Enlightenment over, Francis Fukuyama?",
+    "u": "https://www.youtube.com/watch?v=RkPEuU0RMSA",
+    "s": "yt",
+    "o": "ZEIT Podcast"
    }
   ]
  },
