@@ -640,6 +640,12 @@
   ],
   "pub": [
    {
+    "d": "2026-11-23",
+    "t": "Can LLMs Understand Human Rules?",
+    "u": "https://doi.org/10.48550/arxiv.2611.30522",
+    "s": "paper"
+   },
+   {
     "d": "2026-10-30",
     "t": "Lecture II: Communicative Justice and the Distribution of Attention",
     "u": "https://doi.org/10.1093/9780197787977.003.0003",
@@ -649,12 +655,6 @@
     "d": "2026-10-30",
     "t": "Lecture I: Governing the Algorithmic City",
     "u": "https://doi.org/10.1093/9780197787977.003.0002",
-    "s": "book"
-   },
-   {
-    "d": "2026-10-30",
-    "t": "Communication in the Algorithmic City, by Joshua Cohen",
-    "u": "https://doi.org/10.1093/9780197787977.003.0007",
     "s": "book"
    }
   ],
