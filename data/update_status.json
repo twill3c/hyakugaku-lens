@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T08:34:22Z",
+ "generated_at": "2026-11-26T21:41:59Z",
  "ok": 26,
  "fail": 26,
  "sources": [
@@ -56,9 +56,9 @@
    "s": "blog",
    "feed": "https://www.gzeromedia.com/feeds/feed.rss",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "dropped": {
-    "著者条件に一致せず": 43
+    "著者条件に一致せず": 44
    }
   },
   {
@@ -217,10 +217,7 @@
    "s": "blog",
    "feed": "https://marginalrevolution.com/feed",
    "ok": true,
-   "count": 13,
-   "dropped": {
-    "著者条件に一致せず": 2
-   }
+   "count": 15
   },
   {
    "n": "ダイアン・コイル",
