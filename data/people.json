@@ -1470,6 +1470,12 @@
   "bio": "ブログ Marginal Revolution を20年以上更新し続ける経済学者。『大停滞』で「容易に採れる果実」の枯渇を、『大格差』で平均的な仕事の消滅を論じた。生成AIについては最も早くから熱心な実用者・実験者のひとりで、AIを前提とした著述や書籍(『GOAT』)を公開し、経済成長への効果を強気に見積もる立場を取る。",
   "own": [
    {
+    "d": "2026-11-27",
+    "t": "My podcast with Hasan",
+    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/my-podcast-with-hasan.html?utm_source=rss&utm_medium=rss&utm_campaign=my-podcast-with-hasan",
+    "s": "blog"
+   },
+   {
     "d": "2026-11-26",
     "t": "HumanFish — Predicting Who Actually Wins a Human Chess Game",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/humanfish-predicting-who-actually-wins-a-human-chess-game.html?utm_source=rss&utm_medium=rss&utm_campaign=humanfish-predicting-who-actually-wins-a-human-chess-game",
@@ -1479,12 +1485,6 @@
     "d": "2026-11-26",
     "t": "Thanksgiving assorted links",
     "u": "https://marginalrevolution.com/marginalrevolution/2026/11/thanksgiving-assorted-links-6.html?utm_source=rss&utm_medium=rss&utm_campaign=thanksgiving-assorted-links-6",
-    "s": "blog"
-   },
-   {
-    "d": "2026-11-26",
-    "t": "What we are grateful for",
-    "u": "https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html?utm_source=rss&utm_medium=rss&utm_campaign=what-we-are-grateful-for",
     "s": "blog"
    }
   ],
