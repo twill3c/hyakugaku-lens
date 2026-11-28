@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T03:45:47Z",
+ "generated_at": "2026-11-28T03:29:56Z",
  "declared": 99,
  "verified": 90,
  "unreachable": 0,
@@ -2969,7 +2969,7 @@
     {
      "id": "A5084082463",
      "display_name": "Richard P. Baldwin",
-     "works_count": 109,
+     "works_count": 108,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6742,7 +6742,7 @@
     {
      "id": "A5041064006",
      "display_name": "Martin D. Rees",
-     "works_count": 33,
+     "works_count": 32,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -6952,7 +6952,7 @@
     {
      "id": "A5050727421",
      "display_name": "Hiroki Azuma",
-     "works_count": 12,
+     "works_count": 11,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7212,7 +7212,7 @@
     {
      "id": "A5013833262",
      "display_name": "Takayuki Suzuki",
-     "works_count": 135,
+     "works_count": 134,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7240,7 +7240,7 @@
     {
      "id": "A5033049879",
      "display_name": "Takayuki Suzuki",
-     "works_count": 255,
+     "works_count": 250,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7248,7 +7248,7 @@
     {
      "id": "A5108062903",
      "display_name": "Takayuki Suzuki",
-     "works_count": 104,
+     "works_count": 103,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
@@ -7267,7 +7267,7 @@
     {
      "id": "A5103139019",
      "display_name": "Takayuki Suzuki",
-     "works_count": 55,
+     "works_count": 51,
      "inst_hit": [],
      "domain_ok": false,
      "ok": false
